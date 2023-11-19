@@ -1,0 +1,38 @@
+{
+    "code": "opencabinet2",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/opencabinet2",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"lupinejar": { base: "block/bazaar/ceramic/lupinejar" },
+		"flourfront": { base: "block/bazaar/fabric/kitchen/flourfront" },
+		"flourwdirt": { base: "block/bazaar/fabric/kitchen/flourwdirt" },
+		"spicebottlessm": { base: "block/bazaar/glass/spicebottlessm" },
+		"baldcypressv2": { base: "block/bazaar/wood/planks/baldcypressv2" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

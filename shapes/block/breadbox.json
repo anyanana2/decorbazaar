@@ -1,0 +1,44 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+	},
+	"textures": {
+		"flourwdirt": "C:/Users/Maverick/Desktop/assets/decor/textures/block/bazaar/fabric/kitchen/flourwdirt",
+		"bread": "C:/Users/Maverick/Desktop/assets/decor/textures/block/bazaar/signs/bread",
+		"baldcypressv2": "C:/Users/Maverick/Desktop/assets/decor/textures/block/bazaar/wood/planks/baldcypressv2"
+	},
+	"elements": [
+		{
+			"name": "cube0",
+			"from": [ 1.0, 0.0, 2.0 ],
+			"to": [ 15.0, 9.0, 14.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#flourwdirt", "uv": [ 2.0, 2.0, 30.0, 30.0 ], "autoUv": false },
+				"east": { "texture": "#flourwdirt", "uv": [ 2.0, 2.0, 21.0, 19.0 ], "autoUv": false },
+				"south": { "texture": "#bread", "uv": [ 2.0, 2.0, 30.0, 30.0 ], "autoUv": false },
+				"west": { "texture": "#flourwdirt", "uv": [ 2.0, 2.0, 21.0, 19.0 ], "autoUv": false },
+				"up": { "texture": "#flourwdirt", "uv": [ 0.0, 0.0, 23.0, 19.0 ], "autoUv": false },
+				"down": { "texture": "#flourwdirt", "uv": [ 0.0, 0.0, 14.0, 12.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube1",
+			"from": [ 2.0, 9.0, 3.0 ],
+			"to": [ 14.0, 11.0, 13.0 ],
+			"rotationOrigin": [ 8.0, 2.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#baldcypressv2", "uv": [ 0.0, 0.0, 28.0, 4.0 ], "autoUv": false },
+				"east": { "texture": "#baldcypressv2", "uv": [ 0.0, 0.0, 22.0, 4.0 ], "autoUv": false },
+				"south": { "texture": "#baldcypressv2", "uv": [ 0.0, 0.0, 28.0, 4.0 ], "autoUv": false },
+				"west": { "texture": "#baldcypressv2", "uv": [ 0.0, 0.0, 22.0, 4.0 ], "autoUv": false },
+				"up": { "texture": "#baldcypressv2", "uv": [ 0.0, 0.0, 32.0, 27.0 ], "autoUv": false },
+				"down": { "texture": "#0", "uv": [ 0.0, 0.0, 12.0, 10.0 ], "autoUv": false }
+			}
+		}
+	]}

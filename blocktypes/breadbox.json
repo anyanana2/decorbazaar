@@ -1,0 +1,74 @@
+{
+    "code": "breadbox",
+    "class": "BlockGenericTypedContainer",
+    "entityclass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+	"attributes": {
+		partialAttachable: true,
+		inventoryClassName: "chest",
+		defaultType: "breadbox",
+		types: ["normal"],
+		rotatatableInterval: {
+			"breadbox": "22.5degnot45deg",
+		},
+		drop: {
+			"breadbox": true,
+		},
+		quantitySlots: {
+			"breadbox": 16,
+		},
+		dialogTitleLangCode: {
+			"breadbox": "chestcontents",
+		},
+		storageType: {
+			"breadbox": 189,
+		},
+		retrieveOnly: {
+			"breadbox": false,
+		},
+		shape: {
+			"breadbox": "block/breadbox",
+		},
+		typedOpenSound: {
+			"breadbox": "sounds/block/largechestopen",
+		},
+		typedCloseSound: {
+			"breadbox": "sounds/block/largechestclose",
+		},
+		variantByGroup: "side",
+		variantByGroupInventory: null
+	},
+    "behaviors": [{ "name": "Container"}, {"name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	shapeInventory: { base: "block/breadbox", rotateY: 270 },
+	shapeByType: {
+		"*-north": { base: "block/breadbox", rotateY: 0 },
+		"*-east": { base: "block/breadbox", rotateY: 270 },
+		"*-west": { base: "block/breadbox", rotateY: 90 },
+		"*-south": { base: "block/breadbox", rotateY: 180 },
+	},
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"flourwdirt": { base: "block/bazaar/fabric/kitchen/flourwdirt" },
+		"bread": { base: "block/bazaar/signs/bread" },
+		"baldcypressv2": { base: "block/bazaar/wood/planks/baldcypressv2" }
+	},
+    "resistance": 3.5,
+    "lightAbsorption": 0,
+	sounds: {
+		"place": "block/planks",
+		"hit": "block/planks",
+		"break": "block/planks",
+		"walk": "walk/wood"
+	},
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

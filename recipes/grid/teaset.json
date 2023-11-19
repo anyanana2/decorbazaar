@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "I,C,B",
+	   	ingredients: {
+	   	"I": { type: "item", code: "game:ingot-copper", quantity: 1 },
+	   	"C": { type: "block", code: "game:clay-blue", quantity: 4 },
+	   	"B": { type: "block", code: "game:bowl-fired", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "teaset-north" }
+	}
+]

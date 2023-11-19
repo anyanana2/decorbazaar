@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B,S",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:bread-*", quantity: 4 },
+	   	"S": { type: "item", code: "game:basket", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "breadbasket-north" }
+	}
+]

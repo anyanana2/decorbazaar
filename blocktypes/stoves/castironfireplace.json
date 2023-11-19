@@ -1,0 +1,40 @@
+{
+    "code": "castironfireplace",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/castironfireplace",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "textures": {
+		"brass": { "base": "block/metal/tarnished/brass" },
+		"iron": { "base": "block/metal/tarnished/iron" },
+		"rust2": { "base": "block/metal/tarnished/rust2" },
+		"rusty-iron": { "base": "block/metal/tarnished/rusty-iron" },
+		"rusty-iron2": { "base": "block/metal/tarnished/rusty-iron2" },
+		"north": { "base": "block/wood/firewood/north" },
+		"side": { "base": "block/wood/firewood/side" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 139, z: 0 }
+	
+}

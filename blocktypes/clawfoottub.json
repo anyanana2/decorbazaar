@@ -1,0 +1,35 @@
+{
+    "code": "clawfoottub",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/clawfoottub",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+   "textures": {
+		"bismuthbronze": { base: "block/metal/plate/bismuthbronze" },
+		"blackbronze": { base: "block/metal/plate/blackbronze" },
+		"rusty-iron": { base: "block/metal/tarnished/rusty-iron" },
+		"plain": { base: "block/stone/plaster/plain" },
+		"whitemarble3": { base: "block/stone/rock/whitemarble3" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

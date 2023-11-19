@@ -1,0 +1,45 @@
+{
+    "code": "castironstovev2",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/stoves/castironstovev2",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+  "textures": {
+		"burned": { base: "block/clay/vessel/sides/burned"},
+		"copper": { base: "block/clay/vessel/sides/copper"},
+		"undergrowth": { base: "block/clay/vessel/sides/undergrowth"},
+		"group2-soup-flyagaric-cactifruit-redmeat": { base: "block/food/meal/group2-soup-flyagaric-cactifruit-redmeat"},
+		"smoky": { base: "block/glass/smoky"},
+		"normal1": { base: "block/metal/corroded/normal1"},
+		"normal2": { base: "block/metal/corroded/normal2"},
+		"normal3": { base: "block/metal/corroded/normal3"},
+		"bismuthbronze1": { base: "block/metal/sheet/bismuthbronze1"},
+		"molybdochalkos1": { base: "block/metal/sheet/molybdochalkos1"},
+		"north": { base: "block/wood/firewood/north"},
+		"side": { base: "block/wood/firewood/side"}
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 141, z: 0 }
+	}
+}

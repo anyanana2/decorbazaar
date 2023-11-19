@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "O,B",
+	   	ingredients: {
+	   	"O": { type: "block", code: "game:cloth-orange", quantity: 1 },
+	   	"B": { type: "block", code: "game:woodbucket", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "linenbasket-north" }
+	}
+]	

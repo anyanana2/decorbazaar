@@ -1,0 +1,44 @@
+{
+    "code": "stonestove",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/stoves/stonestove",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "textures": {
+        "burned": { "base": "block/clay/vessel/sides/burned" },
+        "harvest": { "base": "block/clay/vessel/sides/harvest" },
+        "oxblood": { "base": "block/clay/vessel/sides/oxblood" },
+        "rutile": { "base": "block/clay/vessel/sides/rutile" },
+        "brown": { "base": "block/glass/brown" },
+        "normal2": { "base": "block/metal/corroded/normal2" },
+        "iron1": { "base": "block/metal/sheet/iron1" },
+        "basalt1": { "base": "block/stone/rock/basalt1" },
+        "claystone2": { "base": "block/stone/rock/claystone2" },
+        "side": { "base": "block/wood/firewood/side" },
+        "south": { "base": "block/wood/firewood/south" }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: -116, z: 0 }
+	}
+}
