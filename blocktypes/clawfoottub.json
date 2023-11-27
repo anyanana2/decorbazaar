@@ -1,6 +1,6 @@
 {
   "code": "clawfoottub",
-  "class": "BlockLiquidContainerTopOpened",
+  "class": "BlockBucket",
   "entityClass": "Bucket",
   "creativeinventory": {
     "general": [ "*-north" ],
