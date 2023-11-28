@@ -21,9 +21,9 @@
     },
     "drawtype": "json",
 "textures": {
-		"copper": { "base": "block/metal/ingot/copper" },
-		"baldcypress1": { "base": "block/wood/planks/baldcypress1" },
-		"oak1": { "base": "block/wood/planks/oak1" }
+		"copper": { "base": "game:block/metal/ingot/copper" },
+		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
+		"oak1": { "base": "game:block/wood/planks/oak1" }
 	},
     "resistance": 3.5,
     "sounds": {

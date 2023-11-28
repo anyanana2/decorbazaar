@@ -22,7 +22,7 @@
     "drawtype": "json",
 	"textures": {
 		"pot": { base: "block/bazaar/ceramic/pot" },
-		"burned": { base: "block/clay/vessel/sides/burned" }
+		"burned": { base: "game:block/clay/vessel/sides/burned" }
 	},
     "resistance": 3.5,
     "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.4375, z2: 1 },

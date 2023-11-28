@@ -21,10 +21,10 @@
     },
     "drawtype": "json",
 	"textures": {
-		"aged-northsouth": { base: "block/reed/basket/aged-northsouth" },
-		"plain": { base: "block/cloth/linen/plain" },
-		"themorning3": { base: "block/cloth/tapestry/themorning3" },
-		"orange": { base: "block/cloth/linen/orange" }
+		"aged-northsouth": { base: "game:block/reed/basket/aged-northsouth" },
+		"plain": { base: "game:block/cloth/linen/plain" },
+		"themorning3": { base: "game:block/cloth/tapestry/themorning3" },
+		"orange": { base: "game:block/cloth/linen/orange" }
 	},
     "resistance": 3.5,
     "sounds": {
