@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "P,C,F",
 	   	ingredients: {
-	   	"P": { type: "item", code: "game:plank-oak", quantity: 4 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
 	   	"C": { type: "block", code: "game:metal-scraps", quantity: 2 },
 	   	"F": { type: "item", code: "game:clay-fire", quantity: 4 },
 	   	},

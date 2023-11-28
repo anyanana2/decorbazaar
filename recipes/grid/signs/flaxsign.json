@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "F,W",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:grain-flax", quantity: 1 },
+	   	"W": { type: "item", code: "game:stick", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "flaxsign-north" }
+	}
+]

@@ -3,8 +3,8 @@
 		ingredientPattern: "B,W,S",
 	   	ingredients: {
 	   	"B": { type: "item", code: "game:plank-baldcypress", quantity: 4 },
-	   	"W": { type: "block", code: "game:rock-whitemarble", quantity: 1 },
-	   	"S": { type: "item", code: "game:stone-claystone", quantity: 2 },
+	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 1 },
+	   	"S": { type: "item", code: "game:stone-*", quantity: 2 },
 	   	},
 	   	width: 1,
 	   	height: 3,

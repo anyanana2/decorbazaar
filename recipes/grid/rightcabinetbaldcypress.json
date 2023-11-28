@@ -4,7 +4,7 @@
 	   	ingredients: {
 	   	"B": { type: "item", code: "game:plank-baldcypress", quantity: 5 },
 	   	"I": { type: "item", code: "game:ingot-copper", quantity: 1 },
-	   	"S": { type: "item", code: "game:stone-claystone", quantity: 2 },
+	   	"S": { type: "item", code: "game:stone-*", quantity: 2 },
 	   	},
 	   	width: 1,
 	   	height: 3,

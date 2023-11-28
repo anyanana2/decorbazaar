@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "P,W",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:vegetable-parsnip, quantity: 1 },
+	   	"W": { type: "item", code: "game:stick", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "parsnipsign-north" }
+	}
+]

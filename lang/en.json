@@ -19,33 +19,33 @@
 
 
   "block-sidetable-*": "Side Table",
+  "block-sidetablev2-*": "Side Table V2",
+  "block-sidetablev3-*": "Side Table V3",
   "block-leftcabinetbaldcypress-*": "Left Cabinet (Bald Cypress)",
   "block-rightcabinetbaldcypress-*": "Right Cabinet (Bald Cypress)",
   "block-righttopcabinetbaldcypress-*": "Top Right Cabinet (Bald Cypress)",
   "block-lefttopcabinetbaldcypress-*": "Top Left Cabinet (Bald Cypress)",
   "block-opencabinet-*": "Open Cabinet",
-  "block-opencabinet2-*": "Open Cabinet V2",
   "block-sink-*": "Sink (Bald Cypress)",
 
 
   "block-witchyitems-*": "Witchy Items",
 
-  "block-wallposter-*": "Wall Art",
-
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
-  "block-cottagecorechair-*": "Cottage Core Chair (Bald Cypress)",
+  "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
   "block-breadbasket-*": "Bread Basket",
   "block-wallveg-*": "Wall Veggie Storage",
   "block-teaset-*": "Tea Set",
-  "block-breadbox-*": "Bread Box",
+  "block-spicerack-*": "Spice Rack",
 
 
 
 
   "block-amaranthsign-*": "Amaranth Garden Sign",
+  "block-beesign-*": "Bees Sign",
   "block-cabbagesign-*": "Cabbage Garden Sign",
   "block-carrotsign-*": "Carrot Garden Sign",
   "block-cassavasign-*": "Cassava Garden Sign",

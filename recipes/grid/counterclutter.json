@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "S,C",
+	   	ingredients: {
+	   	"S": { type: "item", code: "game:stick, quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-blue, quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "counterclutter-north" }
+	}
+]
