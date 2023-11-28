@@ -1,0 +1,14 @@
+[
+	{
+		ingredientPattern: "_W_,CG_,_F_",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	"C": { type: "block", code: "game:metal-scraps", quantity: 1 },
+	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
+		"F": { type: "item", code: "game:firewood", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "castironstovefirewood-north" }
+	}
+]	

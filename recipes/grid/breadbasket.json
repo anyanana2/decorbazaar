@@ -1,9 +1,9 @@
 [
 	{
-		ingredientPattern: "B,S",
+		ingredientPattern: "B,W",
 	   	ingredients: {
-	   	"B": { type: "item", code: "game:bread-*", quantity: 4 },
-	   	"S": { type: "item", code: "game:basket", quantity: 1 },
+	   	"B": { type: "item", code: "game:grain-*, quantity: 4 },
+	   	"W": { type: "item", code: "game:cattailtops", quantity: 8 },
 	   	},
 	   	width: 1,
 	   	height: 2,

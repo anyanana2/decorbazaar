@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "P,G",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-baldcypress", quantity: 2 },
+	   	"G": { type: "item", code: "game:cloth-green", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "cottagecorestool-north" }
+	}
+]

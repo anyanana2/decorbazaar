@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "C,W",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:vegetable-carrot", quantity: 1 },
+	   	"W": { type: "item", code: "game:stick", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "carrotsign-north" }
+	}
+]
