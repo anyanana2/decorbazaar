@@ -7,6 +7,6 @@
 	   	},
 	   	width: 1,
 	   	height: 2,
-	   	output: { type: "block", code: "cottagecorechair-north" }
+	   	output: { type: "block", code: "cottagecoretable-north" }
 	}
 ]

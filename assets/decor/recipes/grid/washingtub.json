@@ -3,7 +3,7 @@
 		ingredientPattern: "P,I",
 	   	ingredients: {
 	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
-	   	"I": { type: "item", code: "game:ingot-iron", quantity: 1 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 1 },
 	   	},
 	   	width: 1,
 	   	height: 2,

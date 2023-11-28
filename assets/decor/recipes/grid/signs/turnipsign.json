@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "T,W",
 	   	ingredients: {
-	   	"T": { type: "item", code: "game:vegetable-turnip, quantity: 1 },
+	   	"T": { type: "item", code: "game:vegetable-turnip", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,
