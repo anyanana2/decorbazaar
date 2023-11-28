@@ -30,9 +30,9 @@
     "base": "block/stoves/stonestove",
     "rotateYByType": {
       "*-north": 90,
-      "*-east": 180,
+      "*-east": 0,
       "*-south": 270,
-      "*-west": 0
+      "*-west": 180
     }
   },
   "blockmaterial": "stone",

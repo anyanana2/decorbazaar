@@ -28,7 +28,7 @@
    "textures": {
 		"copper": { "base": "game:block/metal/ingot/copper" },
 		"claystone1": { "base": "game:block/stone/rock/claystone1" },
-		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" }
+		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
 		"oak1": { "base": "game:block/wood/planks/oak1" }
 	},
     "resistance": 3.5,
