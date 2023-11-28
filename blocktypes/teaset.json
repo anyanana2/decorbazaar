@@ -28,6 +28,7 @@
 		"bamboosmooth": { base: "block/wood/planks/bamboosmooth" }
 	},
     "resistance": 3.5,
+    "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.5, z2: 1 },
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
