@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "B,W",
 	   	ingredients: {
-	   	"B": { type: "item", code: "game:beeswax, quantity: 1 },
+	   	"B": { type: "item", code: "game:beeswax", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,
