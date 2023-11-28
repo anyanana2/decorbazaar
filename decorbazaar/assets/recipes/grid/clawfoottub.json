@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "W,C,G",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalplate-iron", quantity: 4 },
+	   	"C": { type: "block", code: "game:metal-scraps", quantity: 2 },
+	   	"G": { type: "block", code: "game:rock-whitemarble", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "clawfoottub-north" }
+	}
+]	

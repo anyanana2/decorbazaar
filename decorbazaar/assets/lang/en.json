@@ -1,0 +1,65 @@
+{
+  "game:tabname-decorbazaar": "Decor Bazaar",
+  "game:decorbazaar-quickstart-title": "Decor Bazaar",
+  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds a few decorative items to the game. As of right now, the items are not functional. I would love to have the stoves function and cook food. If anyone would love to help develop the mod and help me make the blocks functional, please contact me on discord @anyanana. Enjoy!",
+
+
+
+  "block-stonestove-*": "Stone Stove",
+  "block-castironstove-*": "Cast Iron Stove",
+  "block-castironstovefirewood-*": "Cast Iron Stove with Firewood",
+  "block-castironstovev2-*": "Cast Iron Stove V2",
+  "block-castironfireplace-*": "Cast Iron Fireplace",
+
+
+  "block-clawfoottub-*": "Claw Foot Tub",
+  "block-washingtub-*": "Washing Tub",
+  "block-linenbasket-*": "Linen Basket",
+  "block-clothesline-*": "Clothes Line",
+
+
+  "block-sidetable-*": "Side Table",
+  "block-sidetablev2-*": "Side Table V2",
+  "block-sidetablev3-*": "Side Table V3",
+  "block-leftcabinetbaldcypress-*": "Left Cabinet (Bald Cypress)",
+  "block-rightcabinetbaldcypress-*": "Right Cabinet (Bald Cypress)",
+  "block-righttopcabinetbaldcypress-*": "Top Right Cabinet (Bald Cypress)",
+  "block-lefttopcabinetbaldcypress-*": "Top Left Cabinet (Bald Cypress)",
+  "block-opencabinet-*": "Open Cabinet",
+  "block-sink-*": "Sink (Bald Cypress)",
+
+
+  "block-witchyitems-*": "Witchy Items",
+
+
+  "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
+  "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
+  "block-counterclutter-*": "Kitchen Clutter",
+  "block-pot-*": "Ceramic Yellow Pot",
+  "block-breadbasket-*": "Bread Basket",
+  "block-wallveg-*": "Wall Veggie Storage",
+  "block-teaset-*": "Tea Set",
+  "block-spicerack-*": "Spice Rack",
+
+
+
+
+  "block-amaranthsign-*": "Amaranth Garden Sign",
+  "block-beesign-*": "Bees Sign",
+  "block-cabbagesign-*": "Cabbage Garden Sign",
+  "block-carrotsign-*": "Carrot Garden Sign",
+  "block-cassavasign-*": "Cassava Garden Sign",
+  "block-flaxsign-*": "Flax Garden Sign",
+  "block-onionsign-*": "Onion Garden Sign",
+  "block-parsnipsign-*": "Parsnip Garden Sign",
+  "block-peanutsign-*": "Peanut Garden Sign",
+  "block-pumpkinsign-*": "Pumpkin Garden Sign",
+  "block-ricesign-*": "Rice Garden Sign",
+  "block-ryesign-*": "Rye Garden Sign",
+  "block-soybeansign-*": "Soybean Garden Sign",
+  "block-speltsign-*": "Spelt Garden Sign",
+  "block-sunflowersign-*": "Sunflower Garden Sign",
+  "block-turnipsign-*": "Turnip Garden Sign",
+  "block-pottingbench-*": "Potting Bench",
+
+}

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B,I",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:plank-baldcypress", quantity: 4 },
+	   	"I": { type: "item", code: "game:ingot-copper", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "lefttopcabinetbaldcypress-north" }
+	}
+]	

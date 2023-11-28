@@ -1,0 +1,99 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+	},
+	"textures": {
+		"cabbage": "C:/Users/Maverick/Desktop/assets/decor/textures/block/bazaar/signs/cabbage",
+		"bazaarbaldcypress": "C:/Users/Maverick/Desktop/assets/decor/textures/block/bazaar/wood/planks/bazaarbaldcypress"
+	},
+	"elements": [
+		{
+			"name": "cube0",
+			"from": [ 7.5, 0.0, 8.0 ],
+			"to": [ 8.5, 7.0, 9.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube1",
+			"from": [ 3.5, 7.0, 8.0 ],
+			"to": [ 12.5, 13.0, 9.0 ],
+			"rotationOrigin": [ 8.0, 1.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 32.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"south": { "texture": "#cabbage", "uv": [ 2.0, 3.0, 30.0, 28.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"up": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube2",
+			"from": [ 2.5, 6.0, 9.0 ],
+			"to": [ 3.5, 14.0, 10.0 ],
+			"rotationOrigin": [ 3.0, 6.0, 9.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"up": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube3",
+			"from": [ 12.5, 6.0, 9.0 ],
+			"to": [ 13.5, 14.0, 10.0 ],
+			"rotationOrigin": [ 13.0, 6.0, 9.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
+				"up": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube4",
+			"from": [ 3.5, 13.0, 9.0 ],
+			"to": [ 12.5, 14.0, 10.0 ],
+			"rotationOrigin": [ 4.0, 13.0, 9.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"up": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube5",
+			"from": [ 3.5, 6.0, 9.0 ],
+			"to": [ 12.5, 7.0, 10.0 ],
+			"rotationOrigin": [ 4.0, 6.0, 9.0 ],
+			"faces": {
+				"north": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"up": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false },
+				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 1.0, 29.0, 4.0 ], "autoUv": false }
+			}
+		}
+	]}
