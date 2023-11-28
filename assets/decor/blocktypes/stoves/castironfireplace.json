@@ -12,7 +12,7 @@
       ],
       "groupBy": [ "clayoven-*" ]
     },
-    "ovenFuelShape": "game:block/clay/ovenfuel"
+    "ovenFuelShape": "block/stoves/ovenfuelhigh"
   },
   "behaviors": [
     { "name": "HorizontalOrientable" },
