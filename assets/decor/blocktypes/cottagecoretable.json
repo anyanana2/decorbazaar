@@ -26,8 +26,8 @@
     },
 	"textures": {
 		"ginghamgreen": { base: "block/bazaar/fabric/ginghamgreen" },
-		"candle": { base: "block/candle" },
-		"baldcypress1": { base: "block/wood/planks/baldcypress1" }
+		"candle": { base: "game:block/candle" },
+		"baldcypress1": { base: "game:block/wood/planks/baldcypress1" }
 	},
     "resistance": 3.5,
     "materialDensity": 400,

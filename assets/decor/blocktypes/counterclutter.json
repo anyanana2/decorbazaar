@@ -26,10 +26,10 @@
     },
 	"textures": {
 		"jar": { "base": "block/bazaar/ceramic/jar" },
-		"flintporceilan": { "base": "block/clay/crock/flintporceilan" },
-		"base2": { "base": "block/clay/oven/base2" },
-		"tinbronze": { "base": "block/metal/ingot/tinbronze" },
-		"pine": { "base": "block/wood/bark/pine" }
+		"flintporceilan": { "base": "game:block/clay/crock/flintporceilan" },
+		"base2": { "base": "game:block/clay/oven/base2" },
+		"tinbronze": { "base": "game:block/metal/ingot/tinbronze" },
+		"pine": { "base": "game:block/wood/bark/pine" }
 	},
     "resistance": 3.5,
     "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.625, z2: 1 },

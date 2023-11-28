@@ -22,8 +22,8 @@
     "drawtype": "json",
    "textures": {
 		"ginghamgreen": { "base": "block/bazaar/fabric/ginghamgreen" },
-		"baldcypress1": { "base": "block/wood/planks/baldcypress1" },
-		"cover": { "base": "block/cloth/linen/normal1" },
+		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
+		"cover": { "base": "game:block/cloth/linen/normal1" },
 	},
     "resistance": 3.5,
     "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.6875, z2: 1 },
