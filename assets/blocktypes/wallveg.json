@@ -28,7 +28,7 @@
 		"s4": { base: "block/plant/crop/turnip/s1" },
 		"oak1": { base: "block/wood/planks/oak1" },
 		"rottenebony1": { base: "block/wood/planks/rottenebony1" },
-		"bellpepper": { base: "item/food/vegetable/bellpepper" }
+		"bellpepper": { base: "game:item/food/vegetable/bellpepper" }
 	},
     "resistance": 3.5,
     "sounds": {
