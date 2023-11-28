@@ -44,17 +44,17 @@
   },
   "drawtype": "json",
   "textures": {
-    "burned": { "base": "block/clay/vessel/sides/burned" },
-    "harvest": { "base": "block/clay/vessel/sides/harvest" },
-    "oxblood": { "base": "block/clay/vessel/sides/oxblood" },
-    "rutile": { "base": "block/clay/vessel/sides/rutile" },
-    "brown": { "base": "block/glass/brown" },
-    "normal2": { "base": "block/metal/corroded/normal2" },
-    "iron1": { "base": "block/metal/sheet/iron1" },
-    "basalt1": { "base": "block/stone/rock/basalt1" },
-    "claystone2": { "base": "block/stone/rock/claystone2" },
-    "side": { "base": "block/wood/firewood/side" },
-    "south": { "base": "block/wood/firewood/south" }
+    "burned": { "base": "game:block/clay/vessel/sides/burned" },
+    "harvest": { "base": "game:block/clay/vessel/sides/harvest" },
+    "oxblood": { "base": "game:block/clay/vessel/sides/oxblood" },
+    "rutile": { "base": "game:block/clay/vessel/sides/rutile" },
+    "brown": { "base": "game:block/glass/brown" },
+    "normal2": { "base": "game:block/metal/corroded/normal2" },
+    "iron1": { "base": "game:block/metal/sheet/iron1" },
+    "basalt1": { "base": "game:block/stone/rock/basalt1" },
+    "claystone2": { "base": "game:block/stone/rock/claystone2" },
+    "side": { "base": "game:block/wood/firewood/side" },
+    "south": { "base": "game:block/wood/firewood/south" }
   },
   "resistance": 3.5,
   "sounds": {
