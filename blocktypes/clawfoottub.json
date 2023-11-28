@@ -48,7 +48,7 @@
     "liquidContainerProps": {
       "capacityLitres": 100,
       "transferSizeLitres": 10,
-      "emptyShapeLoc": "block/clawfoottub",
+      "emptyShapeLoc": "decorbazaar:shapes/block/clawfoottub",
       "opaqueContentShapeLoc": "decorbazaar:shapes/block/clawfoottub_contents",
       "liquidContentShapeLoc": "decorbazaar:shapes/block/clawfoottub_liquidcontents",
       "liquidMaxYTranslate": 0.3
