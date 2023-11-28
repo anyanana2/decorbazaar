@@ -44,10 +44,10 @@
   },
   "drawtype": "json",
   "textures": {
-    "normal1": { "base": "block/metal/corroded/normal1" },
-    "normal2": { "base": "block/metal/corroded/normal2" },
-    "normal3": { "base": "block/metal/corroded/normal3" },
-    "bismuthbronze": { "base": "block/metal/plate/bismuthbronze" }
+    "normal1": { "base": "game:block/metal/corroded/normal1" },
+    "normal2": { "base": "game:block/metal/corroded/normal2" },
+    "normal3": { "base": "game:block/metal/corroded/normal3" },
+    "bismuthbronze": { "base": "game:block/metal/plate/bismuthbronze" }
   },
   "resistance": 3.5,
   "sounds": {
