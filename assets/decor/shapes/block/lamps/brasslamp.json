@@ -466,6 +466,7 @@
 			"name": "cube20",
 			"from": [ 2.0, 9.0, 13.0 ],
 			"to": [ 14.0, 14.0, 14.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 12.0, 5.0 ], "autoUv": false },
@@ -480,6 +481,7 @@
 			"name": "cube21",
 			"from": [ 2.0, 9.0, 2.0 ],
 			"to": [ 14.0, 14.0, 3.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 12.0, 5.0 ], "autoUv": false },
@@ -494,6 +496,7 @@
 			"name": "cube22",
 			"from": [ 14.0, 9.0, 3.0 ],
 			"to": [ 15.0, 14.0, 13.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 9.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.5, 1.0, 5.5 ], "autoUv": false },
@@ -508,6 +511,7 @@
 			"name": "cube23",
 			"from": [ 1.0, 9.0, 3.0 ],
 			"to": [ 2.0, 14.0, 13.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 9.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 1.0, 5.0 ], "autoUv": false },
@@ -522,6 +526,7 @@
 			"name": "cube24",
 			"from": [ 13.0, 14.0, 4.0 ],
 			"to": [ 14.0, 19.0, 12.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 9.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 1.0, 5.0 ], "autoUv": false },
@@ -536,6 +541,7 @@
 			"name": "cube25",
 			"from": [ 2.0, 14.0, 4.0 ],
 			"to": [ 3.0, 19.0, 12.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 9.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 1.0, 5.0 ], "autoUv": false },
@@ -550,6 +556,7 @@
 			"name": "cube26",
 			"from": [ 3.0, 14.0, 12.0 ],
 			"to": [ 13.0, 19.0, 13.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 10.0, 5.0 ], "autoUv": false },
@@ -564,6 +571,7 @@
 			"name": "cube27",
 			"from": [ 3.0, 14.0, 3.0 ],
 			"to": [ 13.0, 19.0, 4.0 ],
+			"renderPass": 3,
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 10.0, 5.0 ], "autoUv": false },
