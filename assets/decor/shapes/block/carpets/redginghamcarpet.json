@@ -1,0 +1,28 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+	},
+	"textures": {
+		"ginghamred": "C:/Games/Vintagestory/Mods/decorbazaar/assets/decor/textures/block/bazaar/fabric/ginghamred"
+	},
+	"elements": [
+		{
+			"name": "cube0",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 0.5, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 0.5 ], "autoUv": false },
+				"east": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 0.5 ], "autoUv": false },
+				"south": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 0.5 ], "autoUv": false },
+				"west": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 0.5 ], "autoUv": false },
+				"up": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"down": { "texture": "#ginghamred", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
+			}
+		}
+	]}

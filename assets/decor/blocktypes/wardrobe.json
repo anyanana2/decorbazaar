@@ -1,0 +1,36 @@
+{
+    "code": "wardrobe",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/wardrobe",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+"textures": {
+		"brass": { "base": "game:block/metal/ingot/brass" },
+		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
+		"baldcypress-inside": { "base": "game:block/wood/crate/baldcypress-inside" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	}
+}
