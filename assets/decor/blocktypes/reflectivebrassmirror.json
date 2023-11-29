@@ -1,11 +1,10 @@
 {
-    "code": "brasslamp",
-    "storageFlags": 257,
+    "code": "reflectivebrassmirror",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
     "shape": {
-        "base": "block/lamps/brasslamp",
+        "base": "block/reflectivebrassmirror",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -13,7 +12,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "Metal",
+    "blockmaterial": "Wood",
     "sidesolid": {
         "all": "false"
     },
@@ -22,13 +21,10 @@
     },
     "drawtype": "json",
 "textures": {
-		"brass": { "base": "game:block/metal/ingot/brass" },
-		"candle": { "base": "game:block/candle" },
-		"vintage": { "base": "game:block/glass/vintage" }
+		"brass3": { "base": "game:block/metal/ingot/brass" },
+		"smoky": { "base": "game:block/glass/smoky" }
 	},
-    "resistance": 1.0,
-    "lightAbsorption": 0,
-    "lightHsv": [7, 3, 18],
+    "resistance": 3.5,
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"

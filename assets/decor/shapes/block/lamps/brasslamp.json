@@ -8,6 +8,7 @@
 	"textureSizes": {
 	},
 	"textures": {
+		"candle": "block/candle",
 		"vintage": "block/glass/vintage",
 		"brass": "block/metal/ingot/brass"
 	},
@@ -128,14 +129,15 @@
 			"name": "cube17",
 			"from": [ 7.0, 12.0, 7.0 ],
 			"to": [ 9.0, 14.0, 9.0 ],
+			"renderPass": 0,
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
-				"north": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
-				"east": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
-				"south": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
-				"west": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
-				"up": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
-				"down": { "texture": "#vintage", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false }
+				"north": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "glow": 255, "autoUv": false },
+				"east": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+				"south": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+				"west": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+				"up": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+				"down": { "texture": "#candle", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "glow": 200, "autoUv": false }
 			}
 		},
 		{
