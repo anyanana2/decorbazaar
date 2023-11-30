@@ -1,10 +1,14 @@
 {
     "code": "leftcabinetbaldcypress",
+    "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "UnstableFalling"}],
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
 	attributes: {
-		"pieFormingSurface": true
+		"pieFormingSurface": true,
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
 	},
     "shape": {
         "base": "block/leftcabinetbaldcypress",

@@ -1,8 +1,14 @@
 {
     "code": "lefttopcabinetbaldcypress",
+    "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
     "shape": {
         "base": "block/lefttopcabinetbaldcypress",
         "rotateYByType": {

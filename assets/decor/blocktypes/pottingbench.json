@@ -1,15 +1,21 @@
 {
     "code": "pottingbench",
+    "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "12",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
     "shape": {
         "base": "block/pottingbench",
         "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
+            "*-north": 180,
+            "*-east": 90,
+            "*-south": 0,
+            "*-west": 270
         }
     },
     "blockmaterial": "stone",
@@ -37,6 +43,10 @@
 		"rice": { "base": "game:item/resource/seeds/rice" }
 	},
     "resistance": 3.5,
+    "guiTransform": {
+		rotation: { x: -31, y: 154, z: -2 },
+		scale: 0.9
+	},
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"

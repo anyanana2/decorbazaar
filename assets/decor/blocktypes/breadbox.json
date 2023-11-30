@@ -1,16 +1,21 @@
 {
-    "code": "righttopcabinetbaldcypress",
-    "entityClass": "GenericContainer",
+    "code": "breadbox",
+    "entityClass": "GenericTypedContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
 	attributes: {
-		"inventoryClassName": "Cabinet",
-		"quantitySlots": "8",
-		"dialogTitleLangCode": "Cabinet Storage"
-	},
+		inventoryClassName: "chest",
+		dialogTitleLangCode: "vesselcontents",
+		"quantitySlots": "12",
+		spoilSpeedMulByFoodCat: 
+			{
+				"vegetable": 0.5,
+				"grain": 0.1
+			}
+		},
     "shape": {
-        "base": "block/righttopcabinetbaldcypress",
+        "base": "block/breadbox",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -18,7 +23,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "stone",
+    "blockmaterial": "Wood",
     "sidesolid": {
         "all": "false"
     },
@@ -27,11 +32,11 @@
     },
     "drawtype": "json",
 "textures": {
-		"copper": { "base": "game:block/metal/ingot/copper" },
-		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
-		"oak1": { "base": "game:block/wood/planks/oak1" }
+		"flourwdirt": { "base": "block/bazaar/fabric/kitchen/flourwdirt" },
+		"baldcypressv2": { "base": "block/bazaar/wood/planks/baldcypressv2" },
+		"bread": { "base": "block/bazaar/signs/bread" }
 	},
-    "resistance": 3.5,
+    "resistance": 1.0,
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
