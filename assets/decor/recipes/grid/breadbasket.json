@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "B,W",
 	   	ingredients: {
-	   	"B": { type: "item", code: "game:grain-*, quantity: 4 },
+	   	"B": { type: "item", code: "game:grain-*", quantity: 4 },
 	   	"W": { type: "item", code: "game:cattailtops", quantity: 8 },
 	   	},
 	   	width: 1,

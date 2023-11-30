@@ -1,0 +1,47 @@
+{
+    "code": "fieldsofgrain",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/paintings/fieldsofgrain",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"fieldsofgrain": { "base": "block/bazaar/paintings/fieldsofgrain" },
+		"painting": { "base": "game:block/painting/elk" },
+		"0": { "base": "game:block/wood/planks/generic" }
+	},
+    "resistance": 0.1,
+	selectionbox: {
+		x1: 0, y1: 0, z1: 0, 
+		x2: 1, y2: 1, z2: 0.0625,
+		rotateYByType: {
+			"*-east": 270,
+			"*-south": 180,
+			"*-west": 90,
+			"*-north": 0
+		}
+	},
+
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

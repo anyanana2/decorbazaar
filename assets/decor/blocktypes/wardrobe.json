@@ -1,13 +1,10 @@
 {
-    "code": "leftcabinetbaldcypress",
+    "code": "wardrobe",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "UnstableFalling"}],
+    "behaviors": [{ "name": "HorizontalOrientable" }],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-	attributes: {
-		"pieFormingSurface": true
-	},
     "shape": {
-        "base": "block/leftcabinetbaldcypress",
+        "base": "block/wardrobe",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -15,29 +12,25 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "stone",
+    "blockmaterial": "Wood",
     "sidesolid": {
-        "all": "false",
-	"up": "true"
+        "all": "false"
     },
     "sideopaque": {
-        "all": "false",
-	"up": "true"
+        "all": "false"
     },
     "drawtype": "json",
-   "textures": {
-		"copper": { "base": "game:block/metal/ingot/copper" },
-		"claystone1": { "base": "game:block/stone/rock/claystone1" },
+"textures": {
+		"brass": { "base": "game:block/metal/ingot/brass" },
 		"baldcypress1": { "base": "game:block/wood/planks/baldcypress1" },
-		"oak1": { "base": "game:block/wood/planks/oak1" }
+		"baldcypress-inside": { "base": "game:block/wood/crate/baldcypress-inside" }
 	},
     "resistance": 3.5,
-    "materialDensity": 400,
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
 	guiTransform: {
-		rotation: { x: -22.6, y: 152, z: 0 }
+		rotation: { x: -22.6, y: 147, z: 0 }
 	}
 }

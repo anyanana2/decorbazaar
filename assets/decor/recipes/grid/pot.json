@@ -2,8 +2,8 @@
 	{
 		ingredientPattern: "G,C",
 	   	ingredients: {
-	   	"G": { type: "item", code: "game:drygrass, quantity: 4 },
-	   	"C": { type: "item", code: "game:clay-blue, quantity: 4 },
+	   	"G": { type: "item", code: "game:drygrass", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
 	   	},
 	   	width: 1,
 	   	height: 2,
