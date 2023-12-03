@@ -1,7 +1,71 @@
 {
   "game:tabname-decorbazaar": "Decor Bazaar",
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
-  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds a few decorative items to the game. As of right now, the items are not functional. I would love to have the stoves function and cook food. If anyone would love to help develop the mod and help me make the blocks functional, please contact me on discord @anyanana. Enjoy!",
+  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for getting the stoves to function as well as the bath! Enjoy!
+
+List of Items:
+
+Stoves: These stoves currently function as ovens, though not visually. You can still see what is cooking by looking at the UI. 
+<a href=\"handbooksearch://stone stove\">Stone Stove</a>
+<a href=\"handbooksearch://cast iron stove\">Cast Iron Stove</a>
+<a href=\"handbooksearch://cast iron stove with firewood\">Cast Iron Stove with Firewood</a>
+<a href=\"handbooksearch://cast iron stove v2\">Cast Iron Stove V2</a>
+<a href=\"handbooksearch://cast iron fireplace\">Cast Iron Fireplace</a>
+
+
+<a href=\"handbooksearch://Claw Foot Tub\">Claw Foot Tub</a> allows for 100 buckets of water to fill up. 
+<a href=\"handbooksearch://Washing Tub\">Washing Tub</a>
+<a href=\"handbooksearch://Linen Basket\">Linen Basket</a>
+<a href=\"handbooksearch://Clothes Line\">Clothes Line</a>
+
+
+<a href=\"handbooksearch://Red Gingham Carpet\">Red Gingham Carpet</a>
+
+
+<a href=\"handbooksearch://Side Table\">Side Table</a>
+<a href=\"handbooksearch://Side Table V2\">Side Table V2</a>
+<a href=\"handbooksearch://Side Table V3\">Side Table V3</a>
+<a href=\"handbooksearch://Wardrobe (Bald Cypress)\">Wardrobe (Bald Cypress)</a>
+<a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
+<a href=\"handbooksearch://Brass Lamp\">Brass Lamp</a> is functional!
+<a href=\"handbooksearch://Brass Bed\">Brass Bed</a> is functional!
+
+
+<a href=\"handbooksearch://Left Cabinet\">Left Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Right Cabinet\">Right Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Top Left Cabinet\">Top Left Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Top Right Cabinet\">Top Right Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Open Cabinet\">Open Cabinet</a>
+<a href=\"handbooksearch://Sink (Bald Cypress)\">Sink (Bald Cypress)</a>
+
+
+<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
+<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
+<a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
+<a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
+<a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
+<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
+<a href=\"handbooksearch://Tea Set\">Tea Set</a>
+<a href=\"handbooksearch://Spice Rack\">Spice Rack</a>
+<a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
+
+
+<a href=\"handbooksearch://garden sign\">Garden Signs</a>
+<a href=\"handbooksearch://bee sign\">Bee Sign</a>
+<a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
+
+
+<a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
+
+
+Paintings only accessable in creative:
+<a href=\"handbooksearch://Fields of Grain\">Fields of Grain</a>
+<a href=\"handbooksearch://House on the Hill\">House on the Hill</a>
+<a href=\"handbooksearch://Lone Grave\">Lone Grave</a>
+
+
+
+",
 
 
 
@@ -32,7 +96,6 @@
   "block-brasslamp-*": "Brass Lamp",
   "block-brassbed-*": "Brass Bed",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
-  "block-redginghamcarpetends-*": "Red Gingham Carpet (End Piece)",
 
 
   "block-witchyitems-*": "Witchy Items",

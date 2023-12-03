@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "T,C",
+	   	ingredients: {
+	   	"T": { type: "item", code: "game:cattailtops", quantity: 8 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "picnicbasket-north" }
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "C,B",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:cloth-red", quantity: 1 },
+	   	"B": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "redginghamcarpet-red-down" }
+	}
+]
