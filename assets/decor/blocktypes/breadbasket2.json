@@ -1,0 +1,36 @@
+{
+    "code": "breadbasket2",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/breadbasket2",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"1": { base: "block/bazaar/food/baguette2" },
+		"0": { base: "game:item/bag/basket/basket" }
+	},
+    "resistance": 3.5,
+    "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.625, z2: 1 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

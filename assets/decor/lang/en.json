@@ -43,16 +43,19 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
 <a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
 <a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
+<a href=\"handbooksearch://Pots and Pans\">Pots and Pans</a>
 <a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
 <a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
 <a href=\"handbooksearch://Tea Set\">Tea Set</a>
 <a href=\"handbooksearch://Spice Rack\">Spice Rack</a>
+<a href=\"handbooksearch://Kitchen Shelf\">Kitchen Shelf</a>
 <a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
 
 
 <a href=\"handbooksearch://garden sign\">Garden Signs</a>
 <a href=\"handbooksearch://bee sign\">Bee Sign</a>
 <a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
+<a href=\"handbooksearch://Seed Storage\">Seed Storage</a> has storage slots for seeds.
 
 
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
@@ -105,10 +108,14 @@ Paintings only accessable in creative:
   "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
+  "block-potsandpans-*": "Pots and Pans",
+  "block-jug-*": "Jug",
   "block-breadbasket-*": "Bread Basket",
+  "block-breadbasket2-*": "Bread Basket V2",
   "block-wallveg-*": "Wall Veggie Storage",
   "block-teaset-*": "Tea Set",
   "block-spicerack-*": "Spice Rack",
+  "block-kitchenshelf-*": "Kitchen Shelf",
   "block-breadbox-*": "Bread Box",
 
   "block-fieldsofgrain-*": "Fields of Grain",
@@ -135,5 +142,6 @@ Paintings only accessable in creative:
   "block-sunflowersign-*": "Sunflower Garden Sign",
   "block-turnipsign-*": "Turnip Garden Sign",
   "block-pottingbench-*": "Potting Bench",
+  "block-seedstorage-*": "Seed Storage",
 
 }
