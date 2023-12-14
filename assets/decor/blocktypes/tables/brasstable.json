@@ -16,6 +16,7 @@
         }
     },
     "blockmaterial": "stone",
+  "lightAbsorption": 0,
     "sidesolid": {
         "all": "false",
 	"up": "true"

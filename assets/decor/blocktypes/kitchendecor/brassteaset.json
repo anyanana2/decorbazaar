@@ -1,10 +1,10 @@
 {
-    "code": "turnipsign",
+    "code": "brassteaset",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
     "shape": {
-        "base": "block/gardensigns/turnipsign",
+        "base": "block/kitchendecor/brassteaset",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -22,23 +22,20 @@
     },
     "drawtype": "json",
 	"textures": {
-		"turnip": { base: "block/bazaar/signs/turnip" },
-		"bazaarbaldcypress": { base: "block/bazaar/wood/planks/bazaarbaldcypress" }
+		"4": { base: "game:block/clay/crock/flintporceilan" },
+		"0": { base: "game:block/clay/vessel/sides/rutile" },
+		"1": { base: "game:block/clay/vessel/sides/seasalt" },
+		"5": { base: "game:block/liquid/honey" },
+		"2": { base: "game:block/metal/ingot/brass" },
+		"3": { base: "game:block/wood/planks/baldcypress1" }
 	},
     "resistance": 3.5,
-    "selectionBox": { 
-			x1: 0.125, y1: 0, z1: 0.25, x2: 0.875, y2: 0.9375, z2: 0.625,
-			rotateYByType: {
-			"*-east": 90,
-			"*-west": 90,
-			"*-south": 0
-			}
-},
+    "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.5, z2: 1 },
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
 	guiTransform: {
-		rotation: { x: -22.6, y: -116, z: 0 }
+		rotation: { x: -22.6, y: 144, z: 0 }
 	}
 }

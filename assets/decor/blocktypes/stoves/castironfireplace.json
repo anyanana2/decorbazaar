@@ -33,6 +33,7 @@
     }
   },
   "resistance": 3.5,
+  "lightAbsorption": 0,
   "shape": {
     "base": "block/castironfireplace",
     "rotateYByType": {

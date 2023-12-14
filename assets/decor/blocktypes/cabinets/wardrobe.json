@@ -19,6 +19,7 @@
         }
     },
     "blockmaterial": "Wood",
+  "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"
     },
