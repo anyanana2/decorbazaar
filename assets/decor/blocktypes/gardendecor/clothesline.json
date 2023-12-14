@@ -1,0 +1,42 @@
+{
+    "code": "clothesline",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/gardendecor/clothesline",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"blue": { base: "game:block/cloth/linen/blue" },
+		"holy2": { base: "game:block/cloth/tapestry/holy2" },
+		"white1": { base: "game:block/cloth/wool/white1" },
+		"orange": { base: "game:block/cloth/linen/orange" },
+		"purple": { base: "game:block/cloth/linen/purple" },
+		"black": { base: "game:block/cloth/linen/black" },
+		"rottenebony1": { base: "game:block/wood/planks/rottenebony1" },
+		"acacia1": { base: "game:block/wood/planks/acacia1" },
+		"brown": { base: "game:block/cloth/linen/brown" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

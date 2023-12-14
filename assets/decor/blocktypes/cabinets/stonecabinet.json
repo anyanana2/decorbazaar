@@ -1,0 +1,47 @@
+{
+    "code": "stonecabinet",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		"pieFormingSurface": true,
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
+    "shape": {
+        "base": "block/cabinets/stonecabinet",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false",
+	"up": "true"
+    },
+    "sideopaque": {
+        "all": "false",
+	"up": "true"
+    },
+    "drawtype": "json",
+   "textures": {
+		"1": { "base": "game:block/metal/ingot/brass" },
+		"2": { "base": "game:block/stone/agedbrick/conglomerate1" },
+		"3": { "base": "game:block/stone/polishedrock/limestone" },
+		"4": { "base": "block/bazaar/wood/cabinets/baldcypresscabinet" }
+	},
+    "resistance": 3.5,
+    "materialDensity": 400,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 152, z: 0 }
+	}
+}

@@ -1,0 +1,39 @@
+{
+    "code": "seedstorage",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "12",
+		"dialogTitleLangCode": "Seed Storage"
+	},
+    "shape": {
+        "base": "block/gardendecor/seedstorage",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "textures": {
+		"0": { "base": "game:block/wood/planks/oak1" },
+		"1": { "base": "game:block/wood/planks/maple1" },
+		"2": { "base": "game:block/stone/cobblestone/peridotite1" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

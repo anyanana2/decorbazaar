@@ -57,6 +57,8 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
 <a href=\"handbooksearch://Seed Storage\">Seed Storage</a> has storage slots for seeds.
 
+<a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
+
 
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
 
@@ -88,16 +90,29 @@ Paintings only accessable in creative:
   "block-sidetable-*": "Side Table",
   "block-sidetablev2-*": "Side Table V2",
   "block-sidetablev3-*": "Side Table V3",
+  "block-sidetablebaldcypress-*": "Side Table (Bald Cypress)",
+  "block-sidetablev2baldcypress-*": "Side Table V2 (Bald Cypress)",
+  "block-sidetablev3baldcypress-*": "Side Table V3 (Bald Cypress)",
   "block-leftcabinetbaldcypress-*": "Left Cabinet (Bald Cypress)",
   "block-rightcabinetbaldcypress-*": "Right Cabinet (Bald Cypress)",
   "block-righttopcabinetbaldcypress-*": "Top Right Cabinet (Bald Cypress)",
   "block-lefttopcabinetbaldcypress-*": "Top Left Cabinet (Bald Cypress)",
+  "block-stonedrawers-*": "Stone Drawers",
+  "block-stonedrawersisland-*": "Stone Drawers Island",
+  "block-stonecabinet-*": "Stone Cabinet",
+  "block-stonecabinetisland-*": "Stone Cabinet Island",
   "block-opencabinet-*": "Open Cabinet",
+  "block-stoneshelf-*": "Stone Shelf",
   "block-sink-*": "Sink (Bald Cypress)",
+  "block-doublebrasssink-*": "Double Brass Sink (Bald Cypress)",
+  "block-stonedoublebrasssink-*": "Double Brass Sink (Stone)",
   "block-wardrobe-*": "Wardrobe (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
   "block-brasslamp-*": "Brass Lamp",
+  "block-creambrasslamp-*": "Cream Brass Lamp",
+  "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
+  "block-brasstable-*": "Brass Table",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
 
 
@@ -106,6 +121,7 @@ Paintings only accessable in creative:
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
   "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
+  "block-baldcypressstool-*": "Bald Cypress Stool",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
   "block-potsandpans-*": "Pots and Pans",
@@ -142,6 +158,8 @@ Paintings only accessable in creative:
   "block-sunflowersign-*": "Sunflower Garden Sign",
   "block-turnipsign-*": "Turnip Garden Sign",
   "block-pottingbench-*": "Potting Bench",
-  "block-seedstorage-*": "Seed Storage",
+
+
+  "block-butterchurn-*": "Butter Churn",
 
 }
