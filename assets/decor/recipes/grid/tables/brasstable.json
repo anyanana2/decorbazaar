@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "B,Q",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:ingot-brass", quantity: 1 },
+	   	"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "brasstable-north" }
+	}
+]
+

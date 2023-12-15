@@ -19,6 +19,7 @@
     "sideopaque": {
         "all": "false"
     },
+  "lightAbsorption": 0,
     "drawtype": "json",
 	"textures": {
 		"fieldsofgrain": { "base": "block/bazaar/paintings/fieldsofgrain" },

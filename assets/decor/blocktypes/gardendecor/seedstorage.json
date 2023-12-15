@@ -33,6 +33,9 @@
 		"2": { "base": "game:block/stone/cobblestone/peridotite1" }
 	},
     "resistance": 3.5,
+	"guiTransform": {
+		rotation: { x: -22.6, y: 151, z: 0 }
+	},
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
