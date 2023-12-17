@@ -97,8 +97,6 @@ Paintings only accessable in creative:
 
   "block-bathroomdecor1-*": "Bathroom Clutter",
 
-  "block-mailboxbrass-*": "Brass Mail Box",
-
 
   "block-sidetable-*": "Side Table",
   "block-sidetablev2-*": "Side Table V2",
@@ -126,8 +124,16 @@ Paintings only accessable in creative:
   "block-creambrasslamp-*": "Cream Brass Lamp",
   "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
+  "block-brasscandleshelf-*": "Brass Candle Shelf",
   "block-brasstable-*": "Brass Table",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
+
+  "block-purpleheartcabinet-*": "Purple Heart Cabinet",
+  "block-purplehearttopcabinet-*": "Purple Heart Cabinet",
+  "block-purpleheartcabinetisland-*": "Purple Heart Cabinet Island",
+  "block-purpleheartdecoshelf-*": "Purple Heart Deco Shelf",
+  "block-doublepurpleheartsink-*": "Double Purple Heart Sink",
+  "block-mugrack-*": "Mug Rack",
 
 
   "block-witchyitems-*": "Witchy Items",

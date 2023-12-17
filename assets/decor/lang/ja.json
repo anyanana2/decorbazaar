@@ -1,0 +1,179 @@
+{
+  "game:tabname-decorbazaar": "装飾バザー（Decor Bazaar）",
+  "game:decorbazaar-quickstart-title": "装飾バザー（Decor Bazaar）",
+  "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。Discordの@EightTonnesOfCrabさん、お風呂だけでなくストーブも使えるようにしてくれてありがとうございます！お楽しみください！
+
+アイテムリスト:
+
+ストーブ:これらのストーブは現在オーブンとして機能していますが、視覚的には機能していません。UIを見ることで、何が調理されているかを確認できます。
+<a href=\"handbooksearch://stone stove\">石のストーブ</a>
+<a href=\"handbooksearch://cast iron stove\">鋳鉄ストーブ</a>
+<a href=\"handbooksearch://cast iron stove with firewood\">薪付き鋳鉄ストーブ</a>
+<a href=\"handbooksearch://cast iron stove v2\">鋳鉄ストーブ V2</a>
+<a href=\"handbooksearch://cast iron fireplace\">鋳鉄製暖炉</a>
+
+
+<a href=\"handbooksearch://Claw Foot Tub\">爪足浴槽</a>はバケツ100杯分の水を入れることができます。 
+<a href=\"handbooksearch://Washing Tub\">洗濯槽</a>
+<a href=\"handbooksearch://Linen Basket\">リネンバスケット</a>
+<a href=\"handbooksearch://Clothes Line\">物干し竿</a>
+
+
+<a href=\"handbooksearch://Red Gingham Carpet\">赤いギンガムチェックのカーペット</a>
+
+
+<a href=\"handbooksearch://サイドテーブル\">サイドテーブル</a>
+<a href=\"handbooksearch://Wardrobe (Bald Cypress)\">ワードローブ（ヌマスギ）</a>には衣服用のスロットがあります。
+<a href=\"handbooksearch://Brass Mirror\">真鍮の鏡</a>
+<a href=\"handbooksearch://Brass Table\">真鍮のテーブル</a>
+<a href=\"handbooksearch://Brass Lamp\">真鍮のランプ</a>は機能します！
+<a href=\"handbooksearch://Brass Sconce\">真鍮の燭台</a>は機能します！
+<a href=\"handbooksearch://Brass Bed\">真鍮のベッド</a>は機能します！
+
+
+<a href=\"handbooksearch://Left Cabinet\">キャビネット左（ヌマスギ）</a>には収納スロットがあります。
+<a href=\"handbooksearch://Right Cabinet\">キャビネット右（ヌマスギ）</a>には収納スロットがあります。
+<a href=\"handbooksearch://Top Left Cabinet\">キャビネット左上（ヌマスギ）</a>には収納スロットがあります。
+<a href=\"handbooksearch://Top Right Cabinet\">キャビネット右上（ヌマスギ）</a>には収納スロットがあります。
+<a href=\"handbooksearch://Open Cabinet\">オープンキャビネット</a>
+<a href=\"handbooksearch://Sink\">シンク</a>
+
+<a href=\"handbooksearch://Stone Cabinet\">石のキャビネットとアイランド</a>には収納スロットがあります。
+<a href=\"handbooksearch://Stone Drawer\">石の引き出しとアイランド</a>には収納スロットがあります。
+<a href=\"handbooksearch://Stone Cabinet Top\">石のキャビネット上部</a>には収納スロットがあります。
+<a href=\"handbooksearch://Stone Shelf\">石の棚</a>には収納スロットがあります。
+
+
+<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">コテージコアテーブル（ヌマスギ）</a>
+<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">コテージコアスツール（ヌマスギ）</a>
+<a href=\"handbooksearch://Bald Cypress Stool\">ヌマスギのスツール</a>
+<a href=\"handbooksearch://Kitchen Clutter\">キッチンのガラクタ</a>
+<a href=\"handbooksearch://Ceramic Yellow Pot\">陶器の黄色い鍋</a>
+<a href=\"handbooksearch://Jug\">水差し</a>
+<a href=\"handbooksearch://Dish Rack\">皿立て</a>
+<a href=\"handbooksearch://Pots and Pans\">鍋とフライパン</a>
+<a href=\"handbooksearch://Bread Basket\">パンかご</a>
+<a href=\"handbooksearch://Wall Veggie Storage\">壁掛け野菜収納</a>
+<a href=\"handbooksearch://Tea Set\">ティーセット</a>
+<a href=\"handbooksearch://Spice Rack\">スパイスラック</a>
+<a href=\"handbooksearch://Kitchen Shelf\">キッチンの棚</a>
+<a href=\"handbooksearch://Bread Box\">パンの箱</a>には収納スロットがあり、食品を保存できます。
+
+
+<a href=\"handbooksearch://garden sign\">庭の看板</a>
+<a href=\"handbooksearch://bees sign\">ハチの看板</a>
+<a href=\"handbooksearch://Potting Bench\">鉢植えベンチ</a>には種子用の収納スロットがあります。
+<a href=\"handbooksearch://Seed Storage\">種子保管庫</a>には種子用の収納スロットがあります。
+
+<a href=\"handbooksearch://Bathroom Clutter\">風呂場のガラクタ</a>
+
+<a href=\"handbooksearch://Butter Churn\">バターチャーン</a>
+
+<a href=\"handbooksearch://Witchy Items\">魔法のアイテム</a>
+
+
+クリエイティブでのみアクセスできる絵画:
+<a href=\"handbooksearch://Fields of Grain\">穀物畑</a>
+<a href=\"handbooksearch://House on the Hill\">丘の上の家</a>
+<a href=\"handbooksearch://Lone Grave\">孤独な墓</a>
+
+
+
+",
+
+
+
+  "block-stonestove-*": "石のストーブ",
+  "block-castironstove-*": "鋳鉄ストーブ",
+  "block-castironstovefirewood-*": "薪付き鋳鉄ストーブ",
+  "block-castironstovev2-*": "鋳鉄ストーブ V2",
+  "block-castironfireplace-*": "鋳鉄製暖炉",
+
+
+  "block-clawfoottub-*": "爪足浴槽",
+  "block-washingtub-*": "洗濯槽",
+  "block-linenbasket-*": "リネンバスケット",
+  "block-clothesline-*": "物干し竿",
+
+  "block-bathroomdecor1-*": "風呂場のガラクタ",
+
+
+  "block-sidetable-*": "サイドテーブル",
+  "block-sidetablev2-*": "サイドテーブル V2",
+  "block-sidetablev3-*": "サイドテーブル V3",
+  "block-sidetablebaldcypress-*": "サイドテーブル（ヌマスギ）",
+  "block-sidetablev2baldcypress-*": "サイドテーブル V2（ヌマスギ）",
+  "block-sidetablev3baldcypress-*": "サイドテーブル V3（ヌマスギ）",
+  "block-leftcabinetbaldcypress-*": "キャビネット左（ヌマスギ）",
+  "block-rightcabinetbaldcypress-*": "キャビネット右（ヌマスギ）",
+  "block-righttopcabinetbaldcypress-*": "キャビネット右上（ヌマスギ）",
+  "block-lefttopcabinetbaldcypress-*": "キャビネット左上（ヌマスギ）",
+  "block-stonedrawers-*": "石の引き出し",
+  "block-stonedrawersisland-*": "石の引き出しアイランド",
+  "block-stonecabinet-*": "石のキャビネット",
+  "block-stonecabinettop-*": "石のキャビネット上部",
+  "block-stonecabinetisland-*": "石のキャビネットアイランド",
+  "block-opencabinet-*": "オープンキャビネット",
+  "block-stoneshelf-*": "石の棚",
+  "block-sink-*": "シンク（ヌマスギ）",
+  "block-doublebrasssink-*": "真鍮のダブルシンク（ヌマスギ）",
+  "block-stonedoublebrasssink-*": "真鍮のダブルシンク（石）",
+  "block-wardrobe-*": "ワードローブ（ヌマスギ）",
+  "block-brassmirror-*": "真鍮の鏡",
+  "block-brasslamp-*": "真鍮のランプ",
+  "block-creambrasslamp-*": "クリーム色の真鍮のランプ",
+  "block-brasssconce-*": "真鍮の燭台",
+  "block-brassbed-*": "真鍮のベッド",
+  "block-brasstable-*": "真鍮のテーブル",
+  "block-redginghamcarpet-*": "赤いギンガムチェックのカーペット",
+
+
+  "block-witchyitems-*": "魔法のアイテム",
+
+
+  "block-cottagecoretable-*": "コテージコアテーブル（ヌマスギ）",
+  "block-cottagecorestool-*": "コテージコアスツール（ヌマスギ）",
+  "block-baldcypressstool-*": "ヌマスギのスツール",
+  "block-counterclutter-*": "キッチンのガラクタ",
+  "block-pot-*": "陶器の黄色い鍋",
+  "block-potsandpans-*": "鍋とフライパン",
+  "block-jug-*": "水差し",
+  "block-breadbasket-*": "パンかご",
+  "block-breadbasket2-*": "パンかご V2",
+  "block-wallveg-*": "壁掛け野菜収納",
+  "block-teaset-*": "ティーセット",
+  "block-brassteaset-*": "真鍮のティーセット",
+  "block-dishrack-*": "皿立て",
+  "block-spicerack-*": "スパイスラック",
+  "block-kitchenshelf-*": "キッチンの棚",
+  "block-breadbox-*": "パンの箱",
+
+  "block-fieldsofgrain-*": "穀物畑",
+  "block-houseonthehill-*": "丘の上の家",
+  "block-lonegrave-*": "孤独な墓",
+
+
+
+
+  "block-amaranthsign-*": "アマランスの庭の看板",
+  "block-beesign-*": "ハチの看板",
+  "block-cabbagesign-*": "キャベツの庭の看板",
+  "block-carrotsign-*": "ニンジンの庭の看板",
+  "block-cassavasign-*": "キャッサバの庭の看板",
+  "block-flaxsign-*": "亜麻の庭の看板",
+  "block-onionsign-*": "玉ねぎの庭の看板",
+  "block-parsnipsign-*": "パースニップの庭の看板",
+  "block-peanutsign-*": "ピーナッツの庭の看板",
+  "block-pumpkinsign-*": "カボチャの庭の看板",
+  "block-ricesign-*": "米の庭の看板",
+  "block-ryesign-*": "ライ麦の庭の看板",
+  "block-soybeansign-*": "大豆の庭の看板",
+  "block-speltsign-*": "スペルト小麦の庭の看板",
+  "block-sunflowersign-*": "ヒマワリの庭の看板",
+  "block-turnipsign-*": "カブの庭の看板",
+  "block-pottingbench-*": "鉢植えベンチ",
+  "block-seedstorage-*": "種子保管庫",
+
+  "block-butterchurn-*": "バターチャーン",
+
+}

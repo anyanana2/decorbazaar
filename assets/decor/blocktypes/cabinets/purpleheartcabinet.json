@@ -1,16 +1,17 @@
 {
-    "code": "mailboxbrass",
+    "code": "purpleheartcabinet",
     "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
 	attributes: {
+		"pieFormingSurface": true,
 		"inventoryClassName": "Cabinet",
-		"quantitySlots": "12",
-		"dialogTitleLangCode": "Mail"
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
 	},
     "shape": {
-        "base": "block/mailboxbrass",
+        "base": "block/cabinets/purpleheartcabinet",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -29,10 +30,12 @@
 	"up": "true"
     },
     "drawtype": "json",
-   "textures": {
-		"0": { "base": "block/bazaar/metal/post" },
-		"1": { "base": "game:block/metal/ingot/brass" },
-		"2": { "base": "game:block/metal/ingot/lead" }
+    "textures": {
+		"0": { "base": "game:block/wood/planks/purpleheart1" },
+		"1": { "base": "game:block/stone/polishedrock/chalk" },
+		"2": { "base": "game:block/wood/debarked/walnut" },
+		"5": { "base": "game:block/glass/quartz" },
+		"6": { "base": "game:block/metal/ingot/gold" }
 	},
     "resistance": 3.5,
     "materialDensity": 400,
@@ -41,6 +44,6 @@
         "walk": "game:walk/stone"
     },
 	guiTransform: {
-		rotation: { x: -22.6, y: 152, z: 0 }
+		rotation: { x: -22.6, y: 142, z: 0 }
 	}
 }
