@@ -10,9 +10,9 @@
 	},
 	"textures": {
 		"blanket-feet3": "game:block/cloth/bed/green/blanket-feet",
+		"blanket-feet": "game:block/cloth/bed/green/blanket-feet",
 		"mattress-normal": "game:block/cloth/bed/mattress-normal",
 		"pillow-normal": "game:block/cloth/bed/pillow-normal",
-		"blanket-feet": "game:block/cloth/bed/stitched/blanket-feet",
 		"mattress": "game:block/cloth/bed/stitched/mattress",
 		"brass": "game:block/metal/ingot/brass"
 	},
@@ -26,12 +26,6 @@
 			"rotationY": 89.98,
 			"rotationZ": -153.435,
 			"faces": {
-				"north": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
-				"east": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
-				"south": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
-				"west": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
-				"up": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
-				"down": { "texture": "#", "uv": [ 0.0, 0.0, 0.0, 0.0 ] }
 			},
 			"children": [
 				{
@@ -479,12 +473,6 @@
 			"rotationY": -89.98,
 			"rotationZ": -153.435,
 			"faces": {
-				"north": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
-				"east": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
-				"south": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
-				"west": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
-				"up": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
-				"down": { "texture": "#", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
 			},
 			"children": [
 				{
@@ -982,8 +970,7 @@
 				"east": { "texture": "#blanket-feet", "uv": [ 0.0, 15.0, 32.0, 15.5 ], "autoUv": false },
 				"south": { "texture": "#blanket-feet", "uv": [ 0.0, 0.0, 19.0, 0.5 ], "autoUv": false },
 				"west": { "texture": "#blanket-feet", "uv": [ 0.0, 0.0, 9.0, 0.5 ], "autoUv": false },
-				"up": { "texture": "#blanket-feet", "uv": [ 0.0, 0.0, 32.0, 15.0 ], "autoUv": false },
-				"down": { "texture": "#0", "uv": [ 0.0, 0.0, 19.0, 9.0 ], "autoUv": false }
+				"up": { "texture": "#blanket-feet", "uv": [ 0.0, 0.0, 32.0, 15.0 ], "autoUv": false }
 			}
 		},
 		{
@@ -1025,7 +1012,6 @@
 			"to": [ 4.0, 21.0, 19.0 ],
 			"rotationOrigin": [ 1.0, 6.0, 18.0 ],
 			"rotationX": -45.0,
-			"rotationY": 0.0,
 			"rotationZ": 22.5,
 			"faces": {
 				"north": { "texture": "#blanket-feet3", "uv": [ 0.0, 0.0, 4.0, 17.0 ], "autoUv": false },

@@ -1,5 +1,6 @@
 {
 	"editor": {
+		"collapsedPaths": "Root/Glasses-nasal,Root/hidelowerarm,Root/Legs",
 		"allAngles": false,
 		"entityTextureMode": false
 	},
@@ -117,11 +118,7 @@
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#brass3", "uv": [ 0.0, 0.0, 25.0, 22.0 ], "autoUv": false },
-				"east": { "texture": "#0", "uv": [ 0.0, 0.0, 0.5, 14.0 ], "autoUv": false },
-				"south": { "texture": "#mirror", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
-				"west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.5, 14.0 ], "autoUv": false },
-				"up": { "texture": "#0", "uv": [ 0.0, 0.0, 14.0, 0.5 ], "autoUv": false },
-				"down": { "texture": "#0", "uv": [ 0.0, 0.0, 14.0, 0.5 ], "autoUv": false }
+				"south": { "texture": "#mirror", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
 			}
 		},
 		{

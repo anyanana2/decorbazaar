@@ -2,13 +2,16 @@
     "code": "lefttopcabinetbaldcypress",
     "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-	attributes: {
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+    "attributes": {
 		"inventoryClassName": "Cabinet",
 		"quantitySlots": "8",
 		"dialogTitleLangCode": "Cabinet Storage"
 	},
+    "variantgroups": [
+		{ code:"type", states: ["normal"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+	],
     "shape": {
         "base": "block/cabinets/lefttopcabinetbaldcypress",
         "rotateYByType": {
@@ -18,7 +21,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "stone",
+    "blockmaterial": "Stone",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"
@@ -34,10 +37,10 @@
 	},
     "resistance": 3.5,
     "sounds": {
-        "place": "game:block/planks",
+        "place": "game:block/stone",
         "walk": "game:walk/stone"
     },
 	guiTransform: {
 		rotation: { x: -22.6, y: 147, z: 0 }
-	}
+	},
 }

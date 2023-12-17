@@ -1,8 +1,17 @@
 {
     "code": "spicerack",
+    "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+    "attributes": {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
+    "variantgroups": [
+		{ code:"type", states: ["normal"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+	],
     "shape": {
         "base": "block/kitchendecor/spicerack",
         "rotateYByType": {
@@ -12,7 +21,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "Wood",
+    "blockmaterial": "Stone",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"
@@ -30,6 +39,10 @@
 		"aged1": { base: "game:block/wood/planks/aged1" }
 	},
     "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/stone",
+        "walk": "game:walk/stone"
+    },
     "selectionBox": { 
 			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
 			rotateYByType: {
@@ -38,12 +51,7 @@
 			"*-south": 180
 			}
 },
-
-    "sounds": {
-        "place": "game:block/planks",
-        "walk": "game:walk/stone"
-    },
 	guiTransform: {
-		rotation: { x: -22.6, y: 144, z: 0 }
-	}
+		rotation: { x: -22.6, y: 147, z: 0 }
+	},
 }

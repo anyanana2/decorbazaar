@@ -22,7 +22,6 @@
 				"east": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
 				"south": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
 				"west": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 29.0 ], "autoUv": false },
-				"up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ], "autoUv": false },
 				"down": { "texture": "#bazaarbaldcypress", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
 			}
 		},

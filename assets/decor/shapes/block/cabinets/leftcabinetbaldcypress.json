@@ -25,7 +25,6 @@
 				"east": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
 				"south": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
 				"west": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
-				"up": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 14.0 ], "autoUv": false },
 				"down": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
 			}
 		},
@@ -52,7 +51,6 @@
 			"faces": {
 				"north": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
 				"east": { "texture": "#oak1", "uv": [ 0.0, 0.0, 6.0, 30.0 ], "autoUv": false },
-				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 14.0, 12.0 ], "autoUv": false },
 				"west": { "texture": "#oak1", "uv": [ 0.0, 0.0, 6.0, 30.0 ], "autoUv": false },
 				"up": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false },
 				"down": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false }

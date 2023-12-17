@@ -124,7 +124,6 @@ Paintings only accessable in creative:
   "block-creambrasslamp-*": "Cream Brass Lamp",
   "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
-  "block-brasscandleshelf-*": "Brass Candle Shelf",
   "block-brasstable-*": "Brass Table",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
 
@@ -134,7 +133,8 @@ Paintings only accessable in creative:
   "block-purpleheartdecoshelf-*": "Purple Heart Deco Shelf",
   "block-doublepurpleheartsink-*": "Double Purple Heart Sink",
   "block-mugrack-*": "Mug Rack",
-
+  
+  "block-brasscandleshelf-*": "Brass Candle Shelf",
 
   "block-witchyitems-*": "Witchy Items",
 
@@ -155,6 +155,7 @@ Paintings only accessable in creative:
   "block-spicerack-*": "Spice Rack",
   "block-kitchenshelf-*": "Kitchen Shelf",
   "block-breadbox-*": "Bread Box",
+  "block-picnicbasket-*": "Picnic Basket",
 
   "block-fieldsofgrain-*": "Fields of Grain",
   "block-houseonthehill-*": "House on the Hill",

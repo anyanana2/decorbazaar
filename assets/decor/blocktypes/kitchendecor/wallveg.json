@@ -1,8 +1,22 @@
 {
     "code": "wallveg",
+    "entityClass": "GenericTypedContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+	attributes: {
+		inventoryClassName: "chest",
+		dialogTitleLangCode: "vesselcontents",
+		"quantitySlots": "12",
+		spoilSpeedMulByFoodCat: 
+			{
+				"vegetable": 0.1,
+				"grain": 0.1
+			}
+		},
+    "variantgroups": [
+		{ code:"type", states: ["normal"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+	],
     "shape": {
         "base": "block/kitchendecor/wallveg",
         "rotateYByType": {
@@ -12,7 +26,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "Wood",
+    "blockmaterial": "Stone",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"
@@ -33,10 +47,18 @@
 	},
     "resistance": 3.5,
     "sounds": {
-        "place": "game:block/planks",
+        "place": "game:block/stone",
         "walk": "game:walk/stone"
     },
+    "selectionBox": { 
+			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
 	guiTransform: {
-		rotation: { x: -22.6, y: 144, z: 0 }
-	}
+		rotation: { x: -22.6, y: 147, z: 0 }
+	},
 }
