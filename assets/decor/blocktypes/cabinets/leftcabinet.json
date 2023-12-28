@@ -45,8 +45,8 @@
 	texturesByType: {
 
 		"*": { 
-				"type": { base: "game:block/wood/planks/{type}1" },
-				"color": { base: "game:block/stone/rock/{color}1" },
+				"type": { "base": "game:block/wood/planks/{type}1" },
+				"color": { "base": "game:block/stone/rock/{color}1" },
 				"copper": { "base": "game:block/metal/ingot/copper" },
 				"oak1": { "base": "game:block/wood/planks/oak1" }
 			}
