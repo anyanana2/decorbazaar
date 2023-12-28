@@ -81,7 +81,10 @@ Paintings only accessable in creative:
 
 ",
 
-
+  "block-bazaarceramicblock-beige*": "Beige Tile",
+  "block-bazaarceramicblock-gray*": "Gray Tile",
+  "block-bazaarceramicblock-anthro*": "Anthro Tile",
+  "block-bazaarceramicblock-purpletile*": "Aged Purple Tile",
 
   "block-stonestove-*": "Stone Stove",
   "block-castironstove-*": "Cast Iron Stove",
@@ -101,6 +104,7 @@ Paintings only accessable in creative:
   "block-sidetable-*": "Side Table",
   "block-sidetablev2-*": "Side Table V2",
   "block-sidetablev3-*": "Side Table V3",
+  "block-warmwoodsidetable-*": "Warm Wood Side Table",
   "block-sidetablebaldcypress-*": "Side Table (Bald Cypress)",
   "block-sidetablev2baldcypress-*": "Side Table V2 (Bald Cypress)",
   "block-sidetablev3baldcypress-*": "Side Table V3 (Bald Cypress)",
@@ -124,6 +128,7 @@ Paintings only accessable in creative:
   "block-creambrasslamp-*": "Cream Brass Lamp",
   "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
+  "block-flowerbed-*": "Flower Bed",
   "block-brasstable-*": "Brass Table",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
 
@@ -135,6 +140,7 @@ Paintings only accessable in creative:
   "block-mugrack-*": "Mug Rack",
   
   "block-brasscandleshelf-*": "Brass Candle Shelf",
+  "block-mushroomcloche-*": "Mushroom Cloche",
 
   "block-witchyitems-*": "Witchy Items",
 
@@ -149,6 +155,7 @@ Paintings only accessable in creative:
   "block-breadbasket-*": "Bread Basket",
   "block-breadbasket2-*": "Bread Basket V2",
   "block-wallveg-*": "Wall Veggie Storage",
+  "block-vegstorage-*": "Vegetable Storage",
   "block-teaset-*": "Tea Set",
   "block-brassteaset-*": "Brass Tea Set",
   "block-dishrack-*": "Dish Rack",
@@ -160,6 +167,7 @@ Paintings only accessable in creative:
   "block-fieldsofgrain-*": "Fields of Grain",
   "block-houseonthehill-*": "House on the Hill",
   "block-lonegrave-*": "Lone Grave",
+  "block-whiteflower-*": "White Flower",
 
 
 
@@ -182,6 +190,7 @@ Paintings only accessable in creative:
   "block-turnipsign-*": "Turnip Garden Sign",
   "block-pottingbench-*": "Potting Bench",
   "block-seedstorage-*": "Seed Storage",
+  "block-compostbin-*": "Compost Bin",
 
   "block-butterchurn-*": "Butter Churn",
 

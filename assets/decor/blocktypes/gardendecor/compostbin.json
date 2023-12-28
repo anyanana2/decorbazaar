@@ -1,21 +1,22 @@
 {
-    "code": "breadbox",
+    "code": "compostbin",
     "entityClass": "GenericTypedContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
 	attributes: {
 		inventoryClassName: "chest",
-		dialogTitleLangCode: "Bread Box",
+		dialogTitleLangCode: "vesselcontents",
 		"quantitySlots": "12",
+		"dialogTitleLangCode": "Compost Bin",
 		spoilSpeedMulByFoodCat: 
 			{
-				"vegetable": 0.5,
-				"grain": 0.1
+				"vegetable": 5.0,
+				"grain": 5.0
 			}
 		},
     "shape": {
-        "base": "block/kitchendecor/breadbox",
+        "base": "block/gardendecor/compostbin",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,
@@ -33,9 +34,8 @@
     },
     "drawtype": "json",
 "textures": {
-		"flourwdirt": { "base": "block/bazaar/fabric/kitchen/flourwdirt" },
-		"baldcypressv2": { "base": "block/bazaar/wood/planks/baldcypressv2" },
-		"bread": { "base": "block/bazaar/signs/bread" }
+		"0": { "base": "game:block/wood/planks/aged1" },
+		"1": { "base": "game:block/wood/planks/rottenebony1" }
 	},
     "resistance": 1.0,
     "sounds": {

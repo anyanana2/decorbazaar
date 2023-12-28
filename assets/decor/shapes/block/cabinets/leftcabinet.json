@@ -9,8 +9,8 @@
 	},
 	"textures": {
 		"copper": "block/metal/ingot/copper",
-		"claystone1": "block/stone/rock/claystone1",
-		"baldcypress1": "block/wood/planks/baldcypress1",
+		"color": "block/stone/rock/claystone1",
+		"type": "block/wood/planks/baldcypress1",
 		"oak1": "block/wood/planks/oak1"
 	},
 	"elements": [
