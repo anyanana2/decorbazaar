@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "P,C,B",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	"C": { type: "item", code: "game:plank-baldcypress", quantity: 2 },
+	   	"B": { type: "item", code: "game:beeswax", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "sidetablebaldcypress-north" }
+	}
+]	

@@ -1,9 +1,90 @@
 {
   "game:tabname-decorbazaar": "Decor Bazaar",
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
-  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds a few decorative items to the game. As of right now, the items are not functional. I would love to have the stoves function and cook food. If anyone would love to help develop the mod and help me make the blocks functional, please contact me on discord @anyanana. Enjoy!",
+  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for getting the stoves to function as well as the bath! Enjoy!
+
+List of Items:
+
+Stoves: These stoves currently function as ovens, though not visually. You can still see what is cooking by looking at the UI. 
+<a href=\"handbooksearch://stone stove\">Stone Stove</a>
+<a href=\"handbooksearch://cast iron stove\">Cast Iron Stove</a>
+<a href=\"handbooksearch://cast iron stove with firewood\">Cast Iron Stove with Firewood</a>
+<a href=\"handbooksearch://cast iron stove v2\">Cast Iron Stove V2</a>
+<a href=\"handbooksearch://cast iron fireplace\">Cast Iron Fireplace</a>
 
 
+<a href=\"handbooksearch://Claw Foot Tub\">Claw Foot Tub</a> allows for 100 buckets of water to fill up. 
+<a href=\"handbooksearch://Washing Tub\">Washing Tub</a>
+<a href=\"handbooksearch://Linen Basket\">Linen Basket</a>
+<a href=\"handbooksearch://Clothes Line\">Clothes Line</a>
+
+
+<a href=\"handbooksearch://Red Gingham Carpet\">Red Gingham Carpet</a>
+
+
+<a href=\"handbooksearch://Side Table\">Side Tables</a>
+<a href=\"handbooksearch://Wardrobe (Bald Cypress)\">Wardrobe (Bald Cypress)</a> has slots for clothes.
+<a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
+<a href=\"handbooksearch://Brass Table\">Brass Table</a>
+<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> are functional!
+<a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> is functional!
+<a href=\"handbooksearch://Brass Bed\">Brass Bed</a> is functional!
+
+
+<a href=\"handbooksearch://Left Cabinet\">Left Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Right Cabinet\">Right Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Top Left Cabinet\">Top Left Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Top Right Cabinet\">Top Right Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Open Cabinet\">Open Cabinet</a>
+<a href=\"handbooksearch://Sink\">Sinks</a>
+
+<a href=\"handbooksearch://Stone Cabinet\">Stone Cabinet & Island</a> has storage slots.
+<a href=\"handbooksearch://Stone Drawer\">Stone Drawer & Island</a> has storage slots.
+<a href=\"handbooksearch://Stone Cabinet Top\">Stone Cabinet Top</a> has storage slots.
+<a href=\"handbooksearch://Stone Shelf\">Stone Shelf</a> has storage slots.
+
+
+<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
+<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
+<a href=\"handbooksearch://Bald Cypress Stool\">Bald Cypress Stool</a>
+<a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
+<a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
+<a href=\"handbooksearch://Jug\">Jug</a>
+<a href=\"handbooksearch://Dish Rack\">Dish Rack</a>
+<a href=\"handbooksearch://Pots and Pans\">Pots and Pans</a>
+<a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
+<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
+<a href=\"handbooksearch://Tea Set\">Tea Sets</a>
+<a href=\"handbooksearch://Spice Rack\">Spice Rack</a>
+<a href=\"handbooksearch://Kitchen Shelf\">Kitchen Shelf</a>
+<a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
+
+
+<a href=\"handbooksearch://garden sign\">Garden Signs</a>
+<a href=\"handbooksearch://bees sign\">Bee Sign</a>
+<a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
+<a href=\"handbooksearch://Seed Storage\">Seed Storage</a> has storage slots for seeds.
+
+<a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
+
+<a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
+
+<a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
+
+
+Paintings only accessable in creative:
+<a href=\"handbooksearch://Fields of Grain\">Fields of Grain</a>
+<a href=\"handbooksearch://House on the Hill\">House on the Hill</a>
+<a href=\"handbooksearch://Lone Grave\">Lone Grave</a>
+
+
+
+",
+
+  "block-bazaarceramicblock-beige*": "Beige Tile",
+  "block-bazaarceramicblock-gray*": "Gray Tile",
+  "block-bazaarceramicblock-anthro*": "Anthro Tile",
+  "block-bazaarceramicblock-purpletile*": "Aged Purple Tile",
 
   "block-stonestove-*": "Stone Stove",
   "block-castironstove-*": "Cast Iron Stove",
@@ -17,38 +98,76 @@
   "block-linenbasket-*": "Linen Basket",
   "block-clothesline-*": "Clothes Line",
 
+  "block-bathroomdecor1-*": "Bathroom Clutter",
+
 
   "block-sidetable-*": "Side Table",
   "block-sidetablev2-*": "Side Table V2",
   "block-sidetablev3-*": "Side Table V3",
+  "block-warmwoodsidetable-*": "Warm Wood Side Table",
+  "block-sidetablebaldcypress-*": "Side Table (Bald Cypress)",
+  "block-sidetablev2baldcypress-*": "Side Table V2 (Bald Cypress)",
+  "block-sidetablev3baldcypress-*": "Side Table V3 (Bald Cypress)",
   "block-leftcabinetbaldcypress-*": "Left Cabinet (Bald Cypress)",
   "block-rightcabinetbaldcypress-*": "Right Cabinet (Bald Cypress)",
   "block-righttopcabinetbaldcypress-*": "Top Right Cabinet (Bald Cypress)",
   "block-lefttopcabinetbaldcypress-*": "Top Left Cabinet (Bald Cypress)",
+  "block-stonedrawers-*": "Stone Drawers",
+  "block-stonedrawersisland-*": "Stone Drawers Island",
+  "block-stonecabinet-*": "Stone Cabinet",
+  "block-stonecabinettop-*": "Stone Cabinet Top",
+  "block-stonecabinetisland-*": "Stone Cabinet Island",
   "block-opencabinet-*": "Open Cabinet",
+  "block-stoneshelf-*": "Stone Shelf",
   "block-sink-*": "Sink (Bald Cypress)",
+  "block-doublebrasssink-*": "Double Brass Sink (Bald Cypress)",
+  "block-stonedoublebrasssink-*": "Double Brass Sink (Stone)",
   "block-wardrobe-*": "Wardrobe (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
   "block-brasslamp-*": "Brass Lamp",
+  "block-creambrasslamp-*": "Cream Brass Lamp",
+  "block-brasssconce-*": "Brass Sconce",
+  "block-brassbed-*": "Brass Bed",
+  "block-flowerbed-*": "Flower Bed",
+  "block-brasstable-*": "Brass Table",
   "block-redginghamcarpet-*": "Red Gingham Carpet",
-  "block-redginghamcarpetends-*": "Red Gingham Carpet (End Piece)",
 
+  "block-purpleheartcabinet-*": "Purple Heart Cabinet",
+  "block-purplehearttopcabinet-*": "Purple Heart Cabinet",
+  "block-purpleheartcabinetisland-*": "Purple Heart Cabinet Island",
+  "block-purpleheartdecoshelf-*": "Purple Heart Deco Shelf",
+  "block-doublepurpleheartsink-*": "Double Purple Heart Sink",
+  "block-mugrack-*": "Mug Rack",
+  
+  "block-brasscandleshelf-*": "Brass Candle Shelf",
+  "block-mushroomcloche-*": "Mushroom Cloche",
 
   "block-witchyitems-*": "Witchy Items",
 
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
   "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
+  "block-baldcypressstool-*": "Bald Cypress Stool",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
+  "block-potsandpans-*": "Pots and Pans",
+  "block-jug-*": "Jug",
   "block-breadbasket-*": "Bread Basket",
+  "block-breadbasket2-*": "Bread Basket V2",
   "block-wallveg-*": "Wall Veggie Storage",
+  "block-vegstorage-*": "Vegetable Storage",
   "block-teaset-*": "Tea Set",
+  "block-brassteaset-*": "Brass Tea Set",
+  "block-dishrack-*": "Dish Rack",
   "block-spicerack-*": "Spice Rack",
+  "block-kitchenshelf-*": "Kitchen Shelf",
+  "block-breadbox-*": "Bread Box",
+  "block-picnicbasket-*": "Picnic Basket",
 
   "block-fieldsofgrain-*": "Fields of Grain",
   "block-houseonthehill-*": "House on the Hill",
   "block-lonegrave-*": "Lone Grave",
+  "block-whiteflower-*": "White Flower",
 
 
 
@@ -70,5 +189,9 @@
   "block-sunflowersign-*": "Sunflower Garden Sign",
   "block-turnipsign-*": "Turnip Garden Sign",
   "block-pottingbench-*": "Potting Bench",
+  "block-seedstorage-*": "Seed Storage",
+  "block-compostbin-*": "Compost Bin",
+
+  "block-butterchurn-*": "Butter Churn",
 
 }

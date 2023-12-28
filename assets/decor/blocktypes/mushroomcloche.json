@@ -1,0 +1,43 @@
+{
+    "code": "mushroomcloche",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/mushroomcloche",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"1": { base: "game:block/glass/quartz" },
+		"0": { base: "game:block/metal/ingot/brass" },
+		"blacktrumpet": { base: "game:block/plant/mushroom/blacktrumpet/blacktrumpet" },
+		"stipe": { base: "game:block/plant/mushroom/fieldmushroom/stipe" },
+		"gills": { base: "game:block/plant/mushroom/gills" },
+		"livermushroom": { base: "game:block/plant/mushroom/livermushroom/livermushroom" },
+		"pores": { base: "game:block/plant/mushroom/pores" },
+		"violetwebcap": { base: "game:block/plant/mushroom/violetwebcap/violetwebcap" },
+		"witchhat": { base: "game:block/plant/mushroom/witchhat/witchhat" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

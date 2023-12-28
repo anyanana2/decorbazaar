@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "P,G",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"G": { type: "item", code: "game:grain-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "breadbox-north" }
+	}
+]
+

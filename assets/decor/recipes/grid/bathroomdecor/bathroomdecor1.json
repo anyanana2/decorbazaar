@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "F,E",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:flaxfibers", quantity: 1 },
+	   	"E": { type: "item", code: "game:clay-blue", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "bathroomdecor1-north" }
+	}
+]
+

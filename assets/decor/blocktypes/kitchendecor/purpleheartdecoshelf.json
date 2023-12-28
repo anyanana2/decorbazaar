@@ -1,0 +1,58 @@
+{
+    "code": "purpleheartdecoshelf",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+    "attributes": {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
+    "variantgroups": [
+		{ code:"type", states: ["normal"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+    "shape": {
+        "base": "block/kitchendecor/purpleheartdecoshelf",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+"textures": {
+		"6": { "base": "block/bazaar/ceramic/floursugarjar" },
+		"2": { "base": "block/bazaar/ceramic/purplejar" },
+		"3": { "base": "game:block/clay/vessel/sides/seasalt" },
+		"5": { "base": "game:block/metal/ingot/gold" },
+		"0": { "base": "game:block/plant/flower/petal/lupine/purple1-b" },
+		"1": { "base": "game:block/stone/dirtygravel/wet/cracked1" },
+		"4": { "base": "game:block/wood/planks/purpleheart1" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/stone",
+        "walk": "game:walk/stone"
+    },
+    "selectionBox": { 
+			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	},
+}

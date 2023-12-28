@@ -1,0 +1,48 @@
+{
+    "code": "compostbin",
+    "entityClass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		inventoryClassName: "chest",
+		dialogTitleLangCode: "vesselcontents",
+		"quantitySlots": "12",
+		"dialogTitleLangCode": "Compost Bin",
+		spoilSpeedMulByFoodCat: 
+			{
+				"vegetable": 5.0,
+				"grain": 5.0
+			}
+		},
+    "shape": {
+        "base": "block/gardendecor/compostbin",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+"textures": {
+		"0": { "base": "game:block/wood/planks/aged1" },
+		"1": { "base": "game:block/wood/planks/rottenebony1" }
+	},
+    "resistance": 1.0,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 148, z: 0 }
+	}
+}

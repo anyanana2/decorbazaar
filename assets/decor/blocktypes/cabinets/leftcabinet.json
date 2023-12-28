@@ -1,0 +1,63 @@
+{
+    "code": "leftcabinet",
+    "entityClass": "GenericContainer",
+	creativeinventoryByType: {
+		"*": { "general": ["*-normal-north"], "decorative": ["*-normal-north"], "decorbazaar": ["*-normal-north"] }
+	},
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
+	variantgroups: [
+		{ code: "type", states: ["aged", "darkoak", "acacia", "baldcypress", "birch", "ebony", "kapok", "larch", "maple", "oak", "pine", "purpleheart", "redwood", "walnut" ] },
+		{ code: "color", states: ["andesite", "basalt", "bauxite", "chalk", "chert", "claystone", "conglomerate", "granite", "greenmarble", "halite", "kimberlite", "limestone", "obsidian", "peridotite", "phyllite", "redmarble", "sandstone", "scoria", "slate", "suevite", "shale", "whitemarble" ] },	
+		{ code: "state", states: ["normal"] },		
+		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+	attributes: {
+		"pieFormingSurface": true,
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
+	shapeByType: {
+
+		"*-north": { base: "block/cabinets/leftcabinet-{type}", rotateY: 90 },
+		"*-east": { base: "block/cabinets/leftcabinet-{type}", rotateY: 0 },
+		"*-south": { base: "block/cabinets/leftcabinet-{type}", rotateY: 270 },
+		"*-west": { base: "block/cabinets/leftcabinet-{type}", rotateY: 180 }
+	},
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false",
+	"up": "true"
+    },
+    "sideopaque": {
+        "all": "false",
+	"up": "true"
+    },
+    "drawtype": "json",
+	texturesByType: {
+
+		"*": { 
+				"type": { "base": "game:block/wood/planks/{type}1" },
+				"color": { "base": "game:block/stone/rock/{color}1" },
+				"copper": { "base": "game:block/metal/ingot/copper" },
+				"oak1": { "base": "game:block/wood/planks/oak1" }
+			}
+	},
+    "resistance": 3.5,
+    "materialDensity": 400,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 152, z: 0 }
+	}
+}

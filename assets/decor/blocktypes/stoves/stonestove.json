@@ -36,6 +36,7 @@
     }
   },
   "blockmaterial": "stone",
+  "lightAbsorption": 0,
   "sidesolid": {
     "all": "false"
   },
@@ -61,13 +62,9 @@
     "place": "game:block/planks",
     "walk": "game:walk/stone"
   },
-  "guiTransform": {
-    "rotation": {
-      "x": -22.6,
-      "y": -116,
-      "z": 0
-    }
-  },
+    "guiTransform": {
+		rotation: { x: -22.6, y: 150, z: 0 }
+	},
   "particleProperties": [
     {
       "gravityEffect": {

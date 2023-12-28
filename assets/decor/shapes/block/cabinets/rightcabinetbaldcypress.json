@@ -1,0 +1,104 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+	},
+	"textures": {
+		"copper": "block/metal/ingot/copper",
+		"claystone1": "block/stone/rock/claystone1",
+		"baldcypress1": "block/wood/planks/baldcypress1",
+		"oak1": "block/wood/planks/oak1"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [ 0.0, 0.0, 2.0 ],
+			"to": [ 16.0, 14.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"east": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"south": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"west": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"down": { "texture": "#baldcypress1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "Door",
+			"from": [ 1.0, 1.0, 0.0 ],
+			"to": [ 15.0, 13.0, 2.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"east": { "texture": "#oak1", "uv": [ 0.0, 0.0, 6.0, 30.0 ], "autoUv": false },
+				"west": { "texture": "#oak1", "uv": [ 0.0, 0.0, 6.0, 30.0 ], "autoUv": false },
+				"up": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false },
+				"down": { "texture": "#oak1", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "Hinge",
+			"from": [ 30.0, 2.0, 1.0 ],
+			"to": [ 31.0, 4.0, 2.0 ],
+			"rotationOrigin": [ 23.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"east": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"south": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"west": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"up": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"down": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "Hinge2",
+			"from": [ 30.0, 10.0, 1.0 ],
+			"to": [ 31.0, 12.0, 2.0 ],
+			"rotationOrigin": [ 23.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"east": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"south": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"west": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"up": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"down": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [ -9.0, 10.0, -1.0 ],
+			"to": [ -8.0, 12.0, 0.0 ],
+			"rotationOrigin": [ -3.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"east": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"south": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"west": { "texture": "#copper", "uv": [ 0.0, 0.0, 4.0, 5.0 ], "autoUv": false },
+				"up": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
+				"down": { "texture": "#copper", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "Top",
+			"from": [ 0.0, 14.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 6.0 ], "autoUv": false },
+				"east": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 6.0 ], "autoUv": false },
+				"south": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 6.0 ], "autoUv": false },
+				"west": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 6.0 ], "autoUv": false },
+				"up": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"down": { "texture": "#claystone1", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
+			}
+		}
+	]}

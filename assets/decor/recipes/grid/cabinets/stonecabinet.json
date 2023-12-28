@@ -1,0 +1,14 @@
+[
+	{
+		ingredientPattern: "F,T,S",
+	   	ingredients: {
+	   	"F": { type: "Block", code: "game:cobblestone-*", quantity: 4 },
+	   	"T": { type: "item", code: "game:ingot-*", quantity: 1 },
+	   	"S": { type: "item", code: "game:stone-*", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "stonecabinet-north" }
+	}
+]
+

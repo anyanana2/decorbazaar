@@ -1,0 +1,43 @@
+{
+    "code": "sidetablev3baldcypress",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/tables/sidetablev3baldcypress",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"normal1": { base: "game:block/cloth/linen/normal1" },
+		"plain": { base: "game:block/glass/quartz" },
+		"beer": { base: "game:block/liquid/beer" },
+		"brass": { base: "game:block/metal/plate/brass" },
+		"baldcypress1": { base: "game:block/wood/planks/baldcypress1" },
+		"book1": { base: "game:item/lore/book1" },
+		"book2": { base: "game:item/lore/book2" },
+		"book3": { base: "game:item/lore/book3" },
+		"book5": { base: "game:item/lore/book5" },
+		"book7": { base: "game:item/lore/book7" },
+		"book9": { base: "game:item/lore/book9" }
+	},
+    "resistance": 3.5,
+    "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.6875, z2: 1 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

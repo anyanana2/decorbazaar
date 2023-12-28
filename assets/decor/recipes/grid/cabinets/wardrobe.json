@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B,P",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:ingot-brass", quantity: 1 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "wardrobe-north" }
+	}
+]

@@ -1,0 +1,38 @@
+{
+    "code": "brasstable",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "UnstableFalling"}],
+    "attributes": {
+		"pieFormingSurface": true
+     },
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/tables/brasstable",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false",
+	"up": "true"
+    },
+    "sideopaque": {
+        "all": "false",
+	"up": "true"
+    },
+	"textures": {
+		"0": { base: "game:block/metal/ingot/brass" },
+		"1": { base: "game:block/glass/quartz" }
+	},
+    "resistance": 3.5,
+    "materialDensity": 400,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}
