@@ -17,7 +17,7 @@
         }
     ],
     "blockmaterial": "stone",
-    "code": "stonedrawers",
+    "code": "rightcabinet",
     "creativeinventoryByType": {
         "*": {
             "decorative": [
@@ -45,10 +45,10 @@
     "resistance": 3.5,
 shapeByType: {
 
-         "*-north": { base: "block/cabinets/stonedrawers", rotateY: 0 },
-         "*-east": { base: "block/cabinets/stonedrawers", rotateY: 270 },
-         "*-south": { base: "block/cabinets/stonedrawers", rotateY: 180 },
-         "*-west": { base: "block/cabinets/stonedrawers", rotateY: 90 }
+         "*-north": { base: "block/cabinets/rightcabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/rightcabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/rightcabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/rightcabinet", rotateY: 90 }
      },
     "sideopaque": {
         "all": "false",
@@ -65,39 +65,30 @@ shapeByType: {
     "texturesByType": {
         "*": {
             "stone": {
-                "base": "game:block/stone/agedbrick/{stone}1"
-            },
-            "metal": {
-                "base": "game:block/metal/ingot/brass"
-            },
-            "rock": {
-                "base": "game:block/stone/polishedrock/limestone"
+                "base": "game:block/stone/rock/claystone1"
             },
             "wood": {
-                "base": "block/bazaar/wood/cabinets/baldcypresscabinet"
+                "base": "game:block/wood/planks/{wood}1"
             }
         }
     },
     "variantgroups": [
         {
-            "code": "stone",
+            "code": "wood",
             "states": [
-				"andesite",
-				"basalt",
-				"bauxite",
-				"chalk",
-				"chert",
-				"claystone",
-				"conglomerate",
-				"granite",
-				"kimberlite",
-				"limestone",
-				"peridotite",
-				"phyllite",
-				"sandstone",
-				"shale",
-				"slate",
-				"suevite"
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
             ]
         },
         {

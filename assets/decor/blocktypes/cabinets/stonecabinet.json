@@ -1,48 +1,108 @@
 {
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+        "inventoryClassName": "Cabinet",
+        "pieFormingSurface": true,
+        "quantitySlots": "8"
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalOrientable"
+        },
+        {
+            "name": "Container"
+        },
+        {
+            "name": "UnstableFalling"
+        }
+    ],
+    "blockmaterial": "stone",
     "code": "stonecabinet",
-    "entityClass": "GenericContainer",
-    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-	attributes: {
-		"pieFormingSurface": true,
-		"inventoryClassName": "Cabinet",
-		"quantitySlots": "8",
-		"dialogTitleLangCode": "Cabinet Storage"
-	},
-    "shape": {
-        "base": "block/cabinets/stonecabinet",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
         }
     },
-    "blockmaterial": "stone",
-  "lightAbsorption": 0,
-    "sidesolid": {
-        "all": "false",
-	"up": "true"
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
     },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/stonecabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/stonecabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/stonecabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/stonecabinet", rotateY: 90 }
+     },
     "sideopaque": {
         "all": "false",
-	"up": "true"
+        "up": "true"
     },
-    "drawtype": "json",
-   "textures": {
-		"1": { "base": "game:block/metal/ingot/brass" },
-		"2": { "base": "game:block/stone/agedbrick/conglomerate1" },
-		"3": { "base": "game:block/stone/polishedrock/limestone" },
-		"4": { "base": "block/bazaar/wood/cabinets/baldcypresscabinet" }
-	},
-    "resistance": 3.5,
-    "materialDensity": 400,
+    "sidesolid": {
+        "all": "false",
+        "up": "true"
+    },
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
-	guiTransform: {
-		rotation: { x: -22.6, y: 152, z: 0 }
-	}
+    "texturesByType": {
+        "*": {
+            "stone": {
+                "base": "game:block/stone/agedbrick/{stone}1"
+            },
+            "metal": {
+                "base": "game:block/metal/ingot/brass"
+            },
+            "rock": {
+                "base": "game:block/stone/polishedrock/limestone"
+            },
+            "wood": {
+                "base": "block/bazaar/wood/cabinets/baldcypresscabinet"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "stone",
+            "states": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
 }
