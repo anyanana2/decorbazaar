@@ -1,22 +1,39 @@
 {
-    "attributes": {
-        "dialogTitleLangCode": "Cabinet Storage",
-        "inventoryClassName": "Cabinet",
-        "quantitySlots": "8"
-    },
-    "behaviors": [
-        {
-            "name": "HorizontalOrientable"
-        },
-        {
-            "name": "Container"
-        },
-        {
-            "name": "UnstableFalling"
-        }
-    ],
+	"code": "cabinet1",
+	"class": "BlockGenericTypedContainer",
+	"entityclass": "GenericTypedContainer",
+	"behaviors": [{"name": "Lockable" }, {"name": "Container"}, { "name": "HorizontalOrientable"}],
+	"entityBehaviors": [{"name": "Animatable" }],
+	"attributes": {
+		"partialAttachable": false,
+		"inventoryClassName": "Container",
+		"canPlaceGroundStorgeOnTop": false,
+		"defaultType": "cabinet1",
+		"openSound": "sounds/block/largechestopen",
+		"closeSound": "sounds/block/largechestclose",
+		"types": ["cabinet1"],
+		"drop": {
+			"cabinet1": true
+		},
+		"quantitySlots": {
+			"cabinet1": 16
+		},
+		"dialogTitleLangCode": {
+			"cabinet1": "Cabinet"
+		},
+		"storageType": {
+			"cabinet1": 189
+		},
+		"retrieveOnly": {
+			"cabinet1": false
+		},
+		"shape": {
+			"cabinet1": "block/cabinets/fancy/cabinet1"
+		},
+		"variantByGroup": "side",
+		"variantByGroupInventory": null
+	},
     "blockmaterial": "stone",
-    "code": "cabinet-1",
     "creativeinventoryByType": {
         "*": {
             "decorative": [
@@ -31,7 +48,6 @@
         }
     },
     "drawtype": "json",
-    "entityClass": "GenericContainer",
     "guiTransform": {
         "rotation": {
             "x": -22.6,
@@ -42,15 +58,12 @@
     "lightAbsorption": 0,
     "materialDensity": 400,
     "resistance": 3.5,
-"shape": {
-    "base": "block/cabinets/fancy/cabinet-1",
-    "rotateYByType": {
-        "*-north": 0,
-        "*-east": 270,
-        "*-south": 180,
-        "*-west": 90
-    }
-},
+    "shapeByType": {
+         "*-north": { "base": "block/cabinets/fancy/cabinet1", rotateY: 0 },
+         "*-east": { "base": "block/cabinets/fancy/cabinet1", rotateY: 270 },
+         "*-south": { "base": "block/cabinets/fancy/cabinet1", rotateY: 180 },
+         "*-west": { "base": "block/cabinets/fancy/cabinet1", rotateY: 90 }
+     },
     "sideopaque": {
         "all": "false",
         "up": "true"
@@ -64,105 +77,105 @@
         "walk": "game:walk/stone"
     },
     "texturesByType": {
-        "*-aged-*": {
+        "cabinet1-aged": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/aged-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/aged-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/aged1"
             }
         },
-        "*-acacia-*": {
+        "cabinet1-acacia": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/acacia-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/acacia-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/acacia1"
             }
         },
-        "*-baldcypress-*": {
+        "cabinet1-baldcypress": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/baldcypress-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/baldcypress-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/baldcypress1"
             }
         },
-        "*-birch-*": {
+        "cabinet1-birch": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/birch-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/birch-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/birch1"
             }
         },
-        "*-ebony-*": {
+        "cabinet1-ebony": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/ebony-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/ebony-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/ebony1"
             }
         },
-        "*-kapok-*": {
+        "cabinet1-kapok": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/kapok-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/kapok-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/kapok1"
             }
         },
-        "*-larch-*": {
+        "cabinet1-larch": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/larch-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/larch-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/larch1"
             }
         },
-        "*-maple-*": {
+        "cabinet1-maple": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/maple-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/maple-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/maple1"
             }
         },
-        "*-oak-*": {
+        "cabinet1-oak": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/oak-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/oak-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/oak1"
             }
         },
-        "*-pine-*": {
+        "cabinet1-pine": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/pine-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/pine-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/pine1"
             }
         },
-        "*-purpleheart-*": {
+        "cabinet1-purpleheart": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/purpleheart-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/purpleheart-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/purpleheart1"
             }
         },
-        "*-redwood-*": {
+        "cabinet1-redwood": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/redwood-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/redwood-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/redwood1"
             }
         },
-        "*-walnut-*": {
+        "cabinet1-walnut": {
             "cabinet": {
-                "base": "block/bazaar/wood/cabinets/fancy/walnut-a"
+                "base": "decor:block/bazaar/wood/cabinets/fancy/walnut-a"
             },
             "wood": {
                 "base": "game:block/wood/planks/walnut1"
