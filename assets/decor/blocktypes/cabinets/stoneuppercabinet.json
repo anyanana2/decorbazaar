@@ -13,7 +13,7 @@
         }
     ],
     "blockmaterial": "stone",
-    "code": "leftuppercabinet",
+    "code": "stoneuppercabinet",
     "creativeinventoryByType": {
         "*": {
             "decorative": [
@@ -41,10 +41,10 @@
     "resistance": 3.5,
 shapeByType: {
 
-         "*-north": { base: "block/cabinets/leftuppercabinet", rotateY: 0 },
-         "*-east": { base: "block/cabinets/leftuppercabinet", rotateY: 270 },
-         "*-south": { base: "block/cabinets/leftuppercabinet", rotateY: 180 },
-         "*-west": { base: "block/cabinets/leftuppercabinet", rotateY: 90 }
+         "*-north": { base: "block/cabinets/stoneuppercabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/stoneuppercabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/stoneuppercabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/stoneuppercabinet", rotateY: 90 }
      },
     "sideopaque": {
         "all": "false",
@@ -60,31 +60,34 @@ shapeByType: {
     },
     "texturesByType": {
         "*": {
-            "metal": {
-                "base": "game:block/metal/ingot/copper"
+            "stone": {
+                "base": "game:block/stone/agedbrick/{stone}1"
             },
-            "wood": {
-                "base": "game:block/wood/planks/{wood}1"
+            "metal": {
+                "base": "game:block/metal/ingot/brass"
             }
         }
     },
     "variantgroups": [
         {
-            "code": "wood",
+            "code": "stone",
             "states": [
-                "aged",
-                "acacia",
-                "baldcypress",
-                "birch",
-                "ebony",
-                "kapok",
-                "larch",
-                "maple",
-                "oak",
-                "pine",
-                "purpleheart",
-                "redwood",
-                "walnut"
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
             ]
         },
 		{

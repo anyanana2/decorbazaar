@@ -5,18 +5,37 @@
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }} ],
     "variantgroups": [
+	        {
+            "code": "stone",
+            "states": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+            ]
+        },
 		{ code:"type", states: ["normal"] },
 		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
 	],
-    "shape": {
-        "base": "block/cabinets/stoneshelf",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
-        }
-    },
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/stoneshelf", rotateY: 0 },
+         "*-east": { base: "block/cabinets/stoneshelf", rotateY: 270 },
+         "*-south": { base: "block/cabinets/stoneshelf", rotateY: 180 },
+         "*-west": { base: "block/cabinets/stoneshelf", rotateY: 90 }
+     },
     "blockmaterial": "Stone",
   "lightAbsorption": 0,
     "sidesolid": {
@@ -26,10 +45,16 @@
         "all": "false"
     },
     "drawtype": "json",
-"textures": {
-		"0": { "base": "game:block/stone/agedbrick/conglomerate1" },
-		"1": { "base": "game:block/metal/ingot/brass" }
-	},
+    "texturesByType": {
+        "*": {
+            "stone": {
+                "base": "game:block/stone/agedbrick/{stone}1"
+            },
+            "metal": {
+                "base": "game:block/metal/ingot/brass"
+            }
+        }
+    },
     "resistance": 3.5,
     "sounds": {
         "place": "game:block/stone",

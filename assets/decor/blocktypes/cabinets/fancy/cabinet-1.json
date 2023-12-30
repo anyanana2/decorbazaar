@@ -1,0 +1,196 @@
+{
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+        "inventoryClassName": "Cabinet",
+        "quantitySlots": "8"
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalOrientable"
+        },
+        {
+            "name": "Container"
+        },
+        {
+            "name": "UnstableFalling"
+        }
+    ],
+    "blockmaterial": "stone",
+    "code": "cabinet-1",
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+"shape": {
+    "base": "block/cabinets/fancy/cabinet-1",
+    "rotateYByType": {
+        "*-north": 0,
+        "*-east": 270,
+        "*-south": 180,
+        "*-west": 90
+    }
+},
+    "sideopaque": {
+        "all": "false",
+        "up": "true"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "true"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+    "texturesByType": {
+        "*-aged-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/aged-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/aged1"
+            }
+        },
+        "*-acacia-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/acacia-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/acacia1"
+            }
+        },
+        "*-baldcypress-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/baldcypress-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/baldcypress1"
+            }
+        },
+        "*-birch-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/birch-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/birch1"
+            }
+        },
+        "*-ebony-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/ebony-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/ebony1"
+            }
+        },
+        "*-kapok-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/kapok-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/kapok1"
+            }
+        },
+        "*-larch-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/larch-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/larch1"
+            }
+        },
+        "*-maple-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/maple-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/maple1"
+            }
+        },
+        "*-oak-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/oak-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/oak1"
+            }
+        },
+        "*-pine-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/pine-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/pine1"
+            }
+        },
+        "*-purpleheart-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/purpleheart-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/purpleheart1"
+            }
+        },
+        "*-redwood-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/redwood-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/redwood1"
+            }
+        },
+        "*-walnut-*": {
+            "cabinet": {
+                "base": "block/bazaar/wood/cabinets/fancy/walnut-a"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/walnut1"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

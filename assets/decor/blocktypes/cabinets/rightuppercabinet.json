@@ -13,7 +13,7 @@
         }
     ],
     "blockmaterial": "stone",
-    "code": "leftuppercabinet",
+    "code": "rightuppercabinet",
     "creativeinventoryByType": {
         "*": {
             "decorative": [
@@ -41,10 +41,10 @@
     "resistance": 3.5,
 shapeByType: {
 
-         "*-north": { base: "block/cabinets/leftuppercabinet", rotateY: 0 },
-         "*-east": { base: "block/cabinets/leftuppercabinet", rotateY: 270 },
-         "*-south": { base: "block/cabinets/leftuppercabinet", rotateY: 180 },
-         "*-west": { base: "block/cabinets/leftuppercabinet", rotateY: 90 }
+         "*-north": { base: "block/cabinets/rightuppercabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/rightuppercabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/rightuppercabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/rightuppercabinet", rotateY: 90 }
      },
     "sideopaque": {
         "all": "false",

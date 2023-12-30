@@ -13,7 +13,7 @@
         }
     ],
     "blockmaterial": "stone",
-    "code": "leftuppercabinet",
+    "code": "fancyuppercabinet",
     "creativeinventoryByType": {
         "*": {
             "decorative": [
@@ -41,10 +41,10 @@
     "resistance": 3.5,
 shapeByType: {
 
-         "*-north": { base: "block/cabinets/leftuppercabinet", rotateY: 0 },
-         "*-east": { base: "block/cabinets/leftuppercabinet", rotateY: 270 },
-         "*-south": { base: "block/cabinets/leftuppercabinet", rotateY: 180 },
-         "*-west": { base: "block/cabinets/leftuppercabinet", rotateY: 90 }
+         "*-north": { base: "block/cabinets/fancyuppercabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/fancyuppercabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/fancyuppercabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/fancyuppercabinet", rotateY: 90 }
      },
     "sideopaque": {
         "all": "false",
@@ -60,8 +60,8 @@ shapeByType: {
     },
     "texturesByType": {
         "*": {
-            "metal": {
-                "base": "game:block/metal/ingot/copper"
+            "glass": {
+                "base": "game:block/glass/quartz"
             },
             "wood": {
                 "base": "game:block/wood/planks/{wood}1"

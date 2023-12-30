@@ -1,8 +1,7 @@
 {
-    "code": "wardrobe",
-    "entityClass": "GenericContainer",
+    "code": "doublewoodsink",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
+    "behaviors": [{ "name": "HorizontalOrientable" }],
     "variantgroups": [
         {
             "code": "wood",
@@ -22,24 +21,48 @@
                 "walnut"
             ]
         },
+		{
+			"code": "metal",
+			"states": [
+				"bismuth",
+				"bismuthbronze",
+				"blackbronze",
+				"brass",
+				"copper",
+				"cupronickel",
+				"electrum",
+				"gold",
+				"iron",
+				"lead",
+				"leadsolder",
+				"meteoriciron",
+				"molybdochalkos",
+				"nickel",
+				"platinum",
+				"silver",
+				"silversolder",
+				"stainlesssteel",
+				"steel",
+				"tin",
+				"tinbronze",
+				"titanium",
+				"uranium",
+				"zinc"
+				]
+		},
         {
             "code": "side",
             "loadFromProperties": "abstract/horizontalorientation"
         }
     ],
-	attributes: {
-		"inventoryClassName": "Cabinet",
-		"quantitySlots": "24",
-		"dialogTitleLangCode": "Closet Storage"
-	},
-shapeByType: {
+"shapeByType": {
 
-         "*-north": { base: "block/cabinets/wardrobe", rotateY: 0 },
-         "*-east": { base: "block/cabinets/wardrobe", rotateY: 270 },
-         "*-south": { base: "block/cabinets/wardrobe", rotateY: 180 },
-         "*-west": { base: "block/cabinets/wardrobe", rotateY: 90 }
+         "*-north": { "base": "block/kitchendecor/doublewoodsink", rotateY: 0 },
+         "*-east": { "base": "block/kitchendecor/doublewoodsink", rotateY: 270 },
+         "*-south": { "base": "block/kitchendecor/doublewoodsink", rotateY: 180 },
+         "*-west": { "base": "block/kitchendecor/doublewoodsink", rotateY: 90 }
      },
-    "blockmaterial": "Wood",
+    "blockmaterial": "stone",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"
@@ -50,6 +73,9 @@ shapeByType: {
     "drawtype": "json",
     "texturesByType": {
         "*": {
+            "metal": {
+                "base": "game:block/metal/ingot/{metal}"
+            },
             "wood": {
                 "base": "game:block/wood/planks/{wood}1"
             }
@@ -60,7 +86,7 @@ shapeByType: {
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
-	guiTransform: {
-		rotation: { x: -22.6, y: 147, z: 0 }
+	"guiTransform": {
+		rotation: { x: -22.6, y: 144, z: 0 }
 	}
 }
