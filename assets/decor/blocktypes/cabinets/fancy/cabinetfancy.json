@@ -1,0 +1,213 @@
+{
+	"code": "cabinetfancy",
+	"class": "BlockGenericTypedContainer",
+	"entityclass": "GenericTypedContainer",
+	"behaviors": [{"name": "Lockable" }, {"name": "Container"}, { "name": "HorizontalOrientable"}],
+	"entityBehaviors": [{"name": "Animatable" }],
+	"attributes": {
+		"partialAttachable": false,
+		"inventoryClassName": "Container",
+		"canPlaceGroundStorgeOnTop": false,
+		"defaultType": "cabinetaged",
+		"openSound": "sounds/block/largechestopen",
+		"closeSound": "sounds/block/largechestclose",
+		"types": [
+		
+		"cabinetaged",
+		"cabinetacacia",
+		"cabinetbaldcypress",
+		"cabinetbirch",
+		"cabinetebony",
+		"cabinetkapok",
+		"cabinetlarch",
+		"cabinetmaple",
+		"cabinetoak",
+		"cabinetpine",
+		"cabinetpurpleheart",
+		"cabinetredwood",
+		"cabinetwalnut"
+		
+		],
+		"drop": {
+		"cabinetaged": true,
+		"cabinetacacia": true,
+		"cabinetbaldcypress": true,
+		"cabinetbirch": true,
+		"cabinetebony": true,
+		"cabinetkapok": true,
+		"cabinetlarch": true,
+		"cabinetmaple": true,
+		"cabinetoak": true,
+		"cabinetpine": true,
+		"cabinetpurpleheart": true,
+		"cabinetredwood": true,
+		"cabinetwalnut": true
+		},
+		"quantitySlots": {
+		"cabinetaged": 16,
+		"cabinetacacia": 16,
+		"cabinetbaldcypress": 16,
+		"cabinetbirch": 16,
+		"cabinetebony": 16,
+		"cabinetkapok": 16,
+		"cabinetlarch": 16,
+		"cabinetmaple": 16,
+		"cabinetoak": 16,
+		"cabinetpine": 16,
+		"cabinetpurpleheart": 16,
+		"cabinetredwood": 16,
+		"cabinetwalnut": 16
+		},
+		"dialogTitleLangCode": {
+		"cabinetaged": "Cabinet",
+		"cabinetacacia": "Cabinet",
+		"cabinetbaldcypress": "Cabinet",
+		"cabinetbirch": "Cabinet",
+		"cabinetebony": "Cabinet",
+		"cabinetkapok": "Cabinet",
+		"cabinetlarch": "Cabinet",
+		"cabinetmaple": "Cabinet",
+		"cabinetoak": "Cabinet",
+		"cabinetpine": "Cabinet",
+		"cabinetpurpleheart": "Cabinet",
+		"cabinetredwood": "Cabinet",
+		"cabinetwalnut": "Cabinet"
+		},
+		"storageType": {
+		"cabinetaged": 189,
+		"cabinetacacia": 189,
+		"cabinetbaldcypress": 189,
+		"cabinetbirch": 189,
+		"cabinetebony": 189,
+		"cabinetkapok": 189,
+		"cabinetlarch": 189,
+		"cabinetmaple": 189,
+		"cabinetoak": 189,
+		"cabinetpine": 189,
+		"cabinetpurpleheart": 189,
+		"cabinetredwood": 189,
+		"cabinetwalnut": 189
+		},
+		"retrieveOnly": {
+		"cabinetaged": false,
+		"cabinetacacia": false,
+		"cabinetbaldcypress": false,
+		"cabinetbirch": false,
+		"cabinetebony": false,
+		"cabinetkapok": false,
+		"cabinetlarch": false,
+		"cabinetmaple": false,
+		"cabinetoak": false,
+		"cabinetpine": false,
+		"cabinetpurpleheart": false,
+		"cabinetredwood": false,
+		"cabinetwalnut": false
+		},
+		"shape": {
+		"cabinetaged": "block/cabinets/fancy/cabinetaged",
+		"cabinetacacia": "block/cabinets/fancy/cabinetacacia",
+		"cabinetbaldcypress": "block/cabinets/fancy/cabinetbaldcypress",
+		"cabinetbirch": "block/cabinets/fancy/cabinetbirch",
+		"cabinetebony": "block/cabinets/fancy/cabinetebony",
+		"cabinetkapok": "block/cabinets/fancy/cabinetkapok",
+		"cabinetlarch": "block/cabinets/fancy/cabinetlarch",
+		"cabinetmaple": "block/cabinets/fancy/cabinetmaple",
+		"cabinetoak": "block/cabinets/fancy/cabinetoak",
+		"cabinetpine": "block/cabinets/fancy/cabinetpine",
+		"cabinetpurpleheart": "block/cabinets/fancy/cabinetpurpleheart",
+		"cabinetredwood": "block/cabinets/fancy/cabinetredwood",
+		"cabinetwalnut": "block/cabinets/fancy/cabinetwalnut"
+		},
+		"variantByGroup": "side",
+		"variantByGroupInventory": null
+	},
+	"creativeinventoryStacksByType": {
+		"*-east": [
+			{
+				"tabs": [ "general", "decorative", "decorbazaar" ],
+				"stacks": [
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetaged" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetacacia" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetbaldcypress" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetbirch" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetebony" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetkapok" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetlarch" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetmaple" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetoak" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetpine" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetpurpleheart" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetredwood" } },
+					{ "type": "block", "code": "cabinetfancy-east", "attributes": { "type": "cabinetwalnut" } }
+				]
+			}
+		]
+	},
+    "blockmaterial": "stone",
+	"creativeinventory": {},
+    "drawtype": "json",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+    "shapeByType": {
+
+         "*-north": { "base": "block/cabinets/fancy/cabinetaged", rotateY: 0 },
+         "*-east": { "base": "block/cabinets/fancy/cabinetaged", rotateY: 270 },
+         "*-south": { "base": "block/cabinets/fancy/cabinetaged", rotateY: 180 },
+         "*-west": { "base": "block/cabinets/fancy/cabinetaged", rotateY: 90 }
+     },
+    "sideopaque": {
+        "all": "false",
+        "up": "true"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "true"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+
+"textures": {
+	"cabinetaged-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/aged-a" },
+	"cabinetaged-wood": { "base": "game:block/wood/planks/aged1" },
+	"cabinetacacia-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/acacia-a" },
+	"cabinetacacia-wood": { "base": "game:block/wood/planks/acacia1" },
+	"cabinetbaldcypress-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/baldcypress-a" },
+	"cabinetbaldcypress-wood": { "base": "game:block/wood/planks/baldcypress1" },
+	"cabinetbirch-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/birch-a" },
+	"cabinetbirch-wood": { "base": "game:block/wood/planks/birch1" },
+	"cabinetebony-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/ebony-a" },
+	"cabinetebony-wood": { "base": "game:block/wood/planks/ebony1" },
+	"cabinetkapok-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/kapok-a" },
+	"cabinetkapok-wood": { "base": "game:block/wood/planks/kapok1" },
+	"cabinetlarch-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/larch-a" },
+	"cabinetlarch-wood": { "base": "game:block/wood/planks/larch1" },
+	"cabinetmaple-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/maple-a" },
+	"cabinetmaple-wood": { "base": "game:block/wood/planks/maple1" },
+	"cabinetoak-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/oak-a" },
+	"cabinetoak-wood": { "base": "game:block/wood/planks/oak1" },
+	"cabinetpine-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/pine-a" },
+	"cabinetpine-wood": { "base": "game:block/wood/planks/pine1" },
+	"cabinetpurpleheart-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/purpleheart-a" },
+	"cabinetpurpleheart-wood": { "base": "game:block/wood/planks/purpleheart1" },
+	"cabinetredwood-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/redwood-a" },
+	"cabinetredwood-wood": { "base": "game:block/wood/planks/redwood1" },
+	"cabinetwalnut-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/walnut-a" },
+	"cabinetwalnut-wood": { "base": "game:block/wood/planks/walnut1" }
+    },
+    "variantgroups": [
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

@@ -331,7 +331,6 @@ Paintings only accessable in creative:
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
   "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
-  "block-baldcypressstool-*": "Bald Cypress Stool",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
   "block-potsandpans-*": "Pots and Pans",
@@ -1246,6 +1245,22 @@ Paintings only accessable in creative:
   "block-sidetable-walnut-1-*": "Walnut Side Table",
   "block-sidetable-walnut-2-*": "Walnut Side Table",
   "block-sidetable-walnut-3-*": "Walnut Side Table",
+
+// stool variants //
+
+  "block-stool-aged-*": "Aged Stool",
+  "block-stool-acacia-*": "Acacia Stool",
+  "block-stool-baldcypress-*": "Bald Cypress Stool",
+  "block-stool-birch-*": "Birch Stool",
+  "block-stool-ebony-*": "Ebony Stool",
+  "block-stool-kapok-*": "Kapok Stool",
+  "block-stool-larch-*": "Larch Stool",
+  "block-stool-maple-*": "Maple Stool",
+  "block-stool-oak-*": "Oak Stool",
+  "block-stool-pine-*": "Pine Stool",
+  "block-stool-purpleheart-*": "Purple Heart Stool",
+  "block-stool-redwood-*": "Redwood Stool",
+  "block-stool-walnut-*": "Walnut Stool",
 
 
 
