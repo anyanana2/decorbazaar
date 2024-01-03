@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "N,L",
+	   	ingredients: {
+	   	"N": { type: "item", code: "game:drygrass", quantity: 4 },
+		"L": { type: "item", code: "game:bonemeal", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:wallpaper-fish", quantity: 24 }
+	}
+]

@@ -175,6 +175,9 @@
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
+	guiTransform: {
+		rotation: { x: -22.6, y: -115, z: 0 }
+	},
 
 "textures": {
 	"cabinetaged-cabinet": { "base": "block/bazaar/wood/cabinets/fancy/aged-a" },

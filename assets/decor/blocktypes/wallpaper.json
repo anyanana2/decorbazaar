@@ -7,7 +7,7 @@
 		}
 	},
 	variantgroups: [
-		{ code:"type", states: ["purplesquare", "fish", "midnight", "whiteflower", "greenpannels", "mushrooms", "bottles"] }
+		{ code:"type", states: [ "fish", "midnight", "greenpannels", "mushrooms"] }
 	],
 	drawtype: "surfacelayer",
 	shapeInventory: {

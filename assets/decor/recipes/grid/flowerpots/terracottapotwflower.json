@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "N,C,F",
+	   	ingredients: {
+	   	"N": { type: "item", code: "game:nugget-nativecopper", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
+		"F": { type: "item", code: "game:drygrass", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:bazaarflowerpotwflower-terracottawflower", quantity: 2 }
+	}
+]

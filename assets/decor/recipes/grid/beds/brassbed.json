@@ -7,6 +7,6 @@
 	   	},
 	   	width: 1,
 	   	height: 2,
-	   	output: { type: "block", code: "brassbed-brass-head-north" }
+	   	output: { type: "block", code: "decor:brassbed-brass-head-north", quantity: 1 }
 	}
 ]

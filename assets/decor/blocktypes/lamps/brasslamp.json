@@ -1,18 +1,25 @@
 {
     "code": "brasslamp",
     "storageFlags": 257,
-    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-    "shape": {
-        "base": "block/lamps/brasslamp",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
-        }
-    },
+	creativeinventoryByType: {
+		"*": { "general": ["*-{state}-north"], "decorative": ["*-{state}-north"], "decorbazaar": ["*-{state}-north"] }	
+	},
+	behaviors: [ {name: "HorizontalOrientable"},
+		{
+			name: "ExchangeOnInteract",
+			properties: {
+				exchangeStates: ["*-1-*", "*-2-*"],
+				sound: "block/special/click",
+				actionLangCode: "decor:blockhelp-creative-switch"
+			}
+		} ],
+    "variantgroups": [{ code:"state", states: ["1", "2"] }, { "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	shapeByType: {
+		"*-north": { base: "block/lamps/brasslamp-{state}", rotateY: 0 },
+		"*-west": { base: "block/lamps/brasslamp-{state}", rotateY: 90 },
+		"*-south": { base: "block/lamps/brasslamp-{state}", rotateY: 180 },
+		"*-east": { base: "block/lamps/brasslamp-{state}", rotateY: 270 }
+	},
     "blockmaterial": "Metal",
     "sidesolid": {
         "all": "false"

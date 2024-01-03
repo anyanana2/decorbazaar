@@ -2,12 +2,12 @@
 	{
 		ingredientPattern: "P,G,F",
 	   	ingredients: {
-	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	"P": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
 	   	"G": { type: "item", code: "game:grain-*", quantity: 4 },
 	   	"F": { type: "Block", code: "game:glass-plain", quantity: 1 },
 	   	},
 	   	width: 1,
 	   	height: 3,
-	   	output: { type: "block", code: "spicerack-north" }
+	   	output: { type: "block", code: "decor:spicerack-{wood}-north", quantity: 1 }
 	}
 ]

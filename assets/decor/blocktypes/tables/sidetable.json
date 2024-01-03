@@ -6,7 +6,7 @@
 			properties: {
 				exchangeStates: ["*-1-*", "*-2-*", "*-3-*" ],
 				sound: "block/special/click",
-				actionLangCode: "blockhelp-trapdoor-openclose"
+				actionLangCode: "decor:blockhelp-creative-switch"
 			}
 		} ],
 	variantgroups: [
@@ -38,7 +38,7 @@
 		"*-east": { base: "block/tables/sidetable-{state}", rotateY: 270 }
 	},
 	creativeinventoryByType: {
-		"*": { "general": ["*-1-north"], "decorative": ["*-1-north"], "decorbazaar": ["*-1-north"] }
+		"*": { "general": ["*-{state}-north"], "decorative": ["*-{state}-north"], "decorbazaar": ["*-{state}-north"] }	
 	},
 	blockmaterial: "Wood",
 	replaceable: 900,

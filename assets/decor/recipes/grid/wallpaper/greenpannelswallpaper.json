@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "N,F",
+	   	ingredients: {
+	   	"N": { type: "item", code: "game:drygrass", quantity: 4 },
+		"F": { type: "item", code: "game:flaxfibers", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:wallpaper-greenpannels", quantity: 24 }
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		ingredientPattern: "S,C,M",
+	   	ingredients: {
+	   	"S": { type: "block", code: "game:sand-*", quantity: 4 },
+	   	"C": { type: "item", code: "game:ore-quartz", quantity: 1 },
+		"M": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:bazaarceramicblock-goldmeteor", quantity: 16 }
+	}
+]
+

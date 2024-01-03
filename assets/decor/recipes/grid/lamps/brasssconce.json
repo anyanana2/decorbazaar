@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "B,Q,R",
 	   	ingredients: {
-	   	"B": { type: "item", code: "game:ingot-brass", quantity: 1 },
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 1 },
 	   	"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
 	   	"R": { type: "item", code: "game:gear-rusty", quantity: 1 },
 	   	},

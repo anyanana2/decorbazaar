@@ -9,18 +9,36 @@
 		"dialogTitleLangCode": "Cabinet Storage"
 	},
     "variantgroups": [
-		{ code:"type", states: ["normal"] },
-		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
-	],
-    "shape": {
-        "base": "block/kitchendecor/kitchenshelf",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
         }
-    },
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/kitchendecor/kitchenshelf", rotateY: 0 },
+         "*-east": { base: "block/kitchendecor/kitchenshelf", rotateY: 270 },
+         "*-south": { base: "block/kitchendecor/kitchenshelf", rotateY: 180 },
+         "*-west": { base: "block/kitchendecor/kitchenshelf", rotateY: 90 }
+     },
     "blockmaterial": "Stone",
   "lightAbsorption": 0,
     "sidesolid": {
@@ -30,16 +48,13 @@
         "all": "false"
     },
     "drawtype": "json",
-"textures": {
-		"0": { "base": "block/bazaar/glass/spicerackbottles" },
-		"1": { "base": "game:block/wood/planks/aged1" },
-		"2": { "base": "game:block/wood/planks/acacia1" },
-		"3": { "base": "game:block/metal/ingot/lead" },
-		"4": { "base": "game:block/metal/ingot/iron" },
-		"5": { "base": "game:block/metal/ingot/brass" },
-		"6": { "base": "game:block/clay/vessel/sides/burned" },
-		"7": { "base": "game:block/cloth/linen/brown" }
-	},
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
     "resistance": 3.5,
     "sounds": {
         "place": "game:block/stone",

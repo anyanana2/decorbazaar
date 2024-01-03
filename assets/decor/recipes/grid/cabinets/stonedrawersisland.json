@@ -2,13 +2,18 @@
 	{
 		ingredientPattern: "F,T,S",
 	   	ingredients: {
-	   	"T": { type: "item", code: "game:ingot-*", quantity: 2 },
-	   	"F": { type: "Block", code: "game:cobblestone-*", quantity: 2 },
-	   	"S": { type: "item", code: "game:stone-*", quantity: 4 },
+	   	"F": { type: "item", code: "game:nugget-*", quantity: 2 },
+	   	"T": { type: "Block", code: "game:cobblestone-*", quantity: 2 },
+		   	"S": {
+				type: "item",
+				name: "stone",
+				code: "game:stone-*",
+				quantity: 2,
+				allowedVariants: ["andesite", "basalt", "bauxite", "chalk", "chert", "claystone", "conglomerate", "granite", "kimberlite", "limestone", "peridotite", "phyllite", "sandstone", "shale", "slate", "suevite"] },
 	   	},
-	   	width: 1,
-	   	height: 3,
-	   	output: { type: "block", code: "stonedrawersisland-north" }
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:stonedrawersisland-{stone}-north", quantity: 2 }
 	}
 ]
 

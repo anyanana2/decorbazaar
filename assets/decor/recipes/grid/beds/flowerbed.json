@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "F,C",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:plank-*", quantity: 2 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:flowerbed-flower-head-north", quantity: 1 }
+	}
+]

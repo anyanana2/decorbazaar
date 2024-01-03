@@ -22,54 +22,79 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://Red Gingham Carpet\">Red Gingham Carpet</a>
 
 
-<a href=\"handbooksearch://Side Table\">Side Tables</a>
-<a href=\"handbooksearch://Wardrobe (Bald Cypress)\">Wardrobe (Bald Cypress)</a> has slots for clothes.
+<a href=\"handbooksearch://Side Table\">Side Tables</a> right click to change type!
+<a href=\"handbooksearch://Wardrobe\">Wardrobe</a> has slots for clothes.
 <a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
+<a href=\"handbooksearch://Brass Candle Shelf\">Brass Candle Shelf</a>
+<a href=\"handbooksearch://Mushroom Cloche\">Brass Mushroom Cloche</a>
 <a href=\"handbooksearch://Brass Table\">Brass Table</a>
-<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> are functional!
+<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> are functional! Right click to change type.
 <a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> is functional!
 <a href=\"handbooksearch://Brass Bed\">Brass Bed</a> is functional!
+<a href=\"handbooksearch://Flower Bed\">Flower Bed</a> is functional!
 
 
-<a href=\"handbooksearch://Left Cabinet\">Left Cabinet (Bald Cypress)</a> has storage slots.
-<a href=\"handbooksearch://Right Cabinet\">Right Cabinet (Bald Cypress)</a> has storage slots.
-<a href=\"handbooksearch://Top Left Cabinet\">Top Left Cabinet (Bald Cypress)</a> has storage slots.
-<a href=\"handbooksearch://Top Right Cabinet\">Top Right Cabinet (Bald Cypress)</a> has storage slots.
+<a href=\"handbooksearch://Left Cabinet\">Left Cabinet</a> has storage slots.
+<a href=\"handbooksearch://Right Cabinet\">Right Cabinet</a> has storage slots.
+<a href=\"handbooksearch://Left Upper Cabinet\">Left Upper Cabinet</a> has storage slots.
+<a href=\"handbooksearch://Right Upper Cabinet\">Right Upper Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Open Cabinet\">Open Cabinet</a>
-<a href=\"handbooksearch://Sink\">Sinks</a>
+<a href=\"handbooksearch://stone Sink\">Stone Sinks</a>
+<a href=\"handbooksearch://wood Sink\">Wood Sinks</a>
 
 <a href=\"handbooksearch://Stone Cabinet\">Stone Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Stone Drawer\">Stone Drawer & Island</a> has storage slots.
-<a href=\"handbooksearch://Stone Cabinet Top\">Stone Cabinet Top</a> has storage slots.
+<a href=\"handbooksearch://Stone Upper Cabinet\">Stone Upper Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Stone Shelf\">Stone Shelf</a> has storage slots.
+
+<a href=\"handbooksearch://Fancy Cabinet\">Fancy Cabinet & Island</a> has storage slots.
+<a href=\"handbooksearch://Fancy Upper Cabinet\">Fancy Upper Cabinet</a> has storage slots.
 
 
 <a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
 <a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
-<a href=\"handbooksearch://Bald Cypress Stool\">Bald Cypress Stool</a>
+<a href=\"handbooksearch://Stool\">Stool</a>
 <a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
 <a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
 <a href=\"handbooksearch://Jug\">Jug</a>
+<a href=\"handbooksearch://deco shelf\">Deco Shelf</a>
 <a href=\"handbooksearch://Dish Rack\">Dish Rack</a>
 <a href=\"handbooksearch://Pots and Pans\">Pots and Pans</a>
+<a href=\"handbooksearch://mug rack\">Mug Rack</a>
 <a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
-<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
+<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a> is functional.
+<a href=\"handbooksearch://Vegetable Storage\">Veggie Storage</a> is functional. 
 <a href=\"handbooksearch://Tea Set\">Tea Sets</a>
-<a href=\"handbooksearch://Spice Rack\">Spice Rack</a>
+<a href=\"handbooksearch://Spice Rack\">Spice Rack</a> has storage.
 <a href=\"handbooksearch://Kitchen Shelf\">Kitchen Shelf</a>
 <a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
+<a href=\"handbooksearch://compost bin\">Compost Bin</a> should accelerate rot.
 
 
 <a href=\"handbooksearch://garden sign\">Garden Signs</a>
 <a href=\"handbooksearch://bees sign\">Bee Sign</a>
 <a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
 <a href=\"handbooksearch://Seed Storage\">Seed Storage</a> has storage slots for seeds.
+<a href=\"handbooksearch://terra cotta\">Terra Cotta Flower Pots</a> are functional!
+<a href=\"handbooksearch://blue flower pot\">Blue Flower Pot</a> is functional!
+<a href=\"handbooksearch://purple and gold flower pot\">Purple Flower Pot</a> is functional!
 
 <a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
 
 <a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
 
+<a href=\"handbooksearch://wooden shelf\">Wooden Shelf</a> : right click to change.
+
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
+
+Tile Blocks:
+<a href=\"handbooksearch://beige tile\">Beige Tile</a>
+<a href=\"handbooksearch://gray tile\">Gray Tile</a>
+<a href=\"handbooksearch://anthro tile\">Anthro Tile</a>
+<a href=\"handbooksearch://purple tile\">Aged Purple Tile</a>
+<a href=\"handbooksearch://mossy pink tile\">Mossy Pink Tile</a>
+<a href=\"handbooksearch://gold square tile\">Gold Square Tile</a>
+<a href=\"handbooksearch://gold meteor tile\">Gold Meteor Tile</a>
 
 
 Paintings only accessable in creative:
@@ -77,14 +102,23 @@ Paintings only accessable in creative:
 <a href=\"handbooksearch://House on the Hill\">House on the Hill</a>
 <a href=\"handbooksearch://Lone Grave\">Lone Grave</a>
 
+There is also some new wallpaper only accessable in creative mode. 
 
 
 ",
+
+  // Creative Mode switching variants //
+
+  "blockhelp-creative-switch": "Switch variants",
+
 
   "block-bazaarceramicblock-beige*": "Beige Tile",
   "block-bazaarceramicblock-gray*": "Gray Tile",
   "block-bazaarceramicblock-anthro*": "Anthro Tile",
   "block-bazaarceramicblock-purpletile*": "Aged Purple Tile",
+  "block-bazaarceramicblock-mossypink*": "Mossy Pink Tile",
+  "block-bazaarceramicblock-goldsquare*": "Gold Square Tile",
+  "block-bazaarceramicblock-goldmeteor*": "Gold Meteor Tile",
 
   "block-stonestove-*": "Stone Stove",
   "block-castironstove-*": "Cast Iron Stove",
@@ -112,7 +146,6 @@ Paintings only accessable in creative:
   "block-sink-*": "Sink (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
   "block-brasslamp-*": "Brass Lamp",
-  "block-creambrasslamp-*": "Cream Brass Lamp",
   "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
   "block-flowerbed-*": "Flower Bed",
@@ -320,13 +353,20 @@ Paintings only accessable in creative:
   "block-fancycabinetisland-redwood-*": "Fancy Cabinet Island Redwood",
   "block-fancycabinetisland-walnut-*": "Fancy Cabinet Island Walnut",
 
-
-  "block-mugrack-*": "Mug Rack",
   
   "block-brasscandleshelf-*": "Brass Candle Shelf",
   "block-mushroomcloche-*": "Mushroom Cloche",
 
   "block-witchyitems-*": "Witchy Items",
+  "block-bazaarflowerpot-terracotta": "Terra Cotta Flower Pot",
+  "block-bazaarflowerpotwflower-terracottawflower": "Terra Cotta Flower Pot w Flower",
+  "block-bazaarflowerpot-blueclay": "Blue Flower Pot",
+  "block-purplepot-purplewgold": "Purple & Gold Flower Pot",
+
+  "block-wallpaper-fish": "Fish Wallpaper",
+  "block-wallpaper-midnight": "Midnight Wallpaper",
+  "block-wallpaper-greenpannels": "Green Pannels Wallpaper",
+  "block-wallpaper-mushrooms": "Mushroom Wallpaper",
 
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
@@ -342,7 +382,6 @@ Paintings only accessable in creative:
   "block-teaset-*": "Tea Set",
   "block-brassteaset-*": "Brass Tea Set",
   "block-dishrack-*": "Dish Rack",
-  "block-kitchenshelf-*": "Kitchen Shelf",
   "block-breadbox-*": "Bread Box",
   "block-picnicbasket-*": "Picnic Basket",
 
@@ -1261,6 +1300,103 @@ Paintings only accessable in creative:
   "block-stool-purpleheart-*": "Purple Heart Stool",
   "block-stool-redwood-*": "Redwood Stool",
   "block-stool-walnut-*": "Walnut Stool",
+
+// kitchen shelf variants //
+
+  "block-kitchenshelf-aged-*": "Aged Kitchen Shelf",
+  "block-kitchenshelf-acacia-*": "Acacia Kitchen Shelf",
+  "block-kitchenshelf-baldcypress-*": "Bald Cypress Kitchen Shelf",
+  "block-kitchenshelf-birch-*": "Birch Kitchen Shelf",
+  "block-kitchenshelf-ebony-*": "Ebony Kitchen Shelf",
+  "block-kitchenshelf-kapok-*": "Kapok Kitchen Shelf",
+  "block-kitchenshelf-larch-*": "Larch Kitchen Shelf",
+  "block-kitchenshelf-maple-*": "Maple Kitchen Shelf",
+  "block-kitchenshelf-oak-*": "Oak Kitchen Shelf",
+  "block-kitchenshelf-pine-*": "Pine Kitchen Shelf",
+  "block-kitchenshelf-purpleheart-*": "Purple Heart Kitchen Shelf",
+  "block-kitchenshelf-redwood-*": "Redwood Kitchen Shelf",
+  "block-kitchenshelf-walnut-*": "Walnut Kitchen Shelf",
+
+// mug rack variants //
+  "block-mugrack-aged-*": "Aged Mug Rack",
+  "block-mugrack-acacia-*": "Acacia Mug Rack",
+  "block-mugrack-baldcypress-*": "Bald Cypress Mug Rack",
+  "block-mugrack-birch-*": "Birch Mug Rack",
+  "block-mugrack-ebony-*": "Ebony Mug Rack",
+  "block-mugrack-kapok-*": "Kapok Mug Rack",
+  "block-mugrack-larch-*": "Larch Mug Rack",
+  "block-mugrack-maple-*": "Maple Mug Rack",
+  "block-mugrack-oak-*": "Oak Mug Rack",
+  "block-mugrack-pine-*": "Pine Mug Rack",
+  "block-mugrack-purpleheart-*": "Purple Heart Mug Rack",
+  "block-mugrack-redwood-*": "Redwood Mug Rack",
+  "block-mugrack-walnut-*": "Walnut Mug Rack",
+
+// fancy cabinet variants //
+
+  "block-cabinetaged-cabinetfancy-*": "Aged Fancy Cabinet",
+  "block-cabinetacacia-cabinetfancy-*": "Acacia Fancy Cabinet",
+  "block-cabinetbaldcypress-cabinetfancy-*": "Bald Cypress Fancy Cabinet",
+  "block-cabinetbirch-cabinetfancy-*": "Birch Fancy Cabinet",
+  "block-cabinetebony-cabinetfancy-*": "Ebony Fancy Cabinet",
+  "block-cabinetkapok-cabinetfancy-*": "Kapok Fancy Cabinet",
+  "block-cabinetlarch-cabinetfancy-*": "Larch Fancy Cabinet",
+  "block-cabinetmaple-cabinetfancy-*": "Maple Fancy Cabinet",
+  "block-cabinetoak-cabinetfancy-*": "Oak Fancy Cabinet",
+  "block-cabinetpine-cabinetfancy-*": "Pine Fancy Cabinet",
+  "block-cabinetpurpleheart-cabinetfancy-*": "Purple Heart Fancy Cabinet",
+  "block-cabinetredwood-cabinetfancy-*": "Redwood Fancy Cabinet",
+  "block-cabinetwalnut-cabinetfancy-*": "Walnut Fancy Cabinet",
+
+// coffee table variants //
+
+  "block-coffeetable-aged-1-*": "Aged Coffee Table",
+  "block-coffeetable-aged-2-*": "Aged Coffee Table",
+  "block-coffeetable-aged-3-*": "Aged Coffee Table",
+  "block-coffeetable-acacia-1-*": "Acacia Coffee Table",
+  "block-coffeetable-acacia-2-*": "Acacia Coffee Table",
+  "block-coffeetable-acacia-3-*": "Acacia Coffee Table",
+  "block-coffeetable-baldcypress-1-*": "Bald Cypress Coffee Table",
+  "block-coffeetable-baldcypress-2-*": "Bald Cypress Coffee Table",
+  "block-coffeetable-baldcypress-3-*": "Bald Cypress Coffee Table",
+  "block-coffeetable-birch-1-*": "Birch Coffee Table",
+  "block-coffeetable-birch-2-*": "Birch Coffee Table",
+  "block-coffeetable-birch-3-*": "Birch Coffee Table",
+  "block-coffeetable-ebony-1-*": "Ebony Coffee Table",
+  "block-coffeetable-ebony-2-*": "Ebony Coffee Table",
+  "block-coffeetable-ebony-3-*": "Ebony Coffee Table",
+  "block-coffeetable-kapok-1-*": "Kapok Coffee Table",
+  "block-coffeetable-kapok-2-*": "Kapok Coffee Table",
+  "block-coffeetable-kapok-3-*": "Kapok Coffee Table",
+  "block-coffeetable-larch-1-*": "Larch Coffee Table",
+  "block-coffeetable-larch-2-*": "Larch Coffee Table",
+  "block-coffeetable-larch-3-*": "Larch Coffee Table",
+  "block-coffeetable-maple-1-*": "Maple Coffee Table",
+  "block-coffeetable-maple-2-*": "Maple Coffee Table",
+  "block-coffeetable-maple-3-*": "Maple Coffee Table",
+  "block-coffeetable-oak-1-*": "Oak Coffee Table",
+  "block-coffeetable-oak-2-*": "Oak Coffee Table",
+  "block-coffeetable-oak-3-*": "Oak Coffee Table",
+  "block-coffeetable-pine-1-*": "Pine Coffee Table",
+  "block-coffeetable-pine-2-*": "Pine Coffee Table",
+  "block-coffeetable-pine-3-*": "Pine Coffee Table",
+  "block-coffeetable-purpleheart-1-*": "Purple Heart Coffee Table",
+  "block-coffeetable-purpleheart-2-*": "Purple Heart Coffee Table",
+  "block-coffeetable-purpleheart-3-*": "Purple Heart Coffee Table",
+  "block-coffeetable-redwood-1-*": "Redwood Coffee Table",
+  "block-coffeetable-redwood-2-*": "Redwood Coffee Table",
+  "block-coffeetable-redwood-3-*": "Redwood Coffee Table",
+  "block-coffeetable-walnut-1-*": "Walnut Coffee Table",
+  "block-coffeetable-walnut-2-*": "Walnut Coffee Table",
+  "block-coffeetable-walnut-3-*": "Walnut Coffee Table",
+
+// table setting variants //
+
+  "block-tablesetting-1-*": "Table Setting",
+  "block-tablesetting-2-*": "Table Setting",
+  "block-tablesetting-3-*": "Table Setting",
+  "block-tablesetting-4-*": "Table Setting",
+  "block-tablesetting-5-*": "Table Setting",
 
 
 

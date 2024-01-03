@@ -7,7 +7,7 @@
 	   	},
 	   	width: 1,
 	   	height: 2,
-	   	output: { type: "block", code: "bathroomdecor1-north" }
+	   	output: { type: "block", code: "decor:bathroomdecor1-north", quantity: 1 }
 	}
 ]
 

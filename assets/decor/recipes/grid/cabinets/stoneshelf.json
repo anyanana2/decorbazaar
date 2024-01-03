@@ -2,12 +2,17 @@
 	{
 		ingredientPattern: "F,W",
 	   	ingredients: {
-	   	"F": { type: "Block", code: "game:cobblestone-*", quantity: 4 },
-	   	"W": { type: "item", code: "game:ingot-*", quantity: 1 },
+		   	"F": {
+				type: "item",
+				name: "stone",
+				code: "game:stone-*",
+				quantity: 2,
+				allowedVariants: ["andesite", "basalt", "bauxite", "chalk", "chert", "claystone", "conglomerate", "granite", "kimberlite", "limestone", "peridotite", "phyllite", "sandstone", "shale", "slate", "suevite"] },
+	   	"W": { type: "item", code: "game:nugget-*", quantity: 4 },
 	   	},
 	   	width: 1,
 	   	height: 2,
-	   	output: { type: "block", code: "stoneshelf-normal-north" }
+	   	output: { type: "block", code: "decor:stoneshelf-{stone}-normal-north", quantity: 2 }
 	}
 ]
 

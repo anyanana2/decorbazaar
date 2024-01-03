@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "N,M",
+	   	ingredients: {
+	   	"N": { type: "item", code: "game:drygrass", quantity: 4 },
+		"M": { type: "block", code: "game:mushroom-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:wallpaper-mushrooms", quantity: 24 }
+	}
+]

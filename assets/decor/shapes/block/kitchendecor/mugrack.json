@@ -10,12 +10,12 @@
 		"5": [32, 32]
 	},
 	"textures": {
-		"0": "/Games/Vintagestory/assets/survival/textures/block/wood/planks/purpleheart1",
-		"1": "/Games/Vintagestory/assets/survival/textures/block/metal/ingot/gold",
-		"2": "/Games/Vintagestory/assets/survival/textures/block/clay/vessel/sides/rutile",
-		"3": "/Games/Vintagestory/assets/survival/textures/block/clay/vessel/sides/harvest",
-		"4": "/Games/Vintagestory/assets/survival/textures/block/clay/vessel/sides/copper",
-		"5": "/Games/Vintagestory/assets/survival/textures/block/clay/flintporcelain/dark"
+		"wood": "block/wood/planks/purpleheart1",
+		"1": "game:block/metal/ingot/gold",
+		"2": "game:block/clay/vessel/sides/rutile",
+		"3": "game:block/clay/vessel/sides/harvest",
+		"4": "game:block/clay/vessel/sides/copper",
+		"5": "game:block/clay/flintporcelain/dark"
 	},
 	"elements": [
 		{
@@ -1782,32 +1782,32 @@
 			"rotationOrigin": [8, 0, 8],
 			"faces": {
 				"north": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 1, 32, 4],
 					"autoUv": false
 				},
 				"east": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				},
 				"south": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 1, 32, 4],
 					"autoUv": false
 				},
 				"west": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				},
 				"up": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 32, 3],
 					"autoUv": false
 				},
 				"down": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 32, 3],
 					"autoUv": false
 				}
@@ -1822,32 +1822,32 @@
 			"rotationOrigin": [8, 0, 8],
 			"faces": {
 				"north": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"east": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"south": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"west": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"up": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				},
 				"down": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				}
@@ -1862,32 +1862,32 @@
 			"rotationOrigin": [8, 0, 8],
 			"faces": {
 				"north": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"east": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"south": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"west": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 4],
 					"autoUv": false
 				},
 				"up": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				},
 				"down": {
-					"texture": "#0",
+					"texture": "#wood",
 					"uv": [0, 0, 3, 3],
 					"autoUv": false
 				}

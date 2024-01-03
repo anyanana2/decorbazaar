@@ -7,6 +7,6 @@
 	   	},
 	   	width: 1,
 	   	height: 2,
-	   	output: { type: "block", code: "redginghamcarpet-red-down" }
+	   	output: { type: "block", code: "decor:redginghamcarpet-red-down", quantity: 8 }
 	}
 ]

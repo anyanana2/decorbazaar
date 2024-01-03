@@ -8,6 +8,6 @@
 	   	},
 	   	width: 1,
 	   	height: 3,
-	   	output: { type: "block", code: "wallveg-north" }
+	   	output: { type: "block", code: "wallveg-normal-north" }
 	}
 ]

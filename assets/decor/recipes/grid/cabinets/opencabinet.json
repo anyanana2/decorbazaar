@@ -8,6 +8,6 @@
 	   	},
 	   	width: 1,
 	   	height: 3,
-	   	output: { type: "block", code: "opencabinet-north" }
+	   	output: { type: "block", code: "opencabinet-north", quantity: 2 }
 	}
 ]	
