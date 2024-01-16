@@ -12,8 +12,8 @@
 				allowedVariants: ["andesite", "basalt", "bauxite", "chalk", "chert", "claystone", "conglomerate", "granite", "kimberlite", "limestone", "peridotite", "phyllite", "sandstone", "shale", "slate", "suevite"] },
 	   	
 	   	},
-	   	width: 1,
-	   	height: 3,
+	   	width: 3,
+	   	height: 1,
 	   	output: { type: "block", code: "decor:stonecabinet-{stone}-north", quantity: 2 }
 	}
 ]

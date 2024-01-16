@@ -1,0 +1,173 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-fish",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-midnight",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-bat",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-greenpannels",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-mushrooms",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-beatle",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+   {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:fieldsofgrain",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:houseonthehill",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:lonegrave",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-artisan.json",
+    "side": "Server"
+  }
+]

@@ -1,0 +1,80 @@
+{
+	"code": "fancycurtain",
+	"behaviors": [ {"name": "HorizontalOrientable"},
+		{
+			"name": "ExchangeOnInteract",
+			"properties": {
+				"exchangeStates": ["*-up-*", "*-middle-*", "*-down-*"],
+				"sound": "block/special/click",
+				"actionLangCode": "decor:blockhelp-creative-switch"
+			}
+		} ],
+	"variantgroups": [
+		{ "code": "color", "states": ["black", "blue", "brown", "gray", "green", "orange", "pink", "plain", "purple", "red", "white", "yellow"] },
+		{ "code":"state", "states": ["up", "middle", "down"] },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"shapeByType": {
+		"*-north": { "base": "block/curtains/curtain-{state}", rotateY: 0 },
+		"*-west": { "base": "block/curtains/curtain-{state}", rotateY: 90 },
+		"*-south": { "base": "block/curtains/curtain-{state}", rotateY: 180 },
+		"*-east": { "base": "block/curtains/curtain-{state}", rotateY: 270 }
+	},
+    "texturesByType": {
+        "*-up-*": { "color": {"base": "block/bazaar/fabric/curtains/fancy/{color}curtainup" }},
+        "*-down-*": { "color": {"base": "block/bazaar/fabric/curtains/fancy/{color}curtaindown" }},
+        "*-middle-*": { "color": {"base": "block/bazaar/fabric/curtains/fancy/{color}curtain-middle" }
+    }},
+	"creativeinventoryByType": {
+		"*": { "general": ["*-up-north"], "decorative": ["*-up-north"], "decorbazaar": ["*-up-north"] }
+	},
+	"blockmaterial": "Cloth",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 0,
+	"emitSideAo": {"all": false },
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 30,
+	},
+	"sounds": {
+		"place": "game:block/cloth",
+		"break": "game:block/cloth",
+		"hit": "game:block/cloth",
+		"walk": "game:walk/cloth"
+	},
+	"materialDensity": 400,
+	"heldTpIdleAnimation": "holdunderarm",
+	"selectionboxbytype": {
+		"*":
+		{
+			"x1": 0,
+			"y1": 0,
+			"z1": 0,
+			"x2": 1,
+			"y2": 1,
+			"z2": 0.125,
+			"rotateYByType": {
+				"*-north": 0,
+				"*-east": 270,
+				"*-south": 180,
+				"*-west": 90
+			}
+		}},
+	"collisionbox": null,
+		
+		"guiTransform": {
+		"rotation": { x: -22.6, y: 135, z: 0 }
+	},
+		"tpHandTransform": {
+		"translation": { x: -0.9, y: -0.7, z: -1 },
+		"rotation": { x: 0, y: 0, z: -100 },
+		"scale": 0.4
+	}
+}

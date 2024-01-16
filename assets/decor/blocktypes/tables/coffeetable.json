@@ -4,7 +4,7 @@
 		{
 			name: "ExchangeOnInteract",
 			properties: {
-				exchangeStates: ["*-1-*", "*-2-*", "*-3-*" ],
+				exchangeStates: ["*-1-*", "*-2-*", "*-3-*", "*-4-*" ],
 				sound: "block/special/click",
 				actionLangCode: "decor:blockhelp-creative-switch"
 			}
@@ -28,7 +28,7 @@
                 "walnut"
 				]
 	},
-		{ code:"state", states: ["1", "2", "3"] },
+		{ code:"state", states: ["1", "2", "3", "4"] },
 		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
 	],
 	shapeByType: {

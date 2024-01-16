@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "B,A,G",
+	   	ingredients: {
+		"B": { "type": "Block", "code": "game:glass-plain", "quantity": 1 },
+	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:tablesetting-1-north", quantity: 1}
+	}
+]

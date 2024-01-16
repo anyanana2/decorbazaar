@@ -7,9 +7,9 @@
 		"2": [32, 32]
 	},
 	"textures": {
-		"0": "survival:block/wood/planks/aged1",
-		"1": "survival:item/lore/map2",
-		"2": "survival:block/metal/ingot/tin"
+		"0": "game:block/wood/planks/aged1",
+		"1": "game:item/lore/map2",
+		"2": "game:block/metal/ingot/tin"
 	},
 	"elements": [
 		{

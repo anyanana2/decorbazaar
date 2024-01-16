@@ -1,0 +1,49 @@
+{
+    "code": "sofa",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [
+        {
+            "code": "color",
+            "states": [
+                "blue",
+                "green",
+                "neutral",
+                "red",
+                "white"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/seating/sofa", rotateY: 0 },
+         "*-east": { base: "block/seating/sofa", rotateY: 270 },
+         "*-south": { base: "block/seating/sofa", rotateY: 180 },
+         "*-west": { base: "block/seating/sofa", rotateY: 90 }
+     },
+    "blockmaterial": "wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "color": {
+                "base": "block/bazaar/fabric/sofa/{color}"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}	

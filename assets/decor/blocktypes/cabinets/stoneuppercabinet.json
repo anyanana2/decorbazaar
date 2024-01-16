@@ -48,11 +48,11 @@ shapeByType: {
      },
     "sideopaque": {
         "all": "false",
-        "up": "true"
+        "up": "false"
     },
     "sidesolid": {
         "all": "false",
-        "up": "true"
+        "up": "false"
     },
     "sounds": {
         "place": "game:block/planks",

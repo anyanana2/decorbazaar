@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "F,G,A",
+	   	ingredients: {
+		"F": { type: "item", code: "game:flaxfibers", quantity: 1 },
+	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:cartographermap-north", quantity: 1}
+	}
+]

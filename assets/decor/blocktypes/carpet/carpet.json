@@ -1,19 +1,19 @@
 {
-    "code": "redginghamcarpet",
+    "code": "carpet",
     "class": "BlockLinen",
 	creativeinventory: { "general": ["*-down"], "decorative": ["*-down"], "decorbazaar": ["*-down"] },
 	behaviors: [ {name: "Decor", properties: {sides: ["north", "east", "south", "west", "up", "down"], sidedVariants: true, thickness: 0.0625, removable:true }} ],
 	variantgroups: [
-		{ code:"type", states: ["red"] },
+		{ code:"type", states: ["blue", "darkblack", "ginghamred", "green", "neutral", "red", "white", "whitedotted", "yellowflower", "darkfloral"] },
 		{ code:"side", states: ["north", "east", "south", "west", "up", "down"] }
 	],
 	shapebytype: {
-		"*-down": { base: "block/carpets/redginghamcarpet" },
-		"*-up": { base: "block/carpets/redginghamcarpet", rotateX: 180 },
-		"*-north": { base: "block/carpets/redginghamcarpet", rotateX: 90 },
-		"*-east": { base: "block/carpets/redginghamcarpet", rotateX: 90, rotateY: 180, rotateZ: 270 },
-		"*-west": { base: "block/carpets/redginghamcarpet", rotateX: 90, rotateY: 0, rotateZ: 270 },
-		"*-south": { base: "block/carpets/redginghamcarpet", rotateX: 270 },
+		"*-down": { base: "block/carpets/carpet" },
+		"*-up": { base: "block/carpets/carpet", rotateX: 180 },
+		"*-north": { base: "block/carpets/carpet", rotateX: 90 },
+		"*-east": { base: "block/carpets/carpet", rotateX: 90, rotateY: 180, rotateZ: 270 },
+		"*-west": { base: "block/carpets/carpet", rotateX: 90, rotateY: 0, rotateZ: 270 },
+		"*-south": { base: "block/carpets/carpet", rotateX: 270 },
 	},
     "blockmaterial": "Cloth",
 	sidesolidByType: {
@@ -38,7 +38,7 @@
 	},
 	textures: {
 		all: { 
-			base: "block/bazaar/fabric/ginghamred"
+			base: "block/bazaar/fabric/carpets/{type}"
 		}
 	},
     "resistance": 0.5,

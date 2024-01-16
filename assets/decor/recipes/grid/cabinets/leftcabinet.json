@@ -10,4 +10,5 @@
 	   	height: 3,
 	   	output: { type: "block", code: "decor:leftcabinet-{wood}-north", quantity: 2 }
 	}
+
 ]	

@@ -8,7 +8,7 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"whiteflower": "C:/Games/Vintagestory/Mods/decorbazaar/assets/decor/textures/block/bazaar/wallpaper/whiteflower",
+		"whiteflower": "block/bazaar/paintings/whiteflower",
 		"0": "block/wood/planks/generic"
 	},
 	"elements": [

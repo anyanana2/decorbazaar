@@ -1,10 +1,10 @@
 [
 	{
-		ingredientPattern: "F,I,S",
+		ingredientPattern: "F,S,I",
 	   	ingredients: {
 		"F": { type: "item", name: "wood", code: "game:plank-*", quantity: 5 },
-	   	"I": { type: "item", code: "game:nugget-*", quantity: 1 },
 	   	"S": { type: "item", code: "game:stone-*", quantity: 2 },
+	   	"I": { type: "item", code: "game:nugget-*", quantity: 1 },
 	   	},
 	   	width: 3,
 	   	height: 1,

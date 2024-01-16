@@ -6,8 +6,8 @@
 		"1": [32, 32]
 	},
 	"textures": {
-		"0": "survivalblock/wood/planks:aged1",
-		"1": "decorblock/bazaar/fabric:checkardbrown"
+		"0": "game:block/wood/planks/aged1",
+		"1": "block/bazaar/fabric/checkardbrown"
 	},
 	"elements": [
 		{

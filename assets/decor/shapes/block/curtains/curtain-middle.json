@@ -1,0 +1,25 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+		"0": [32,32]
+	},
+	"textures": {
+		"color": "block/bazaar/fabric/curtains/plaincurtain-middle"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [ 0.0, 0.0, 0.5 ],
+			"to": [ 16.0, 16.0, 0.5 ],
+			"rotationOrigin": [ 0.0, 0.0, 1.0 ],
+			"faces": {
+				"north": { "texture": "#color", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false },
+				"south": { "texture": "#color", "uv": [ 0.0, 0.0, 32.0, 32.0 ], "autoUv": false }
+			}
+		}
+	]}
