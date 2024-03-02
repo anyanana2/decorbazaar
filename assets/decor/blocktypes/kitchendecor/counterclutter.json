@@ -19,11 +19,11 @@
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false",
-	"up": "true"
+	"up": "false"
     },
     "sideopaque": {
         "all": "false",
-	"up": "true"
+	"up": "false"
     },
 	"textures": {
 		"jar": { "base": "block/bazaar/ceramic/jar" },

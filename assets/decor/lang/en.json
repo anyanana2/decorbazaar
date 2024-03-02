@@ -5,6 +5,7 @@
 
 List of Items:
 
+
 Stoves: These stoves currently function as ovens, though not visually. You can still see what is cooking by looking at the UI. 
 <a href=\"handbooksearch://stone stove\">Stone Stove</a>
 <a href=\"handbooksearch://cast iron stove\">Cast Iron Stove</a>
@@ -13,27 +14,37 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://cast iron fireplace\">Cast Iron Fireplace</a>
 
 
+Bathroom Decor:
+<a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
+<a href=\"handbooksearch://Victorian Toilet\">Victorian Toilet</a>
+<a href=\"handbooksearch://Victorian Sink\">Victorian Sink</a>
 <a href=\"handbooksearch://Claw Foot Tub\">Claw Foot Tub</a> allows for 100 buckets of water to fill up. 
 <a href=\"handbooksearch://Washing Tub\">Washing Tub</a>
 <a href=\"handbooksearch://Linen Basket\">Linen Basket</a>
 <a href=\"handbooksearch://Clothes Line\">Clothes Line</a>
 
 
-<a href=\"handbooksearch://Red Gingham Carpet\">Red Gingham Carpet</a>
+Carpets:
+<a href=\"handbooksearch://Carpet\">Carpets</a> come in blue, dark black, gingham red, green, neutral, red, white, white dotted, yellow flower, dark fancy, and dark floral. 
 
 
+Beds:
+All beds are functional :)
+<a href=\"handbooksearch://Brass Bed\">Brass Bed</a>
+<a href=\"handbooksearch://Coffin Bed\">Coffin Bed</a>
+<a href=\"handbooksearch://Flower Bed\">Flower Bed</a>
+<a href=\"handbooksearch://Purple Bed\">Purple Bed</a>
+
+
+Tables:
 <a href=\"handbooksearch://Side Table\">Side Tables</a> right click to change type!
-<a href=\"handbooksearch://Wardrobe\">Wardrobe</a> has slots for clothes.
-<a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
-<a href=\"handbooksearch://Brass Candle Shelf\">Brass Candle Shelf</a>
-<a href=\"handbooksearch://Mushroom Cloche\">Brass Mushroom Cloche</a>
 <a href=\"handbooksearch://Brass Table\">Brass Table</a>
-<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> are functional! Right click to change type.
-<a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> is functional!
-<a href=\"handbooksearch://Brass Bed\">Brass Bed</a> is functional!
-<a href=\"handbooksearch://Flower Bed\">Flower Bed</a> is functional!
+<a href=\"handbooksearch://coffee table\">Coffee Table</a> :right click to change variant.
+<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
+<a href=\"handbooksearch://Gothic Table\">Gothic Table</a>
 
 
+Kitchen:
 <a href=\"handbooksearch://Left Cabinet\">Left Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Right Cabinet\">Right Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Left Upper Cabinet\">Left Upper Cabinet</a> has storage slots.
@@ -50,12 +61,6 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://Fancy Cabinet\">Fancy Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Fancy Upper Cabinet\">Fancy Upper Cabinet</a> has storage slots.
 
-<a href=\"handbooksearch://fabric chair\">Fabric Chair</a>
-<a href=\"handbooksearch://coffee table\">Coffee Table</a> :right click to change variant.
-
-<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
-<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
-<a href=\"handbooksearch://Stool\">Stool</a>
 <a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
 <a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
 <a href=\"handbooksearch://Jug\">Jug</a>
@@ -73,8 +78,28 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://Kitchen Shelf\">Kitchen Shelf</a>
 <a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
 <a href=\"handbooksearch://compost bin\">Compost Bin</a> should accelerate rot.
+<a href=\"handbooksearch://Herb Rack\">Herb Rack</a>
+
+Lamps:
+All Lamps are functional. 
+<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> Right click to change type.
+<a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> 
+<a href=\"handbooksearch://Goth Lamp\">Goth Lamp</a> 
+<a href=\"handbooksearch://Tall Candelabra\">Tall Candelabra</a> 
+<a href=\"handbooksearch://Table Candelabra\">Table Candelabra</a> 
+
+Seating:
+<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
+<a href=\"handbooksearch://fabric chair\">Fabric Chair</a>
+<a href=\"handbooksearch://Stool\">Stool</a>
+<a href=\"handbooksearch://Sofa\">Sofas</a> 
+<a href=\"handbooksearch://victorian lounge chair\">Victorian Lounge Chair</a>
+<a href=\"handbooksearch://gothic love seat\">Gothic Love Seat</a>
+<a href=\"handbooksearch://fancy gothic chair\">Fancy Gothic Chair</a>
+<a href=\"handbooksearch://goth foot rest\">Gothic Foot Rest</a>
 
 
+Garden Decor:
 <a href=\"handbooksearch://garden sign\">Garden Signs</a>
 <a href=\"handbooksearch://bees sign\">Bee Sign</a>
 <a href=\"handbooksearch://Potting Bench\">Potting Bench</a> has storage slots for seeds.
@@ -83,15 +108,24 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 <a href=\"handbooksearch://blue flower pot\">Blue Flower Pot</a> is functional!
 <a href=\"handbooksearch://purple and gold flower pot\">Purple Flower Pot</a> is functional!
 
-<a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
 
+Curtains:
+<a href=\"handbooksearch://curtain\">Curtains</a> work where you right click to change whether you want the top (with the rod), middle, or bottom variant to be expressed for each block. There are currently a plain type and a fancy type. The color variants are: black, blue, brown, gray, green, orange, pink, plain, purple, red, white, and yellow. 
+
+
+Random Stuff:
 <a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
-
 <a href=\"handbooksearch://wooden shelf\">Wooden Shelf</a> : right click to change.
-
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
-
 <a href=\"handbooksearch://cartographer map\">Cartographer Map</a>
+<a href=\"handbooksearch://Sewing Shelf\">Sewing Shelf</a>
+<a href=\"handbooksearch://Twine Storage\">Twine Storage</a>
+<a href=\"handbooksearch://Wardrobe\">Wardrobe</a> has slots for clothes.
+<a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
+<a href=\"handbooksearch://Brass Candle Shelf\">Brass Candle Shelf</a>
+<a href=\"handbooksearch://Mushroom Cloche\">Brass Mushroom Cloche</a>
+<a href=\"handbooksearch://Pile of Letters\">Pile of Letters</a>
+
 
 Tile Blocks:
 <a href=\"handbooksearch://beige tile\">Beige Tile</a>
@@ -103,13 +137,21 @@ Tile Blocks:
 <a href=\"handbooksearch://gold meteor tile\">Gold Meteor Tile</a>
 
 
-Paintings only accessable in creative:
+Paintings available at Luxury, Furniture, and Artisan Traders!
 <a href=\"handbooksearch://Fields of Grain\">Fields of Grain</a>
 <a href=\"handbooksearch://House on the Hill\">House on the Hill</a>
 <a href=\"handbooksearch://Lone Grave\">Lone Grave</a>
+<a href=\"handbooksearch://White Flower\">White Flower</a>
 
-There is also some new wallpaper only accessable in creative mode. 
 
+Wallpapers available at Luxury, Furniture, and Artisan Traders!
+<a href=\"handbooksearch://Fish Wallpaper\">Fish Wallpaper</a>
+<a href=\"handbooksearch://Midnight Wallpaper\">Midnight Wallpaper</a>
+<a href=\"handbooksearch://Green Pannels Wallpaper\">Green Pannels Wallpaper</a>
+<a href=\"handbooksearch://Mushroom Wallpaper\">Mushroom Wallpaper</a>
+<a href=\"handbooksearch://Beatle Wallpaper\">Beatle Wallpaper</a>
+<a href=\"handbooksearch://Dark Floral Wallpaper\">Dark Floral Wallpaper</a>
+<a href=\"handbooksearch://Bat Wallpaper\">Bat Wallpaper</a>
 
 ",
 
@@ -494,6 +536,7 @@ There is also some new wallpaper only accessable in creative mode.
   "block-wallpaper-mushrooms": "Mushroom Wallpaper",
   "block-wallpaper-beatle": "Beatle Wallpaper",
   "block-wallpaper-darkfloral": "Dark Floral Wallpaper",
+  "block-wallpaper-bat": "Bat Wallpaper",
 
 
   "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
@@ -2291,6 +2334,7 @@ There is also some new wallpaper only accessable in creative mode.
   "block-carpet-white-*": "White Carpet",
   "block-carpet-whitedotted-*": "White Dotted Carpet",
   "block-carpet-yellowflower-*": "Yellow Flower Carpet",
+  "block-carpet-darkfancy-*": "Dark Fancy Carpet",
   "block-carpet-darkfloral-*": "Dark Floral Carpet",
 
   "block-gothfootrestred-*": "Goth Foot Rest Red",
@@ -2301,6 +2345,7 @@ There is also some new wallpaper only accessable in creative mode.
   "block-victoriansink-*": "Victorian Sink",
   "block-herbrack-*": "Herb Rack",
   "block-gothictable-*": "Gothic Table",
+  "block-pileofletters-*": "Pile of Letters",
 
 
 // fancy gothic chair red variants // 
@@ -2337,6 +2382,191 @@ There is also some new wallpaper only accessable in creative mode.
   "block-fancygothicchairred-eucalyptus-*": "Eucalyptus Red Fancy Gothic Chair",
   "block-fancygothicchairred-cedar-*": "Cedar Red Fancy Gothic Chair",
 
+// inner cabinet variant //
+
+  "block-innercabinet-aged-*": "Inner Cabinet Aged",
+  "block-innercabinet-acacia-*": "Inner Cabinet Acacia",
+  "block-innercabinet-baldcypress-*": "Inner Cabinet Bald Cypress",
+  "block-innercabinet-birch-*": "Inner Cabinet Birch",
+  "block-innercabinet-ebony-*": "Inner Cabinet Ebony",
+  "block-innercabinet-kapok-*": "Inner Cabinet Kapok",
+  "block-innercabinet-larch-*": "Inner Cabinet Larch",
+  "block-innercabinet-maple-*": "Inner Cabinet Maple",
+  "block-innercabinet-oak-*": "Inner Cabinet Oak",
+  "block-innercabinet-pine-*": "Inner Cabinet Pine",
+  "block-innercabinet-purpleheart-*": "Inner Cabinet Purple Heart",
+  "block-innercabinet-redwood-*": "Inner Cabinet Redwood",
+  "block-innercabinet-walnut-*": "Inner Cabinet Walnut",
+
+ "block-innercabinet-douglasfir-*": "Inner Cabinet Douglas Fir",
+ "block-innercabinet-willow-*": "Inner Cabinet Willow",
+ "block-innercabinet-honeylocust-*": "Inner Cabinet Honey Locust",
+ "block-innercabinet-bearnut-*": "Inner Cabinet Bearnut",
+ "block-innercabinet-blackpoplar-*": "Inner Cabinet Black Poplar",
+ "block-innercabinet-pyramidalpoplar-*": "Inner Cabinet Pyramidal Poplar",
+ "block-innercabinet-catalpa-*": "Inner Cabinet Catalpa",
+ "block-innercabinet-mahogany-*": "Inner Cabinet Mahogany",
+ "block-innercabinet-sal-*": "Inner Cabinet Sal",
+ "block-innercabinet-saxaul-*": "Inner Cabinet Saxaul",
+ "block-innercabinet-spruce-*": "Inner Cabinet Spruce",
+ "block-innercabinet-sycamore-*": "Inner Cabinet Sycamore",
+ "block-innercabinet-elm-*": "Inner Cabinet Elm",
+ "block-innercabinet-beech-*": "Inner Cabinet Beech",
+ "block-innercabinet-eucalyptus-*": "Inner Cabinet Eucalyptus",
+ "block-innercabinet-cedar-*": "Inner Cabinet Cedar",
+
+// upper inner cabinet variant //
+
+  "block-upperinnercabinet-aged-*": "Upper Inner Cabinet Aged",
+  "block-upperinnercabinet-acacia-*": "Upper Inner Cabinet Acacia",
+  "block-upperinnercabinet-baldcypress-*": "Upper Inner Cabinet Bald Cypress",
+  "block-upperinnercabinet-birch-*": "Upper Inner Cabinet Birch",
+  "block-upperinnercabinet-ebony-*": "Upper Inner Cabinet Ebony",
+  "block-upperinnercabinet-kapok-*": "Upper Inner Cabinet Kapok",
+  "block-upperinnercabinet-larch-*": "Upper Inner Cabinet Larch",
+  "block-upperinnercabinet-maple-*": "Upper Inner Cabinet Maple",
+  "block-upperinnercabinet-oak-*": "Upper Inner Cabinet Oak",
+  "block-upperinnercabinet-pine-*": "Upper Inner Cabinet Pine",
+  "block-upperinnercabinet-purpleheart-*": "Upper Inner Cabinet Purple Heart",
+  "block-upperinnercabinet-redwood-*": "Upper Inner Cabinet Redwood",
+  "block-upperinnercabinet-walnut-*": "Upper Inner Cabinet Walnut",
+
+ "block-upperinnercabinet-douglasfir-*": "Upper Inner Cabinet Douglas Fir",
+ "block-upperinnercabinet-willow-*": "Upper Inner Cabinet Willow",
+ "block-upperinnercabinet-honeylocust-*": "Upper Inner Cabinet Honey Locust",
+ "block-upperinnercabinet-bearnut-*": "Upper Inner Cabinet Bearnut",
+ "block-upperinnercabinet-blackpoplar-*": "Upper Inner Cabinet Black Poplar",
+ "block-upperinnercabinet-pyramidalpoplar-*": "Upper Inner Cabinet Pyramidal Poplar",
+ "block-upperinnercabinet-catalpa-*": "Upper Inner Cabinet Catalpa",
+ "block-upperinnercabinet-mahogany-*": "Upper Inner Cabinet Mahogany",
+ "block-upperinnercabinet-sal-*": "Upper Inner Cabinet Sal",
+ "block-upperinnercabinet-saxaul-*": "Upper Inner Cabinet Saxaul",
+ "block-upperinnercabinet-spruce-*": "Upper Inner Cabinet Spruce",
+ "block-upperinnercabinet-sycamore-*": "Upper Inner Cabinet Sycamore",
+ "block-upperinnercabinet-elm-*": "Upper Inner Cabinet Elm",
+ "block-upperinnercabinet-beech-*": "Upper Inner Cabinet Beech",
+ "block-upperinnercabinet-eucalyptus-*": "Upper Inner Cabinet Eucalyptus",
+ "block-upperinnercabinet-cedar-*": "Upper Inner Cabinet Cedar",
+
+// fancy inner cabinet variants // 
+
+  "block-fancyinnercabinet-aged-*": "Fancy Inner Cabinet Aged",
+  "block-fancyinnercabinet-acacia-*": "Fancy Inner Cabinet Acacia",
+  "block-fancyinnercabinet-baldcypress-*": "Fancy Inner Cabinet Bald Cypress",
+  "block-fancyinnercabinet-birch-*": "Fancy Inner Cabinet Birch",
+  "block-fancyinnercabinet-ebony-*": "Fancy Inner Cabinet Ebony",
+  "block-fancyinnercabinet-kapok-*": "Fancy Inner Cabinet Kapok",
+  "block-fancyinnercabinet-larch-*": "Fancy Inner Cabinet Larch",
+  "block-fancyinnercabinet-maple-*": "Fancy Inner Cabinet Maple",
+  "block-fancyinnercabinet-oak-*": "Fancy Inner Cabinet Oak",
+  "block-fancyinnercabinet-pine-*": "Fancy Inner Cabinet Pine",
+  "block-fancyinnercabinet-purpleheart-*": "Fancy Inner Cabinet Purple Heart",
+  "block-fancyinnercabinet-redwood-*": "Fancy Inner Cabinet Redwood",
+  "block-fancyinnercabinet-walnut-*": "Fancy Inner Cabinet Walnut",
+
+ "block-fancyinnercabinet-douglasfir-*": "Fancy Inner Cabinet Douglas Fir",
+ "block-fancyinnercabinet-willow-*": "Fancy Inner Cabinet Willow",
+ "block-fancyinnercabinet-honeylocust-*": "Fancy Inner Cabinet Honey Locust",
+ "block-fancyinnercabinet-bearnut-*": "Fancy Inner Cabinet Bearnut",
+ "block-fancyinnercabinet-blackpoplar-*": "Fancy Inner Cabinet Black Poplar",
+ "block-fancyinnercabinet-pyramidalpoplar-*": "Fancy Inner Cabinet Pyramidal Poplar",
+ "block-fancyinnercabinet-catalpa-*": "Fancy Inner Cabinet Catalpa",
+ "block-fancyinnercabinet-mahogany-*": "Fancy Inner Cabinet Mahogany",
+ "block-fancyinnercabinet-sal-*": "Fancy Inner Cabinet Sal",
+ "block-fancyinnercabinet-saxaul-*": "Fancy Inner Cabinet Saxaul",
+ "block-fancyinnercabinet-spruce-*": "Fancy Inner Cabinet Spruce",
+ "block-fancyinnercabinet-sycamore-*": "Fancy Inner Cabinet Sycamore",
+ "block-fancyinnercabinet-elm-*": "Fancy Inner Cabinet Elm",
+ "block-fancyinnercabinet-beech-*": "Fancy Inner Cabinet Beech",
+ "block-fancyinnercabinet-eucalyptus-*": "Fancy Inner Cabinet Eucalyptus",
+ "block-fancyinnercabinet-cedar-*": "Fancy Inner Cabinet Cedar",
+
+// fancy upper corner cabinet variants //
+
+  "block-fancyuppercornercabinet-aged-*": "Fancy Upper Corner Cabinet Aged",
+  "block-fancyuppercornercabinet-acacia-*": "Fancy Upper Corner Cabinet Acacia",
+  "block-fancyuppercornercabinet-baldcypress-*": "Fancy Upper Corner Cabinet Bald Cypress",
+  "block-fancyuppercornercabinet-birch-*": "Fancy Upper Corner Cabinet Birch",
+  "block-fancyuppercornercabinet-ebony-*": "Fancy Upper Corner Cabinet Ebony",
+  "block-fancyuppercornercabinet-kapok-*": "Fancy Upper Corner Cabinet Kapok",
+  "block-fancyuppercornercabinet-larch-*": "Fancy Upper Corner Cabinet Larch",
+  "block-fancyuppercornercabinet-maple-*": "Fancy Upper Corner Cabinet Maple",
+  "block-fancyuppercornercabinet-oak-*": "Fancy Upper Corner Cabinet Oak",
+  "block-fancyuppercornercabinet-pine-*": "Fancy Upper Corner Cabinet Pine",
+  "block-fancyuppercornercabinet-purpleheart-*": "Fancy Upper Corner Cabinet Purple Heart",
+  "block-fancyuppercornercabinet-redwood-*": "Fancy Upper Corner Cabinet Redwood",
+  "block-fancyuppercornercabinet-walnut-*": "Fancy Upper Corner Cabinet Walnut",
+
+ "block-fancyuppercornercabinet-douglasfir-*": "Fancy Upper Corner Cabinet Douglas Fir",
+ "block-fancyuppercornercabinet-willow-*": "Fancy Upper Corner Cabinet Willow",
+ "block-fancyuppercornercabinet-honeylocust-*": "Fancy Upper Corner Cabinet Honey Locust",
+ "block-fancyuppercornercabinet-bearnut-*": "Fancy Upper Corner Cabinet Bearnut",
+ "block-fancyuppercornercabinet-blackpoplar-*": "Fancy Upper Corner Cabinet Black Poplar",
+ "block-fancyuppercornercabinet-pyramidalpoplar-*": "Fancy Upper Corner Cabinet Pyramidal Poplar",
+ "block-fancyuppercornercabinet-catalpa-*": "Fancy Upper Corner Cabinet Catalpa",
+ "block-fancyuppercornercabinet-mahogany-*": "Fancy Upper Corner Cabinet Mahogany",
+ "block-fancyuppercornercabinet-sal-*": "Fancy Upper Corner Cabinet Sal",
+ "block-fancyuppercornercabinet-saxaul-*": "Fancy Upper Corner Cabinet Saxaul",
+ "block-fancyuppercornercabinet-spruce-*": "Fancy Upper Corner Cabinet Spruce",
+ "block-fancyuppercornercabinet-sycamore-*": "Fancy Upper Corner Cabinet Sycamore",
+ "block-fancyuppercornercabinet-elm-*": "Fancy Upper Corner Cabinet Elm",
+ "block-fancyuppercornercabinet-beech-*": "Fancy Upper Corner Cabinet Beech",
+ "block-fancyuppercornercabinet-eucalyptus-*": "Fancy Upper Corner Cabinet Eucalyptus",
+ "block-fancyuppercornercabinet-cedar-*": "Fancy Upper Corner Cabinet Cedar",
+
+// stone inner cabinet //
+
+  "block-stoneinnercabinet-andesite-*": "Stone Inner Cabinet Andesite",
+  "block-stoneinnercabinet-basalt-*": "Stone Inner Cabinet Basalt",
+  "block-stoneinnercabinet-bauxite-*": "Stone Inner Cabinet Bauxite",
+  "block-stoneinnercabinet-chalk-*": "Stone Inner Cabinet Chalk",
+  "block-stoneinnercabinet-chert-*": "Stone Inner Cabinet Chert",
+  "block-stoneinnercabinet-claystone-*": "Stone Inner Cabinet Claystone",
+  "block-stoneinnercabinet-conglomerate-*": "Stone Inner Cabinet Conglomerate",
+  "block-stoneinnercabinet-granite-*": "Stone Inner Cabinet Granite",
+  "block-stoneinnercabinet-kimberlite-*": "Stone Inner Cabinet Kimberlite",
+  "block-stoneinnercabinet-limestone-*": "Stone Inner Cabinet Limestone",
+  "block-stoneinnercabinet-peridotite-*": "Stone Inner Cabinet Peridotite",
+  "block-stoneinnercabinet-phyllite-*": "Stone Inner Cabinet Phyllite",
+  "block-stoneinnercabinet-sandstone-*": "Stone Inner Cabinet Sandstone",
+  "block-stoneinnercabinet-shale-*": "Stone Inner Cabinet Shale",
+  "block-stoneinnercabinet-slate-*": "Stone Inner Cabinet Slate",
+  "block-stoneinnercabinet-suevite-*": "Stone Inner Cabinet Suevite",
+
+// stone cabinet upper corner //
+
+  "block-stonecabinetuppercorner-andesite-*": "Stone Cabinet Upper Corner Andesite",
+  "block-stonecabinetuppercorner-basalt-*": "Stone Cabinet Upper Corner Basalt",
+  "block-stonecabinetuppercorner-bauxite-*": "Stone Cabinet Upper Corner Bauxite",
+  "block-stonecabinetuppercorner-chalk-*": "Stone Cabinet Upper Corner Chalk",
+  "block-stonecabinetuppercorner-chert-*": "Stone Cabinet Upper Corner Chert",
+  "block-stonecabinetuppercorner-claystone-*": "Stone Cabinet Upper Corner Claystone",
+  "block-stonecabinetuppercorner-conglomerate-*": "Stone Cabinet Upper Corner Conglomerate",
+  "block-stonecabinetuppercorner-granite-*": "Stone Cabinet Upper Corner Granite",
+  "block-stonecabinetuppercorner-kimberlite-*": "Stone Cabinet Upper Corner Kimberlite",
+  "block-stonecabinetuppercorner-limestone-*": "Stone Cabinet Upper Corner Limestone",
+  "block-stonecabinetuppercorner-peridotite-*": "Stone Cabinet Upper Corner Peridotite",
+  "block-stonecabinetuppercorner-phyllite-*": "Stone Cabinet Upper Corner Phyllite",
+  "block-stonecabinetuppercorner-sandstone-*": "Stone Cabinet Upper Corner Sandstone",
+  "block-stonecabinetuppercorner-shale-*": "Stone Cabinet Upper Corner Shale",
+  "block-stonecabinetuppercorner-slate-*": "Stone Cabinet Upper Corner Slate",
+  "block-stonecabinetuppercorner-suevite-*": "Stone Cabinet Upper Corner Suevite",
+
+  "block-towelrack-*": "Towel Rack",
+  "block-stoneoven-*": "Stone Oven",
+  "block-ironoven-*": "Iron Oven",
+  "block-ovenwglass-*": "Oven with Glass",
+  "block-ovenwglassfancy-*": "Fancy Oven with Glass",
+  "block-tablestoneoven-*": "Table Stone Oven",
+  "block-tableovenwglass-*": "Table Oven with Glass",
+  "block-tableovenwglassfancy-*": "Fancy Table Oven with Glass",
+
+// graves //
+
+  "block-grave-1-*": "Grave",
+  "block-grave-2-*": "Grave",
+
+  "block-purplebed-*": "Purple Bed",
 
 
 }

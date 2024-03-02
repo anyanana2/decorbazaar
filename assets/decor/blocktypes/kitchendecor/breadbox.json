@@ -11,7 +11,7 @@
 		spoilSpeedMulByFoodCat: 
 			{
 				"vegetable": 0.5,
-				"grain": 0.1
+				"grain": 0.5
 			}
 		},
     "shape": {

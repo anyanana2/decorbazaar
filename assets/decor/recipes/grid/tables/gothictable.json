@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C,B,P",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:gear-rusty", quantity: 1 },
+	   	"B": { type: "item", code: "game:charcoal", quantity: 4 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:gothictable-north", quantity: 1 }
+	}
+]

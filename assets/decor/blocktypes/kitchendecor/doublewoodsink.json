@@ -2,6 +2,13 @@
     "code": "doublewoodsink",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
+	attributes: {
+		canChisel: false,
+		"handbook": { groupBy: ["doublewoodsink-*"] },
+		chiselShapeFromCollisionBox: true,
+		liquidBarrierOnSides: { "doublestonesink-*": [ 1.0, 1.0, 1.0, 1.0 ]
+		}
+	},
     "variantgroups": [
         {
             "code": "wood",
@@ -62,15 +69,25 @@
          "*-south": { "base": "block/kitchendecor/doublewoodsink", rotateY: 180 },
          "*-west": { "base": "block/kitchendecor/doublewoodsink", rotateY: 90 }
      },
-    "blockmaterial": "stone",
-  "lightAbsorption": 0,
-    "sidesolid": {
-        "all": "false"
-    },
-    "sideopaque": {
-        "all": "false"
-    },
-    "drawtype": "json",
+	blockmaterial: "stone",
+	"replaceable": 300,
+	drawtype: "json",
+	resistance: 2,
+	faceCullMode: "NeverCull",
+	lightAbsorption: 0,
+	emitSideAo: {all: false },
+	sideAo: { all: false },
+	sideopaque: {
+		all: false
+	},
+	sidesolid: {
+		up: false,
+		down: false,
+		north: true,
+		south: true,
+		east: true,
+		west: true
+	},
     "texturesByType": {
         "*": {
             "metal": {

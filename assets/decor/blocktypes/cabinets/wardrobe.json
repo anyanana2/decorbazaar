@@ -29,6 +29,7 @@
     ],
 	attributes: {
 		"inventoryClassName": "Cabinet",
+"handbook": { groupBy: ["wardrobe-*"] },
 		"quantitySlots": "24",
 		"dialogTitleLangCode": "Closet Storage"
 	},

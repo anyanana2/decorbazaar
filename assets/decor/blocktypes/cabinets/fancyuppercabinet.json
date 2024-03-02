@@ -1,6 +1,7 @@
 {
     "attributes": {
         "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["fancyuppercabinet-*"] },
         "inventoryClassName": "Cabinet",
         "quantitySlots": "8"
     },

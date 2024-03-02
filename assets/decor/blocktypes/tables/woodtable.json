@@ -1,12 +1,13 @@
 {
 	code: "woodtable",
 	variantgroups: [
-		{ code: "material", states: ["acacia", "aged", "baldcypress", "birch", "ebony", "kapok", "larch", "maple", "oak", "pine", "purpleheart", "redwood", "rottenebony", "walnut"] },
+		{ code: "material", states: ["acacia", "aged", "baldcypress", "birch", "ebony", "kapok", "larch", "maple", "oak", "pine", "purpleheart", "redwood", "walnut"] },
 		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
 
 		 ],
 	attributes: {
-		"pieFormingSurface": true
+		"pieFormingSurface": true,
+		"handbook": { groupBy: ["woodtable-*"] }
 	},
 	behaviors: [
 		{ name: "CanAttach", properties: { sides: ["up"] } },

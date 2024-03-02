@@ -29,6 +29,7 @@
     ],
 	attributes: {
 		inventoryClassName: "chest",
+		"handbook": { groupBy: ["compostbin-*"] },
 		dialogTitleLangCode: "vesselcontents",
 		"quantitySlots": "12",
 		"dialogTitleLangCode": "Compost Bin",

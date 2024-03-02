@@ -1,0 +1,41 @@
+{
+    "code": "towelrack",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/bathroomdecor/towelrack",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+
+    "selectionBox": { 
+			x1: 0, y1: 0, z1: 0.3125, x2: 1, y2: 1, z2: 0.6875,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

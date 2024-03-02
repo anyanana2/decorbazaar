@@ -1,5 +1,8 @@
 {
 	code: "coffeetable",
+"attributes": {
+		"handbook": { groupBy: ["coffeetable-*"] }
+},
 	behaviors: [ {name: "HorizontalOrientable"},
 		{
 			name: "ExchangeOnInteract",

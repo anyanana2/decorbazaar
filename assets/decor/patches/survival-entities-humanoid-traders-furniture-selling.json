@@ -98,6 +98,25 @@
     "op": "add",
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
+	"code": "decor:wallpaper-darkfloral",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-furniture.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
 	"code": "decor:wallpaper-beatle",
 	"type": "block",
 	    "stacksize": 64,
@@ -137,6 +156,25 @@
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
 	"code": "decor:houseonthehill",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:entities/humanoid/trader-furniture.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+	"code": "decor:whiteflower",
 	"type": "block",
 	    "stacksize": 1,
 	    "stock": {

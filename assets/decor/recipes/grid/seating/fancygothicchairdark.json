@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C,G,O",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:crushed-cinnabar", quantity: 2 },
+	   	"G": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	"O": { type: "item", code: "game:charcoal", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:fancygothicchairdark-north", quantity: 1 }
+	}
+]

@@ -1,5 +1,8 @@
 {
 	code: "woodenshelf",
+"attributes": {
+		"handbook": { groupBy: ["woodenshelf-*"] }
+},
 	behaviors: [ {name: "HorizontalOrientable"},
 		{
 			name: "ExchangeOnInteract",

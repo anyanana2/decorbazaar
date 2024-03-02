@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "L,G,P",
+	   	ingredients: {
+	   	"L": { type: "item", code: "game:charcoal", quantity: 2 },
+	   	"G": { type: "item", code: "game:ore-quartz", quantity: 2 },
+	   	"P": { type: "item", code: "game:crushed-cinnabar", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:gothlamp-north", quantity: 1 }
+	}
+]

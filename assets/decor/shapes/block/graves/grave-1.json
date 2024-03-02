@@ -9,11 +9,11 @@
 		"4": [32, 32]
 	},
 	"textures": {
-		"0": "survival:block/stone/rock/granite1",
-		"1": "survival:block/stone/polishedrock-old/cobbled/granite1",
-		"2": "survival:block/stone/polishedrock/granite",
-		"3": "survival:block/stone/agedbrick/granite1",
-		"4": "survival:block/stone/sand/slate"
+		"0": "game:block/stone/rock/granite1",
+		"1": "game:block/stone/polishedrock-old/cobbled/granite1",
+		"2": "game:block/stone/polishedrock/granite",
+		"3": "game:block/stone/agedbrick/granite1",
+		"4": "game:block/stone/sand/slate"
 	},
 	"elements": [
 		{

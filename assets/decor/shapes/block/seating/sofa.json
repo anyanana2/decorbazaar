@@ -7,7 +7,7 @@
 	},
 	"textures": {
 		"0": "game:block/wood/debarked/aged",
-		"color": "block/bazaar/fabric/sofa/neutral"
+		"color": "block/bazaar/fabric/sofa/plain"
 	},
 	"elements": [
 		{

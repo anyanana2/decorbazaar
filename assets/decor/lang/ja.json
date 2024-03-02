@@ -3,9 +3,10 @@
   "game:decorbazaar-quickstart-title": "装飾バザー（Decor Bazaar）",
   "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。Discordの@EightTonnesOfCrabさん、お風呂だけでなくコンロも使えるようにしてくれてありがとうございます！お楽しみください！
 
-アイテムリスト:
+アイテムリスト：
 
-コンロ:これらのコンロは現在オーブンとして機能していますが、視覚的には機能していません。UIを見ることで、何が調理されているかを確認できます。
+
+コンロ：これらのコンロは現在オーブンとして機能していますが、視覚的には機能していません。UIを見ることで、何が調理されているかを確認できます。
 <a href=\"handbooksearch://石のコンロ\">石のコンロ</a>
 <a href=\"handbooksearch://鋳鉄のコンロ\">鋳鉄のコンロ</a>
 <a href=\"handbooksearch://薪付き鋳鉄のコンロ\">薪付き鋳鉄のコンロ</a>
@@ -13,50 +14,59 @@
 <a href=\"handbooksearch://鋳鉄の暖炉\">鋳鉄の暖炉</a>
 
 
+風呂場の装飾：
+<a href=\"handbooksearch://風呂場の散乱物\">風呂場の散乱物</a>
+<a href=\"handbooksearch://ビクトリア朝風のトイレ\">ビクトリア朝風のトイレ</a>
+<a href=\"handbooksearch://ビクトリア朝風のシンク\">ビクトリア朝風のシンク</a>
 <a href=\"handbooksearch://爪足浴槽\">爪足浴槽</a>はバケツ100杯分の水を入れることができます。 
 <a href=\"handbooksearch://洗濯槽\">洗濯槽</a>
 <a href=\"handbooksearch://リネンバスケット\">リネンバスケット</a>
 <a href=\"handbooksearch://物干し竿\">物干し竿</a>
 
 
-<a href=\"handbooksearch://赤いギンガムチェックのカーペット\">赤いギンガムチェックのカーペット</a>
+カーペット：
+<a href=\"handbooksearch://カーペット\">カーペット</a>：色はブルー、ダークブラック、ギンガムレッド、グリーン、ニュートラル、レッド、ホワイト、ホワイトドット、イエローフラワー、ダークファンシー、ダークフローラルがあります。
 
 
-<a href=\"handbooksearch://サイドテーブル\">サイドテーブル</a> : 右クリックで種類が変わります！
-<a href=\"handbooksearch://ワードローブ\">ワードローブ</a>には衣服用のスロットがあります。
-<a href=\"handbooksearch://真鍮の鏡\">真鍮の鏡</a>
-<a href=\"handbooksearch://真鍮のロウソク棚\">真鍮のロウソク棚</a>
-<a href=\"handbooksearch://真鍮のキノコのクローシュ\">真鍮のキノコのクローシュ</a>
+ベッド：
+すべてのベッドは機能します！ :)
+<a href=\"handbooksearch://真鍮のベッド\">真鍮のベッド</a>
+<a href=\"handbooksearch://棺桶ベッド\">棺桶ベッド</a>
+<a href=\"handbooksearch://花のベッド\">花のベッド</a>
+<a href=\"handbooksearch://紫色のベッド\">紫色のベッド</a>
+
+
+テーブル：
+<a href=\"handbooksearch://サイドテーブル\">サイドテーブル</a>：右クリックで種類が変わります！
 <a href=\"handbooksearch://真鍮のテーブル\">真鍮のテーブル</a>
-<a href=\"handbooksearch://真鍮のランプ\">真鍮のランプ</a>は機能します！
-<a href=\"handbooksearch://真鍮の燭台\">真鍮の燭台</a>は機能します！
-<a href=\"handbooksearch://真鍮のベッド\">真鍮のベッド</a>は機能します！
-<a href=\"handbooksearch://花のベッド\">花のベッド</a>は機能します！
+<a href=\"handbooksearch://コーヒーテーブル\">コーヒーテーブル</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://コテージコアテーブル（ヌマスギ）\">コテージコアテーブル（ヌマスギ）</a>
+
+<a href=\"handbooksearch://ゴシックテーブル\">ゴシックテーブル</a>
 
 
-<a href=\"handbooksearch://キャビネット左\">キャビネット左</a>には収納スロットがあります。
-<a href=\"handbooksearch://キャビネット右\">キャビネット右</a>には収納スロットがあります。
-<a href=\"handbooksearch://キャビネット左上\">キャビネット左上</a>には収納スロットがあります。
-<a href=\"handbooksearch://キャビネット右上\">キャビネット右上</a>には収納スロットがあります。
+キッチン：
+<a href=\"handbooksearch://キャビネット左\">キャビネット左</a>：収納スロットがあります。
+<a href=\"handbooksearch://キャビネット右\">キャビネット右</a>：収納スロットがあります。
+<a href=\"handbooksearch://キャビネット左上\">キャビネット左上</a>：収納スロットがあります。
+<a href=\"handbooksearch://キャビネット右上\">キャビネット右上</a>：収納スロットがあります。
 <a href=\"handbooksearch://オープンキャビネット\">オープンキャビネット</a>
 <a href=\"handbooksearch://石のシンク\">石のシンク</a>
 <a href=\"handbooksearch://木のシンク\">木のシンク</a>
 
-<a href=\"handbooksearch://石のキャビネット\">石のキャビネットとアイランド</a>には収納スロットがあります。
-<a href=\"handbooksearch://石の引き出し\">石の引き出しとアイランド</a>には収納スロットがあります。
-<a href=\"handbooksearch://石のキャビネット上部\">石のキャビネット上部</a>には収納スロットがあります。
+<a href=\"handbooksearch://石のキャビネット\">石のキャビネットとアイランド</a>：収納スロットがあります。
+<a href=\"handbooksearch://石の引き出し\">石の引き出しとアイランド</a>：収納スロットがあります。
+<a href=\"handbooksearch://石のキャビネット上部\">石のキャビネット上部</a>：収納スロットがあります。
 <a href=\"handbooksearch://石の棚\">石の棚</a>には収納スロットがあります。
 
-<a href=\"handbooksearch://ファンシーキャビネット\">ファンシーキャビネットとアイランド</a>には収納スロットがあります。
-<a href=\"handbooksearch://ファンシーキャビネット上部\">ファンシーキャビネット上部</a>には収納スロットがあります。
+<a href=\"handbooksearch://ファンシーキャビネット\">ファンシーキャビネットとアイランド</a>：収納スロットがあります。
+<a href=\"handbooksearch://ファンシーキャビネット上部\">ファンシーキャビネット上部</a>：収納スロットがあります。
 
-
-<a href=\"handbooksearch://コテージコアテーブル（ヌマスギ）\">コテージコアテーブル（ヌマスギ）</a>
-<a href=\"handbooksearch://コテージコアスツール（ヌマスギ）\">コテージコアスツール（ヌマスギ）</a>
-<a href=\"handbooksearch://スツール\">スツール</a>
 <a href=\"handbooksearch://キッチンの散乱物\">キッチンの散乱物</a>
 <a href=\"handbooksearch://陶器の黄色い鍋\">陶器の黄色い鍋</a>
 <a href=\"handbooksearch://水差し\">水差し</a>
+<a href=\"handbooksearch://グラストレー\">グラストレー</a>
+<a href=\"handbooksearch://テーブルセット\">テーブルセット</a>：右クリックで種類が変わります！
 <a href=\"handbooksearch://装飾棚\">装飾棚</a>
 <a href=\"handbooksearch://皿立て\">皿立て</a>
 <a href=\"handbooksearch://鍋とフライパン\">鍋とフライパン</a>
@@ -69,8 +79,28 @@
 <a href=\"handbooksearch://キッチンの棚\">キッチンの棚</a>
 <a href=\"handbooksearch://パンの箱\">パンの箱</a>には収納スロットがあり、食品を保存できます。
 <a href=\"handbooksearch://堆肥箱\">堆肥箱</a>は腐敗を促進します。
+<a href=\"handbooksearch://ハーブラック\">ハーブラック</a>
+
+ランプ：
+すべてのランプは機能します！ 
+<a href=\"handbooksearch://真鍮のランプ\">真鍮のランプ</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://真鍮の燭台\">真鍮の燭台</a> 
+<a href=\"handbooksearch://ゴシックランプ\">ゴシックランプ</a> 
+<a href=\"handbooksearch://背の高い燭台\">背の高い燭台</a> 
+<a href=\"handbooksearch://テーブル燭台\">テーブル燭台</a> 
+
+イス：
+<a href=\"handbooksearch://コテージコアスツール（ヌマスギ）\">コテージコアスツール（ヌマスギ）</a>
+<a href=\"handbooksearch://ファブリックチェア\">ファブリックチェア</a>
+<a href=\"handbooksearch://スツール\">スツール</a>
+<a href=\"handbooksearch://ソファー\">ソファー</a> 
+<a href=\"handbooksearch://ビクトリア朝風のラウンジチェア\">ビクトリア朝風のラウンジチェア</a>
+<a href=\"handbooksearch://ゴシックロマンスシート\">ゴシックロマンスシート</a>
+<a href=\"handbooksearch://ファンシーゴシックチェア\">ファンシーゴシックチェア</a>
+<a href=\"handbooksearch://ゴシックフットレスト\">ゴシックフットレスト</a>
 
 
+庭の装飾：
 <a href=\"handbooksearch://庭の看板\">庭の看板</a>
 <a href=\"handbooksearch://ハチの看板\">ハチの看板</a>
 <a href=\"handbooksearch://鉢植えベンチ\">鉢植えベンチ</a>には種子用の収納スロットがあります。
@@ -79,15 +109,26 @@
 <a href=\"handbooksearch://青い植木鉢\">青い植木鉢</a>は機能します。
 <a href=\"handbooksearch://紫と金色の植木鉢\">紫と金色の植木鉢</a>は機能します。
 
-<a href=\"handbooksearch://風呂場の散乱物\">風呂場の散乱物</a>
 
+カーテン：
+<a href=\"handbooksearch://カーテン\">カーテン</a>：右クリックで上部（ロッドを含む）、中央、または下部を切り替えられます。現在は無地タイプとファンシータイプがあります。色は、ブラック、ブルー、ブラウン、グレー、グリーン、オレンジ、ピンク、プレーン、パープル、レッド、ホワイト、およびイエローがあります。
+
+
+ランダムなもの：
 <a href=\"handbooksearch://バターチャーン\">バターチャーン</a>
-
-<a href=\"handbooksearch://木の棚\">木の棚</a> : 右クリックで種類が変わります！
-
+<a href=\"handbooksearch://木の棚\">木の棚</a>：右クリックで種類が変わります！
 <a href=\"handbooksearch://魔法のアイテム\">魔法のアイテム</a>
 
-タイルブロック:
+<a href=\"handbooksearch://地図製作者の地図\">地図製作者の地図</a>
+<a href=\"handbooksearch://裁縫棚\">裁縫棚</a>
+<a href=\"handbooksearch://より糸収納庫\">より糸収納庫</a>
+<a href=\"handbooksearch://ワードローブ\">ワードローブ</a>には衣服用のスロットがあります。
+<a href=\"handbooksearch://真鍮の鏡\">真鍮の鏡</a>
+<a href=\"handbooksearch://真鍮のロウソク棚\">真鍮のロウソク棚</a>
+<a href=\"handbooksearch://キノコのクローシュ\">キノコのクローシュ</a>
+<a href=\"handbooksearch://手紙の山\">手紙の山</a>
+
+タイルブロック：
 <a href=\"handbooksearch://ベージュのタイル\">ベージュのタイル</a>
 <a href=\"handbooksearch://グレーのタイル\">グレーのタイル</a>
 <a href=\"handbooksearch://アンスロタイル\">アンスロタイル</a>
@@ -97,15 +138,28 @@
 <a href=\"handbooksearch://金色流星のタイル\">金色流星のタイル</a>
 
 
-クリエイティブでのみアクセスできる絵画:
+絵画：高級品商人、家具商人、工芸商人から購入できます！
 <a href=\"handbooksearch://穀物畑\">穀物畑</a>
 <a href=\"handbooksearch://丘の上の家\">丘の上の家</a>
 <a href=\"handbooksearch://孤独な墓\">孤独な墓</a>
+<a href=\"handbooksearch://白い花\">白い花</a>
 
-クリエイティブモードでのみアクセスできる新しい壁紙もあります。
 
+壁紙：高級品商人、家具商人、工芸商人から購入できます！
+<a href=\"handbooksearch://魚の壁紙\">魚の壁紙</a>
+<a href=\"handbooksearch://真夜中の壁紙\">真夜中の壁紙</a>
+<a href=\"handbooksearch://グリーンパネルの壁紙\">グリーンパネルの壁紙</a>
+<a href=\"handbooksearch://キノコの壁紙\">キノコの壁紙</a>
+<a href=\"handbooksearch://カブトムシの壁紙\">カブトムシの壁紙</a>
+<a href=\"handbooksearch://ダークフローラルの壁紙\">ダークフローラルの壁紙</a>
+<a href=\"handbooksearch://コウモリの壁紙\">コウモリの壁紙</a>
 
 ",
+
+  // クリエイティブモードの切り替えバリエーション //
+
+  "blockhelp-creative-switch": "バリエーション切り替え",
+
 
   "block-bazaarceramicblock-beige*": "ベージュのタイル",
   "block-bazaarceramicblock-gray*": "グレーのタイル",
@@ -128,14 +182,15 @@
   "block-clothesline-*": "物干し竿",
 
   "block-bathroomdecor1-*": "風呂場の散乱物",
+  "block-fabricchair-*": "ファブリックチェア",
+
+  "block-glasstray-*": "グラストレー",
+  "block-cartographermap-*": "地図製作者の地図",
 
 
   "block-sidetable-*": "サイドテーブル",
   "block-sidetablev2-*": "サイドテーブル V2",
   "block-sidetablev3-*": "サイドテーブル V3",
-  "block-sidetablebaldcypress-*": "サイドテーブル（ヌマスギ）",
-  "block-sidetablev2baldcypress-*": "サイドテーブル V2（ヌマスギ）",
-  "block-sidetablev3baldcypress-*": "サイドテーブル V3（ヌマスギ）",
   "block-opencabinet-*": "オープンキャビネット",
   "block-stoneshelf-*": "石の棚",
   "block-sink-*": "シンク（ヌマスギ）",
@@ -145,7 +200,6 @@
   "block-brassbed-*": "真鍮のベッド",
   "block-flowerbed-*": "花のベッド",
   "block-brasstable-*": "真鍮のテーブル",
-  "block-redginghamcarpet-*": "赤いギンガムチェックのカーペット",
 
   "block-leftcabinet-aged-*": "キャビネット左（古びた）",
   "block-leftcabinet-acacia-*": "キャビネット左（アカシア）",
@@ -161,6 +215,23 @@
   "block-leftcabinet-redwood-*": "キャビネット左（レッドウッド）",
   "block-leftcabinet-walnut-*": "キャビネット左（クルミ）",
 
+ "block-leftcabinet-douglasfir-*": "キャビネット左（ベイマツ）",
+ "block-leftcabinet-willow-*": "キャビネット左（ヤナギ）",
+ "block-leftcabinet-honeylocust-*": "キャビネット左（サイカチ）",
+ "block-leftcabinet-bearnut-*": "キャビネット左（ベアナッツ）",
+ "block-leftcabinet-blackpoplar-*": "キャビネット左（クロヤマナラシ）",
+ "block-leftcabinet-pyramidalpoplar-*": "キャビネット左（ヤマナラシ）",
+ "block-leftcabinet-catalpa-*": "キャビネット左（キササゲ）",
+ "block-leftcabinet-mahogany-*": "キャビネット左（マホガニー）",
+ "block-leftcabinet-sal-*": "キャビネット左（サラソウジュ）",
+ "block-leftcabinet-saxaul-*": "キャビネット左（サクソル）",
+ "block-leftcabinet-spruce-*": "キャビネット左（トウヒ）",
+ "block-leftcabinet-sycamore-*": "キャビネット左（カジカエデ）",
+ "block-leftcabinet-elm-*": "キャビネット左（ニレ）",
+ "block-leftcabinet-beech-*": "キャビネット左（ブナ）",
+ "block-leftcabinet-eucalyptus-*": "キャビネット左（ユーカリ）",
+ "block-leftcabinet-cedar-*": "キャビネット左（ヒマラヤスギ）",
+
   "block-leftuppercabinet-aged-*": "キャビネット左上（古びた）",
   "block-leftuppercabinet-acacia-*": "キャビネット左上（アカシア）",
   "block-leftuppercabinet-baldcypress-*": "キャビネット左上（ヌマスギ）",
@@ -174,6 +245,23 @@
   "block-leftuppercabinet-purpleheart-*": "キャビネット左上（パープルハート）",
   "block-leftuppercabinet-redwood-*": "キャビネット左上（レッドウッド）",
   "block-leftuppercabinet-walnut-*": "キャビネット左上（クルミ）",
+
+ "block-leftuppercabinet-douglasfir-*": "キャビネット左上（ベイマツ）",
+ "block-leftuppercabinet-willow-*": "キャビネット左上（ヤナギ）",
+ "block-leftuppercabinet-honeylocust-*": "キャビネット左上（サイカチ）",
+ "block-leftuppercabinet-bearnut-*": "キャビネット左上（ベアナッツ）",
+ "block-leftuppercabinet-blackpoplar-*": "キャビネット左上（クロヤマナラシ）",
+ "block-leftuppercabinet-pyramidalpoplar-*": "キャビネット左上（ヤマナラシ）",
+ "block-leftuppercabinet-catalpa-*": "キャビネット左上（キササゲ）",
+ "block-leftuppercabinet-mahogany-*": "キャビネット左上（マホガニー）",
+ "block-leftuppercabinet-sal-*": "キャビネット左上（サラソウジュ）",
+ "block-leftuppercabinet-saxaul-*": "キャビネット左上（サクソル）",
+ "block-leftuppercabinet-spruce-*": "キャビネット左上（トウヒ）",
+ "block-leftuppercabinet-sycamore-*": "キャビネット左上（カジカエデ）",
+ "block-leftuppercabinet-elm-*": "キャビネット左上（ニレ）",
+ "block-leftuppercabinet-beech-*": "キャビネット左上（ブナ）",
+ "block-leftuppercabinet-eucalyptus-*": "キャビネット左上（ユーカリ）",
+ "block-leftuppercabinet-cedar-*": "キャビネット左上（ヒマラヤスギ）",
 
 
   "block-rightcabinet-aged-*": "キャビネット右（古びた）",
@@ -190,6 +278,23 @@
   "block-rightcabinet-redwood-*": "キャビネット右（レッドウッド）",
   "block-rightcabinet-walnut-*": "キャビネット右（クルミ）",
 
+ "block-rightcabinet-douglasfir-*": "キャビネット右（ベイマツ）",
+ "block-rightcabinet-willow-*": "キャビネット右（ヤナギ）",
+ "block-rightcabinet-honeylocust-*": "キャビネット右（サイカチ）",
+ "block-rightcabinet-bearnut-*": "キャビネット右（ベアナッツ）",
+ "block-rightcabinet-blackpoplar-*": "キャビネット右（クロヤマナラシ）",
+ "block-rightcabinet-pyramidalpoplar-*": "キャビネット右（ヤマナラシ）",
+ "block-rightcabinet-catalpa-*": "キャビネット右（キササゲ）",
+ "block-rightcabinet-mahogany-*": "キャビネット右（マホガニー）",
+ "block-rightcabinet-sal-*": "キャビネット右（サラソウジュ）",
+ "block-rightcabinet-saxaul-*": "キャビネット右（サクソル）",
+ "block-rightcabinet-spruce-*": "キャビネット右（トウヒ）",
+ "block-rightcabinet-sycamore-*": "キャビネット右（カジカエデ）",
+ "block-rightcabinet-elm-*": "キャビネット右（ニレ）",
+ "block-rightcabinet-beech-*": "キャビネット右（ブナ）",
+ "block-rightcabinet-eucalyptus-*": "キャビネット右（ユーカリ）",
+ "block-rightcabinet-cedar-*": "キャビネット右（ヒマラヤスギ）",
+
   "block-rightuppercabinet-aged-*": "キャビネット右上（古びた）",
   "block-rightuppercabinet-acacia-*": "キャビネット右上（アカシア）",
   "block-rightuppercabinet-baldcypress-*": "キャビネット右上（ヌマスギ）",
@@ -203,6 +308,23 @@
   "block-rightuppercabinet-purpleheart-*": "キャビネット右上（パープルハート）",
   "block-rightuppercabinet-redwood-*": "キャビネット右上（レッドウッド）",
   "block-rightuppercabinet-walnut-*": "キャビネット右上（クルミ）",
+
+ "block-rightuppercabinet-douglasfir-*": "キャビネット右上（ベイマツ）",
+ "block-rightuppercabinet-willow-*": "キャビネット右上（ヤナギ）",
+ "block-rightuppercabinet-honeylocust-*": "キャビネット右上（サイカチ）",
+ "block-rightuppercabinet-bearnut-*": "キャビネット右上（ベアナッツ）",
+ "block-rightuppercabinet-blackpoplar-*": "キャビネット右上（クロヤマナラシ）",
+ "block-rightuppercabinet-pyramidalpoplar-*": "キャビネット右上（ヤマナラシ）",
+ "block-rightuppercabinet-catalpa-*": "キャビネット右上（キササゲ）",
+ "block-rightuppercabinet-mahogany-*": "キャビネット右上（マホガニー）",
+ "block-rightuppercabinet-sal-*": "キャビネット右上（サラソウジュ）",
+ "block-rightuppercabinet-saxaul-*": "キャビネット右上（サクソル）",
+ "block-rightuppercabinet-spruce-*": "キャビネット右上（トウヒ）",
+ "block-rightuppercabinet-sycamore-*": "キャビネット右上（カジカエデ）",
+ "block-rightuppercabinet-elm-*": "キャビネット右上（ニレ）",
+ "block-rightuppercabinet-beech-*": "キャビネット右上（ブナ）",
+ "block-rightuppercabinet-eucalyptus-*": "キャビネット右上（ユーカリ）",
+ "block-rightuppercabinet-cedar-*": "キャビネット右上（ヒマラヤスギ）",
 
   "block-stonecabinet-andesite-*": "石のキャビネット（安山岩）",
   "block-stonecabinet-basalt-*": "石のキャビネット（玄武岩）",
@@ -320,6 +442,23 @@
   "block-fancycabinet-redwood-*": "ファンシーキャビネット（レッドウッド）",
   "block-fancycabinet-walnut-*": "ファンシーキャビネット（クルミ）",
 
+ "block-fancycabinet-douglasfir-*": "ファンシーキャビネット（ベイマツ）",
+ "block-fancycabinet-willow-*": "ファンシーキャビネット（ヤナギ）",
+ "block-fancycabinet-honeylocust-*": "ファンシーキャビネット（サイカチ）",
+ "block-fancycabinet-bearnut-*": "ファンシーキャビネット（ベアナッツ）",
+ "block-fancycabinet-blackpoplar-*": "ファンシーキャビネット（クロヤマナラシ）",
+ "block-fancycabinet-pyramidalpoplar-*": "ファンシーキャビネット（ヤマナラシ）",
+ "block-fancycabinet-catalpa-*": "ファンシーキャビネット（キササゲ）",
+ "block-fancycabinet-mahogany-*": "ファンシーキャビネット（マホガニー）",
+ "block-fancycabinet-sal-*": "ファンシーキャビネット（サラソウジュ）",
+ "block-fancycabinet-saxaul-*": "ファンシーキャビネット（サクソル）",
+ "block-fancycabinet-spruce-*": "ファンシーキャビネット（トウヒ）",
+ "block-fancycabinet-sycamore-*": "ファンシーキャビネット（カジカエデ）",
+ "block-fancycabinet-elm-*": "ファンシーキャビネット（ニレ）",
+ "block-fancycabinet-beech-*": "ファンシーキャビネット（ブナ）",
+ "block-fancycabinet-eucalyptus-*": "ファンシーキャビネット（ユーカリ）",
+ "block-fancycabinet-cedar-*": "ファンシーキャビネット（ヒマラヤスギ）",
+
   "block-fancyuppercabinet-aged-*": "ファンシーキャビネット上部（古びた）",
   "block-fancyuppercabinet-acacia-*": "ファンシーキャビネット上部（アカシア）",
   "block-fancyuppercabinet-baldcypress-*": "ファンシーキャビネット上部（ヌマスギ）",
@@ -333,6 +472,23 @@
   "block-fancyuppercabinet-purpleheart-*": "ファンシーキャビネット上部（パープルハート）",
   "block-fancyuppercabinet-redwood-*": "ファンシーキャビネット上部（レッドウッド）",
   "block-fancyuppercabinet-walnut-*": "ファンシーキャビネット上部（クルミ）",
+
+ "block-fancyuppercabinet-douglasfir-*": "ファンシーキャビネット上部（ベイマツ）",
+ "block-fancyuppercabinet-willow-*": "ファンシーキャビネット上部（ヤナギ）",
+ "block-fancyuppercabinet-honeylocust-*": "ファンシーキャビネット上部（サイカチ）",
+ "block-fancyuppercabinet-bearnut-*": "ファンシーキャビネット上部（ベアナッツ）",
+ "block-fancyuppercabinet-blackpoplar-*": "ファンシーキャビネット上部（クロヤマナラシ）",
+ "block-fancyuppercabinet-pyramidalpoplar-*": "ファンシーキャビネット上部（ヤマナラシ）",
+ "block-fancyuppercabinet-catalpa-*": "ファンシーキャビネット上部（キササゲ）",
+ "block-fancyuppercabinet-mahogany-*": "ファンシーキャビネット上部（マホガニー）",
+ "block-fancyuppercabinet-sal-*": "ファンシーキャビネット上部（サラソウジュ）",
+ "block-fancyuppercabinet-saxaul-*": "ファンシーキャビネット上部（サクソル）",
+ "block-fancyuppercabinet-spruce-*": "ファンシーキャビネット上部（トウヒ）",
+ "block-fancyuppercabinet-sycamore-*": "ファンシーキャビネット上部（カジカエデ）",
+ "block-fancyuppercabinet-elm-*": "ファンシーキャビネット上部（ニレ）",
+ "block-fancyuppercabinet-beech-*": "ファンシーキャビネット上部（ブナ）",
+ "block-fancyuppercabinet-eucalyptus-*": "ファンシーキャビネット上部（ユーカリ）",
+ "block-fancyuppercabinet-cedar-*": "ファンシーキャビネット上部（ヒマラヤスギ）",
 
   "block-fancycabinetisland-aged-*": "ファンシーキャビネットアイランド（古びた）",
   "block-fancycabinetisland-acacia-*": "ファンシーキャビネットアイランド（アカシア）",
@@ -348,13 +504,30 @@
   "block-fancycabinetisland-redwood-*": "ファンシーキャビネットアイランド（レッドウッド）",
   "block-fancycabinetisland-walnut-*": "ファンシーキャビネットアイランド（クルミ）",
 
+ "block-fancycabinetisland-douglasfir-*": "ファンシーキャビネットアイランド（ベイマツ）",
+ "block-fancycabinetisland-willow-*": "ファンシーキャビネットアイランド（ヤナギ）",
+ "block-fancycabinetisland-honeylocust-*": "ファンシーキャビネットアイランド（サイカチ）",
+ "block-fancycabinetisland-bearnut-*": "ファンシーキャビネットアイランド（ベアナッツ）",
+ "block-fancycabinetisland-blackpoplar-*": "ファンシーキャビネットアイランド（クロヤマナラシ）",
+ "block-fancycabinetisland-pyramidalpoplar-*": "ファンシーキャビネットアイランド（ヤマナラシ）",
+ "block-fancycabinetisland-catalpa-*": "ファンシーキャビネットアイランド（キササゲ）",
+ "block-fancycabinetisland-mahogany-*": "ファンシーキャビネットアイランド（マホガニー）",
+ "block-fancycabinetisland-sal-*": "ファンシーキャビネットアイランド（サラソウジュ）",
+ "block-fancycabinetisland-saxaul-*": "ファンシーキャビネットアイランド（サクソル）",
+ "block-fancycabinetisland-spruce-*": "ファンシーキャビネットアイランド（トウヒ）",
+ "block-fancycabinetisland-sycamore-*": "ファンシーキャビネットアイランド（カジカエデ）",
+ "block-fancycabinetisland-elm-*": "ファンシーキャビネットアイランド（ニレ）",
+ "block-fancycabinetisland-beech-*": "ファンシーキャビネットアイランド（ブナ）",
+ "block-fancycabinetisland-eucalyptus-*": "ファンシーキャビネットアイランド（ユーカリ）",
+ "block-fancycabinetisland-cedar-*": "ファンシーキャビネットアイランド（ヒマラヤスギ）",
+
 
   "block-brasscandleshelf-*": "真鍮のロウソク棚",
   "block-mushroomcloche-*": "キノコのクローシュ",
 
   "block-witchyitems-*": "魔法のアイテム",
   "block-bazaarflowerpot-terracotta": "テラコッタの植木鉢",
-  "block-bazaarflowerpotwflower-terracottawflower": "花付きのテラコッタの植木鉢",
+  "block-bazaarflowerpotwflower-terracottawflower": "花柄のテラコッタの植木鉢",
   "block-bazaarflowerpot-blueclay": "青い植木鉢",
   "block-purplepot-purplewgold": "紫と金色の植木鉢",
 
@@ -362,6 +535,9 @@
   "block-wallpaper-midnight": "真夜中の壁紙",
   "block-wallpaper-greenpannels": "グリーンパネルの壁紙",
   "block-wallpaper-mushrooms": "キノコの壁紙",
+  "block-wallpaper-beatle": "カブトムシの壁紙",
+  "block-wallpaper-darkfloral": "ダークフローラルの壁紙",
+  "block-wallpaper-bat": "コウモリの壁紙",
 
 
   "block-cottagecoretable-*": "コテージコアテーブル（ヌマスギ）",
@@ -410,7 +586,7 @@
 
   "block-butterchurn-*": "バターチャーン",
 
-// 木のシンクの種類 //
+// 木のシンクのバリエーション //
 
   "block-doublewoodsink-aged-bismuth-*": "ダブル木のシンク（古びたビスマス）",
   "block-doublewoodsink-acacia-bismuth-*": "ダブル木のシンク（アカシアビスマス）",
@@ -426,6 +602,23 @@
   "block-doublewoodsink-redwood-bismuth-*": "ダブル木のシンク（レッドウッドビスマス）",
   "block-doublewoodsink-walnut-bismuth-*": "ダブル木のシンク（クルミビスマス）",
 
+ "block-doublewoodsink-douglasfir-bismuth-*": "ダブル木のシンク（ベイマツビスマス）",
+ "block-doublewoodsink-willow-bismuth-*": "ダブル木のシンク（ヤナギビスマス）",
+ "block-doublewoodsink-honeylocust-bismuth-*": "ダブル木のシンク（サイカチビスマス）",
+ "block-doublewoodsink-bearnut-bismuth-*": "ダブル木のシンク（ベアナッツビスマス）",
+ "block-doublewoodsink-blackpoplar-bismuth-*": "ダブル木のシンク（クロヤマナラシビスマス）",
+ "block-doublewoodsink-pyramidalpoplar-bismuth-*": "ダブル木のシンク（ヤマナラシビスマス）",
+ "block-doublewoodsink-catalpa-bismuth-*": "ダブル木のシンク（キササゲビスマス）",
+ "block-doublewoodsink-mahogany-bismuth-*": "ダブル木のシンク（マホガニービスマス）",
+ "block-doublewoodsink-sal-bismuth-*": "ダブル木のシンク（サラソウジュビスマス）",
+ "block-doublewoodsink-saxaul-bismuth-*": "ダブル木のシンク（サクソルビスマス）",
+ "block-doublewoodsink-spruce-bismuth-*": "ダブル木のシンク（トウヒビスマス）",
+ "block-doublewoodsink-sycamore-bismuth-*": "ダブル木のシンク（カジカエデビスマス）",
+ "block-doublewoodsink-elm-bismuth-*": "ダブル木のシンク（ニレビスマス）",
+ "block-doublewoodsink-beech-bismuth-*": "ダブル木のシンク（ブナビスマス）",
+ "block-doublewoodsink-eucalyptus-bismuth-*": "ダブル木のシンク（ユーカリビスマス）",
+ "block-doublewoodsink-cedar-bismuth-*": "ダブル木のシンク（ヒマラヤスギビスマス）",
+
   "block-doublewoodsink-aged-bismuthbronze-*": "ダブル木のシンク（古びたビスマス青銅）",
   "block-doublewoodsink-acacia-bismuthbronze-*": "ダブル木のシンク（アカシアビスマス青銅）",
   "block-doublewoodsink-baldcypress-bismuthbronze-*": "ダブル木のシンク（ヌマスギビスマス青銅）",
@@ -439,6 +632,23 @@
   "block-doublewoodsink-purpleheart-bismuthbronze-*": "ダブル木のシンク（パープルハートビスマス青銅）",
   "block-doublewoodsink-redwood-bismuthbronze-*": "ダブル木のシンク（レッドウッドビスマス青銅）",
   "block-doublewoodsink-walnut-bismuthbronze-*": "ダブル木のシンク（クルミビスマス青銅）",
+
+ "block-doublewoodsink-douglasfir-bismuthbronze-*": "ダブル木のシンク（ベイマツビスマス青銅）",
+ "block-doublewoodsink-willow-bismuthbronze-*": "ダブル木のシンク（ヤナギビスマス青銅）",
+ "block-doublewoodsink-honeylocust-bismuthbronze-*": "ダブル木のシンク（サイカチビスマス青銅）",
+ "block-doublewoodsink-bearnut-bismuthbronze-*": "ダブル木のシンク（ベアナッツビスマス青銅）",
+ "block-doublewoodsink-blackpoplar-bismuthbronze-*": "ダブル木のシンク（クロヤマナラシビスマス青銅）",
+ "block-doublewoodsink-pyramidalpoplar-bismuthbronze-*": "ダブル木のシンク（ヤマナラシビスマス青銅）",
+ "block-doublewoodsink-catalpa-bismuthbronze-*": "ダブル木のシンク（キササゲビスマス青銅）",
+ "block-doublewoodsink-mahogany-bismuthbronze-*": "ダブル木のシンク（マホガニービスマス青銅）",
+ "block-doublewoodsink-sal-bismuthbronze-*": "ダブル木のシンク（サラソウジュビスマス青銅）",
+ "block-doublewoodsink-saxaul-bismuthbronze-*": "ダブル木のシンク（サクソルビスマス青銅）",
+ "block-doublewoodsink-spruce-bismuthbronze-*": "ダブル木のシンク（トウヒビスマス青銅）",
+ "block-doublewoodsink-sycamore-bismuthbronze-*": "ダブル木のシンク（カジカエデビスマス青銅）",
+ "block-doublewoodsink-elm-bismuthbronze-*": "ダブル木のシンク（ニレビスマス青銅）",
+ "block-doublewoodsink-beech-bismuthbronze-*": "ダブル木のシンク（ブナビスマス青銅）",
+ "block-doublewoodsink-eucalyptus-bismuthbronze-*": "ダブル木のシンク（ユーカリビスマス青銅）",
+ "block-doublewoodsink-cedar-bismuthbronze-*": "ダブル木のシンク（ヒマラヤスギビスマス青銅）",
 
   "block-doublewoodsink-aged-blackbronze-*": "ダブル木のシンク（古びた黒青銅）",
   "block-doublewoodsink-acacia-blackbronze-*": "ダブル木のシンク（アカシア黒青銅）",
@@ -454,6 +664,23 @@
   "block-doublewoodsink-redwood-blackbronze-*": "ダブル木のシンク（レッドウッド黒青銅）",
   "block-doublewoodsink-walnut-blackbronze-*": "ダブル木のシンク（クルミ黒青銅）",
 
+ "block-doublewoodsink-douglasfir-blackbronze-*": "ダブル木のシンク（ベイマツ黒青銅）",
+ "block-doublewoodsink-willow-blackbronze-*": "ダブル木のシンク（ヤナギ黒青銅）",
+ "block-doublewoodsink-honeylocust-blackbronze-*": "ダブル木のシンク（サイカチ黒青銅）",
+ "block-doublewoodsink-bearnut-blackbronze-*": "ダブル木のシンク（ベアナッツ黒青銅）",
+ "block-doublewoodsink-blackpoplar-blackbronze-*": "ダブル木のシンク（クロヤマナラシ黒青銅）",
+ "block-doublewoodsink-pyramidalpoplar-blackbronze-*": "ダブル木のシンク（ヤマナラシ黒青銅）",
+ "block-doublewoodsink-catalpa-blackbronze-*": "ダブル木のシンク（キササゲ黒青銅）",
+ "block-doublewoodsink-mahogany-blackbronze-*": "ダブル木のシンク（マホガニー黒青銅）",
+ "block-doublewoodsink-sal-blackbronze-*": "ダブル木のシンク（サラソウジュ黒青銅）",
+ "block-doublewoodsink-saxaul-blackbronze-*": "ダブル木のシンク（サクソル黒青銅）",
+ "block-doublewoodsink-spruce-blackbronze-*": "ダブル木のシンク（トウヒ黒青銅）",
+ "block-doublewoodsink-sycamore-blackbronze-*": "ダブル木のシンク（カジカエデ黒青銅）",
+ "block-doublewoodsink-elm-blackbronze-*": "ダブル木のシンク（ニレ黒青銅）",
+ "block-doublewoodsink-beech-blackbronze-*": "ダブル木のシンク（ブナ黒青銅）",
+ "block-doublewoodsink-eucalyptus-blackbronze-*": "ダブル木のシンク（ユーカリ黒青銅）",
+ "block-doublewoodsink-cedar-blackbronze-*": "ダブル木のシンク（ヒマラヤスギ黒青銅）",
+
   "block-doublewoodsink-aged-brass-*": "ダブル木のシンク（古びた真鍮）",
   "block-doublewoodsink-acacia-brass-*": "ダブル木のシンク（アカシア真鍮）",
   "block-doublewoodsink-baldcypress-brass-*": "ダブル木のシンク（ヌマスギ真鍮）",
@@ -467,6 +694,23 @@
   "block-doublewoodsink-purpleheart-brass-*": "ダブル木のシンク（パープルハート真鍮）",
   "block-doublewoodsink-redwood-brass-*": "ダブル木のシンク（レッドウッド真鍮）",
   "block-doublewoodsink-walnut-brass-*": "ダブル木のシンク（クルミ真鍮）",
+
+ "block-doublewoodsink-douglasfir-brass-*": "ダブル木のシンク（ベイマツ真鍮）",
+ "block-doublewoodsink-willow-brass-*": "ダブル木のシンク（ヤナギ真鍮）",
+ "block-doublewoodsink-honeylocust-brass-*": "ダブル木のシンク（サイカチ真鍮）",
+ "block-doublewoodsink-bearnut-brass-*": "ダブル木のシンク（ベアナッツ真鍮）",
+ "block-doublewoodsink-blackpoplar-brass-*": "ダブル木のシンク（クロヤマナラシ真鍮）",
+ "block-doublewoodsink-pyramidalpoplar-brass-*": "ダブル木のシンク（ヤマナラシ真鍮）",
+ "block-doublewoodsink-catalpa-brass-*": "ダブル木のシンク（キササゲ真鍮）",
+ "block-doublewoodsink-mahogany-brass-*": "ダブル木のシンク（マホガニー真鍮）",
+ "block-doublewoodsink-sal-brass-*": "ダブル木のシンク（サラソウジュ真鍮）",
+ "block-doublewoodsink-saxaul-brass-*": "ダブル木のシンク（サクソル真鍮）",
+ "block-doublewoodsink-spruce-brass-*": "ダブル木のシンク（トウヒ真鍮）",
+ "block-doublewoodsink-sycamore-brass-*": "ダブル木のシンク（カジカエデ真鍮）",
+ "block-doublewoodsink-elm-brass-*": "ダブル木のシンク（ニレ真鍮）",
+ "block-doublewoodsink-beech-brass-*": "ダブル木のシンク（ブナ真鍮）",
+ "block-doublewoodsink-eucalyptus-brass-*": "ダブル木のシンク（ユーカリ真鍮）",
+ "block-doublewoodsink-cedar-brass-*": "ダブル木のシンク（ヒマラヤスギ真鍮）",
 
   "block-doublewoodsink-aged-copper-*": "ダブル木のシンク（古びた銅）",
   "block-doublewoodsink-acacia-copper-*": "ダブル木のシンク（アカシア銅）",
@@ -482,6 +726,23 @@
   "block-doublewoodsink-redwood-copper-*": "ダブル木のシンク（レッドウッド銅）",
   "block-doublewoodsink-walnut-copper-*": "ダブル木のシンク（クルミ銅）",
 
+ "block-doublewoodsink-douglasfir-copper-*": "ダブル木のシンク（ベイマツ銅）",
+ "block-doublewoodsink-willow-copper-*": "ダブル木のシンク（ヤナギ銅）",
+ "block-doublewoodsink-honeylocust-copper-*": "ダブル木のシンク（サイカチ銅）",
+ "block-doublewoodsink-bearnut-copper-*": "ダブル木のシンク（ベアナッツ銅）",
+ "block-doublewoodsink-blackpoplar-copper-*": "ダブル木のシンク（クロヤマナラシ銅）",
+ "block-doublewoodsink-pyramidalpoplar-copper-*": "ダブル木のシンク（ヤマナラシ銅）",
+ "block-doublewoodsink-catalpa-copper-*": "ダブル木のシンク（キササゲ銅）",
+ "block-doublewoodsink-mahogany-copper-*": "ダブル木のシンク（マホガニー銅）",
+ "block-doublewoodsink-sal-copper-*": "ダブル木のシンク（サラソウジュ銅）",
+ "block-doublewoodsink-saxaul-copper-*": "ダブル木のシンク（サクソル銅）",
+ "block-doublewoodsink-spruce-copper-*": "ダブル木のシンク（トウヒ銅）",
+ "block-doublewoodsink-sycamore-copper-*": "ダブル木のシンク（カジカエデ銅）",
+ "block-doublewoodsink-elm-copper-*": "ダブル木のシンク（ニレ銅）",
+ "block-doublewoodsink-beech-copper-*": "ダブル木のシンク（ブナ銅）",
+ "block-doublewoodsink-eucalyptus-copper-*": "ダブル木のシンク（ユーカリ銅）",
+ "block-doublewoodsink-cedar-copper-*": "ダブル木のシンク（ヒマラヤスギ銅）",
+
   "block-doublewoodsink-aged-cupronickel-*": "ダブル木のシンク（古びた白銅）",
   "block-doublewoodsink-acacia-cupronickel-*": "ダブル木のシンク（アカシア白銅）",
   "block-doublewoodsink-baldcypress-cupronickel-*": "ダブル木のシンク（ヌマスギ白銅）",
@@ -495,6 +756,24 @@
   "block-doublewoodsink-purpleheart-cupronickel-*": "ダブル木のシンク（パープルハート白銅）",
   "block-doublewoodsink-redwood-cupronickel-*": "ダブル木のシンク（レッドウッド白銅）",
   "block-doublewoodsink-walnut-cupronickel-*": "ダブル木のシンク（クルミ白銅）",
+
+ "block-doublewoodsink-douglasfir-cupronickel-*": "ダブル木のシンク（ベイマツ白銅）",
+ "block-doublewoodsink-willow-cupronickel-*": "ダブル木のシンク（ヤナギ白銅）",
+ "block-doublewoodsink-honeylocust-cupronickel-*": "ダブル木のシンク（サイカチ白銅）",
+ "block-doublewoodsink-bearnut-cupronickel-*": "ダブル木のシンク（ベアナッツ白銅）",
+ "block-doublewoodsink-blackpoplar-cupronickel-*": "ダブル木のシンク（クロヤマナラシ白銅）",
+ "block-doublewoodsink-pyramidalpoplar-cupronickel-*": "ダブル木のシンク（ヤマナラシ白銅）",
+ "block-doublewoodsink-catalpa-cupronickel-*": "ダブル木のシンク（キササゲ白銅）",
+ "block-doublewoodsink-mahogany-cupronickel-*": "ダブル木のシンク（マホガニー白銅）",
+ "block-doublewoodsink-sal-cupronickel-*": "ダブル木のシンク（サラソウジュ白銅）",
+ "block-doublewoodsink-saxaul-cupronickel-*": "ダブル木のシンク（サクソル白銅）",
+ "block-doublewoodsink-spruce-cupronickel-*": "ダブル木のシンク（トウヒ白銅）",
+ "block-doublewoodsink-sycamore-cupronickel-*": "ダブル木のシンク（カジカエデ白銅）",
+ "block-doublewoodsink-elm-cupronickel-*": "ダブル木のシンク（ニレ白銅）",
+ "block-doublewoodsink-beech-cupronickel-*": "ダブル木のシンク（ブナ白銅）",
+ "block-doublewoodsink-eucalyptus-cupronickel-*": "ダブル木のシンク（ユーカリ白銅）",
+ "block-doublewoodsink-cedar-cupronickel-*": "ダブル木のシンク（ヒマラヤスギ白銅）",
+
 
   "block-doublewoodsink-aged-electrum-*": "ダブル木のシンク（古びたエレクトラム）",
   "block-doublewoodsink-acacia-electrum-*": "ダブル木のシンク（アカシアエレクトラム）",
@@ -510,6 +789,23 @@
   "block-doublewoodsink-redwood-electrum-*": "ダブル木のシンク（レッドウッドエレクトラム）",
   "block-doublewoodsink-walnut-electrum-*": "ダブル木のシンク（クルミエレクトラム）",
 
+ "block-doublewoodsink-douglasfir-electrum-*": "ダブル木のシンク（ベイマツエレクトラム）",
+ "block-doublewoodsink-willow-electrum-*": "ダブル木のシンク（ヤナギエレクトラム）",
+ "block-doublewoodsink-honeylocust-electrum-*": "ダブル木のシンク（サイカチエレクトラム）",
+ "block-doublewoodsink-bearnut-electrum-*": "ダブル木のシンク（ベアナッツエレクトラム）",
+ "block-doublewoodsink-blackpoplar-electrum-*": "ダブル木のシンク（クロヤマナラシエレクトラム）",
+ "block-doublewoodsink-pyramidalpoplar-electrum-*": "ダブル木のシンク（ヤマナラシエレクトラム）",
+ "block-doublewoodsink-catalpa-electrum-*": "ダブル木のシンク（キササゲエレクトラム）",
+ "block-doublewoodsink-mahogany-electrum-*": "ダブル木のシンク（マホガニーエレクトラム）",
+ "block-doublewoodsink-sal-electrum-*": "ダブル木のシンク（サラソウジュエレクトラム）",
+ "block-doublewoodsink-saxaul-electrum-*": "ダブル木のシンク（サクソルエレクトラム）",
+ "block-doublewoodsink-spruce-electrum-*": "ダブル木のシンク（トウヒエレクトラム）",
+ "block-doublewoodsink-sycamore-electrum-*": "ダブル木のシンク（カジカエデエレクトラム）",
+ "block-doublewoodsink-elm-electrum-*": "ダブル木のシンク（ニレエレクトラム）",
+ "block-doublewoodsink-beech-electrum-*": "ダブル木のシンク（ブナエレクトラム）",
+ "block-doublewoodsink-eucalyptus-electrum-*": "ダブル木のシンク（ユーカリエレクトラム）",
+ "block-doublewoodsink-cedar-electrum-*": "ダブル木のシンク（ヒマラヤスギエレクトラム）",
+
   "block-doublewoodsink-aged-gold-*": "ダブル木のシンク（古びた金）",
   "block-doublewoodsink-acacia-gold-*": "ダブル木のシンク（アカシア金）",
   "block-doublewoodsink-baldcypress-gold-*": "ダブル木のシンク（ヌマスギ金）",
@@ -523,6 +819,23 @@
   "block-doublewoodsink-purpleheart-gold-*": "ダブル木のシンク（パープルハート金）",
   "block-doublewoodsink-redwood-gold-*": "ダブル木のシンク（レッドウッド金）",
   "block-doublewoodsink-walnut-gold-*": "ダブル木のシンク（クルミ金）",
+
+ "block-doublewoodsink-douglasfir-gold-*": "ダブル木のシンク（ベイマツ金）",
+ "block-doublewoodsink-willow-gold-*": "ダブル木のシンク（ヤナギ金）",
+ "block-doublewoodsink-honeylocust-gold-*": "ダブル木のシンク（サイカチ金）",
+ "block-doublewoodsink-bearnut-gold-*": "ダブル木のシンク（ベアナッツ金）",
+ "block-doublewoodsink-blackpoplar-gold-*": "ダブル木のシンク（クロヤマナラシ金）",
+ "block-doublewoodsink-pyramidalpoplar-gold-*": "ダブル木のシンク（ヤマナラシ金）",
+ "block-doublewoodsink-catalpa-gold-*": "ダブル木のシンク（キササゲ金）",
+ "block-doublewoodsink-mahogany-gold-*": "ダブル木のシンク（マホガニー金）",
+ "block-doublewoodsink-sal-gold-*": "ダブル木のシンク（サラソウジュ金）",
+ "block-doublewoodsink-saxaul-gold-*": "ダブル木のシンク（サクソル金）",
+ "block-doublewoodsink-spruce-gold-*": "ダブル木のシンク（トウヒ金）",
+ "block-doublewoodsink-sycamore-gold-*": "ダブル木のシンク（カジカエデ金）",
+ "block-doublewoodsink-elm-gold-*": "ダブル木のシンク（ニレ金）",
+ "block-doublewoodsink-beech-gold-*": "ダブル木のシンク（ブナ金）",
+ "block-doublewoodsink-eucalyptus-gold-*": "ダブル木のシンク（ユーカリ金）",
+ "block-doublewoodsink-cedar-gold-*": "ダブル木のシンク（ヒマラヤスギ金）",
 
   "block-doublewoodsink-aged-iron-*": "ダブル木のシンク（古びた鉄）",
   "block-doublewoodsink-acacia-iron-*": "ダブル木のシンク（アカシア鉄）",
@@ -538,6 +851,23 @@
   "block-doublewoodsink-redwood-iron-*": "ダブル木のシンク（レッドウッド鉄）",
   "block-doublewoodsink-walnut-iron-*": "ダブル木のシンク（クルミ鉄）",
 
+ "block-doublewoodsink-douglasfir-iron-*": "ダブル木のシンク（ベイマツ鉄）",
+ "block-doublewoodsink-willow-iron-*": "ダブル木のシンク（ヤナギ鉄）",
+ "block-doublewoodsink-honeylocust-iron-*": "ダブル木のシンク（サイカチ鉄）",
+ "block-doublewoodsink-bearnut-iron-*": "ダブル木のシンク（ベアナッツ鉄）",
+ "block-doublewoodsink-blackpoplar-iron-*": "ダブル木のシンク（クロヤマナラシ鉄）",
+ "block-doublewoodsink-pyramidalpoplar-iron-*": "ダブル木のシンク（ヤマナラシ鉄）",
+ "block-doublewoodsink-catalpa-iron-*": "ダブル木のシンク（キササゲ鉄）",
+ "block-doublewoodsink-mahogany-iron-*": "ダブル木のシンク（マホガニー鉄）",
+ "block-doublewoodsink-sal-iron-*": "ダブル木のシンク（サラソウジュ鉄）",
+ "block-doublewoodsink-saxaul-iron-*": "ダブル木のシンク（サクソル鉄）",
+ "block-doublewoodsink-spruce-iron-*": "ダブル木のシンク（トウヒ鉄）",
+ "block-doublewoodsink-sycamore-iron-*": "ダブル木のシンク（カジカエデ鉄）",
+ "block-doublewoodsink-elm-iron-*": "ダブル木のシンク（ニレ鉄）",
+ "block-doublewoodsink-beech-iron-*": "ダブル木のシンク（ブナ鉄）",
+ "block-doublewoodsink-eucalyptus-iron-*": "ダブル木のシンク（ユーカリ鉄）",
+ "block-doublewoodsink-cedar-iron-*": "ダブル木のシンク（ヒマラヤスギ鉄）",
+
   "block-doublewoodsink-aged-lead-*": "ダブル木のシンク（古びた鉛）",
   "block-doublewoodsink-acacia-lead-*": "ダブル木のシンク（アカシア鉛）",
   "block-doublewoodsink-baldcypress-lead-*": "ダブル木のシンク（ヌマスギ鉛）",
@@ -551,6 +881,23 @@
   "block-doublewoodsink-purpleheart-lead-*": "ダブル木のシンク（パープルハート鉛）",
   "block-doublewoodsink-redwood-lead-*": "ダブル木のシンク（レッドウッド鉛）",
   "block-doublewoodsink-walnut-lead-*": "ダブル木のシンク（クルミ鉛）",
+
+ "block-doublewoodsink-douglasfir-lead-*": "ダブル木のシンク（ベイマツ鉛）",
+ "block-doublewoodsink-willow-lead-*": "ダブル木のシンク（ヤナギ鉛）",
+ "block-doublewoodsink-honeylocust-lead-*": "ダブル木のシンク（サイカチ鉛）",
+ "block-doublewoodsink-bearnut-lead-*": "ダブル木のシンク（ベアナッツ鉛）",
+ "block-doublewoodsink-blackpoplar-lead-*": "ダブル木のシンク（クロヤマナラシ鉛）",
+ "block-doublewoodsink-pyramidalpoplar-lead-*": "ダブル木のシンク（ヤマナラシ鉛）",
+ "block-doublewoodsink-catalpa-lead-*": "ダブル木のシンク（キササゲ鉛）",
+ "block-doublewoodsink-mahogany-lead-*": "ダブル木のシンク（マホガニー鉛）",
+ "block-doublewoodsink-sal-lead-*": "ダブル木のシンク（サラソウジュ鉛）",
+ "block-doublewoodsink-saxaul-lead-*": "ダブル木のシンク（サクソル鉛）",
+ "block-doublewoodsink-spruce-lead-*": "ダブル木のシンク（トウヒ鉛）",
+ "block-doublewoodsink-sycamore-lead-*": "ダブル木のシンク（カジカエデ鉛）",
+ "block-doublewoodsink-elm-lead-*": "ダブル木のシンク（ニレ鉛）",
+ "block-doublewoodsink-beech-lead-*": "ダブル木のシンク（ブナ鉛）",
+ "block-doublewoodsink-eucalyptus-lead-*": "ダブル木のシンク（ユーカリ鉛）",
+ "block-doublewoodsink-cedar-lead-*": "ダブル木のシンク（ヒマラヤスギ鉛）",
 
   "block-doublewoodsink-aged-leadsolder-*": "ダブル木のシンク（古びた鉛ロウ）",
   "block-doublewoodsink-acacia-leadsolder-*": "ダブル木のシンク（アカシア鉛ロウ）",
@@ -566,6 +913,23 @@
   "block-doublewoodsink-redwood-leadsolder-*": "ダブル木のシンク（レッドウッド鉛ロウ）",
   "block-doublewoodsink-walnut-leadsolder-*": "ダブル木のシンク（クルミ鉛ロウ）",
 
+ "block-doublewoodsink-douglasfir-leadsolder-*": "ダブル木のシンク（ベイマツ鉛ロウ）",
+ "block-doublewoodsink-willow-leadsolder-*": "ダブル木のシンク（ヤナギ鉛ロウ）",
+ "block-doublewoodsink-honeylocust-leadsolder-*": "ダブル木のシンク（サイカチ鉛ロウ）",
+ "block-doublewoodsink-bearnut-leadsolder-*": "ダブル木のシンク（ベアナッツ鉛ロウ）",
+ "block-doublewoodsink-blackpoplar-leadsolder-*": "ダブル木のシンク（クロヤマナラシ鉛ロウ）",
+ "block-doublewoodsink-pyramidalpoplar-leadsolder-*": "ダブル木のシンク（ヤマナラシ鉛ロウ）",
+ "block-doublewoodsink-catalpa-leadsolder-*": "ダブル木のシンク（キササゲ鉛ロウ）",
+ "block-doublewoodsink-mahogany-leadsolder-*": "ダブル木のシンク（マホガニー鉛ロウ）",
+ "block-doublewoodsink-sal-leadsolder-*": "ダブル木のシンク（サラソウジュ鉛ロウ）",
+ "block-doublewoodsink-saxaul-leadsolder-*": "ダブル木のシンク（サクソル鉛ロウ）",
+ "block-doublewoodsink-spruce-leadsolder-*": "ダブル木のシンク（トウヒ鉛ロウ）",
+ "block-doublewoodsink-sycamore-leadsolder-*": "ダブル木のシンク（カジカエデ鉛ロウ）",
+ "block-doublewoodsink-elm-leadsolder-*": "ダブル木のシンク（ニレ鉛ロウ）",
+ "block-doublewoodsink-beech-leadsolder-*": "ダブル木のシンク（ブナ鉛ロウ）",
+ "block-doublewoodsink-eucalyptus-leadsolder-*": "ダブル木のシンク（ユーカリ鉛ロウ）",
+ "block-doublewoodsink-cedar-leadsolder-*": "ダブル木のシンク（ヒマラヤスギ鉛ロウ）",
+
   "block-doublewoodsink-aged-meteoriciron-*": "ダブル木のシンク（古びた隕鉄）",
   "block-doublewoodsink-acacia-meteoriciron-*": "ダブル木のシンク（アカシア隕鉄）",
   "block-doublewoodsink-baldcypress-meteoriciron-*": "ダブル木のシンク（ヌマスギ隕鉄）",
@@ -579,6 +943,23 @@
   "block-doublewoodsink-purpleheart-meteoriciron-*": "ダブル木のシンク（パープルハート隕鉄）",
   "block-doublewoodsink-redwood-meteoriciron-*": "ダブル木のシンク（レッドウッド隕鉄）",
   "block-doublewoodsink-walnut-meteoriciron-*": "ダブル木のシンク（クルミ隕鉄）",
+
+ "block-doublewoodsink-douglasfir-meteoriciron-*": "ダブル木のシンク（ベイマツ隕鉄）",
+ "block-doublewoodsink-willow-meteoriciron-*": "ダブル木のシンク（ヤナギ隕鉄）",
+ "block-doublewoodsink-honeylocust-meteoriciron-*": "ダブル木のシンク（サイカチ隕鉄）",
+ "block-doublewoodsink-bearnut-meteoriciron-*": "ダブル木のシンク（ベアナッツ隕鉄）",
+ "block-doublewoodsink-blackpoplar-meteoriciron-*": "ダブル木のシンク（クロヤマナラシ隕鉄）",
+ "block-doublewoodsink-pyramidalpoplar-meteoriciron-*": "ダブル木のシンク（ヤマナラシ隕鉄）",
+ "block-doublewoodsink-catalpa-meteoriciron-*": "ダブル木のシンク（キササゲ隕鉄）",
+ "block-doublewoodsink-mahogany-meteoriciron-*": "ダブル木のシンク（マホガニー隕鉄）",
+ "block-doublewoodsink-sal-meteoriciron-*": "ダブル木のシンク（サラソウジュ隕鉄）",
+ "block-doublewoodsink-saxaul-meteoriciron-*": "ダブル木のシンク（サクソル隕鉄）",
+ "block-doublewoodsink-spruce-meteoriciron-*": "ダブル木のシンク（トウヒ隕鉄）",
+ "block-doublewoodsink-sycamore-meteoriciron-*": "ダブル木のシンク（カジカエデ隕鉄）",
+ "block-doublewoodsink-elm-meteoriciron-*": "ダブル木のシンク（ニレ隕鉄）",
+ "block-doublewoodsink-beech-meteoriciron-*": "ダブル木のシンク（ブナ隕鉄）",
+ "block-doublewoodsink-eucalyptus-meteoriciron-*": "ダブル木のシンク（ユーカリ隕鉄）",
+ "block-doublewoodsink-cedar-meteoriciron-*": "ダブル木のシンク（ヒマラヤスギ隕鉄）",
 
   "block-doublewoodsink-aged-molybdochalkos-*": "ダブル木のシンク（古びたモリブドカルコス）",
   "block-doublewoodsink-acacia-molybdochalkos-*": "ダブル木のシンク（アカシアモリブドカルコス）",
@@ -594,6 +975,23 @@
   "block-doublewoodsink-redwood-molybdochalkos-*": "ダブル木のシンク（レッドウッドモリブドカルコス）",
   "block-doublewoodsink-walnut-molybdochalkos-*": "ダブル木のシンク（クルミモリブドカルコス）",
 
+ "block-doublewoodsink-douglasfir-molybdochalkos-*": "ダブル木のシンク（ベイマツモリブドカルコス）",
+ "block-doublewoodsink-willow-molybdochalkos-*": "ダブル木のシンク（ヤナギモリブドカルコス）",
+ "block-doublewoodsink-honeylocust-molybdochalkos-*": "ダブル木のシンク（サイカチモリブドカルコス）",
+ "block-doublewoodsink-bearnut-molybdochalkos-*": "ダブル木のシンク（ベアナッツモリブドカルコス）",
+ "block-doublewoodsink-blackpoplar-molybdochalkos-*": "ダブル木のシンク（クロヤマナラシモリブドカルコス）",
+ "block-doublewoodsink-pyramidalpoplar-molybdochalkos-*": "ダブル木のシンク（ヤマナラシモリブドカルコス）",
+ "block-doublewoodsink-catalpa-molybdochalkos-*": "ダブル木のシンク（キササゲモリブドカルコス）",
+ "block-doublewoodsink-mahogany-molybdochalkos-*": "ダブル木のシンク（マホガニーモリブドカルコス）",
+ "block-doublewoodsink-sal-molybdochalkos-*": "ダブル木のシンク（サラソウジュモリブドカルコス）",
+ "block-doublewoodsink-saxaul-molybdochalkos-*": "ダブル木のシンク（サクソルモリブドカルコス）",
+ "block-doublewoodsink-spruce-molybdochalkos-*": "ダブル木のシンク（トウヒモリブドカルコス）",
+ "block-doublewoodsink-sycamore-molybdochalkos-*": "ダブル木のシンク（カジカエデモリブドカルコス）",
+ "block-doublewoodsink-elm-molybdochalkos-*": "ダブル木のシンク（ニレモリブドカルコス）",
+ "block-doublewoodsink-beech-molybdochalkos-*": "ダブル木のシンク（ブナモリブドカルコス）",
+ "block-doublewoodsink-eucalyptus-molybdochalkos-*": "ダブル木のシンク（ユーカリモリブドカルコス）",
+ "block-doublewoodsink-cedar-molybdochalkos-*": "ダブル木のシンク（ヒマラヤスギモリブドカルコス）",
+
   "block-doublewoodsink-aged-nickel-*": "ダブル木のシンク（古びたニッケル）",
   "block-doublewoodsink-acacia-nickel-*": "ダブル木のシンク（アカシアニッケル）",
   "block-doublewoodsink-baldcypress-nickel-*": "ダブル木のシンク（ヌマスギニッケル）",
@@ -607,6 +1005,23 @@
   "block-doublewoodsink-purpleheart-nickel-*": "ダブル木のシンク（パープルハートニッケル）",
   "block-doublewoodsink-redwood-nickel-*": "ダブル木のシンク（レッドウッドニッケル）",
   "block-doublewoodsink-walnut-nickel-*": "ダブル木のシンク（クルミニッケル）",
+
+ "block-doublewoodsink-douglasfir-nickel-*": "ダブル木のシンク（ベイマツニッケル）",
+ "block-doublewoodsink-willow-nickel-*": "ダブル木のシンク（ヤナギニッケル）",
+ "block-doublewoodsink-honeylocust-nickel-*": "ダブル木のシンク（サイカチニッケル）",
+ "block-doublewoodsink-bearnut-nickel-*": "ダブル木のシンク（ベアナッツニッケル）",
+ "block-doublewoodsink-blackpoplar-nickel-*": "ダブル木のシンク（クロヤマナラシニッケル）",
+ "block-doublewoodsink-pyramidalpoplar-nickel-*": "ダブル木のシンク（ヤマナラシニッケル）",
+ "block-doublewoodsink-catalpa-nickel-*": "ダブル木のシンク（キササゲニッケル）",
+ "block-doublewoodsink-mahogany-nickel-*": "ダブル木のシンク（マホガニーニッケル）",
+ "block-doublewoodsink-sal-nickel-*": "ダブル木のシンク（サラソウジュニッケル）",
+ "block-doublewoodsink-saxaul-nickel-*": "ダブル木のシンク（サクソルニッケル）",
+ "block-doublewoodsink-spruce-nickel-*": "ダブル木のシンク（トウヒニッケル）",
+ "block-doublewoodsink-sycamore-nickel-*": "ダブル木のシンク（カジカエデニッケル）",
+ "block-doublewoodsink-elm-nickel-*": "ダブル木のシンク（ニレニッケル）",
+ "block-doublewoodsink-beech-nickel-*": "ダブル木のシンク（ブナニッケル）",
+ "block-doublewoodsink-eucalyptus-nickel-*": "ダブル木のシンク（ユーカリニッケル）",
+ "block-doublewoodsink-cedar-nickel-*": "ダブル木のシンク（ヒマラヤスギニッケル）",
 
   "block-doublewoodsink-aged-platinum-*": "ダブル木のシンク（古びた白金）",
   "block-doublewoodsink-acacia-platinum-*": "ダブル木のシンク（アカシア白金）",
@@ -622,6 +1037,23 @@
   "block-doublewoodsink-redwood-platinum-*": "ダブル木のシンク（レッドウッド白金）",
   "block-doublewoodsink-walnut-platinum-*": "ダブル木のシンク（クルミ白金）",
 
+ "block-doublewoodsink-douglasfir-platinum-*": "ダブル木のシンク（ベイマツ白金）",
+ "block-doublewoodsink-willow-platinum-*": "ダブル木のシンク（ヤナギ白金）",
+ "block-doublewoodsink-honeylocust-platinum-*": "ダブル木のシンク（サイカチ白金）",
+ "block-doublewoodsink-bearnut-platinum-*": "ダブル木のシンク（ベアナッツ白金）",
+ "block-doublewoodsink-blackpoplar-platinum-*": "ダブル木のシンク（クロヤマナラシ白金）",
+ "block-doublewoodsink-pyramidalpoplar-platinum-*": "ダブル木のシンク（ヤマナラシ白金）",
+ "block-doublewoodsink-catalpa-platinum-*": "ダブル木のシンク（キササゲ白金）",
+ "block-doublewoodsink-mahogany-platinum-*": "ダブル木のシンク（マホガニー白金）",
+ "block-doublewoodsink-sal-platinum-*": "ダブル木のシンク（サラソウジュ白金）",
+ "block-doublewoodsink-saxaul-platinum-*": "ダブル木のシンク（サクソル白金）",
+ "block-doublewoodsink-spruce-platinum-*": "ダブル木のシンク（トウヒ白金）",
+ "block-doublewoodsink-sycamore-platinum-*": "ダブル木のシンク（カジカエデ白金）",
+ "block-doublewoodsink-elm-platinum-*": "ダブル木のシンク（ニレ白金）",
+ "block-doublewoodsink-beech-platinum-*": "ダブル木のシンク（ブナ白金）",
+ "block-doublewoodsink-eucalyptus-platinum-*": "ダブル木のシンク（ユーカリ白金）",
+ "block-doublewoodsink-cedar-platinum-*": "ダブル木のシンク（ヒマラヤスギ白金）",
+
   "block-doublewoodsink-aged-silver-*": "ダブル木のシンク（古びた銀）",
   "block-doublewoodsink-acacia-silver-*": "ダブル木のシンク（アカシア銀）",
   "block-doublewoodsink-baldcypress-silver-*": "ダブル木のシンク（ヌマスギ銀）",
@@ -635,6 +1067,23 @@
   "block-doublewoodsink-purpleheart-silver-*": "ダブル木のシンク（パープルハート銀）",
   "block-doublewoodsink-redwood-silver-*": "ダブル木のシンク（レッドウッド銀）",
   "block-doublewoodsink-walnut-silver-*": "ダブル木のシンク（クルミ銀）",
+
+ "block-doublewoodsink-douglasfir-silver-*": "ダブル木のシンク（ベイマツ銀）",
+ "block-doublewoodsink-willow-silver-*": "ダブル木のシンク（ヤナギ銀）",
+ "block-doublewoodsink-honeylocust-silver-*": "ダブル木のシンク（サイカチ銀）",
+ "block-doublewoodsink-bearnut-silver-*": "ダブル木のシンク（ベアナッツ銀）",
+ "block-doublewoodsink-blackpoplar-silver-*": "ダブル木のシンク（クロヤマナラシ銀）",
+ "block-doublewoodsink-pyramidalpoplar-silver-*": "ダブル木のシンク（ヤマナラシ銀）",
+ "block-doublewoodsink-catalpa-silver-*": "ダブル木のシンク（キササゲ銀）",
+ "block-doublewoodsink-mahogany-silver-*": "ダブル木のシンク（マホガニー銀）",
+ "block-doublewoodsink-sal-silver-*": "ダブル木のシンク（サラソウジュ銀）",
+ "block-doublewoodsink-saxaul-silver-*": "ダブル木のシンク（サクソル銀）",
+ "block-doublewoodsink-spruce-silver-*": "ダブル木のシンク（トウヒ銀）",
+ "block-doublewoodsink-sycamore-silver-*": "ダブル木のシンク（カジカエデ銀）",
+ "block-doublewoodsink-elm-silver-*": "ダブル木のシンク（ニレ銀）",
+ "block-doublewoodsink-beech-silver-*": "ダブル木のシンク（ブナ銀）",
+ "block-doublewoodsink-eucalyptus-silver-*": "ダブル木のシンク（ユーカリ銀）",
+ "block-doublewoodsink-cedar-silver-*": "ダブル木のシンク（ヒマラヤスギ銀）",
 
   "block-doublewoodsink-aged-silversolder-*": "ダブル木のシンク（古びた銀ロウ）",
   "block-doublewoodsink-acacia-silversolder-*": "ダブル木のシンク（アカシア銀ロウ）",
@@ -650,6 +1099,23 @@
   "block-doublewoodsink-redwood-silversolder-*": "ダブル木のシンク（レッドウッド銀ロウ）",
   "block-doublewoodsink-walnut-silversolder-*": "ダブル木のシンク（クルミ銀ロウ）",
 
+ "block-doublewoodsink-douglasfir-silversolder-*": "ダブル木のシンク（ベイマツ銀ロウ）",
+ "block-doublewoodsink-willow-silversolder-*": "ダブル木のシンク（ヤナギ銀ロウ）",
+ "block-doublewoodsink-honeylocust-silversolder-*": "ダブル木のシンク（サイカチ銀ロウ）",
+ "block-doublewoodsink-bearnut-silversolder-*": "ダブル木のシンク（ベアナッツ銀ロウ）",
+ "block-doublewoodsink-blackpoplar-silversolder-*": "ダブル木のシンク（クロヤマナラシ銀ロウ）",
+ "block-doublewoodsink-pyramidalpoplar-silversolder-*": "ダブル木のシンク（ヤマナラシ銀ロウ）",
+ "block-doublewoodsink-catalpa-silversolder-*": "ダブル木のシンク（キササゲ銀ロウ）",
+ "block-doublewoodsink-mahogany-silversolder-*": "ダブル木のシンク（マホガニー銀ロウ）",
+ "block-doublewoodsink-sal-silversolder-*": "ダブル木のシンク（サラソウジュ銀ロウ）",
+ "block-doublewoodsink-saxaul-silversolder-*": "ダブル木のシンク（サクソル銀ロウ）",
+ "block-doublewoodsink-spruce-silversolder-*": "ダブル木のシンク（トウヒ銀ロウ）",
+ "block-doublewoodsink-sycamore-silversolder-*": "ダブル木のシンク（カジカエデ銀ロウ）",
+ "block-doublewoodsink-elm-silversolder-*": "ダブル木のシンク（ニレ銀ロウ）",
+ "block-doublewoodsink-beech-silversolder-*": "ダブル木のシンク（ブナ銀ロウ）",
+ "block-doublewoodsink-eucalyptus-silversolder-*": "ダブル木のシンク（ユーカリ銀ロウ）",
+ "block-doublewoodsink-cedar-silversolder-*": "ダブル木のシンク（ヒマラヤスギ銀ロウ）",
+
   "block-doublewoodsink-aged-stainlesssteel-*": "ダブル木のシンク（古びたステンレス鋼）",
   "block-doublewoodsink-acacia-stainlesssteel-*": "ダブル木のシンク（アカシアステンレス鋼）",
   "block-doublewoodsink-baldcypress-stainlesssteel-*": "ダブル木のシンク（ヌマスギステンレス鋼）",
@@ -663,6 +1129,23 @@
   "block-doublewoodsink-purpleheart-stainlesssteel-*": "ダブル木のシンク（パープルハートステンレス鋼）",
   "block-doublewoodsink-redwood-stainlesssteel-*": "ダブル木のシンク（レッドウッドステンレス鋼）",
   "block-doublewoodsink-walnut-stainlesssteel-*": "ダブル木のシンク（クルミステンレス鋼）",
+
+ "block-doublewoodsink-douglasfir-stainlesssteel-*": "ダブル木のシンク（ベイマツステンレス鋼）",
+ "block-doublewoodsink-willow-stainlesssteel-*": "ダブル木のシンク（ヤナギステンレス鋼）",
+ "block-doublewoodsink-honeylocust-stainlesssteel-*": "ダブル木のシンク（サイカチステンレス鋼）",
+ "block-doublewoodsink-bearnut-stainlesssteel-*": "ダブル木のシンク（ベアナッツステンレス鋼）",
+ "block-doublewoodsink-blackpoplar-stainlesssteel-*": "ダブル木のシンク（クロヤマナラシステンレス鋼）",
+ "block-doublewoodsink-pyramidalpoplar-stainlesssteel-*": "ダブル木のシンク（ヤマナラシステンレス鋼）",
+ "block-doublewoodsink-catalpa-stainlesssteel-*": "ダブル木のシンク（キササゲステンレス鋼）",
+ "block-doublewoodsink-mahogany-stainlesssteel-*": "ダブル木のシンク（マホガニーステンレス鋼）",
+ "block-doublewoodsink-sal-stainlesssteel-*": "ダブル木のシンク（サラソウジュステンレス鋼）",
+ "block-doublewoodsink-saxaul-stainlesssteel-*": "ダブル木のシンク（サクソルステンレス鋼）",
+ "block-doublewoodsink-spruce-stainlesssteel-*": "ダブル木のシンク（トウヒステンレス鋼）",
+ "block-doublewoodsink-sycamore-stainlesssteel-*": "ダブル木のシンク（カジカエデステンレス鋼）",
+ "block-doublewoodsink-elm-stainlesssteel-*": "ダブル木のシンク（ニレステンレス鋼）",
+ "block-doublewoodsink-beech-stainlesssteel-*": "ダブル木のシンク（ブナステンレス鋼）",
+ "block-doublewoodsink-eucalyptus-stainlesssteel-*": "ダブル木のシンク（ユーカリステンレス鋼）",
+ "block-doublewoodsink-cedar-stainlesssteel-*": "ダブル木のシンク（ヒマラヤスギステンレス鋼）",
 
   "block-doublewoodsink-aged-steel-*": "ダブル木のシンク（古びた鋼鉄）",
   "block-doublewoodsink-acacia-steel-*": "ダブル木のシンク（アカシア鋼鉄）",
@@ -678,6 +1161,23 @@
   "block-doublewoodsink-redwood-steel-*": "ダブル木のシンク（レッドウッド鋼鉄）",
   "block-doublewoodsink-walnut-steel-*": "ダブル木のシンク（クルミ鋼鉄）",
 
+ "block-doublewoodsink-douglasfir-steel-*": "ダブル木のシンク（ベイマツ鋼鉄）",
+ "block-doublewoodsink-willow-steel-*": "ダブル木のシンク（ヤナギ鋼鉄）",
+ "block-doublewoodsink-honeylocust-steel-*": "ダブル木のシンク（サイカチ鋼鉄）",
+ "block-doublewoodsink-bearnut-steel-*": "ダブル木のシンク（ベアナッツ鋼鉄）",
+ "block-doublewoodsink-blackpoplar-steel-*": "ダブル木のシンク（クロヤマナラシ鋼鉄）",
+ "block-doublewoodsink-pyramidalpoplar-steel-*": "ダブル木のシンク（ヤマナラシ鋼鉄）",
+ "block-doublewoodsink-catalpa-steel-*": "ダブル木のシンク（キササゲ鋼鉄）",
+ "block-doublewoodsink-mahogany-steel-*": "ダブル木のシンク（マホガニー鋼鉄）",
+ "block-doublewoodsink-sal-steel-*": "ダブル木のシンク（サラソウジュ鋼鉄）",
+ "block-doublewoodsink-saxaul-steel-*": "ダブル木のシンク（サクソル鋼鉄）",
+ "block-doublewoodsink-spruce-steel-*": "ダブル木のシンク（トウヒ鋼鉄）",
+ "block-doublewoodsink-sycamore-steel-*": "ダブル木のシンク（カジカエデ鋼鉄）",
+ "block-doublewoodsink-elm-steel-*": "ダブル木のシンク（ニレ鋼鉄）",
+ "block-doublewoodsink-beech-steel-*": "ダブル木のシンク（ブナ鋼鉄）",
+ "block-doublewoodsink-eucalyptus-steel-*": "ダブル木のシンク（ユーカリ鋼鉄）",
+ "block-doublewoodsink-cedar-steel-*": "ダブル木のシンク（ヒマラヤスギ鋼鉄）",
+
   "block-doublewoodsink-aged-tin-*": "ダブル木のシンク（古びたスズ）",
   "block-doublewoodsink-acacia-tin-*": "ダブル木のシンク（アカシアスズ）",
   "block-doublewoodsink-baldcypress-tin-*": "ダブル木のシンク（ヌマスギスズ）",
@@ -691,6 +1191,23 @@
   "block-doublewoodsink-purpleheart-tin-*": "ダブル木のシンク（パープルハートスズ）",
   "block-doublewoodsink-redwood-tin-*": "ダブル木のシンク（レッドウッドスズ）",
   "block-doublewoodsink-walnut-tin-*": "ダブル木のシンク（クルミスズ）",
+
+ "block-doublewoodsink-douglasfir-tin-*": "ダブル木のシンク（ベイマツスズ）",
+ "block-doublewoodsink-willow-tin-*": "ダブル木のシンク（ヤナギスズ）",
+ "block-doublewoodsink-honeylocust-tin-*": "ダブル木のシンク（サイカチスズ）",
+ "block-doublewoodsink-bearnut-tin-*": "ダブル木のシンク（ベアナッツスズ）",
+ "block-doublewoodsink-blackpoplar-tin-*": "ダブル木のシンク（クロヤマナラシスズ）",
+ "block-doublewoodsink-pyramidalpoplar-tin-*": "ダブル木のシンク（ヤマナラシスズ）",
+ "block-doublewoodsink-catalpa-tin-*": "ダブル木のシンク（キササゲスズ）",
+ "block-doublewoodsink-mahogany-tin-*": "ダブル木のシンク（マホガニースズ）",
+ "block-doublewoodsink-sal-tin-*": "ダブル木のシンク（サラソウジュスズ）",
+ "block-doublewoodsink-saxaul-tin-*": "ダブル木のシンク（サクソルスズ）",
+ "block-doublewoodsink-spruce-tin-*": "ダブル木のシンク（トウヒスズ）",
+ "block-doublewoodsink-sycamore-tin-*": "ダブル木のシンク（カジカエデスズ）",
+ "block-doublewoodsink-elm-tin-*": "ダブル木のシンク（ニレスズ）",
+ "block-doublewoodsink-beech-tin-*": "ダブル木のシンク（ブナスズ）",
+ "block-doublewoodsink-eucalyptus-tin-*": "ダブル木のシンク（ユーカリスズ）",
+ "block-doublewoodsink-cedar-tin-*": "ダブル木のシンク（ヒマラヤスギスズ）",
 
   "block-doublewoodsink-aged-tinbronze-*": "ダブル木のシンク（古びたスズ青銅）",
   "block-doublewoodsink-acacia-tinbronze-*": "ダブル木のシンク（アカシアスズ青銅）",
@@ -706,6 +1223,23 @@
   "block-doublewoodsink-redwood-tinbronze-*": "ダブル木のシンク（レッドウッドスズ青銅）",
   "block-doublewoodsink-walnut-tinbronze-*": "ダブル木のシンク（クルミスズ青銅）",
 
+ "block-doublewoodsink-douglasfir-tinbronze-*": "ダブル木のシンク（ベイマツスズ青銅）",
+ "block-doublewoodsink-willow-tinbronze-*": "ダブル木のシンク（ヤナギスズ青銅）",
+ "block-doublewoodsink-honeylocust-tinbronze-*": "ダブル木のシンク（サイカチスズ青銅）",
+ "block-doublewoodsink-bearnut-tinbronze-*": "ダブル木のシンク（ベアナッツスズ青銅）",
+ "block-doublewoodsink-blackpoplar-tinbronze-*": "ダブル木のシンク（クロヤマナラシスズ青銅）",
+ "block-doublewoodsink-pyramidalpoplar-tinbronze-*": "ダブル木のシンク（ヤマナラシスズ青銅）",
+ "block-doublewoodsink-catalpa-tinbronze-*": "ダブル木のシンク（キササゲスズ青銅）",
+ "block-doublewoodsink-mahogany-tinbronze-*": "ダブル木のシンク（マホガニースズ青銅）",
+ "block-doublewoodsink-sal-tinbronze-*": "ダブル木のシンク（サラソウジュスズ青銅）",
+ "block-doublewoodsink-saxaul-tinbronze-*": "ダブル木のシンク（サクソルスズ青銅）",
+ "block-doublewoodsink-spruce-tinbronze-*": "ダブル木のシンク（トウヒスズ青銅）",
+ "block-doublewoodsink-sycamore-tinbronze-*": "ダブル木のシンク（カジカエデスズ青銅）",
+ "block-doublewoodsink-elm-tinbronze-*": "ダブル木のシンク（ニレスズ青銅）",
+ "block-doublewoodsink-beech-tinbronze-*": "ダブル木のシンク（ブナスズ青銅）",
+ "block-doublewoodsink-eucalyptus-tinbronze-*": "ダブル木のシンク（ユーカリスズ青銅）",
+ "block-doublewoodsink-cedar-tinbronze-*": "ダブル木のシンク（ヒマラヤスギスズ青銅）",
+
   "block-doublewoodsink-aged-titanium-*": "ダブル木のシンク（古びたチタン）",
   "block-doublewoodsink-acacia-titanium-*": "ダブル木のシンク（アカシアチタン）",
   "block-doublewoodsink-baldcypress-titanium-*": "ダブル木のシンク（ヌマスギチタン）",
@@ -719,6 +1253,23 @@
   "block-doublewoodsink-purpleheart-titanium-*": "ダブル木のシンク（パープルハートチタン）",
   "block-doublewoodsink-redwood-titanium-*": "ダブル木のシンク（レッドウッドチタン）",
   "block-doublewoodsink-walnut-titanium-*": "ダブル木のシンク（クルミチタン）",
+
+ "block-doublewoodsink-douglasfir-titanium-*": "ダブル木のシンク（ベイマツチタン）",
+ "block-doublewoodsink-willow-titanium-*": "ダブル木のシンク（ヤナギチタン）",
+ "block-doublewoodsink-honeylocust-titanium-*": "ダブル木のシンク（サイカチチタン）",
+ "block-doublewoodsink-bearnut-titanium-*": "ダブル木のシンク（ベアナッツチタン）",
+ "block-doublewoodsink-blackpoplar-titanium-*": "ダブル木のシンク（クロヤマナラシチタン）",
+ "block-doublewoodsink-pyramidalpoplar-titanium-*": "ダブル木のシンク（ヤマナラシチタン）",
+ "block-doublewoodsink-catalpa-titanium-*": "ダブル木のシンク（キササゲチタン）",
+ "block-doublewoodsink-mahogany-titanium-*": "ダブル木のシンク（マホガニーチタン）",
+ "block-doublewoodsink-sal-titanium-*": "ダブル木のシンク（サラソウジュチタン）",
+ "block-doublewoodsink-saxaul-titanium-*": "ダブル木のシンク（サクソルチタン）",
+ "block-doublewoodsink-spruce-titanium-*": "ダブル木のシンク（トウヒチタン）",
+ "block-doublewoodsink-sycamore-titanium-*": "ダブル木のシンク（カジカエデチタン）",
+ "block-doublewoodsink-elm-titanium-*": "ダブル木のシンク（ニレチタン）",
+ "block-doublewoodsink-beech-titanium-*": "ダブル木のシンク（ブナチタン）",
+ "block-doublewoodsink-eucalyptus-titanium-*": "ダブル木のシンク（ユーカリチタン）",
+ "block-doublewoodsink-cedar-titanium-*": "ダブル木のシンク（ヒマラヤスギチタン）",
 
   "block-doublewoodsink-aged-uranium-*": "ダブル木のシンク（古びたウラン）",
   "block-doublewoodsink-acacia-uranium-*": "ダブル木のシンク（アカシアウラン）",
@@ -734,6 +1285,23 @@
   "block-doublewoodsink-redwood-uranium-*": "ダブル木のシンク（レッドウッドウラン）",
   "block-doublewoodsink-walnut-uranium-*": "ダブル木のシンク（クルミウラン）",
 
+ "block-doublewoodsink-douglasfir-uranium-*": "ダブル木のシンク（ベイマツウラン）",
+ "block-doublewoodsink-willow-uranium-*": "ダブル木のシンク（ヤナギウラン）",
+ "block-doublewoodsink-honeylocust-uranium-*": "ダブル木のシンク（サイカチウラン）",
+ "block-doublewoodsink-bearnut-uranium-*": "ダブル木のシンク（ベアナッツウラン）",
+ "block-doublewoodsink-blackpoplar-uranium-*": "ダブル木のシンク（クロヤマナラシウラン）",
+ "block-doublewoodsink-pyramidalpoplar-uranium-*": "ダブル木のシンク（ヤマナラシウラン）",
+ "block-doublewoodsink-catalpa-uranium-*": "ダブル木のシンク（キササゲウラン）",
+ "block-doublewoodsink-mahogany-uranium-*": "ダブル木のシンク（マホガニーウラン）",
+ "block-doublewoodsink-sal-uranium-*": "ダブル木のシンク（サラソウジュウラン）",
+ "block-doublewoodsink-saxaul-uranium-*": "ダブル木のシンク（サクソルウラン）",
+ "block-doublewoodsink-spruce-uranium-*": "ダブル木のシンク（トウヒウラン）",
+ "block-doublewoodsink-sycamore-uranium-*": "ダブル木のシンク（カジカエデウラン）",
+ "block-doublewoodsink-elm-uranium-*": "ダブル木のシンク（ニレウラン）",
+ "block-doublewoodsink-beech-uranium-*": "ダブル木のシンク（ブナウラン）",
+ "block-doublewoodsink-eucalyptus-uranium-*": "ダブル木のシンク（ユーカリウラン）",
+ "block-doublewoodsink-cedar-uranium-*": "ダブル木のシンク（ヒマラヤスギウラン）",
+
   "block-doublewoodsink-aged-zinc-*": "ダブル木のシンク（古びた亜鉛）",
   "block-doublewoodsink-acacia-zinc-*": "ダブル木のシンク（アカシア亜鉛）",
   "block-doublewoodsink-baldcypress-zinc-*": "ダブル木のシンク（ヌマスギ亜鉛）",
@@ -748,7 +1316,24 @@
   "block-doublewoodsink-redwood-zinc-*": "ダブル木のシンク（レッドウッド亜鉛）",
   "block-doublewoodsink-walnut-zinc-*": "ダブル木のシンク（クルミ亜鉛）",
 
-// 石のシンクの種類 //
+ "block-doublewoodsink-douglasfir-zinc-*": "ダブル木のシンク（ベイマツ亜鉛）",
+ "block-doublewoodsink-willow-zinc-*": "ダブル木のシンク（ヤナギ亜鉛）",
+ "block-doublewoodsink-honeylocust-zinc-*": "ダブル木のシンク（サイカチ亜鉛）",
+ "block-doublewoodsink-bearnut-zinc-*": "ダブル木のシンク（ベアナッツ亜鉛）",
+ "block-doublewoodsink-blackpoplar-zinc-*": "ダブル木のシンク（クロヤマナラシ亜鉛）",
+ "block-doublewoodsink-pyramidalpoplar-zinc-*": "ダブル木のシンク（ヤマナラシ亜鉛）",
+ "block-doublewoodsink-catalpa-zinc-*": "ダブル木のシンク（キササゲ亜鉛）",
+ "block-doublewoodsink-mahogany-zinc-*": "ダブル木のシンク（マホガニー亜鉛）",
+ "block-doublewoodsink-sal-zinc-*": "ダブル木のシンク（サラソウジュ亜鉛）",
+ "block-doublewoodsink-saxaul-zinc-*": "ダブル木のシンク（サクソル亜鉛）",
+ "block-doublewoodsink-spruce-zinc-*": "ダブル木のシンク（トウヒ亜鉛）",
+ "block-doublewoodsink-sycamore-zinc-*": "ダブル木のシンク（カジカエデ亜鉛）",
+ "block-doublewoodsink-elm-zinc-*": "ダブル木のシンク（ニレ亜鉛）",
+ "block-doublewoodsink-beech-zinc-*": "ダブル木のシンク（ブナ亜鉛）",
+ "block-doublewoodsink-eucalyptus-zinc-*": "ダブル木のシンク（ユーカリ亜鉛）",
+ "block-doublewoodsink-cedar-zinc-*": "ダブル木のシンク（ヒマラヤスギ亜鉛）",
+
+// 石のシンクのバリエーション //
 
   "block-doublestonesink-andesite-bismuth-*": "ダブル石のシンク（安山岩ビスマス）",
   "block-doublestonesink-basalt-bismuth-*": "ダブル石のシンク（玄武岩ビスマス）",
@@ -1159,7 +1744,7 @@
   "block-doublestonesink-suevite-zinc-*": "ダブル石のシンク（スエバイト亜鉛）",
 
 
-// 木の棚の種類 //
+// 木の棚のバリエーション //
 
   "block-woodenshelf-aged-1-*": "木の棚（古びた）",
   "block-woodenshelf-aged-2-*": "木の棚（古びた）",
@@ -1188,7 +1773,44 @@
   "block-woodenshelf-walnut-1-*": "木の棚（クルミ）",
   "block-woodenshelf-walnut-2-*": "木の棚（クルミ）",
 
-// ワードローブの種類 //
+  "block-woodenshelf-douglasfir-1-*": "木の棚（ベイマツ）",
+  "block-woodenshelf-douglasfir-2-*": "木の棚（ベイマツ）",
+  "block-woodenshelf-willow-1-*": "木の棚（ヤナギ）",
+  "block-woodenshelf-willow-2-*": "木の棚（ヤナギ）",
+  "block-woodenshelf-honeylocust-1-*": "木の棚（サイカチ）",
+  "block-woodenshelf-honeylocust-2-*": "木の棚（サイカチ）",
+  "block-woodenshelf-bearnut-1-*": "木の棚（ベアナッツ）",
+  "block-woodenshelf-bearnut-2-*": "木の棚（ベアナッツ）",
+  "block-woodenshelf-blackpoplar-1-*": "木の棚（クロヤマナラシ）",
+  "block-woodenshelf-blackpoplar-2-*": "木の棚（クロヤマナラシ）",
+  "block-woodenshelf-pyramidalpoplar-1-*": "木の棚（ヤマナラシ）",
+  "block-woodenshelf-pyramidalpoplar-2-*": "木の棚（ヤマナラシ）",
+  "block-woodenshelf-catalpa-1-*": "木の棚（キササゲ）",
+  "block-woodenshelf-catalpa-2-*": "木の棚（キササゲ）",
+  "block-woodenshelf-mahogany-1-*": "木の棚（マホガニー）",
+  "block-woodenshelf-mahogany-2-*": "木の棚（マホガニー）",
+  "block-woodenshelf-sal-1-*": "木の棚（サラソウジュ）",
+  "block-woodenshelf-sal-2-*": "木の棚（サラソウジュ）",
+  "block-woodenshelf-saxaul-1-*": "木の棚（サクソル）",
+  "block-woodenshelf-saxaul-2-*": "木の棚（サクソル）",
+  "block-woodenshelf-spruce-1-*": "木の棚（トウヒ）",
+  "block-woodenshelf-spruce-2-*": "木の棚（トウヒ）",
+  "block-woodenshelf-sycamore-1-*": "木の棚（カジカエデ）",
+  "block-woodenshelf-sycamore-2-*": "木の棚（カジカエデ）",
+  "block-woodenshelf-elm-1-*": "木の棚（ニレ）",
+  "block-woodenshelf-elm-2-*": "木の棚（ニレ）",
+  "block-woodenshelf-beech-1-*": "木の棚（ブナ）",
+  "block-woodenshelf-beech-2-*": "木の棚（ブナ）",
+  "block-woodenshelf-eucalyptus-1-*": "木の棚（ユーカリ）",
+  "block-woodenshelf-eucalyptus-2-*": "木の棚（ユーカリ）",
+  "block-woodenshelf-cedar-1-*": "木の棚（ヒマラヤスギ）",
+  "block-woodenshelf-cedar-2-*": "木の棚（ヒマラヤスギ）",
+
+
+
+
+
+// ワードローブのバリエーション //
 
   "block-wardrobe-aged-*": "ワードローブ（古びた）",
   "block-wardrobe-acacia-*": "ワードローブ（アカシア）",
@@ -1204,7 +1826,26 @@
   "block-wardrobe-redwood-*": "ワードローブ（レッドウッド）",
   "block-wardrobe-walnut-*": "ワードローブ（クルミ）",
 
-// 装飾棚の種類 //
+  "block-wardrobe-douglasfir-*": "ワードローブ（ベイマツ）",
+  "block-wardrobe-willow-*": "ワードローブ（ヤナギ）",
+  "block-wardrobe-honeylocust-*": "ワードローブ（サイカチ）",
+  "block-wardrobe-bearnut-*": "ワードローブ（ベアナッツ）",
+  "block-wardrobe-blackpoplar-*": "ワードローブ（クロヤマナラシ）",
+  "block-wardrobe-pyramidalpoplar-*": "ワードローブ（ヤマナラシ）",
+  "block-wardrobe-catalpa-*": "ワードローブ（キササゲ）",
+  "block-wardrobe-mahogany-*": "ワードローブ（マホガニー）",
+  "block-wardrobe-sal-*": "ワードローブ（サラソウジュ）",
+  "block-wardrobe-saxaul-*": "ワードローブ（サクソル）",
+  "block-wardrobe-spruce-*": "ワードローブ（トウヒ）",
+  "block-wardrobe-sycamore-*": "ワードローブ（カジカエデ）",
+  "block-wardrobe-elm-*": "ワードローブ（ニレ）",
+  "block-wardrobe-beech-*": "ワードローブ（ブナ）",
+  "block-wardrobe-eucalyptus-*": "ワードローブ（ユーカリ）",
+  "block-wardrobe-cedar-*": "ワードローブ（ヒマラヤスギ）",
+
+
+
+// 装飾棚のバリエーション //
 
 
   "block-decoshelf-aged-*": "装飾棚（古びた）",
@@ -1221,7 +1862,24 @@
   "block-decoshelf-redwood-*": "装飾棚（レッドウッド）",
   "block-decoshelf-walnut-*": "装飾棚（クルミ）",
 
-// スパイスラックの種類 //
+  "block-decoshelf-douglasfir-*": "装飾棚（ベイマツ）",
+  "block-decoshelf-willow-*": "装飾棚（ヤナギ）",
+  "block-decoshelf-honeylocust-*": "装飾棚（サイカチ）",
+  "block-decoshelf-bearnut-*": "装飾棚（ベアナッツ）",
+  "block-decoshelf-blackpoplar-*": "装飾棚（クロヤマナラシ）",
+  "block-decoshelf-pyramidalpoplar-*": "装飾棚（ヤマナラシ）",
+  "block-decoshelf-catalpa-*": "装飾棚（キササゲ）",
+  "block-decoshelf-mahogany-*": "装飾棚（マホガニー）",
+  "block-decoshelf-sal-*": "装飾棚（サラソウジュ）",
+  "block-decoshelf-saxaul-*": "装飾棚（サクソル）",
+  "block-decoshelf-spruce-*": "装飾棚（トウヒ）",
+  "block-decoshelf-sycamore-*": "装飾棚（カジカエデ）",
+  "block-decoshelf-elm-*": "装飾棚（ニレ）",
+  "block-decoshelf-beech-*": "装飾棚（ブナ）",
+  "block-decoshelf-eucalyptus-*": "装飾棚（ユーカリ）",
+  "block-decoshelf-cedar-*": "装飾棚（ヒマラヤスギ）",
+
+// スパイスラックのバリエーション //
 
   "block-spicerack-aged-*": "スパイスラック（古びた）",
   "block-spicerack-acacia-*": "スパイスラック（アカシア）",
@@ -1237,8 +1895,26 @@
   "block-spicerack-redwood-*": "スパイスラック（レッドウッド）",
   "block-spicerack-walnut-*": "スパイスラック（クルミ）",
 
+  "block-spicerack-douglasfir-*": "スパイスラック（ベイマツ）",
+  "block-spicerack-willow-*": "スパイスラック（ヤナギ）",
+  "block-spicerack-honeylocust-*": "スパイスラック（サイカチ）",
+  "block-spicerack-bearnut-*": "スパイスラック（ベアナッツ）",
+  "block-spicerack-blackpoplar-*": "スパイスラック（クロヤマナラシ）",
+  "block-spicerack-pyramidalpoplar-*": "スパイスラック（ヤマナラシ）",
+  "block-spicerack-catalpa-*": "スパイスラック（キササゲ）",
+  "block-spicerack-mahogany-*": "スパイスラック（マホガニー）",
+  "block-spicerack-sal-*": "スパイスラック（サラソウジュ）",
+  "block-spicerack-saxaul-*": "スパイスラック（サクソル）",
+  "block-spicerack-spruce-*": "スパイスラック（トウヒ）",
+  "block-spicerack-sycamore-*": "スパイスラック（カジカエデ）",
+  "block-spicerack-elm-*": "スパイスラック（ニレ）",
+  "block-spicerack-beech-*": "スパイスラック（ブナ）",
+  "block-spicerack-eucalyptus-*": "スパイスラック（ユーカリ）",
+  "block-spicerack-cedar-*": "スパイスラック（ヒマラヤスギ）",
 
-// サイドテーブルの種類 //
+
+
+// サイドテーブルのバリエーション //
 
   "block-sidetable-aged-1-*": "サイドテーブル（古びた）",
   "block-sidetable-aged-2-*": "サイドテーブル（古びた）",
@@ -1280,7 +1956,7 @@
   "block-sidetable-walnut-2-*": "サイドテーブル（クルミ）",
   "block-sidetable-walnut-3-*": "サイドテーブル（クルミ）",
 
-// スツールの種類 //
+// スツールのバリエーション //
 
   "block-stool-aged-*": "スツール（古びた）",
   "block-stool-acacia-*": "スツール（アカシア）",
@@ -1296,7 +1972,24 @@
   "block-stool-redwood-*": "スツール（レッドウッド）",
   "block-stool-walnut-*": "スツール（クルミ）",
 
-// キッチンの棚の種類 //
+  "block-stool-douglasfir-*": "スツール（ベイマツ）",
+  "block-stool-willow-*": "スツール（ヤナギ）",
+  "block-stool-honeylocust-*": "スツール（サイカチ）",
+  "block-stool-bearnut-*": "スツール（ベアナッツ）",
+  "block-stool-blackpoplar-*": "スツール（クロヤマナラシ）",
+  "block-stool-pyramidalpoplar-*": "スツール（ヤマナラシ）",
+  "block-stool-catalpa-*": "スツール（キササゲ）",
+  "block-stool-mahogany-*": "スツール（マホガニー）",
+  "block-stool-sal-*": "スツール（サラソウジュ）",
+  "block-stool-saxaul-*": "スツール（サクソル）",
+  "block-stool-spruce-*": "スツール（トウヒ）",
+  "block-stool-sycamore-*": "スツール（カジカエデ）",
+  "block-stool-elm-*": "スツール（ニレ）",
+  "block-stool-beech-*": "スツール（ブナ）",
+  "block-stool-eucalyptus-*": "スツール（ユーカリ）",
+  "block-stool-cedar-*": "スツール（ヒマラヤスギ）",
+
+// キッチンの棚のバリエーション //
 
   "block-kitchenshelf-aged-*": "キッチンの棚（古びた）",
   "block-kitchenshelf-acacia-*": "キッチンの棚（アカシア）",
@@ -1312,7 +2005,24 @@
   "block-kitchenshelf-redwood-*": "キッチンの棚（レッドウッド）",
   "block-kitchenshelf-walnut-*": "キッチンの棚（クルミ）",
 
-// マグカップラックの種類 //
+  "block-kitchenshelf-douglasfir-*": "キッチンの棚（ベイマツ）",
+  "block-kitchenshelf-willow-*": "キッチンの棚（ヤナギ）",
+  "block-kitchenshelf-honeylocust-*": "キッチンの棚（サイカチ）",
+  "block-kitchenshelf-bearnut-*": "キッチンの棚（ベアナッツ）",
+  "block-kitchenshelf-blackpoplar-*": "キッチンの棚（クロヤマナラシ）",
+  "block-kitchenshelf-pyramidalpoplar-*": "キッチンの棚（ヤマナラシ）",
+  "block-kitchenshelf-catalpa-*": "キッチンの棚（キササゲ）",
+  "block-kitchenshelf-mahogany-*": "キッチンの棚（マホガニー）",
+  "block-kitchenshelf-sal-*": "キッチンの棚（サラソウジュ）",
+  "block-kitchenshelf-saxaul-*": "キッチンの棚（サクソル）",
+  "block-kitchenshelf-spruce-*": "キッチンの棚（トウヒ）",
+  "block-kitchenshelf-sycamore-*": "キッチンの棚（カジカエデ）",
+  "block-kitchenshelf-elm-*": "キッチンの棚（ニレ）",
+  "block-kitchenshelf-beech-*": "キッチンの棚（ブナ）",
+  "block-kitchenshelf-eucalyptus-*": "キッチンの棚（ユーカリ）",
+  "block-kitchenshelf-cedar-*": "キッチンの棚（ヒマラヤスギ）",
+
+// マグカップラックのバリエーション //
   "block-mugrack-aged-*": "マグカップラック（古びた）",
   "block-mugrack-acacia-*": "マグカップラック（アカシア）",
   "block-mugrack-baldcypress-*": "マグカップラック（ヌマスギ）",
@@ -1327,7 +2037,25 @@
   "block-mugrack-redwood-*": "マグカップラック（レッドウッド）",
   "block-mugrack-walnut-*": "マグカップラック（クルミ）",
 
-// ファンシーキャビネットの種類 //
+  "block-mugrack-douglasfir-*": "マグカップラック（ベイマツ）",
+  "block-mugrack-willow-*": "マグカップラック（ヤナギ）",
+  "block-mugrack-honeylocust-*": "マグカップラック（サイカチ）",
+  "block-mugrack-bearnut-*": "マグカップラック（ベアナッツ）",
+  "block-mugrack-blackpoplar-*": "マグカップラック（クロヤマナラシ）",
+  "block-mugrack-pyramidalpoplar-*": "マグカップラック（ヤマナラシ）",
+  "block-mugrack-catalpa-*": "マグカップラック（キササゲ）",
+  "block-mugrack-mahogany-*": "マグカップラック（マホガニー）",
+  "block-mugrack-sal-*": "マグカップラック（サラソウジュ）",
+  "block-mugrack-saxaul-*": "マグカップラック（サクソル）",
+  "block-mugrack-spruce-*": "マグカップラック（トウヒ）",
+  "block-mugrack-sycamore-*": "マグカップラック（カジカエデ）",
+  "block-mugrack-elm-*": "マグカップラック（ニレ）",
+  "block-mugrack-beech-*": "マグカップラック（ブナ）",
+  "block-mugrack-eucalyptus-*": "マグカップラック（ユーカリ）",
+  "block-mugrack-cedar-*": "マグカップラック（ヒマラヤスギ）",
+
+
+// ファンシーキャビネットのバリエーション //
 
   "block-cabinetaged-cabinetfancy-*": "ファンシーキャビネット（古びた）",
   "block-cabinetacacia-cabinetfancy-*": "ファンシーキャビネット（アカシア）",
@@ -1343,6 +2071,503 @@
   "block-cabinetredwood-cabinetfancy-*": "ファンシーキャビネット（レッドウッド）",
   "block-cabinetwalnut-cabinetfancy-*": "ファンシーキャビネット（クルミ）",
 
+
+// コーヒーテーブルのバリエーション //
+
+  "block-coffeetable-aged-1-*": "コーヒーテーブル（古びた）",
+  "block-coffeetable-aged-2-*": "コーヒーテーブル（古びた）",
+  "block-coffeetable-aged-3-*": "コーヒーテーブル（古びた）",
+  "block-coffeetable-aged-4-*": "コーヒーテーブル（古びた）",
+  "block-coffeetable-acacia-1-*": "コーヒーテーブル（アカシア）",
+  "block-coffeetable-acacia-2-*": "コーヒーテーブル（アカシア）",
+  "block-coffeetable-acacia-3-*": "コーヒーテーブル（アカシア）",
+  "block-coffeetable-acacia-4-*": "コーヒーテーブル（アカシア）",
+  "block-coffeetable-baldcypress-1-*": "コーヒーテーブル（ヌマスギ）",
+  "block-coffeetable-baldcypress-2-*": "コーヒーテーブル（ヌマスギ）",
+  "block-coffeetable-baldcypress-3-*": "コーヒーテーブル（ヌマスギ）",
+  "block-coffeetable-baldcypress-4-*": "コーヒーテーブル（ヌマスギ）",
+  "block-coffeetable-birch-1-*": "コーヒーテーブル（シラカバ）",
+  "block-coffeetable-birch-2-*": "コーヒーテーブル（シラカバ）",
+  "block-coffeetable-birch-3-*": "コーヒーテーブル（シラカバ）",
+  "block-coffeetable-birch-4-*": "コーヒーテーブル（シラカバ）",
+  "block-coffeetable-ebony-1-*": "コーヒーテーブル（コクタン）",
+  "block-coffeetable-ebony-2-*": "コーヒーテーブル（コクタン）",
+  "block-coffeetable-ebony-3-*": "コーヒーテーブル（コクタン）",
+  "block-coffeetable-ebony-4-*": "コーヒーテーブル（コクタン）",
+  "block-coffeetable-kapok-1-*": "コーヒーテーブル（カポック）",
+  "block-coffeetable-kapok-2-*": "コーヒーテーブル（カポック）",
+  "block-coffeetable-kapok-3-*": "コーヒーテーブル（カポック）",
+  "block-coffeetable-kapok-4-*": "コーヒーテーブル（カポック）",
+  "block-coffeetable-larch-1-*": "コーヒーテーブル（カラマツ）",
+  "block-coffeetable-larch-2-*": "コーヒーテーブル（カラマツ）",
+  "block-coffeetable-larch-3-*": "コーヒーテーブル（カラマツ）",
+  "block-coffeetable-larch-4-*": "コーヒーテーブル（カラマツ）",
+  "block-coffeetable-maple-1-*": "コーヒーテーブル（カエデ）",
+  "block-coffeetable-maple-2-*": "コーヒーテーブル（カエデ）",
+  "block-coffeetable-maple-3-*": "コーヒーテーブル（カエデ）",
+  "block-coffeetable-maple-4-*": "コーヒーテーブル（カエデ）",
+  "block-coffeetable-oak-1-*": "コーヒーテーブル（オーク）",
+  "block-coffeetable-oak-2-*": "コーヒーテーブル（オーク）",
+  "block-coffeetable-oak-3-*": "コーヒーテーブル（オーク）",
+  "block-coffeetable-oak-4-*": "コーヒーテーブル（オーク）",
+  "block-coffeetable-pine-1-*": "コーヒーテーブル（マツ）",
+  "block-coffeetable-pine-2-*": "コーヒーテーブル（マツ）",
+  "block-coffeetable-pine-3-*": "コーヒーテーブル（マツ）",
+  "block-coffeetable-pine-4-*": "コーヒーテーブル（マツ）",
+  "block-coffeetable-purpleheart-1-*": "コーヒーテーブル（パープルハート）",
+  "block-coffeetable-purpleheart-2-*": "コーヒーテーブル（パープルハート）",
+  "block-coffeetable-purpleheart-3-*": "コーヒーテーブル（パープルハート）",
+  "block-coffeetable-purpleheart-4-*": "コーヒーテーブル（パープルハート）",
+  "block-coffeetable-redwood-1-*": "コーヒーテーブル（レッドウッド）",
+  "block-coffeetable-redwood-2-*": "コーヒーテーブル（レッドウッド）",
+  "block-coffeetable-redwood-3-*": "コーヒーテーブル（レッドウッド）",
+  "block-coffeetable-redwood-4-*": "コーヒーテーブル（レッドウッド）",
+  "block-coffeetable-walnut-1-*": "コーヒーテーブル（クルミ）",
+  "block-coffeetable-walnut-2-*": "コーヒーテーブル（クルミ）",
+  "block-coffeetable-walnut-3-*": "コーヒーテーブル（クルミ）",
+  "block-coffeetable-walnut-4-*": "コーヒーテーブル（クルミ）",
+
+  "block-coffeetable-douglasfir-1-*": "コーヒーテーブル（ベイマツ）",
+  "block-coffeetable-douglasfir-2-*": "コーヒーテーブル（ベイマツ）",
+  "block-coffeetable-douglasfir-3-*": "コーヒーテーブル（ベイマツ）",
+  "block-coffeetable-douglasfir-4-*": "コーヒーテーブル（ベイマツ）",
+  "block-coffeetable-willow-1-*": "コーヒーテーブル（ヤナギ）",
+  "block-coffeetable-willow-2-*": "コーヒーテーブル（ヤナギ）",
+  "block-coffeetable-willow-3-*": "コーヒーテーブル（ヤナギ）",
+  "block-coffeetable-willow-4-*": "コーヒーテーブル（ヤナギ）",
+  "block-coffeetable-honeylocust-1-*": "コーヒーテーブル（サイカチ）",
+  "block-coffeetable-honeylocust-2-*": "コーヒーテーブル（サイカチ）",
+  "block-coffeetable-honeylocust-3-*": "コーヒーテーブル（サイカチ）",
+  "block-coffeetable-honeylocust-4-*": "コーヒーテーブル（サイカチ）",
+  "block-coffeetable-bearnut-1-*": "コーヒーテーブル（ベアナッツ）",
+  "block-coffeetable-bearnut-2-*": "コーヒーテーブル（ベアナッツ）",
+  "block-coffeetable-bearnut-3-*": "コーヒーテーブル（ベアナッツ）",
+  "block-coffeetable-bearnut-4-*": "コーヒーテーブル（ベアナッツ）",
+  "block-coffeetable-blackpoplar-1-*": "コーヒーテーブル（クロヤマナラシ）",
+  "block-coffeetable-blackpoplar-2-*": "コーヒーテーブル（クロヤマナラシ）",
+  "block-coffeetable-blackpoplar-3-*": "コーヒーテーブル（クロヤマナラシ）",
+  "block-coffeetable-blackpoplar-4-*": "コーヒーテーブル（クロヤマナラシ）",
+  "block-coffeetable-pyramidalpoplar-1-*": "コーヒーテーブル（ヤマナラシ）",
+  "block-coffeetable-pyramidalpoplar-2-*": "コーヒーテーブル（ヤマナラシ）",
+  "block-coffeetable-pyramidalpoplar-3-*": "コーヒーテーブル（ヤマナラシ）",
+  "block-coffeetable-pyramidalpoplar-4-*": "コーヒーテーブル（ヤマナラシ）",
+  "block-coffeetable-catalpa-1-*": "コーヒーテーブル（キササゲ）",
+  "block-coffeetable-catalpa-2-*": "コーヒーテーブル（キササゲ）",
+  "block-coffeetable-catalpa-3-*": "コーヒーテーブル（キササゲ）",
+  "block-coffeetable-catalpa-4-*": "コーヒーテーブル（キササゲ）",
+  "block-coffeetable-mahogany-1-*": "コーヒーテーブル（マホガニー）",
+  "block-coffeetable-mahogany-2-*": "コーヒーテーブル（マホガニー）",
+  "block-coffeetable-mahogany-3-*": "コーヒーテーブル（マホガニー）",
+  "block-coffeetable-mahogany-4-*": "コーヒーテーブル（マホガニー）",
+  "block-coffeetable-sal-1-*": "コーヒーテーブル（サラソウジュ）",
+  "block-coffeetable-sal-2-*": "コーヒーテーブル（サラソウジュ）",
+  "block-coffeetable-sal-3-*": "コーヒーテーブル（サラソウジュ）",
+  "block-coffeetable-sal-4-*": "コーヒーテーブル（サラソウジュ）",
+  "block-coffeetable-saxaul-1-*": "コーヒーテーブル（サクソル）",
+  "block-coffeetable-saxaul-2-*": "コーヒーテーブル（サクソル）",
+  "block-coffeetable-saxaul-3-*": "コーヒーテーブル（サクソル）",
+  "block-coffeetable-saxaul-4-*": "コーヒーテーブル（サクソル）",
+  "block-coffeetable-spruce-1-*": "コーヒーテーブル（トウヒ）",
+  "block-coffeetable-spruce-2-*": "コーヒーテーブル（トウヒ）",
+  "block-coffeetable-spruce-3-*": "コーヒーテーブル（トウヒ）",
+  "block-coffeetable-spruce-4-*": "コーヒーテーブル（トウヒ）",
+  "block-coffeetable-sycamore-1-*": "コーヒーテーブル（カジカエデ）",
+  "block-coffeetable-sycamore-2-*": "コーヒーテーブル（カジカエデ）",
+  "block-coffeetable-sycamore-3-*": "コーヒーテーブル（カジカエデ）",
+  "block-coffeetable-sycamore-4-*": "コーヒーテーブル（カジカエデ）",
+  "block-coffeetable-elm-1-*": "コーヒーテーブル（ニレ）",
+  "block-coffeetable-elm-2-*": "コーヒーテーブル（ニレ）",
+  "block-coffeetable-elm-3-*": "コーヒーテーブル（ニレ）",
+  "block-coffeetable-elm-4-*": "コーヒーテーブル（ニレ）",
+  "block-coffeetable-beech-1-*": "コーヒーテーブル（ブナ）",
+  "block-coffeetable-beech-2-*": "コーヒーテーブル（ブナ）",
+  "block-coffeetable-beech-3-*": "コーヒーテーブル（ブナ）",
+  "block-coffeetable-beech-4-*": "コーヒーテーブル（ブナ）",
+  "block-coffeetable-eucalyptus-1-*": "コーヒーテーブル（ユーカリ）",
+  "block-coffeetable-eucalyptus-2-*": "コーヒーテーブル（ユーカリ）",
+  "block-coffeetable-eucalyptus-3-*": "コーヒーテーブル（ユーカリ）",
+  "block-coffeetable-eucalyptus-4-*": "コーヒーテーブル（ユーカリ）",
+  "block-coffeetable-cedar-1-*": "コーヒーテーブル（ヒマラヤスギ）",
+  "block-coffeetable-cedar-2-*": "コーヒーテーブル（ヒマラヤスギ）",
+  "block-coffeetable-cedar-3-*": "コーヒーテーブル（ヒマラヤスギ）",
+  "block-coffeetable-cedar-4-*": "コーヒーテーブル（ヒマラヤスギ）",
+
+
+
+// テーブルセットのバリエーション //
+
+  "block-tablesetting-1-*": "テーブルセット",
+  "block-tablesetting-2-*": "テーブルセット",
+  "block-tablesetting-3-*": "テーブルセット",
+  "block-tablesetting-4-*": "テーブルセット",
+  "block-tablesetting-5-*": "テーブルセット",
+
+// 木のテーブルのバリエーション //
+
+  "block-woodtable-aged-*": "木のテーブル（古びた）",
+  "block-woodtable-acacia-*": "木のテーブル（アカシア）",
+  "block-woodtable-baldcypress-*": "木のテーブル（ヌマスギ）",
+  "block-woodtable-birch-*": "木のテーブル（シラカバ）",
+  "block-woodtable-ebony-*": "木のテーブル（コクタン）",
+  "block-woodtable-kapok-*": "木のテーブル（カポック）",
+  "block-woodtable-larch-*": "木のテーブル（カラマツ）",
+  "block-woodtable-maple-*": "木のテーブル（カエデ）",
+  "block-woodtable-oak-*": "木のテーブル（オーク）",
+  "block-woodtable-pine-*": "木のテーブル（マツ）",
+  "block-woodtable-purpleheart-*": "木のテーブル（パープルハート）",
+  "block-woodtable-redwood-*": "木のテーブル（レッドウッド）",
+  "block-woodtable-walnut-*": "木のテーブル（クルミ）",
+
+  "block-woodtable-douglasfir-*": "木のテーブル（ベイマツ）",
+  "block-woodtable-willow-*": "木のテーブル（ヤナギ）",
+  "block-woodtable-honeylocust-*": "木のテーブル（サイカチ）",
+  "block-woodtable-bearnut-*": "木のテーブル（ベアナッツ）",
+  "block-woodtable-blackpoplar-*": "木のテーブル（クロヤマナラシ）",
+  "block-woodtable-pyramidalpoplar-*": "木のテーブル（ヤマナラシ）",
+  "block-woodtable-catalpa-*": "木のテーブル（キササゲ）",
+  "block-woodtable-mahogany-*": "木のテーブル（マホガニー）",
+  "block-woodtable-sal-*": "木のテーブル（サラソウジュ）",
+  "block-woodtable-saxaul-*": "木のテーブル（サクソル）",
+  "block-woodtable-spruce-*": "木のテーブル（トウヒ）",
+  "block-woodtable-sycamore-*": "木のテーブル（カジカエデ）",
+  "block-woodtable-elm-*": "木のテーブル（ニレ）",
+  "block-woodtable-beech-*": "木のテーブル（ブナ）",
+  "block-woodtable-eucalyptus-*": "木のテーブル（ユーカリ）",
+  "block-woodtable-cedar-*": "木のテーブル（ヒマラヤスギ）",
+
+// カーテンのバリエーション //
+
+  "block-curtain-black-up-*": "ブラックカーテン",
+  "block-curtain-black-middle-*": "ブラックカーテン",
+  "block-curtain-blue-up-*": "ブルーカーテン",
+  "block-curtain-blue-middle-*": "ブルーカーテン",
+  "block-curtain-brown-up-*": "ブラウンカーテン",
+  "block-curtain-brown-middle-*": "ブラウンカーテン",
+  "block-curtain-gray-up-*": "グレーカーテン",
+  "block-curtain-gray-middle-*": "グレーカーテン",
+  "block-curtain-green-up-*": "グリーンカーテン",
+  "block-curtain-green-middle-*": "グリーンカーテン",
+  "block-curtain-orange-up-*": "オレンジカーテン",
+  "block-curtain-orange-middle-*": "オレンジカーテン",
+  "block-curtain-pink-up-*": "ピンクカーテン",
+  "block-curtain-pink-middle-*": "ピンクカーテン",
+  "block-curtain-plain-up-*": "プレーンカーテン",
+  "block-curtain-plain-middle-*": "プレーンカーテン",
+  "block-curtain-purple-up-*": "パープルカーテン",
+  "block-curtain-purple-middle-*": "パープルカーテン",
+  "block-curtain-red-up-*": "レッドカーテン",
+  "block-curtain-red-middle-*": "レッドカーテン",
+  "block-curtain-white-up-*": "ホワイトカーテン",
+  "block-curtain-white-middle-*": "ホワイトカーテン",
+  "block-curtain-yellow-up-*": "イエローカーテン",
+  "block-curtain-yellow-middle-*": "イエローカーテン",
+
+// ファンシーカーテンのバリエーション //
+
+  "block-fancycurtain-black-up-*": "ブラックファンシーカーテン",
+  "block-fancycurtain-black-middle-*": "ブラックファンシーカーテン",
+  "block-fancycurtain-black-down-*": "ブラックファンシーカーテン",
+  "block-fancycurtain-blue-up-*": "ブルーファンシーカーテン",
+  "block-fancycurtain-blue-middle-*": "ブルーファンシーカーテン",
+  "block-fancycurtain-blue-down-*": "ブルーファンシーカーテン",
+  "block-fancycurtain-brown-up-*": "ブラウンファンシーカーテン",
+  "block-fancycurtain-brown-middle-*": "ブラウンファンシーカーテン",
+  "block-fancycurtain-brown-down-*": "ブラウンファンシーカーテン",
+  "block-fancycurtain-gray-up-*": "グレーファンシーカーテン",
+  "block-fancycurtain-gray-middle-*": "グレーファンシーカーテン",
+  "block-fancycurtain-gray-down-*": "グレーファンシーカーテン",
+  "block-fancycurtain-green-up-*": "グリーンファンシーカーテン",
+  "block-fancycurtain-green-middle-*": "グリーンファンシーカーテン",
+  "block-fancycurtain-green-down-*": "グリーンファンシーカーテン",
+  "block-fancycurtain-orange-up-*": "オレンジファンシーカーテン",
+  "block-fancycurtain-orange-middle-*": "オレンジファンシーカーテン",
+  "block-fancycurtain-orange-down-*": "オレンジファンシーカーテン",
+  "block-fancycurtain-pink-up-*": "ピンクファンシーカーテン",
+  "block-fancycurtain-pink-middle-*": "ピンクファンシーカーテン",
+  "block-fancycurtain-pink-down-*": "ピンクファンシーカーテン",
+  "block-fancycurtain-plain-up-*": "プレーンファンシーカーテン",
+  "block-fancycurtain-plain-middle-*": "プレーンファンシーカーテン",
+  "block-fancycurtain-plain-down-*": "プレーンファンシーカーテン",
+  "block-fancycurtain-purple-up-*": "パープルファンシーカーテン",
+  "block-fancycurtain-purple-middle-*": "パープルファンシーカーテン",
+  "block-fancycurtain-purple-down-*": "パープルファンシーカーテン",
+  "block-fancycurtain-red-up-*": "レッドファンシーカーテン",
+  "block-fancycurtain-red-middle-*": "レッドファンシーカーテン",
+  "block-fancycurtain-red-down-*": "レッドファンシーカーテン",
+  "block-fancycurtain-white-up-*": "ホワイトファンシーカーテン",
+  "block-fancycurtain-white-middle-*": "ホワイトファンシーカーテン",
+  "block-fancycurtain-white-down-*": "ホワイトファンシーカーテン",
+  "block-fancycurtain-yellow-up-*": "イエローファンシーカーテン",
+  "block-fancycurtain-yellow-middle-*": "イエローファンシーカーテン",
+  "block-fancycurtain-yellow-down-*": "イエローファンシーカーテン",
+
+// ソファーのバリエーション //
+
+  "block-sofa-blue-*": "ブルーソファー",
+  "block-sofa-green-*": "グリーンソファー",
+  "block-sofa-neutral-*": "ニュートラルソファー",
+  "block-sofa-red-*": "レッドソファー",
+  "block-sofa-white-*": "ホワイトソファー",
+
+  "block-victorianloungechair-*": "ビクトリア朝風のラウンジチェア",
+
+  "block-tallcandelabra-*": "背の高い燭台",
+  "block-tablecandelabra-*": "テーブル燭台",
+  "block-gothlamp-*": "ゴシックランプ",
+  "block-sewingshelf-*": "裁縫棚",
+  "block-twinestorage-*": "より糸収納庫",
+
+  "block-gothicloveseatblack-*": "ブラックゴシックロマンスシート",
+  "block-gothicloveseatred-*": "レッドゴシックロマンスシート",
+
+  "block-fancygothicchairdark-*": "ファンシーゴシックチェア",
+
+  "block-sidetablegoth-basalt-1-*": "ゴシックサイドテーブル",
+  "block-sidetablegoth-basalt-2-*": "ゴシックサイドテーブル",
+  "block-sidetablegoth-basalt-3-*": "ゴシックサイドテーブル",
+
+  "block-carpet-blue-*": "ブルーカーペット",
+  "block-carpet-darkblack-*": "ダークブラックカーペット",
+  "block-carpet-ginghamred-*": "ギンガムレッドカーペット",
+  "block-carpet-green-*": "グリーンカーペット",
+  "block-carpet-neutral-*": "ニュートラルカーペット",
+  "block-carpet-red-*": "レッドカーペット",
+  "block-carpet-white-*": "ホワイトカーペット",
+  "block-carpet-whitedotted-*": "ホワイトドットカーペット",
+  "block-carpet-yellowflower-*": "イエローフラワーカーペット",
+  "block-carpet-darkfancy-*": "ダークファンシーカーペット",
+  "block-carpet-darkfloral-*": "ダークフローラルカーペット",
+
+  "block-gothfootrestred-*": "レッドゴシックフットレスト",
+  "block-gothfootrestblack-*": "フラックゴシックフットレスト",
+
+  "block-coffinbed-*": "棺桶ベッド",
+  "block-victoriantoilet-*": "ビクトリア朝風のトイレ",
+  "block-victoriansink-*": "ビクトリア朝風のシンク",
+  "block-herbrack-*": "ハーブラック",
+  "block-gothictable-*": "ゴシックテーブル",
+  "block-pileofletters-*": "手紙の山",
+
+
+// レッドファンシーゴシックチェアのバリエーション // 
+
+  "block-fancygothicchairred-aged-*": "レッドファンシーゴシックチェア（古びた）",
+  "block-fancygothicchairred-acacia-*": "レッドファンシーゴシックチェア（アカシア）",
+  "block-fancygothicchairred-baldcypress-*": "レッドファンシーゴシックチェア（ヌマスギ）",
+  "block-fancygothicchairred-birch-*": "レッドファンシーゴシックチェア（シラカバ）",
+  "block-fancygothicchairred-ebony-*": "レッドファンシーゴシックチェア（コクタン）",
+  "block-fancygothicchairred-kapok-*": "レッドファンシーゴシックチェア（カポック）",
+  "block-fancygothicchairred-larch-*": "レッドファンシーゴシックチェア（カラマツ）",
+  "block-fancygothicchairred-maple-*": "レッドファンシーゴシックチェア（カエデ）",
+  "block-fancygothicchairred-oak-*": "レッドファンシーゴシックチェア（オーク）",
+  "block-fancygothicchairred-pine-*": "レッドファンシーゴシックチェア（マツ）",
+  "block-fancygothicchairred-purpleheart-*": "レッドファンシーゴシックチェア（パープルハート）",
+  "block-fancygothicchairred-redwood-*": "レッドファンシーゴシックチェア（レッドウッド）",
+  "block-fancygothicchairred-rottenebony-*": "レッドファンシーゴシックチェア（腐ったコクタン）",
+  "block-fancygothicchairred-walnut-*": "レッドファンシーゴシックチェア（クルミ）",
+
+  "block-fancygothicchairred-douglasfir-*": "レッドファンシーゴシックチェア（ベイマツ）",
+  "block-fancygothicchairred-willow-*": "レッドファンシーゴシックチェア（ヤナギ）",
+  "block-fancygothicchairred-honeylocust-*": "レッドファンシーゴシックチェア（サイカチ）",
+  "block-fancygothicchairred-bearnut-*": "レッドファンシーゴシックチェア（ベアナッツ）",
+  "block-fancygothicchairred-blackpoplar-*": "レッドファンシーゴシックチェア（クロヤマナラシ）",
+  "block-fancygothicchairred-pyramidalpoplar-*": "レッドファンシーゴシックチェア（ヤマナラシ）",
+  "block-fancygothicchairred-catalpa-*": "レッドファンシーゴシックチェア（キササゲ）",
+  "block-fancygothicchairred-mahogany-*": "レッドファンシーゴシックチェア（マホガニー）",
+  "block-fancygothicchairred-sal-*": "レッドファンシーゴシックチェア（サラソウジュ）",
+  "block-fancygothicchairred-saxaul-*": "レッドファンシーゴシックチェア（サクソル）",
+  "block-fancygothicchairred-spruce-*": "レッドファンシーゴシックチェア（トウヒ）",
+  "block-fancygothicchairred-sycamore-*": "レッドファンシーゴシックチェア（カジカエデ）",
+  "block-fancygothicchairred-elm-*": "レッドファンシーゴシックチェア（ニレ）",
+  "block-fancygothicchairred-beech-*": "レッドファンシーゴシックチェア（ブナ）",
+  "block-fancygothicchairred-eucalyptus-*": "レッドファンシーゴシックチェア（ユーカリ）",
+  "block-fancygothicchairred-cedar-*": "レッドファンシーゴシックチェア（ヒマラヤスギ）",
+
+// インナーキャビネットのバリエーション //
+
+  "block-innercabinet-aged-*": "インナーキャビネット（古びた）",
+  "block-innercabinet-acacia-*": "インナーキャビネット（アカシア）",
+  "block-innercabinet-baldcypress-*": "インナーキャビネット（ヌマスギ）",
+  "block-innercabinet-birch-*": "インナーキャビネット（シラカバ）",
+  "block-innercabinet-ebony-*": "インナーキャビネット（コクタン）",
+  "block-innercabinet-kapok-*": "インナーキャビネット（カポック）",
+  "block-innercabinet-larch-*": "インナーキャビネット（カラマツ）",
+  "block-innercabinet-maple-*": "インナーキャビネット（カエデ）",
+  "block-innercabinet-oak-*": "インナーキャビネット（オーク）",
+  "block-innercabinet-pine-*": "インナーキャビネット（マツ）",
+  "block-innercabinet-purpleheart-*": "インナーキャビネット（パープルハート）",
+  "block-innercabinet-redwood-*": "インナーキャビネット（レッドウッド）",
+  "block-innercabinet-walnut-*": "インナーキャビネット（クルミ）",
+
+ "block-innercabinet-douglasfir-*": "インナーキャビネット（ベイマツ）",
+ "block-innercabinet-willow-*": "インナーキャビネット（ヤナギ）",
+ "block-innercabinet-honeylocust-*": "インナーキャビネット（サイカチ）",
+ "block-innercabinet-bearnut-*": "インナーキャビネット（ベアナッツ）",
+ "block-innercabinet-blackpoplar-*": "インナーキャビネット（クロヤマナラシ）",
+ "block-innercabinet-pyramidalpoplar-*": "インナーキャビネット（ヤマナラシ）",
+ "block-innercabinet-catalpa-*": "インナーキャビネット（キササゲ）",
+ "block-innercabinet-mahogany-*": "インナーキャビネット（マホガニー）",
+ "block-innercabinet-sal-*": "インナーキャビネット（サラソウジュ）",
+ "block-innercabinet-saxaul-*": "インナーキャビネット（サクソル）",
+ "block-innercabinet-spruce-*": "インナーキャビネット（トウヒ）",
+ "block-innercabinet-sycamore-*": "インナーキャビネット（カジカエデ）",
+ "block-innercabinet-elm-*": "インナーキャビネット（ニレ）",
+ "block-innercabinet-beech-*": "インナーキャビネット（ブナ）",
+ "block-innercabinet-eucalyptus-*": "インナーキャビネット（ユーカリ）",
+ "block-innercabinet-cedar-*": "インナーキャビネット（ヒマラヤスギ）",
+
+// インナーキャビネット上部のバリエーション //
+
+  "block-upperinnercabinet-aged-*": "インナーキャビネット上部（古びた）",
+  "block-upperinnercabinet-acacia-*": "インナーキャビネット上部（アカシア）",
+  "block-upperinnercabinet-baldcypress-*": "インナーキャビネット上部（ヌマスギ）",
+  "block-upperinnercabinet-birch-*": "インナーキャビネット上部（シラカバ）",
+  "block-upperinnercabinet-ebony-*": "インナーキャビネット上部（コクタン）",
+  "block-upperinnercabinet-kapok-*": "インナーキャビネット上部（カポック）",
+  "block-upperinnercabinet-larch-*": "インナーキャビネット上部（カラマツ）",
+  "block-upperinnercabinet-maple-*": "インナーキャビネット上部（カエデ）",
+  "block-upperinnercabinet-oak-*": "インナーキャビネット上部（オーク）",
+  "block-upperinnercabinet-pine-*": "インナーキャビネット上部（マツ）",
+  "block-upperinnercabinet-purpleheart-*": "インナーキャビネット上部（パープルハート）",
+  "block-upperinnercabinet-redwood-*": "インナーキャビネット上部（レッドウッド）",
+  "block-upperinnercabinet-walnut-*": "インナーキャビネット上部（クルミ）",
+
+ "block-upperinnercabinet-douglasfir-*": "インナーキャビネット上部（ベイマツ）",
+ "block-upperinnercabinet-willow-*": "インナーキャビネット上部（ヤナギ）",
+ "block-upperinnercabinet-honeylocust-*": "インナーキャビネット上部（サイカチ）",
+ "block-upperinnercabinet-bearnut-*": "インナーキャビネット上部（ベアナッツ）",
+ "block-upperinnercabinet-blackpoplar-*": "インナーキャビネット上部（クロヤマナラシ）",
+ "block-upperinnercabinet-pyramidalpoplar-*": "インナーキャビネット上部（ヤマナラシ）",
+ "block-upperinnercabinet-catalpa-*": "インナーキャビネット上部（キササゲ）",
+ "block-upperinnercabinet-mahogany-*": "インナーキャビネット上部（マホガニー）",
+ "block-upperinnercabinet-sal-*": "インナーキャビネット上部（サラソウジュ）",
+ "block-upperinnercabinet-saxaul-*": "インナーキャビネット上部（サクソル）",
+ "block-upperinnercabinet-spruce-*": "インナーキャビネット上部（トウヒ）",
+ "block-upperinnercabinet-sycamore-*": "インナーキャビネット上部（カジカエデ）",
+ "block-upperinnercabinet-elm-*": "インナーキャビネット上部（ニレ）",
+ "block-upperinnercabinet-beech-*": "インナーキャビネット上部（ブナ）",
+ "block-upperinnercabinet-eucalyptus-*": "インナーキャビネット上部（ユーカリ）",
+ "block-upperinnercabinet-cedar-*": "インナーキャビネット上部（ヒマラヤスギ）",
+
+// ファンシーインナーキャビネットのバリエーション // 
+
+  "block-fancyinnercabinet-aged-*": "ファンシーインナーキャビネット（古びた）",
+  "block-fancyinnercabinet-acacia-*": "ファンシーインナーキャビネット（アカシア）",
+  "block-fancyinnercabinet-baldcypress-*": "ファンシーインナーキャビネット（ヌマスギ）",
+  "block-fancyinnercabinet-birch-*": "ファンシーインナーキャビネット（シラカバ）",
+  "block-fancyinnercabinet-ebony-*": "ファンシーインナーキャビネット（コクタン）",
+  "block-fancyinnercabinet-kapok-*": "ファンシーインナーキャビネット（カポック）",
+  "block-fancyinnercabinet-larch-*": "ファンシーインナーキャビネット（カラマツ）",
+  "block-fancyinnercabinet-maple-*": "ファンシーインナーキャビネット（カエデ）",
+  "block-fancyinnercabinet-oak-*": "ファンシーインナーキャビネット（オーク）",
+  "block-fancyinnercabinet-pine-*": "ファンシーインナーキャビネット（マツ）",
+  "block-fancyinnercabinet-purpleheart-*": "ファンシーインナーキャビネット（パープルハート）",
+  "block-fancyinnercabinet-redwood-*": "ファンシーインナーキャビネット（レッドウッド）",
+  "block-fancyinnercabinet-walnut-*": "ファンシーインナーキャビネット（クルミ）",
+
+ "block-fancyinnercabinet-douglasfir-*": "ファンシーインナーキャビネット（ベイマツ）",
+ "block-fancyinnercabinet-willow-*": "ファンシーインナーキャビネット（ヤナギ）",
+ "block-fancyinnercabinet-honeylocust-*": "ファンシーインナーキャビネット（サイカチ）",
+ "block-fancyinnercabinet-bearnut-*": "ファンシーインナーキャビネット（ベアナッツ）",
+ "block-fancyinnercabinet-blackpoplar-*": "ファンシーインナーキャビネット（クロヤマナラシ）",
+ "block-fancyinnercabinet-pyramidalpoplar-*": "ファンシーインナーキャビネット（ヤマナラシ）",
+ "block-fancyinnercabinet-catalpa-*": "ファンシーインナーキャビネット（キササゲ）",
+ "block-fancyinnercabinet-mahogany-*": "ファンシーインナーキャビネット（マホガニー）",
+ "block-fancyinnercabinet-sal-*": "ファンシーインナーキャビネット（サラソウジュ）",
+ "block-fancyinnercabinet-saxaul-*": "ファンシーインナーキャビネット（サクソル）",
+ "block-fancyinnercabinet-spruce-*": "ファンシーインナーキャビネット（トウヒ）",
+ "block-fancyinnercabinet-sycamore-*": "ファンシーインナーキャビネット（カジカエデ）",
+ "block-fancyinnercabinet-elm-*": "ファンシーインナーキャビネット（ニレ）",
+ "block-fancyinnercabinet-beech-*": "ファンシーインナーキャビネット（ブナ）",
+ "block-fancyinnercabinet-eucalyptus-*": "ファンシーインナーキャビネット（ユーカリ）",
+ "block-fancyinnercabinet-cedar-*": "ファンシーインナーキャビネット（ヒマラヤスギ）",
+
+// ファンシーキャビネット上部コーナーのバリエーション //
+
+  "block-fancyuppercornercabinet-aged-*": "ファンシーキャビネット上部コーナー（古びた）",
+  "block-fancyuppercornercabinet-acacia-*": "ファンシーキャビネット上部コーナー（アカシア）",
+  "block-fancyuppercornercabinet-baldcypress-*": "ファンシーキャビネット上部コーナー（ヌマスギ）",
+  "block-fancyuppercornercabinet-birch-*": "ファンシーキャビネット上部コーナー（シラカバ）",
+  "block-fancyuppercornercabinet-ebony-*": "ファンシーキャビネット上部コーナー（コクタン）",
+  "block-fancyuppercornercabinet-kapok-*": "ファンシーキャビネット上部コーナー（カポック）",
+  "block-fancyuppercornercabinet-larch-*": "ファンシーキャビネット上部コーナー（カラマツ）",
+  "block-fancyuppercornercabinet-maple-*": "ファンシーキャビネット上部コーナー（カエデ）",
+  "block-fancyuppercornercabinet-oak-*": "ファンシーキャビネット上部コーナー（オーク）",
+  "block-fancyuppercornercabinet-pine-*": "ファンシーキャビネット上部コーナー（マツ）",
+  "block-fancyuppercornercabinet-purpleheart-*": "ファンシーキャビネット上部コーナー（パープルハート）",
+  "block-fancyuppercornercabinet-redwood-*": "ファンシーキャビネット上部コーナー（レッドウッド）",
+  "block-fancyuppercornercabinet-walnut-*": "ファンシーキャビネット上部コーナー（クルミ）",
+
+ "block-fancyuppercornercabinet-douglasfir-*": "ファンシーキャビネット上部コーナー（ベイマツ）",
+ "block-fancyuppercornercabinet-willow-*": "ファンシーキャビネット上部コーナー（ヤナギ）",
+ "block-fancyuppercornercabinet-honeylocust-*": "ファンシーキャビネット上部コーナー（サイカチ）",
+ "block-fancyuppercornercabinet-bearnut-*": "ファンシーキャビネット上部コーナー（ベアナッツ）",
+ "block-fancyuppercornercabinet-blackpoplar-*": "ファンシーキャビネット上部コーナー（クロヤマナラシ）",
+ "block-fancyuppercornercabinet-pyramidalpoplar-*": "ファンシーキャビネット上部コーナー（ヤマナラシ）",
+ "block-fancyuppercornercabinet-catalpa-*": "ファンシーキャビネット上部コーナー（キササゲ）",
+ "block-fancyuppercornercabinet-mahogany-*": "ファンシーキャビネット上部コーナー（マホガニー）",
+ "block-fancyuppercornercabinet-sal-*": "ファンシーキャビネット上部コーナー（サラソウジュ）",
+ "block-fancyuppercornercabinet-saxaul-*": "ファンシーキャビネット上部コーナー（サクソル）",
+ "block-fancyuppercornercabinet-spruce-*": "ファンシーキャビネット上部コーナー（トウヒ）",
+ "block-fancyuppercornercabinet-sycamore-*": "ファンシーキャビネット上部コーナー（カジカエデ）",
+ "block-fancyuppercornercabinet-elm-*": "ファンシーキャビネット上部コーナー（ニレ）",
+ "block-fancyuppercornercabinet-beech-*": "ファンシーキャビネット上部コーナー（ブナ）",
+ "block-fancyuppercornercabinet-eucalyptus-*": "ファンシーキャビネット上部コーナー（ユーカリ）",
+ "block-fancyuppercornercabinet-cedar-*": "ファンシーキャビネット上部コーナー（ヒマラヤスギ）",
+
+// 石のインナーキャビネットのバリエーション //
+
+  "block-stoneinnercabinet-andesite-*": "石のインナーキャビネット（安山岩）",
+  "block-stoneinnercabinet-basalt-*": "石のインナーキャビネット（玄武岩）",
+  "block-stoneinnercabinet-bauxite-*": "石のインナーキャビネット（ボーキサイト）",
+  "block-stoneinnercabinet-chalk-*": "石のインナーキャビネット（チョーク）",
+  "block-stoneinnercabinet-chert-*": "石のインナーキャビネット（チャート）",
+  "block-stoneinnercabinet-claystone-*": "石のインナーキャビネット（粘土岩）",
+  "block-stoneinnercabinet-conglomerate-*": "石のインナーキャビネット（礫岩）",
+  "block-stoneinnercabinet-granite-*": "石のインナーキャビネット（花崗岩）",
+  "block-stoneinnercabinet-kimberlite-*": "石のインナーキャビネット（キンバーライト）",
+  "block-stoneinnercabinet-limestone-*": "石のインナーキャビネット（石灰岩）",
+  "block-stoneinnercabinet-peridotite-*": "石のインナーキャビネット（かんらん岩）",
+  "block-stoneinnercabinet-phyllite-*": "石のインナーキャビネット（千枚岩）",
+  "block-stoneinnercabinet-sandstone-*": "石のインナーキャビネット（砂岩）",
+  "block-stoneinnercabinet-shale-*": "石のインナーキャビネット（泥板岩）",
+  "block-stoneinnercabinet-slate-*": "石のインナーキャビネット（粘板岩）",
+  "block-stoneinnercabinet-suevite-*": "石のインナーキャビネット（スエバイト）",
+
+// 石のキャビネット上部コーナーのバリエーション //
+
+  "block-stonecabinetuppercorner-andesite-*": "石のキャビネット上部コーナー（安山岩）",
+  "block-stonecabinetuppercorner-basalt-*": "石のキャビネット上部コーナー（玄武岩）",
+  "block-stonecabinetuppercorner-bauxite-*": "石のキャビネット上部コーナー（ボーキサイト）",
+  "block-stonecabinetuppercorner-chalk-*": "石のキャビネット上部コーナー（チョーク）",
+  "block-stonecabinetuppercorner-chert-*": "石のキャビネット上部コーナー（チャート）",
+  "block-stonecabinetuppercorner-claystone-*": "石のキャビネット上部コーナー（粘土岩）",
+  "block-stonecabinetuppercorner-conglomerate-*": "石のキャビネット上部コーナー（礫岩）",
+  "block-stonecabinetuppercorner-granite-*": "石のキャビネット上部コーナー（花崗岩）",
+  "block-stonecabinetuppercorner-kimberlite-*": "石のキャビネット上部コーナー（キンバーライト）",
+  "block-stonecabinetuppercorner-limestone-*": "石のキャビネット上部コーナー（石灰岩）",
+  "block-stonecabinetuppercorner-peridotite-*": "石のキャビネット上部コーナー（かんらん岩）",
+  "block-stonecabinetuppercorner-phyllite-*": "石のキャビネット上部コーナー（千枚岩）",
+  "block-stonecabinetuppercorner-sandstone-*": "石のキャビネット上部コーナー（砂岩）",
+  "block-stonecabinetuppercorner-shale-*": "石のキャビネット上部コーナー（泥板岩）",
+  "block-stonecabinetuppercorner-slate-*": "石のキャビネット上部コーナー（粘板岩）",
+  "block-stonecabinetuppercorner-suevite-*": "石のキャビネット上部コーナー（スエバイト）",
+
+  "block-towelrack-*": "タオル掛け",
+  "block-stoneoven-*": "石のコンロ",
+  "block-ironoven-*": "鉄のコンロ",
+  "block-ovenwglass-*": "コンロ（ガラス付き）",
+  "block-ovenwglassfancy-*": "ファンシーコンロ（ガラス付き）",
+  "block-tablestoneoven-*": "石のテーブルコンロ",
+  "block-tableovenwglass-*": "テーブルコンロ（ガラス付き）",
+  "block-tableovenwglassfancy-*": "ファンシーテーブルコンロ（ガラス付き）",
+
+// 墓碑 //
+
+  "block-grave-1-*": "墓碑",
+  "block-grave-2-*": "墓碑",
+
+  "block-purplebed-*": "紫色のベッド",
 
 
 }

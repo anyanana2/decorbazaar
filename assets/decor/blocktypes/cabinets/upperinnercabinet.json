@@ -1,0 +1,100 @@
+{
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["upperinnercabinet-*"] },
+        "inventoryClassName": "Cabinet",
+        "quantitySlots": "8"
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalAttachable", properties: {dropBlockFace: "east"}
+        },
+        {
+            "name": "Container"
+        }
+    ],
+    "blockmaterial": "stone",
+    "code": "upperinnercabinet",
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/upperinnercabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/upperinnercabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/upperinnercabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/upperinnercabinet", rotateY: 90 }
+     },
+    "sideopaque": {
+        "all": "false",
+        "up": "false"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "false"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+    "texturesByType": {
+        "*": {
+            "metal": {
+                "base": "game:block/metal/ingot/copper"
+            },
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+		{
+			"code": "type",
+			"states": ["normal"]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

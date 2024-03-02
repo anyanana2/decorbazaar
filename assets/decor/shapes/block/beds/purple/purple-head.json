@@ -14,11 +14,11 @@
 	},
 	"textures": {
 		"purplebedsheets": "block/bazaar/fabric/purplebedsheets",
+		"warmwoodtexture": "block/bazaar/wood/planks/warmwoodtexture",
 		"mattress-normal": "game:block/cloth/bed/mattress-normal",
 		"pillow-normal": "game:block/cloth/bed/pillow-normal",
 		"pink": "game:block/cloth/linen/pink",
-		"white": "game:block/cloth/linen/white",
-		"acacia1": "game:block/wood/planks/acacia1"
+		"white": "game:block/cloth/linen/white"
 	},
 	"elements": [
 		{
@@ -127,12 +127,12 @@
 					"to": [ 2.0, 13.0, 0.0 ],
 					"rotationOrigin": [ 8.0, 6.25, 10.0 ],
 					"faces": {
-						"north": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"east": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"south": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"west": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"up": { "texture": "#acacia1", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false },
-						"down": { "texture": "#acacia1", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false }
+						"north": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"east": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"south": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"west": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"up": { "texture": "#warmwoodtexture", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false },
+						"down": { "texture": "#warmwoodtexture", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false }
 					}
 				},
 				{
@@ -141,12 +141,12 @@
 					"to": [ 16.0, 13.0, 0.0 ],
 					"rotationOrigin": [ 8.0, 6.25, 10.0 ],
 					"faces": {
-						"north": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"east": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"south": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"west": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
-						"up": { "texture": "#acacia1", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false },
-						"down": { "texture": "#acacia1", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false }
+						"north": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"east": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"south": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"west": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 32.0 ], "autoUv": false },
+						"up": { "texture": "#warmwoodtexture", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false },
+						"down": { "texture": "#warmwoodtexture", "uv": [ 8.0, 15.0, 12.0, 19.0 ], "autoUv": false }
 					}
 				},
 				{
@@ -155,12 +155,12 @@
 					"to": [ 14.0, 15.0, 0.0 ],
 					"rotationOrigin": [ 8.0, 6.25, 10.0 ],
 					"faces": {
-						"north": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 25.0, 23.0 ], "autoUv": false },
-						"east": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 23.0 ], "autoUv": false },
-						"south": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 25.0, 23.0 ], "autoUv": false },
-						"west": { "texture": "#acacia1", "uv": [ 0.0, 0.0, 4.0, 23.0 ], "autoUv": false },
-						"up": { "texture": "#acacia1", "uv": [ 0.0, 1.0, 25.0, 5.0 ], "autoUv": false },
-						"down": { "texture": "#acacia1", "uv": [ 0.0, 1.0, 25.0, 5.0 ], "autoUv": false }
+						"north": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 25.0, 23.0 ], "autoUv": false },
+						"east": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 23.0 ], "autoUv": false },
+						"south": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 25.0, 23.0 ], "autoUv": false },
+						"west": { "texture": "#warmwoodtexture", "uv": [ 0.0, 0.0, 4.0, 23.0 ], "autoUv": false },
+						"up": { "texture": "#warmwoodtexture", "uv": [ 0.0, 1.0, 25.0, 5.0 ], "autoUv": false },
+						"down": { "texture": "#warmwoodtexture", "uv": [ 0.0, 1.0, 25.0, 5.0 ], "autoUv": false }
 					}
 				},
 				{

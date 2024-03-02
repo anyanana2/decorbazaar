@@ -1,10 +1,13 @@
 {
     "code": "carpet",
     "class": "BlockLinen",
+"attributes": {
+		"handbook": { groupBy: ["carpet-*"] }
+},
 	creativeinventory: { "general": ["*-down"], "decorative": ["*-down"], "decorbazaar": ["*-down"] },
 	behaviors: [ {name: "Decor", properties: {sides: ["north", "east", "south", "west", "up", "down"], sidedVariants: true, thickness: 0.0625, removable:true }} ],
 	variantgroups: [
-		{ code:"type", states: ["blue", "darkblack", "ginghamred", "green", "neutral", "red", "white", "whitedotted", "yellowflower", "darkfloral"] },
+		{ code:"type", states: ["blue", "darkblack", "ginghamred", "green", "neutral", "red", "white", "whitedotted", "yellowflower", "darkfancy", "darkfloral"] },
 		{ code:"side", states: ["north", "east", "south", "west", "up", "down"] }
 	],
 	shapebytype: {

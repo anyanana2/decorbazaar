@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C,K,G",
+	   	ingredients: {
+	   	"C": { type: "item", name: "color", code: "game:cloth-*", quantity: 1, allowedVariants: ["blue", "green", "plain", "red", "white"] },
+	   	"K": { type: "item", code: "game:nugget-*", quantity: 2 },
+	   	"G": { type: "item", code: "game:flaxtwine", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:sofa-{color}-north", quantity: 1 }
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "L,G,R",
+	   	ingredients: {
+	   	"L": { type: "item", code: "game:nugget-*", quantity: 4 },
+	   	"G": { type: "item", code: "game:candle", quantity: 2 },
+	   	"R": { type: "item", code: "game:charcoal", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:tablecandelabra-north", quantity: 1 }
+	}
+]

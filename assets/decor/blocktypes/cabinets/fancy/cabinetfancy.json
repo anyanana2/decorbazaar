@@ -6,6 +6,7 @@
 	"entityBehaviors": [{"name": "Animatable" }],
 	"attributes": {
 		"partialAttachable": false,
+		"handbook": { groupBy: ["cabinetfancy-*"] },
 		"inventoryClassName": "Container",
 		"canPlaceGroundStorgeOnTop": false,
 		"defaultType": "cabinetaged",

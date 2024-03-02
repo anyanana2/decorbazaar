@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C,G,Q",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:crushed-cinnabar", quantity: 4 },
+	   	"G": { type: "item", code: "game:charcoal", quantity: 4 },
+	   	"Q": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:gothicloveseatred-north", quantity: 1 }
+	}
+]

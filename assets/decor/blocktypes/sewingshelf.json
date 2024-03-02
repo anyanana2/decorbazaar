@@ -1,7 +1,13 @@
 {
     "code": "sewingshelf",
+    "entityClass": "GenericContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }} ],
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+    "attributes": {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "8",
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
     "variantgroups": [
 		{ code:"type", states: ["normal"] },
 		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }

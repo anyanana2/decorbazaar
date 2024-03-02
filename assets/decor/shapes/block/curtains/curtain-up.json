@@ -10,7 +10,7 @@
 		"1": [32,32]
 	},
 	"textures": {
-		"color": "block/bazaar/fabric/curtains/plaincurtain-up",
+		"color": "block/bazaar/fabric/curtains/blackcurtain-up",
 		"1": "game:block/metal/ingot/lead"
 	},
 	"elements": [
@@ -19,8 +19,8 @@
 			"from": [ 0.0, 0.0, 0.5 ],
 			"to": [ 16.0, 15.0, 0.5 ],
 			"faces": {
-				"north": { "texture": "#color", "uv": [ 0.0, 1.0, 32.0, 32.0 ], "autoUv": false },
-				"south": { "texture": "#color", "uv": [ 0.0, 1.0, 32.0, 32.0 ], "autoUv": false }
+				"north": { "texture": "#color", "uv": [ 0.0, 2.0, 32.0, 31.0 ], "autoUv": false },
+				"south": { "texture": "#color", "uv": [ 0.0, 2.0, 32.0, 31.0 ], "autoUv": false }
 			}
 		},
 		{
@@ -38,8 +38,8 @@
 		},
 		{
 			"name": "cube",
-			"from": [ 1.0, 15.0, 0.0 ],
-			"to": [ 2.0, 16.0, 2.0 ],
+			"from": [ 1.0, 14.9, 0.0 ],
+			"to": [ 2.0, 15.9, 2.0 ],
 			"faces": {
 				"north": { "texture": "#1", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
 				"east": { "texture": "#1", "uv": [ 0.0, 0.0, 4.0, 3.0 ], "autoUv": false },
@@ -51,8 +51,8 @@
 		},
 		{
 			"name": "cube",
-			"from": [ 14.0, 15.0, 0.0 ],
-			"to": [ 15.0, 16.0, 2.0 ],
+			"from": [ 14.0, 14.9, 0.0 ],
+			"to": [ 15.0, 15.9, 2.0 ],
 			"faces": {
 				"north": { "texture": "#1", "uv": [ 0.0, 0.0, 3.0, 3.0 ], "autoUv": false },
 				"east": { "texture": "#1", "uv": [ 0.0, 0.0, 4.0, 3.0 ], "autoUv": false },

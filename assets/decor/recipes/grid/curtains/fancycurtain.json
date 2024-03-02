@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "C,G",
+	   	ingredients: {
+	   	"C": { type: "item", name: "color", code: "game:cloth-*", quantity: 1, allowedVariants: ["black", "blue", "brown", "gray", "green", "orange", "pink", "plain", "purple", "red", "white", "yellow"] },
+	   	"G": { type: "item", code: "game:flaxtwine", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:fancycurtain-{color}-up-north", quantity: 8 }
+	}
+]

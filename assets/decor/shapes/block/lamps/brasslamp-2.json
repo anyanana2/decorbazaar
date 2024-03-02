@@ -11,7 +11,7 @@
 		"2": [32,32]
 	},
 	"textures": {
-		"1": "game:block/bazaar/glass/creamquartz",
+		"1": "block/bazaar/glass/creamquartz",
 		"2": "game:block/candle",
 		"0": "game:block/metal/ingot/brass"
 	},

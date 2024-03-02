@@ -29,6 +29,7 @@
     ],
 	attributes: {
 		inventoryClassName: "chest",
+		"handbook": { groupBy: ["vegstorage-*"] },
 		dialogTitleLangCode: "Vegetable Storage",
 		"quantitySlots": "12",
 		spoilSpeedMulByFoodCat: 

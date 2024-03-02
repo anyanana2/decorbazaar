@@ -1,6 +1,7 @@
 {
     "attributes": {
         "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["stonecabinet-*"] },
         "inventoryClassName": "Cabinet",
         "pieFormingSurface": true,
         "quantitySlots": "8"

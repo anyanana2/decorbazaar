@@ -5,6 +5,7 @@
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
     "attributes": {
 		"inventoryClassName": "Cabinet",
+		"handbook": { groupBy: ["mugrack-*"] },
 		"quantitySlots": "8",
 		"dialogTitleLangCode": "Cabinet Storage"
 	},

@@ -1,5 +1,8 @@
 {
 	code: "sidetable",
+"attributes": {
+		"handbook": { groupBy: ["sidetable-*"] }
+},
 	behaviors: [ {name: "HorizontalOrientable"},
 		{
 			name: "ExchangeOnInteract",

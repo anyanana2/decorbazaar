@@ -8,17 +8,17 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"topbottom": "block/clay/flowerpot/topbottom/burnt",
-		"ashforest": "block/clay/vessel/sides/ashforest",
-		"rime": "block/clay/vessel/sides/rime",
-		"sides": "block/cloth/burlap/sides",
-		"iron": "block/metal/plate/iron",
-		"rusty-iron": "block/metal/tarnished/rusty-iron",
-		"acacia1": "block/wood/planks/acacia1",
-		"aged1": "block/wood/planks/aged1",
-		"oak1": "block/wood/planks/oak1",
-		"bellpepper": "item/resource/seeds/bellpepper",
-		"rice": "item/resource/seeds/rice"
+		"onecarrot": "block/bazaar/signs/onecarrot",
+		"rice2": "block/bazaar/signs/rice",
+		"topbottom": "game:block/clay/flowerpot/topbottom/burnt",
+		"ashforest": "game:block/clay/vessel/sides/ashforest",
+		"rime": "game:block/clay/vessel/sides/rime",
+		"sides": "game:block/cloth/burlap/sides",
+		"iron": "game:block/metal/plate/iron",
+		"rusty-iron": "game:block/metal/tarnished/rusty-iron",
+		"acacia1": "game:block/wood/planks/acacia1",
+		"aged1": "game:block/wood/planks/aged1",
+		"oak1": "game:block/wood/planks/oak1"
 	},
 	"elements": [
 		{
@@ -287,7 +287,7 @@
 				"south": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 3.0 ], "autoUv": false },
 				"west": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 3.0 ], "autoUv": false },
 				"up": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 6.0 ], "autoUv": false },
-				"down": { "texture": "#bellpepper", "uv": [ 11.0, 15.0, 21.0, 26.0 ], "autoUv": false }
+				"down": { "texture": "#rice2", "uv": [ 6.0, 6.0, 27.0, 27.0 ], "autoUv": false }
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 				"south": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 2.0 ], "autoUv": false },
 				"west": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 2.0 ], "autoUv": false },
 				"up": { "texture": "#sides", "uv": [ 0.0, 0.0, 8.0, 6.0 ], "autoUv": false },
-				"down": { "texture": "#rice", "uv": [ 10.0, 14.0, 22.0, 26.0 ], "autoUv": false }
+				"down": { "texture": "#onecarrot", "uv": [ 4.0, 3.0, 21.0, 26.0 ], "autoUv": false }
 			}
 		},
 		{

@@ -2,6 +2,9 @@
     "code": "stool",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
+"attributes": {
+		"handbook": { groupBy: ["stool-*"] }
+},
     "variantgroups": [
         {
             "code": "wood",

@@ -27,6 +27,9 @@
 		"2": { "base": "block/bazaar/fabric/blackleather" },
 	},
     "resistance": 3.5,
+	guiTransform: {
+		rotation: { x: -22.6, y: 135, z: 0 }
+	},
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"

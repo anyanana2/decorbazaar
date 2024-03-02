@@ -1,5 +1,8 @@
 {
 	code: "tablesetting",
+"attributes": {
+		"handbook": { groupBy: ["tablesetting-*"] },
+},
 	behaviors: [ {name: "HorizontalOrientable"},
 		{
 			name: "ExchangeOnInteract",

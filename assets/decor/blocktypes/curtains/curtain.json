@@ -1,17 +1,20 @@
 {
 	"code": "curtain",
+"attributes": {
+		"handbook": { groupBy: ["curtain-*"] }
+},
 	"behaviors": [ {"name": "HorizontalOrientable"},
 		{
 			"name": "ExchangeOnInteract",
 			"properties": {
-				"exchangeStates": ["*-up-*", "*-middle-*"],
+				"exchangeStates": ["*-up-*", "*-middle-*", "*-rod1-*", "*-rod2-*", "*-rod3-*"],
 				"sound": "block/special/click",
 				"actionLangCode": "decor:blockhelp-creative-switch"
 			}
 		} ],
 	"variantgroups": [
 		{ "code": "color", "states": ["black", "blue", "brown", "gray", "green", "orange", "pink", "plain", "purple", "red", "white", "yellow"] },
-		{ "code":"state", "states": ["up", "middle"] },
+		{ "code":"state", "states": ["up", "middle", "rod1", "rod2", "rod3"] },
 		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
 	],
 	"shapeByType": {

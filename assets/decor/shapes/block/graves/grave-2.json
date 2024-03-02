@@ -5,7 +5,7 @@
 		"0": [32, 32]
 	},
 	"textures": {
-		"0": "survival:block/stone/polishedrock/granite"
+		"0": "game:block/stone/polishedrock/granite"
 	},
 	"elements": [
 		{

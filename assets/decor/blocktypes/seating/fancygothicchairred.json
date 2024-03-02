@@ -2,6 +2,9 @@
     "code": "fancygothicchairred",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
+"attributes": {
+		"handbook": { groupBy: ["fancygothicchairred-*"] }
+},
     "variantgroups": [
         {
             "code": "wood",

@@ -4,6 +4,9 @@
     "entityClass": "Shelf",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }} ],
+    "attributes": {
+			"handbook": { groupBy: ["stoneshelf-*"] }
+},
     "variantgroups": [
 	        {
             "code": "stone",
