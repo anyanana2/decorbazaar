@@ -1,24 +1,69 @@
 {
     "code": "tallcandelabra",
     "storageFlags": 257,
-    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-    "shape": {
-        "base": "block/lamps/tallcandelabra",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
         }
     },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [
+        {
+            "code": "metal",
+            "states": [
+                "bismuth",
+                "bismuthbronze",
+                "blackbronze",
+                "brass",
+                "copper",
+                "gold",
+                "iron",
+                "lead",
+                "meteoriciron",
+                "nickel",
+                "silver",
+                "steel",
+                "tin",
+		"tinbronze"
+            ]
+        },
+		{
+			"code": "type",
+			"states": ["normal"]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/lamps/tallcandelabra", rotateY: 0 },
+         "*-east": { base: "block/lamps/tallcandelabra", rotateY: 270 },
+         "*-south": { base: "block/lamps/tallcandelabra", rotateY: 180 },
+         "*-west": { base: "block/lamps/tallcandelabra", rotateY: 90 }
+     },
     "blockmaterial": "Metal",
     "sidesolid": {
         "all": "false"
     },
     "sideopaque": {
         "all": "false"
+    },
+	    "texturesByType": {
+        "*": {
+            "metal": {
+                "base": "game:block/metal/ingot/{metal}"
+            },
+        }
     },
     "drawtype": "json",
     "resistance": 1.0,
@@ -28,6 +73,8 @@
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
+	collisionBox: { x1: 0.25, y1: 0, z1: 0.25, x2: 0.75, y2: 0.6875, z2: 0.75 },
+	selectionBox: { x1: 0.25, y1: 0, z1: 0.25, x2: 0.75, y2: 0.6875, z2: 0.75 },
 	guiTransform: {
 		rotation: { x: -22.6, y: 147, z: 0 }
 	}

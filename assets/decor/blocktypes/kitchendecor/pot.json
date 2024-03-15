@@ -26,7 +26,8 @@
 		"burned": { base: "game:block/clay/vessel/sides/burned" }
 	},
     "resistance": 3.5,
-    "selectionBox": { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.4375, z2: 1 },
+	collisionBox: { x1: 0.1875, y1: 0, z1: 0.1875, x2: 0.8125, y2: 0.25, z2: 0.8125 },
+	selectionBox: { x1: 0.1875, y1: 0, z1: 0.1875, x2: 0.8125, y2: 0.25, z2: 0.8125 },
 
     "sounds": {
         "place": "game:block/planks",

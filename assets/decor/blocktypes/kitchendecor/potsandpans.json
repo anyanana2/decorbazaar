@@ -29,12 +29,21 @@
 		"1": { "base": "game:block/metal/ingot/lead" }
 	},
     "resistance": 3.5,
+
     "sounds": {
         "place": "game:block/stone",
         "walk": "game:walk/stone"
     },
+    "collisionBox": { 
+			x1: -0.0624, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.125,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
     "selectionBox": { 
-			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
+			x1: -0.0624, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.125,
 			rotateYByType: {
 			"*-east": 270,
 			"*-west": 90,

@@ -19,6 +19,7 @@
     "sideopaque": {
         "all": "false"
     },
+	collisionbox: null,
   "lightAbsorption": 0,
     "drawtype": "json",
 	"textures": {

@@ -20,6 +20,7 @@
     "sideopaque": {
         "all": "false"
     },
+	collisionbox: null,
     "drawtype": "json",
 	"textures": {
 		"houseonthehill": { "base": "block/bazaar/paintings/houseonthehill" },

@@ -1,12 +1,12 @@
 [
 	{
-		ingredientPattern: "G,A",
+		ingredientPattern: "_A_,GGG",
 	   	ingredients: {
-	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
 	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 1 },
 	   	},
-	   	width: 2,
-	   	height: 1,
+	   	width: 3,
+	   	height: 2,
 	   	output: { type: "block", code: "decor:decoshelf-{wood}-north", quantity: 1}
 	}
 ]	

@@ -9,7 +9,7 @@
 			properties: {
 				exchangeStates: ["*-1-*", "*-2-*"],
 				sound: "block/special/click",
-				actionLangCode: "blockhelp-trapdoor-openclose"
+				actionLangCode: "decor:blockhelp-creative-switch"
 			}
 		} ],
 	variantgroups: [

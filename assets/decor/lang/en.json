@@ -1,9 +1,22 @@
 {
   "game:tabname-decorbazaar": "Decor Bazaar",
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
-  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for getting the stoves to function as well as the bath! Enjoy!
+  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for getting the stoves to function as well as the bath! Thank you to RikeiR for translating to Japanese! Enjoy!
 
 List of Items:
+
+New Ovens!
+These function as ovens, naturally. There are 7 types, 3 free-standing, 3 table top, and one meant to be put in the wall.
+
+To place the free standing ovens, you MUST place a temporary block where you would like to put the oven first. It can be a dirt block. Then you will place the free-standing oven on top of the temporary block, and then destroy the temporary block. Viola! An oven with fancy stuff underneath.
+
+<a href=\"handbooksearch://iron oven\">Iron Oven</a> is build to be placed in a wall.
+<a href=\"handbooksearch://stone oven\">Stone Oven</a> is a free-standing oven (see note above!).
+<a href=\"handbooksearch://oven with glass\">Oven with Glass</a> is a free-standing oven (see note above!).
+<a href=\"handbooksearch://fancy oven with glass\">Fancy Oven with Glass</a> is a free-standing oven (see note above!).
+<a href=\"handbooksearch://table stone oven\">Table Stone Oven</a>
+<a href=\"handbooksearch://table oven with glass\">Table Oven with Glass</a>
+<a href=\"handbooksearch://fancy table oven with glass\">Fancy Table Oven with Glass</a>
 
 
 Stoves: These stoves currently function as ovens, though not visually. You can still see what is cooking by looking at the UI. 
@@ -22,6 +35,7 @@ Bathroom Decor:
 <a href=\"handbooksearch://Washing Tub\">Washing Tub</a>
 <a href=\"handbooksearch://Linen Basket\">Linen Basket</a>
 <a href=\"handbooksearch://Clothes Line\">Clothes Line</a>
+<a href=\"handbooksearch://towel rack\">Towel Rack</a>
 
 
 Carpets:
@@ -45,6 +59,8 @@ Tables:
 
 
 Kitchen:
+All of the cabinet variants now have inner or corner types for those of you who want L shaped kitchens!
+
 <a href=\"handbooksearch://Left Cabinet\">Left Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Right Cabinet\">Right Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Left Upper Cabinet\">Left Upper Cabinet</a> has storage slots.
@@ -52,6 +68,8 @@ Kitchen:
 <a href=\"handbooksearch://Open Cabinet\">Open Cabinet</a>
 <a href=\"handbooksearch://stone Sink\">Stone Sinks</a>
 <a href=\"handbooksearch://wood Sink\">Wood Sinks</a>
+
+Double Wood & Stone sinks as well as the bald cypress sink now are able to contain water! To do this, you must place the water block, or empty a bucket, in the place you want to put the sink. The, you place the sink on top of where the water is flowing. If done correctly, it should stop overflowing and be completely contained within the sink. Infinite sink water!
 
 <a href=\"handbooksearch://Stone Cabinet\">Stone Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Stone Drawer\">Stone Drawer & Island</a> has storage slots.
@@ -79,9 +97,11 @@ Kitchen:
 <a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
 <a href=\"handbooksearch://compost bin\">Compost Bin</a> should accelerate rot.
 <a href=\"handbooksearch://Herb Rack\">Herb Rack</a>
+<a href=\"handbooksearch://cooking clutter\">Cooking Clutter</a> : right click to change variant.
+<a href=\"handbooksearch://forraging clutter\">Forraging Clutter</a> : right click to change variant (more variants coming soon).
 
 Lamps:
-All Lamps are functional. 
+All Lamps are functional. Candelabras now have aged variant as well as most metal variants. 
 <a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> Right click to change type.
 <a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> 
 <a href=\"handbooksearch://Goth Lamp\">Goth Lamp</a> 
@@ -115,7 +135,7 @@ Curtains:
 
 Random Stuff:
 <a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
-<a href=\"handbooksearch://wooden shelf\">Wooden Shelf</a> : right click to change.
+<a href=\"handbooksearch://wooden shelf\">Wooden Shelf</a> : right click to change variant.
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
 <a href=\"handbooksearch://cartographer map\">Cartographer Map</a>
 <a href=\"handbooksearch://Sewing Shelf\">Sewing Shelf</a>
@@ -125,6 +145,9 @@ Random Stuff:
 <a href=\"handbooksearch://Brass Candle Shelf\">Brass Candle Shelf</a>
 <a href=\"handbooksearch://Mushroom Cloche\">Brass Mushroom Cloche</a>
 <a href=\"handbooksearch://Pile of Letters\">Pile of Letters</a>
+<a href=\"handbooksearch://sewing shelf\">Sewing Shelf</a> has storage.
+<a href=\"handbooksearch://twine storage\">Twine Storage</a> has storage.
+<a href=\"handbooksearch://grave\">Graves</a> : right click to change variant. 
 
 
 Tile Blocks:
@@ -157,7 +180,7 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
 
   // Creative Mode switching variants //
 
-  "blockhelp-creative-switch": "Switch variants",
+  "blockhelp-creative-switch": "Right click me!",
 
 
   "block-bazaarceramicblock-beige*": "Beige Tile",
@@ -2310,8 +2333,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
 
   "block-victorianloungechair-*": "Victorian Lounge Chair",
 
-  "block-tallcandelabra-*": "Tall Candelabra",
-  "block-tablecandelabra-*": "Table Candelabra",
+  "block-agedtallcandelabra-*": "Aged Tall Candelabra",
+  "block-agedtablecandelabra-*": "Aged Table Candelabra",
   "block-gothlamp-*": "Goth Lamp",
   "block-sewingshelf-*": "Sewing Shelf",
   "block-twinestorage-*": "Twine Storage",
@@ -2567,6 +2590,49 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-grave-2-*": "Grave",
 
   "block-purplebed-*": "Purple Bed",
+
+// candelabra variants //
+
+  "block-tallcandelabra-bismuth-*": "Bismuth Tall Candelabra",
+  "block-tallcandelabra-bismuthbronze-*": "Bismuth Bronze Tall Candelabra",
+  "block-tallcandelabra-blackbronze-*": "Black Bronze Tall Candelabra",
+  "block-tallcandelabra-brass-*": "Brass Tall Candelabra",
+  "block-tallcandelabra-copper-*": "Copper Tall Candelabra",
+  "block-tallcandelabra-gold-*": "Gold Tall Candelabra",
+  "block-tallcandelabra-iron-*": "Iron Tall Candelabra",
+  "block-tallcandelabra-lead-*": "Lead Tall Candelabra",
+  "block-tallcandelabra-meteoriciron-*": "Meteoric Iron Tall Candelabra",
+  "block-tallcandelabra-nickel-*": "Nickel Tall Candelabra",
+  "block-tallcandelabra-silver-*": "Silver Tall Candelabra",
+  "block-tallcandelabra-steel-*": "Steel Tall Candelabra",
+  "block-tallcandelabra-tin-*": "Tin Tall Candelabra",
+  "block-tallcandelabra-tinbronze-*": "Tin Bronze Tall Candelabra",
+
+  "block-tablecandelabra-bismuth-*": "Bismuth Table Candelabra",
+  "block-tablecandelabra-bismuthbronze-*": "Bismuth Bronze Table Candelabra",
+  "block-tablecandelabra-blackbronze-*": "Black Bronze Table Candelabra",
+  "block-tablecandelabra-brass-*": "Brass Table Candelabra",
+  "block-tablecandelabra-copper-*": "Copper Table Candelabra",
+  "block-tablecandelabra-gold-*": "Gold Table Candelabra",
+  "block-tablecandelabra-iron-*": "Iron Table Candelabra",
+  "block-tablecandelabra-lead-*": "Lead Table Candelabra",
+  "block-tablecandelabra-meteoriciron-*": "Meteoric Iron Table Candelabra",
+  "block-tablecandelabra-nickel-*": "Nickel Table Candelabra",
+  "block-tablecandelabra-silver-*": "Silver Table Candelabra",
+  "block-tablecandelabra-steel-*": "Steel Table Candelabra",
+  "block-tablecandelabra-tin-*": "Tin Table Candelabra",
+  "block-tablecandelabra-tinbronze-*": "Tin Bronze Table Candelabra",
+
+// clutter variants //
+
+  "block-cookingclutter-1-*": "Cooking Clutter",
+  "block-cookingclutter-2-*": "Cooking Clutter",
+  "block-cookingclutter-3-*": "Cooking Clutter",
+  "block-cookingclutter-4-*": "Cooking Clutter",
+  "block-cookingclutter-5-*": "Cooking Clutter",
+  "block-cookingclutter-6-*": "Cooking Clutter",
+
+  "block-forragingclutter-1-*": "Forraging Clutter",
 
 
 }

@@ -26,6 +26,8 @@
 		"basket": { "base": "game:item/bag/basket/basket" }
 	},
     "resistance": 3.5,
+	collisionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.875, y2: 0.4375, z2: 0.875 },
+	selectionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.875, y2: 0.4375, z2: 0.875 },
     "sounds": {
         "place": "game:block/planks",
         "walk": "game:walk/stone"

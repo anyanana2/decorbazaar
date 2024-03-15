@@ -31,14 +31,31 @@
 		inventoryClassName: "chest",
 		"handbook": { groupBy: ["compostbin-*"] },
 		dialogTitleLangCode: "vesselcontents",
+		defaultType: "normal",
+		types: ["normal"],
 		"quantitySlots": "12",
-		"dialogTitleLangCode": "Compost Bin",
-		spoilSpeedMulByFoodCat: 
-			{
-				"vegetable": 5.0,
-				"grain": 5.0
+		drop: {
+			"normal": true
+		},
+		quantitySlots: {
+			"normal": 12
+		},
+		dialogTitleLangCode: {
+			"normal": "vesselcontents"
+		},
+		storageType: {
+			"normal": 32
+		},
+		retrieveOnly: {
+			"normal": false
+		},
+		spoilSpeedMulByFoodCat: {
+			"normal": {
+				"vegetable": 2.0,
+				"grain": 2.0
 			}
 		},
+},
 shapeByType: {
 
          "*-north": { base: "block/gardendecor/compostbin", rotateY: 0 },

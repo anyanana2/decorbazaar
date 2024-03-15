@@ -26,8 +26,16 @@
 		"bazaarbaldcypress": { base: "block/bazaar/wood/planks/bazaarbaldcypress" }
 	},
     "resistance": 3.5,
+    "collisionBox": { 
+			x1: 0.125, y1: 0, z1: 0.5, x2: 0.875, y2: 0.875, z2: 0.625,
+			rotateYByType: {
+			"*-east": 90,
+			"*-west": 90,
+			"*-south": 0
+			}
+},
     "selectionBox": { 
-			x1: 0.125, y1: 0, z1: 0.25, x2: 0.875, y2: 0.9375, z2: 0.625,
+			x1: 0.125, y1: 0, z1: 0.5, x2: 0.875, y2: 0.875, z2: 0.625,
 			rotateYByType: {
 			"*-east": 90,
 			"*-west": 90,

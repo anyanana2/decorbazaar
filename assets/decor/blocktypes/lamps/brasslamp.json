@@ -33,6 +33,10 @@
 		"candle": { "base": "game:block/candle" },
 		"vintage": { "base": "game:block/glass/vintage" }
 	},
+	selectionBoxByType: { 
+		"*-1-*": { x1: 0.25, y1: 0, z1: 0.25, x2: 0.75, y2: 0.5625, z2: 0.75 },
+		"*-2-*": { x1: 0.25, y1: 0, z1: 0.25, x2: 0.75, y2: 0.5, z2: 0.75 }
+},
     "resistance": 1.0,
     "lightAbsorption": 0,
     "lightHsv": [7, 3, 18],

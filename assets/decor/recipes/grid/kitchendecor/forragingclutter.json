@@ -1,0 +1,14 @@
+[
+	{
+		ingredientPattern: "_C_,_C_,TBP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:bandage-clean", quantity: 1 },
+	   	"T": { type: "item", code: "game:vegetable-turnip", quantity: 2 },
+	   	"C": { type: "item", code: "game:vegetable-carrot", quantity: 2 },
+	   	"B": { type: "item", code: "game:backpack", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:forragingclutter-1-north" }
+	}
+]

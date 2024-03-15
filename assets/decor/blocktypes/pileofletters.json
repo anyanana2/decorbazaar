@@ -17,6 +17,7 @@
     "sidesolid": {
         "all": "false"
     },
+	collisionbox: null,
     "sideopaque": {
         "all": "false"
     },

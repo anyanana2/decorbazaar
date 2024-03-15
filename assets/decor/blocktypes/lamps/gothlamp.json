@@ -35,6 +35,8 @@
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
+	collisionBox: { x1: 0.3125, y1: 0, z1: 0.25, x2: 0.6875, y2: 1, z2: 0.75 },
+	selectionBox: { x1: 0.3125, y1: 0, z1: 0.25, x2: 0.6875, y2: 1, z2: 0.75 },
 	guiTransform: {
 		rotation: { x: -22.6, y: 147, z: 0 }
 	}

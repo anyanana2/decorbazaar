@@ -1,13 +1,28 @@
 [
 	{
-		ingredientPattern: "L,G,R",
+		ingredientPattern: "CCC,_I_",
 	   	ingredients: {
-	   	"L": { type: "item", code: "game:nugget-*", quantity: 4 },
-	   	"G": { type: "item", code: "game:candle", quantity: 2 },
-	   	"R": { type: "item", code: "game:charcoal", quantity: 2 },
+	   	"C": { type: "item", code: "game:candle", quantity: 2 },
+	   	"I": { allowedVariants: [               
+		"bismuth",
+                "bismuthbronze",
+                "blackbronze",
+                "brass",
+                "copper",
+                "gold",
+                "iron",
+                "lead",
+                "meteoriciron",
+                "nickel",
+                "silver",
+                "steel",
+                "tin",
+		"tinbronze"
+		],
+		type: "item", name: "metal", code: "game:ingot-*", quantity: 1 },
 	   	},
-	   	width: 1,
-	   	height: 3,
-	   	output: { type: "block", code: "decor:tablecandelabra-north", quantity: 1 }
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:tablecandelabra-{metal}-normal-north", quantity: 2 }
 	}
 ]

@@ -20,6 +20,7 @@
     "sideopaque": {
         "all": "false"
     },
+	collisionbox: null,
     "drawtype": "json",
 	"textures": {
 		"lonegrave": { "base": "block/bazaar/paintings/lonegrave" },

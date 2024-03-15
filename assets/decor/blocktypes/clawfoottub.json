@@ -44,6 +44,7 @@
     "place": "game:block/planks",
     "walk": "game:walk/stone"
   },
+	selectionBox: { x1: 0, y1: 0, z1: 0.125, x2: 1, y2: 0.75, z2: 0.875 },
   "liquidSelectable": 1,
   "attributes": {
     "liquidContainerProps": {
