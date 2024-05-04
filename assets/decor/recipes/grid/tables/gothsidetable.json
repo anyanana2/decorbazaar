@@ -1,13 +1,13 @@
 [
 	{
-		ingredientPattern: "P,C,B",
+		ingredientPattern: "CBC,PCP,PPP",
 	   	ingredients: {
-	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
-	   	"C": { type: "item", code: "game:charcoal", quantity: 2 },
-	   	"B": { type: "item", code: "game:beeswax", quantity: 4 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:charcoal", quantity: 1 },
+	   	"B": { type: "item", code: "game:beeswax", quantity: 1 },
 	   	},
 	   	width: 3,
-	   	height: 1,
+	   	height: 3,
 	   	output: { type: "block", code: "decor:sidetablegoth-basalt-1-north", quantity: 1 }
 	}
 ]

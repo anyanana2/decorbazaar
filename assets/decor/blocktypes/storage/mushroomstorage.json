@@ -1,0 +1,63 @@
+{
+    "code": "mushroomstorage",
+    "entityClass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+	"behaviors": [ {"name": "HorizontalOrientable"}, {"name": "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }, {"name": "Container"}],
+	"attributes": {
+		inventoryClassName: "chest",
+		dialogTitleLangCode: "Mushroom Storage",
+		defaultType: "normal",
+		types: ["normal"],
+		"quantitySlots": "20",
+		drop: {
+			"normal": true
+		},
+		quantitySlots: {
+			"normal": 20
+		},
+		dialogTitleLangCode: {
+			"normal": "vesselcontents"
+		},
+		storageType: {
+			"normal": 32
+		},
+		retrieveOnly: {
+			"normal": false
+		},
+		spoilSpeedMulByFoodCat: {
+			"normal": {
+				"vegetable": 0.2,
+				"grain": 0.1
+			}
+		},
+},
+    "shape": {
+        "base": "block/kitchendecor/clutter/forragingclutter-2",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/stone",
+        "walk": "game:walk/stone"
+    },
+	selectionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.8125, y2: 0.5, z2: 0.875 },
+	collisionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.8125, y2: 0.5, z2: 0.875 },
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	},
+}

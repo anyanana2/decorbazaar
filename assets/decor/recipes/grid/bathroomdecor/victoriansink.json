@@ -1,12 +1,12 @@
 [
 	{
-		ingredientPattern: "F,N",
+		ingredientPattern: "FFF,_N_,_F_",
 	   	ingredients: {
 	   	"F": { type: "item", code: "game:flint", quantity: 1 },
 	   	"N": { type: "item", code: "game:nugget-nativecopper", quantity: 1 },
 	   	},
-	   	width: 1,
-	   	height: 2,
+	   	width: 3,
+	   	height: 3,
 	   	output: { type: "block", code: "decor:victoriansink-north", quantity: 1 }
 	}
 ]

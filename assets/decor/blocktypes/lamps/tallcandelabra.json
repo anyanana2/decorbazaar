@@ -1,6 +1,9 @@
 {
     "code": "tallcandelabra",
     "storageFlags": 257,
+"attributes": {
+		"handbook": { groupBy: ["tallcandelabra-*"] }
+},
     "creativeinventoryByType": {
         "*": {
             "decorative": [

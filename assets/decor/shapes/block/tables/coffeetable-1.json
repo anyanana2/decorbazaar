@@ -11,7 +11,7 @@
 		"6": [32, 48]
 	},
 	"textures": {
-		"wood": "game:block/wood/planks/acacia1",
+		"wood": "block/wood/planks/acacia1",
 		"1": "block/bazaar/ceramic/flowerpot/terracotta",
 		"2": "block/bazaar/ceramic/flowerpot/blueclay",
 		"3": "game:block/clay/flintporcelain/fired",

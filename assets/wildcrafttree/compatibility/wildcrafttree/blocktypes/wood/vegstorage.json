@@ -1,0 +1,89 @@
+{
+    "code": "vegstorage",
+    "entityClass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+"bearnut", 
+"beech", 
+"bluemahoe", 
+"catalpa", 
+"jacaranda", 
+"cedar",
+"dalbergia", 
+"douglasfir", 
+"elm", 
+"eucalyptus", 
+"honeylocust", 
+"mahogany", 
+"poplar", 
+"sal", 
+"saxaul", 
+"spruce", 
+"sycamore", 
+"willow", 
+"yew", 
+"chlorociboria", 
+"petrified", 
+"empresstree", 
+"guajacum", 
+"umnini", 
+"banyan", 
+"ginkgo", 
+"tuja", 
+"kauri", 
+"ghostgum", 
+"ohia"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+	attributes: {
+		inventoryClassName: "chest",
+		"handbook": { groupBy: ["vegstorage-*"] },
+		dialogTitleLangCode: "Vegetable Storage",
+		"quantitySlots": "12",
+		spoilSpeedMulByFoodCat: 
+			{
+				"vegetable": 0.1,
+				"grain": 0.5
+			}
+		},
+shapeByType: {
+
+         "*-north": { base: "decor:block/kitchendecor/vegstorage", rotateY: 0 },
+         "*-east": { base: "decor:block/kitchendecor/vegstorage", rotateY: 270 },
+         "*-south": { base: "decor:block/kitchendecor/vegstorage", rotateY: 180 },
+         "*-west": { base: "decor:block/kitchendecor/vegstorage", rotateY: 90 }
+     },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "wildcrafttree:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 1.0,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 148, z: 0 }
+	}
+}

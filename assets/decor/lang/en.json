@@ -132,6 +132,7 @@ Garden Decor:
 Curtains:
 <a href=\"handbooksearch://curtain\">Curtains</a> work where you right click to change whether you want the top (with the rod), middle, or bottom variant to be expressed for each block. There are currently a plain type and a fancy type. The color variants are: black, blue, brown, gray, green, orange, pink, plain, purple, red, white, and yellow. 
 
+Mail Boxes: <a href=\"handbooksearch://garden sign\">Mail Boxes</a> are just decorative. 
 
 Random Stuff:
 <a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
@@ -217,7 +218,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-opencabinet-*": "Open Cabinet",
   "block-sink-*": "Sink (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
-  "block-brasslamp-*": "Brass Lamp",
   "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
   "block-flowerbed-*": "Flower Bed",
@@ -2633,6 +2633,16 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-cookingclutter-6-*": "Cooking Clutter",
 
   "block-forragingclutter-1-*": "Forraging Clutter",
+  "block-forragingclutter-2-*": "Forraging Clutter",
 
+  "block-bonestorage-*": "Bone Storage",
+  "block-fatstorage-*": "Fat Storage",
+  "block-mushroomstorage-*": "Mushroom Storage",
+  "block-honeystorage-*": "Honey Storage",
+
+  "block-ironpostbox-*": "Iron Mail Box",
+  "block-barrelmailbox-*": "Barrel Mail Box",
+  "block-mailboxbrass-*": "Brass Mail Box",
+  "block-primitivemailbox-*": "Primitive Mail Box",
 
 }

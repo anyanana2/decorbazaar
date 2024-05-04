@@ -10,5 +10,17 @@
 	   	width: 3,
 	   	height: 3,
 	   	output: { type: "block", code: "decor:forragingclutter-1-north" }
+	},
+	{
+		ingredientPattern: "TTT,TTT,TBT",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:basket", quantity: 1 },
+	   	"T": { type: "block", code: "game:mushroom-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:forragingclutter-2-north" }
 	}
+	
 ]
+

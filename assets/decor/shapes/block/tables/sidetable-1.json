@@ -13,7 +13,7 @@
 		"mat": "game:block/clay/ceramic",
 		"plain": "game:block/glass/quartz",
 		"brass": "game:block/metal/plate/brass",
-		"wood": "game:block/wood/planks/rottenebony1",
+		"wood": "block/wood/planks/rottenebony1",
 		"book": "game:item/lore/book"
 	},
 	"elements": [

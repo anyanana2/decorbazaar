@@ -1,0 +1,79 @@
+{
+    "code": "stool",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+"attributes": {
+		"handbook": { groupBy: ["stool-*"] }
+},
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+"bearnut", 
+"beech", 
+"bluemahoe", 
+"catalpa", 
+"jacaranda", 
+"cedar",
+"dalbergia", 
+"douglasfir", 
+"elm", 
+"eucalyptus", 
+"honeylocust", 
+"mahogany", 
+"poplar", 
+"sal", 
+"saxaul", 
+"spruce", 
+"sycamore", 
+"willow", 
+"yew", 
+"chlorociboria", 
+"petrified", 
+"empresstree", 
+"guajacum", 
+"umnini", 
+"banyan", 
+"ginkgo", 
+"tuja", 
+"kauri", 
+"ghostgum", 
+"ohia"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "decor:block/seating/stool", rotateY: 0 },
+         "*-east": { base: "decor:block/seating/stool", rotateY: 270 },
+         "*-south": { base: "decor:block/seating/stool", rotateY: 180 },
+         "*-west": { base: "decor:block/seating/stool", rotateY: 90 }
+     },
+    "blockmaterial": "wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "wildcrafttree:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "collisionBox": { x1: 0.125, y1: 0, z1: 0.125, x2: 0.875, y2: 0.6875, z2: 0.875 },
+    "selectionBox": { x1: 0.125, y1: 0, z1: 0.125, x2: 0.875, y2: 0.6875, z2: 0.875 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

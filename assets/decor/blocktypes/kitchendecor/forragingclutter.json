@@ -7,13 +7,13 @@
 		{
 			name: "ExchangeOnInteract",
 			properties: {
-				exchangeStates: ["*-1-*"],
+				exchangeStates: ["*-1-*", "*-2-*"],
 				sound: "block/special/click",
 				actionLangCode: "decor:blockhelp-creative-switch"
 			}
 		} ],
 	variantgroups: [
-		{ code:"state", states: ["1"] },
+		{ code:"state", states: ["1", "2"] },
 		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
 	],
 	shapeByType: {

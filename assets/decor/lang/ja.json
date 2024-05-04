@@ -1,10 +1,22 @@
 {
   "game:tabname-decorbazaar": "装飾バザー",
   "game:decorbazaar-quickstart-title": "装飾バザー（Decor Bazaar）",
-  "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。Discordの@EightTonnesOfCrabさん、お風呂だけでなくコンロも使えるようにしてくれてありがとうございます！お楽しみください！
+  "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。Discordの@EightTonnesOfCrabさん、お風呂だけでなくコンロも使えるようにしてくれてありがとうございます！日本語に翻訳してくれたRikeiRさんに感謝します！お楽しみください！
 
 アイテムリスト：
 
+新しいオーブン！
+これらは当然オーブンとして機能します。自立型3種、卓上型3種、壁埋め込み型1種の計7タイプあります。
+
+自立型オーブンを置くには、まずオーブンを置きたい場所に仮のブロックを置く必要があります。土のブロックでもかまいません。その後、仮ブロックの上に自立型オーブンを置き、仮ブロックを破壊します。じゃじゃーん！ 下に豪華なものが付いたオーブンです。
+
+<a href=\"handbooksearch://鉄のオーブン\">鉄のオーブン</a>は壁に設置するように作られています。
+<a href=\"handbooksearch://石のオーブン\">石のオーブン</a>は自立型オーブンです (上記の注を参照してください！)。
+<a href=\"handbooksearch://ガラス付きオーブン\">ガラス付きオーブン</a>は自立型オーブンです (上記の注を参照してください！)。
+<a href=\"handbooksearch://ガラス付きファンシーオーブン\">ガラス付きファンシーオーブン</a>は自立型オーブンです (上記の注を参照してください！)。
+<a href=\"handbooksearch://石の卓上オーブン\">石の卓上オーブン</a>
+<a href=\"handbooksearch://ガラス付き卓上オーブン\">ガラス付き卓上オーブン</a>
+<a href=\"handbooksearch://ガラス付きファンシー卓上オーブン\">ガラス付きファンシー卓上オーブン</a>
 
 コンロ：これらのコンロは現在オーブンとして機能していますが、視覚的には機能していません。UIを見ることで、何が調理されているかを確認できます。
 <a href=\"handbooksearch://石のコンロ\">石のコンロ</a>
@@ -22,6 +34,7 @@
 <a href=\"handbooksearch://洗濯槽\">洗濯槽</a>
 <a href=\"handbooksearch://リネンバスケット\">リネンバスケット</a>
 <a href=\"handbooksearch://物干し竿\">物干し竿</a>
+<a href=\"handbooksearch://towel rack\">タオル掛け</a>
 
 
 カーペット：
@@ -54,6 +67,8 @@
 <a href=\"handbooksearch://石のシンク\">石のシンク</a>
 <a href=\"handbooksearch://木のシンク\">木のシンク</a>
 
+木と石のダブルシンクもヌマスギのシンクと同様に水を入れることができるようになりました！ シンクを置きたい場所に水ブロックを置くか、バケツを空にします。そして、水が流れる場所の上にシンクを置きます。うまくいけば水は溢れなくなり、シンク内に完全に収まるはずです。 シンクの水は無限です！
+
 <a href=\"handbooksearch://石のキャビネット\">石のキャビネットとアイランド</a>：収納スロットがあります。
 <a href=\"handbooksearch://石の引き出し\">石の引き出しとアイランド</a>：収納スロットがあります。
 <a href=\"handbooksearch://石のキャビネット上部\">石のキャビネット上部</a>：収納スロットがあります。
@@ -80,14 +95,16 @@
 <a href=\"handbooksearch://パンの箱\">パンの箱</a>には収納スロットがあり、食品を保存できます。
 <a href=\"handbooksearch://堆肥箱\">堆肥箱</a>は腐敗を促進します。
 <a href=\"handbooksearch://ハーブラック\">ハーブラック</a>
+<a href=\"handbooksearch://料理の散乱物\">料理の散乱物</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://狩猟採集の散乱物\">狩猟採集の散乱物</a>：右クリックで種類が変わります！ (近日中にバリエーションを増やす予定です）
 
 ランプ：
-すべてのランプは機能します！ 
+すべてのランプは機能します！ 燭台には、他の金属製と同様に、古びたバージョンも追加されました。
 <a href=\"handbooksearch://真鍮のランプ\">真鍮のランプ</a>：右クリックで種類が変わります！
 <a href=\"handbooksearch://真鍮の燭台\">真鍮の燭台</a> 
 <a href=\"handbooksearch://ゴシックランプ\">ゴシックランプ</a> 
 <a href=\"handbooksearch://背の高い燭台\">背の高い燭台</a> 
-<a href=\"handbooksearch://テーブル燭台\">テーブル燭台</a> 
+<a href=\"handbooksearch://卓上燭台\">卓上燭台</a> 
 
 イス：
 <a href=\"handbooksearch://コテージコアスツール（ヌマスギ）\">コテージコアスツール（ヌマスギ）</a>
@@ -127,6 +144,10 @@
 <a href=\"handbooksearch://真鍮のロウソク棚\">真鍮のロウソク棚</a>
 <a href=\"handbooksearch://キノコのクローシュ\">キノコのクローシュ</a>
 <a href=\"handbooksearch://手紙の山\">手紙の山</a>
+<a href=\"handbooksearch://裁縫棚\">裁縫棚</a>には収納スロットがあります。
+<a href=\"handbooksearch://麻ひも収納庫\">麻ひも収納庫</a>には収納スロットがあります。
+<a href=\"handbooksearch://墓碑\">墓碑</a>：右クリックで種類が変わります！
+
 
 タイルブロック：
 <a href=\"handbooksearch://ベージュのタイル\">ベージュのタイル</a>
@@ -158,7 +179,7 @@
 
   // クリエイティブモードの切り替えバリエーション //
 
-  "blockhelp-creative-switch": "バリエーション切り替え",
+  "blockhelp-creative-switch": "右クリックしてください！",
 
 
   "block-bazaarceramicblock-beige*": "ベージュのタイル",
@@ -2311,8 +2332,8 @@
 
   "block-victorianloungechair-*": "ビクトリア朝風のラウンジチェア",
 
-  "block-tallcandelabra-*": "背の高い燭台",
-  "block-tablecandelabra-*": "テーブル燭台",
+  "block-tallcandelabra-*": "古びた背の高い燭台",
+  "block-tablecandelabra-*": "古びた卓上燭台",
   "block-gothlamp-*": "ゴシックランプ",
   "block-sewingshelf-*": "裁縫棚",
   "block-twinestorage-*": "より糸収納庫",
@@ -2568,6 +2589,50 @@
   "block-grave-2-*": "墓碑",
 
   "block-purplebed-*": "紫色のベッド",
+
+//  燭台のバリエーション //
+
+  "block-tallcandelabra-bismuth-*": "背の高い燭台（ビスマス）",
+  "block-tallcandelabra-bismuthbronze-*": "背の高い燭台（ビスマス青銅）",
+  "block-tallcandelabra-blackbronze-*": "背の高い燭台（黒青銅）",
+  "block-tallcandelabra-brass-*": "背の高い燭台（真鍮）",
+  "block-tallcandelabra-copper-*": "背の高い燭台（銅）",
+  "block-tallcandelabra-gold-*": "背の高い燭台（金）",
+  "block-tallcandelabra-iron-*": "背の高い燭台（鉄）",
+  "block-tallcandelabra-lead-*": "背の高い燭台（鉛）",
+  "block-tallcandelabra-meteoriciron-*": "背の高い燭台（隕鉄）",
+  "block-tallcandelabra-nickel-*": "背の高い燭台（ニッケル）",
+  "block-tallcandelabra-silver-*": "背の高い燭台（銀）",
+  "block-tallcandelabra-steel-*": "背の高い燭台（鋼鉄）",
+  "block-tallcandelabra-tin-*": "背の高い燭台（スズ）",
+  "block-tallcandelabra-tinbronze-*": "背の高い燭台（スズ青銅）",
+
+  "block-tablecandelabra-bismuth-*": "卓上燭台（ビスマス）",
+  "block-tablecandelabra-bismuthbronze-*": "卓上燭台（ビスマス青銅）",
+  "block-tablecandelabra-blackbronze-*": "卓上燭台（黒青銅）",
+  "block-tablecandelabra-brass-*": "卓上燭台（真鍮）",
+  "block-tablecandelabra-copper-*": "卓上燭台（銅）",
+  "block-tablecandelabra-gold-*": "卓上燭台（金）",
+  "block-tablecandelabra-iron-*": "卓上燭台（鉄）",
+  "block-tablecandelabra-lead-*": "卓上燭台（鉛）",
+  "block-tablecandelabra-meteoriciron-*": "卓上燭台（隕鉄）",
+  "block-tablecandelabra-nickel-*": "卓上燭台（ニッケル）",
+  "block-tablecandelabra-silver-*": "卓上燭台（銀）",
+  "block-tablecandelabra-steel-*": "卓上燭台（鋼鉄）",
+  "block-tablecandelabra-tin-*": "卓上燭台（スズ）",
+  "block-tablecandelabra-tinbronze-*": "卓上燭台（スズ青銅）",
+
+// 散乱物のバリエーション //
+
+  "block-cookingclutter-1-*": "料理の散乱物\",
+  "block-cookingclutter-2-*": "料理の散乱物\",
+  "block-cookingclutter-3-*": "料理の散乱物\",
+  "block-cookingclutter-4-*": "料理の散乱物\",
+  "block-cookingclutter-5-*": "料理の散乱物\",
+  "block-cookingclutter-6-*": "料理の散乱物\",
+
+  "block-forragingclutter-1-*": "狩猟採集の散乱物",
+  "block-forragingclutter-2-*": "狩猟採集の散乱物",
 
 
 }

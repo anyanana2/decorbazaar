@@ -1,6 +1,6 @@
 [
 	{
-		"ingredientPattern": "B,G,P",
+		"ingredientPattern": "BG_,PPP",
 	   	"ingredients": {
 	   	"B": { "allowedVariants": [
 				"copper", 
@@ -35,8 +35,8 @@
 		"type": "item", "name": "wood", "code": "game:plank-*", "quantity": 2 
 	   	},
 	},
-	   	"width": 1,
-	   	"height": 3,
+	   	"width": 3,
+	   	"height": 2,
 	   	"output": { "type": "block", "code": "decor:doublewoodsink-{wood}-{metal}-north", "quantity": 1 }
 	}
 ]

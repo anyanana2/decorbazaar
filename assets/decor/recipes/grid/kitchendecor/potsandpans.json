@@ -3,7 +3,7 @@
 		ingredientPattern: "S,I",
 	   	ingredients: {
 	   	"S": { type: "item", code: "game:stick", quantity: 1 },
-	   	"I": { type: "item", code: "game:nugget-*", quantity: 8 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 1 },
 	   	},
 	   	width: 1,
 	   	height: 2,

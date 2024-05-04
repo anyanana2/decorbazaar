@@ -1,6 +1,6 @@
 [
 	{
-		"ingredientPattern": "B,G,P",
+		"ingredientPattern": "_BG,PPP",
 	   	"ingredients": {
 	   	"B": { "allowedVariants": [
 				"copper", 
@@ -34,8 +34,8 @@
 	   	"P": { "type": "item", "code": "game:stone-slate", "quantity": 2 },
 	   	
 	},
-	   	"width": 1,
-	   	"height": 3,
+	   	"width": 3,
+	   	"height": 2,
 	   	"output": { "type": "block", "code": "decor:doublestonesink-slate-{metal}-north", "quantity": 1 }
 	}
 ]

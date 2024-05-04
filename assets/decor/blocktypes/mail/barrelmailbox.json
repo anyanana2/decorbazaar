@@ -1,0 +1,41 @@
+{
+    "code": "barrelmailbox",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": "12",
+		"dialogTitleLangCode": "Mail"
+	},
+    "shape": {
+        "base": "block/mail/barrelmailbox",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false",
+	"up": "true"
+    },
+    "sideopaque": {
+        "all": "false",
+	"up": "true"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+    "materialDensity": 400,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 152, z: 0 }
+	},
+}

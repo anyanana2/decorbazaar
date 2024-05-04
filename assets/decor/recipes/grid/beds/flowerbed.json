@@ -1,12 +1,13 @@
 [
 	{
-		ingredientPattern: "F,C",
+		ingredientPattern: "PPP,FCF,PPP",
 	   	ingredients: {
-	   	"F": { type: "item", code: "game:plank-*", quantity: 2 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
 	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	"F": { type: "Block", code: "game:flower-*", quantity: 1 },
 	   	},
-	   	width: 1,
-	   	height: 2,
+	   	width: 3,
+	   	height: 3,
 	   	output: { type: "block", code: "decor:flowerbed-flower-head-north", quantity: 1 }
 	}
 ]

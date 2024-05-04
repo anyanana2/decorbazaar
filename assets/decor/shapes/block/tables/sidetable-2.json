@@ -10,7 +10,7 @@
 	},
 	"textures": {
 		"candle": "game:block/candle",
-		"wood": "game:block/wood/planks/rottenebony1"
+		"wood": "block/wood/planks/rottenebony1"
 	},
 	"elements": [
 		{

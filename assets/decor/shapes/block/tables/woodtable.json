@@ -6,7 +6,7 @@
 		"1": [32, 32]
 	},
 	"textures": {
-		"material": "game:block/wood/planks/acacia1",
+		"material": "block/wood/planks/acacia1",
 		"1": "game:block/metal/ingot/lead"
 	},
 	"elements": [

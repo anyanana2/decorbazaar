@@ -13,7 +13,7 @@
 		"plain": "game:block/glass/quartz",
 		"beer": "game:block/liquid/beer",
 		"brass": "game:block/metal/plate/brass",
-		"wood": "game:block/wood/planks/rottenebony1",
+		"wood": "block/wood/planks/rottenebony1",
 		"book1": "game:item/lore/book1",
 		"book2": "game:item/lore/book2",
 		"book3": "game:item/lore/book3",

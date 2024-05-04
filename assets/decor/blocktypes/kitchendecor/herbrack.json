@@ -9,7 +9,7 @@
         }
     ],
     "shape": {
-        "base": "block/kitchendecor/herbrack",
+        "base": "block/kitchendecor/herbrack2",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,

@@ -1,0 +1,135 @@
+{
+	code: "woodenshelf",
+"attributes": {
+		"handbook": { groupBy: ["woodenshelf-*"] }
+},
+	behaviors: [ {name: "HorizontalOrientable"},
+		{
+			name: "ExchangeOnInteract",
+			properties: {
+				exchangeStates: ["*-1-*", "*-2-*"],
+				sound: "block/special/click",
+				actionLangCode: "decor:blockhelp-creative-switch"
+			}
+		} ],
+	variantgroups: [
+	{	
+	            "code": "wood",
+            "states": [
+"bearnut", 
+"beech", 
+"bluemahoe", 
+"catalpa", 
+"jacaranda", 
+"cedar",
+"dalbergia", 
+"douglasfir", 
+"elm", 
+"eucalyptus", 
+"honeylocust", 
+"mahogany", 
+"poplar", 
+"sal", 
+"saxaul", 
+"spruce", 
+"sycamore", 
+"willow", 
+"yew", 
+"chlorociboria", 
+"petrified", 
+"empresstree", 
+"guajacum", 
+"umnini", 
+"banyan", 
+"ginkgo", 
+"tuja", 
+"kauri", 
+"ghostgum", 
+"ohia"
+				]
+	},
+		{ code:"state", states: ["1", "2"] },
+		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+	shapeByType: {
+		"*-north": { base: "decor:block/shelves/woodenshelf-{state}", rotateY: 0 },
+		"*-west": { base: "decor:block/shelves/woodenshelf-{state}", rotateY: 90 },
+		"*-south": { base: "decor:block/shelves/woodenshelf-{state}", rotateY: 180 },
+		"*-east": { base: "decor:block/shelves/woodenshelf-{state}", rotateY: 270 }
+	},
+	creativeinventoryByType: {
+		"*": { "general": ["*-1-north"], "decorative": ["*-1-north"], "decorbazaar": ["*-1-north"] }
+	},
+	blockmaterial: "Wood",
+	replaceable: 900,
+	resistance: 1.5,
+	lightAbsorption: 1,
+	emitSideAo: {all: false },
+	sidesolid: {
+		all: false,
+		up: true
+	},	
+	sideopaque: {
+		all: false
+	},
+	combustibleProps: {
+		burnTemperature: 600,
+		burnDuration: 30,
+	},
+	sounds: {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "wildcrafttree:block/wood/planks/{wood}1"
+            }
+        }
+    },
+	materialDensity: 400,
+	heldTpIdleAnimation: "holdunderarm",
+	selectionboxbytype: {
+		"*":
+		{
+			"x1": 0,
+			"y1": 0.875,
+			"z1": 0,
+			"x2": 1,
+			"y2": 1,
+			"z2": 1,
+			"rotateYByType": {
+				"*-north": 0,
+				"*-east": 270,
+				"*-south": 180,
+				"*-west": 90
+			}
+		}},
+	collisionboxbytype: {
+		"*":
+		{
+			"x1": 0,
+			"y1": 0.875,
+			"z1": 0,
+			"x2": 1,
+			"y2": 1,
+			"z2": 1,
+			"rotateYByType": {
+				"*-north": 0,
+				"*-east": 270,
+				"*-south": 180,
+				"*-west": 90
+			}
+		}},
+		
+		guiTransform: {
+		rotation: { x: -22.6, y: 135, z: 0 }
+	},
+		tpHandTransform: {
+		translation: { x: -0.9, y: -0.7, z: -1 },
+		rotation: { x: 0, y: 0, z: -100 },
+		scale: 0.4
+	}
+}

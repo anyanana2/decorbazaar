@@ -1,0 +1,84 @@
+{
+    "code": "wardrobe",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+"bearnut", 
+"beech", 
+"bluemahoe", 
+"catalpa", 
+"jacaranda", 
+"cedar",
+"dalbergia", 
+"douglasfir", 
+"elm", 
+"eucalyptus", 
+"honeylocust", 
+"mahogany", 
+"poplar", 
+"sal", 
+"saxaul", 
+"spruce", 
+"sycamore", 
+"willow", 
+"yew", 
+"chlorociboria", 
+"petrified", 
+"empresstree", 
+"guajacum", 
+"umnini", 
+"banyan", 
+"ginkgo", 
+"tuja", 
+"kauri", 
+"ghostgum", 
+"ohia"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+"handbook": { groupBy: ["wardrobe-*"] },
+		"quantitySlots": "24",
+		"dialogTitleLangCode": "Closet Storage"
+	},
+shapeByType: {
+
+         "*-north": { base: "decor:block/cabinets/wardrobe", rotateY: 0 },
+         "*-east": { base: "decor:block/cabinets/wardrobe", rotateY: 270 },
+         "*-south": { base: "decor:block/cabinets/wardrobe", rotateY: 180 },
+         "*-west": { base: "decor:block/cabinets/wardrobe", rotateY: 90 }
+     },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "wildcrafttree:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	}
+}

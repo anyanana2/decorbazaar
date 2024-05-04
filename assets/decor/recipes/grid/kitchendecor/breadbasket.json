@@ -1,12 +1,12 @@
 [
 	{
-		ingredientPattern: "B,W",
+		ingredientPattern: "W_W,WBW,WWW",
 	   	ingredients: {
 	   	"B": { type: "item", code: "game:grain-*", quantity: 4 },
-	   	"W": { type: "item", code: "game:cattailtops", quantity: 8 },
+	   	"W": { type: "item", code: "game:cattailtops", quantity: 1 },
 	   	},
-	   	width: 1,
-	   	height: 2,
+	   	width: 3,
+	   	height: 3,
 	   	output: { type: "block", code: "breadbasket-north" }
 	}
 ]

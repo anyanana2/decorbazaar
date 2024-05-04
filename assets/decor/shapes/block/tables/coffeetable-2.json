@@ -22,7 +22,7 @@
 		"4": "game:block/clay/hardened/blue1",
 		"6": "game:block/plant/flower/petal/lupine/orange4-b",
 		"normal1": "game:block/soil/cob/normal1",
-		"wood": "game:block/wood/planks/acacia1"
+		"wood": "block/wood/planks/acacia1"
 	},
 	"elements": [
 		{

@@ -1,0 +1,117 @@
+{
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["leftuppercabinet-*"] },
+        "inventoryClassName": "Cabinet",
+        "quantitySlots": "8"
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalAttachable", properties: {dropBlockFace: "east"}
+        },
+        {
+            "name": "Container"
+        }
+    ],
+    "blockmaterial": "stone",
+    "code": "leftuppercabinet",
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+shapeByType: {
+
+         "*-north": { base: "decor:block/cabinets/leftuppercabinet", rotateY: 0 },
+         "*-east": { base: "decor:block/cabinets/leftuppercabinet", rotateY: 270 },
+         "*-south": { base: "decor:block/cabinets/leftuppercabinet", rotateY: 180 },
+         "*-west": { base: "decor:block/cabinets/leftuppercabinet", rotateY: 90 }
+     },
+    "sideopaque": {
+        "all": "false",
+        "up": "false"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "false"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+    "texturesByType": {
+        "*": {
+            "metal": {
+                "base": "game:block/metal/ingot/copper"
+            },
+            "wood": {
+                "base": "wildcrafttree:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+"bearnut", 
+"beech", 
+"bluemahoe", 
+"catalpa", 
+"jacaranda", 
+"cedar",
+"dalbergia", 
+"douglasfir", 
+"elm", 
+"eucalyptus", 
+"honeylocust", 
+"mahogany", 
+"poplar", 
+"sal", 
+"saxaul", 
+"spruce", 
+"sycamore", 
+"willow", 
+"yew", 
+"chlorociboria", 
+"petrified", 
+"empresstree", 
+"guajacum", 
+"umnini", 
+"banyan", 
+"ginkgo", 
+"tuja", 
+"kauri", 
+"ghostgum", 
+"ohia"
+            ]
+        },
+		{
+			"code": "type",
+			"states": ["normal"]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

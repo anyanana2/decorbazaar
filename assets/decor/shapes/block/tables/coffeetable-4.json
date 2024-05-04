@@ -27,7 +27,7 @@
 		"brass": "game:block/metal/ingot/silver",
 		"orange4-b": "game:block/plant/flower/petal/lupine/orange4-b",
 		"normal12": "game:block/soil/cob/normal1",
-		"wood": "game:block/wood/planks/acacia1",
+		"wood": "block/wood/planks/acacia1",
 		"feather": "game:item/tool/material/feather"
 	},
 	"elements": [

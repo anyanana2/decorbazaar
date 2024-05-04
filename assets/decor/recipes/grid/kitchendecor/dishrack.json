@@ -1,12 +1,12 @@
 [
 	{
-		ingredientPattern: "P,E",
+		ingredientPattern: "P_P,EPE,P_P",
 	   	ingredients: {
-	   	"P": { type: "Block", code: "game:bowl-fired", quantity: 1 },
-	   	"E": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"E": { type: "Block", code: "game:bowl-fired", quantity: 1 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
 	   	},
-	   	width: 1,
-	   	height: 2,
+	   	width: 3,
+	   	height: 3,
 	   	output: { type: "block", code: "dishrack-north" }
 	}
 ]

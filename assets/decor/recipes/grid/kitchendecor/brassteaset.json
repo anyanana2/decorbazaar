@@ -1,13 +1,14 @@
 [
 	{
-		ingredientPattern: "K,C,B",
+		ingredientPattern: "_CC,BCC,_K_",
 	   	ingredients: {
-	   	"K": { type: "item", code: "game:ingot-brass", quantity: 1 },
-	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
-	   	"B": { type: "block", code: "game:bowl-fired", quantity: 2 },
+	   	"K": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-blue", quantity: 1 },
+	   	"B": { type: "block", code: "game:bowl-fired", quantity: 1 },
 	   	},
-	   	width: 1,
+	   	width: 3,
 	   	height: 3,
 	   	output: { type: "block", code: "brassteaset-north" }
 	}
 ]
+

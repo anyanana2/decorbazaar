@@ -1,8 +1,8 @@
 [
 	{
-		ingredientPattern: "T,C",
+		ingredientPattern: "B,C",
 	   	ingredients: {
-	   	"T": { type: "item", code: "game:cattailtops", quantity: 8 },
+	   	"B": { type: "item", code: "game:basket", quantity: 1 },
 	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
 	   	},
 	   	width: 1,
