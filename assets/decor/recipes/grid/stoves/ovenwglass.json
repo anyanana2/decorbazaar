@@ -9,5 +9,16 @@
 	   	width: 3,
 	   	height: 1,
 	   	output: { type: "block", code: "ovenwglass-north" }
+	},
+	{
+		ingredientPattern: "C,W,G",
+	   	ingredients: {
+	   	"C": { type: "block", code: "game:metalplate-*", quantity: 1 },
+	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "ovenwglass-north" }
 	}
 ]

@@ -36,25 +36,15 @@
 				"blackbronze",
 				"brass",
 				"copper",
-				"cupronickel",
-				"electrum",
 				"gold",
 				"iron",
 				"lead",
-				"leadsolder",
 				"meteoriciron",
-				"molybdochalkos",
 				"nickel",
-				"platinum",
 				"silver",
-				"silversolder",
-				"stainlesssteel",
 				"steel",
 				"tin",
-				"tinbronze",
-				"titanium",
-				"uranium",
-				"zinc"
+				"tinbronze"
 				]
 		},
         {

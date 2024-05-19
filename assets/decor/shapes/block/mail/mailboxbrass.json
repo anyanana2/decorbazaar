@@ -8,7 +8,7 @@
 		"3": [32, 32]
 	},
 	"textures": {
-		"0": "block/bazaar/metal/post",
+		"0": "block/bazaar/mail/metal/post",
 		"1": "game:block/metal/ingot/brass",
 		"2": "game:block/metal/ingot/lead",
 		"3": "game:block/clay/hardened/red1"

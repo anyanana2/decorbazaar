@@ -9,5 +9,14 @@
 	   	width: 3,
 	   	height: 3,
 	   	output: { type: "block", code: "ironoven-north" }
+	},
+	{
+		ingredientPattern: "_W_,W_W,_W_",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "ironoven-north" }
 	}
 ]	
