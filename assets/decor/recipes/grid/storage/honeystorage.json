@@ -8,6 +8,6 @@
 	   	},
 	   	width: 3,
 	   	height: 2,
-	   	output: { type: "block", code: "decor:honeystorage-north" }
+	   	output: { type: "block", code: "decor:honeystorage-normal-north" }
 	}
 ]

@@ -36,6 +36,7 @@
         "place": "game:block/planks",
         "walk": "game:walk/stone"
     },
+	selectionBox: { x1: 0.25, y1: 0, z1: 0.25, x2: 0.75, y2: 1, z2: 0.75 },
 	guiTransform: {
 		rotation: { x: -22.6, y: 152, z: 0 }
 	},

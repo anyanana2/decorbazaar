@@ -14,7 +14,7 @@
 		ingredientPattern: "S,M,F",
 	   	ingredients: {
 	   	"S": { type: "item", code: "game:clay-fire", quantity: 6 },
-	   	"M": { type: "block", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	"M": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 		"F": { type: "item", code: "game:firewood", quantity: 4 },
 	   	},
 	   	width: 3,

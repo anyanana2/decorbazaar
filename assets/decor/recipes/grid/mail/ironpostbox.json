@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "WBW,_I_",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "ironpostbox-north" }
+	}
+]

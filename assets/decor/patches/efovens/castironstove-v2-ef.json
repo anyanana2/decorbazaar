@@ -1,9 +1,0 @@
-[
-{
-	"op": "replace",
-	"path": "/class",
-	"value": ExpandedOven,
-	"file": "decor:blocktypes/stoves/castironstove-v2.json",
-	"dependsOn": [{ "modid": "expandedfoods" }]
-}
-]

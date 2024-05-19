@@ -1,6 +1,6 @@
 [	
 	{
-		ingredientPattern: "TW_,TW_,PPP",
+		ingredientPattern: "TW_,TW_,BBB",
 	   	ingredients: {
 	   	"B": { type: "item", code: "game:plank-*", quantity: 1 },
 	   	"T": { type: "item", code: "game:fat", quantity: 1 },
