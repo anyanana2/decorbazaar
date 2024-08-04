@@ -401,20 +401,6 @@
 				"up": { "texture": "#2", "uv": [ 0.0, 0.0, 3.0, 28.0 ], "autoUv": false },
 				"down": { "texture": "#2", "uv": [ 0.0, 0.0, 3.0, 28.0 ], "autoUv": false }
 			}
-		},
-		{
-			"name": "cube23",
-			"from": [ 4.0, 22.0, 5.0 ],
-			"to": [ 12.0, 22.5, 10.0 ],
-			"rotationOrigin": [ 8.0, -4.0, 8.0 ],
-			"faces": {
-				"north": { "texture": "#4", "uv": [ 4.0, 15.0, 26.0, 16.5 ], "autoUv": false },
-				"east": { "texture": "#4", "uv": [ 4.0, 15.0, 23.0, 16.5 ], "autoUv": false },
-				"south": { "texture": "#4", "uv": [ 4.0, 15.0, 26.0, 16.5 ], "autoUv": false },
-				"west": { "texture": "#4", "uv": [ 4.0, 15.0, 23.0, 16.5 ], "autoUv": false },
-				"up": { "texture": "#4", "uv": [ 3.0, 0.0, 26.0, 12.0 ], "autoUv": false },
-				"down": { "texture": "#4", "uv": [ 4.0, 15.0, 26.0, 21.0 ], "autoUv": false }
-			}
 		}
 	],
 	"animations": [

@@ -271,6 +271,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-leftcabinet-ghostgum-*": "Left Cabinet Ghost Gum",
  "block-leftcabinet-ohia-*": "Left Cabinet Ohia",
 
+ "block-leftcabinet-redcedar-*": "Left Cabinet Red Cedar",
+ "block-leftcabinet-satinash-*": "Left Cabinet Satin Ash",
+
   "block-leftuppercabinet-aged-*": "Left Upper Cabinet Aged",
   "block-leftuppercabinet-acacia-*": "Left Upper Cabinet Acacia",
   "block-leftuppercabinet-baldcypress-*": "Left Upper Cabinet Bald Cypress",
@@ -318,6 +321,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-leftuppercabinet-kauri-*": "Left Upper Cabinet Kauri",
  "block-leftuppercabinet-ghostgum-*": "Left Upper Cabinet Ghost Gum",
  "block-leftuppercabinet-ohia-*": "Left Upper Cabinet Ohia",
+
+ "block-leftuppercabinet-redcedar-*": "Left Upper Cabinet Red Cedar",
+ "block-leftuppercabinet-satinash-*": "Left Upper Cabinet Satin Ash",
 
 
   "block-rightcabinet-aged-*": "Right Cabinet Aged",
@@ -368,6 +374,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-rightcabinet-ghostgum-*": "Right Cabinet Ghost Gum",
  "block-rightcabinet-ohia-*": "Right Cabinet Ohia",
 
+ "block-rightcabinet-redcedar-*": "Right Cabinet Red Cedar",
+ "block-rightcabinet-satinash-*": "Right Cabinet Satin Ash",
+
   "block-rightuppercabinet-aged-*": "Right Upper Cabinet Aged",
   "block-rightuppercabinet-acacia-*": "Right Upper Cabinet Acacia",
   "block-rightuppercabinet-baldcypress-*": "Right Upper Cabinet Bald Cypress",
@@ -415,6 +424,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-rightuppercabinet-kauri-*": "Right Upper Cabinet Kauri",
  "block-rightuppercabinet-ghostgum-*": "Right Upper Cabinet Ghost Gum",
  "block-rightuppercabinet-ohia-*": "Right Upper Cabinet Ohia",
+
+ "block-rightuppercabinet-redcedar-*": "Right Upper Cabinet Red Cedar",
+ "block-rightuppercabinet-satinash-*": "Right Upper Cabinet Satin Ash",
 
   "block-stonecabinet-andesite-*": "Stone Cabinet Andesite",
   "block-stonecabinet-basalt-*": "Stone Cabinet Basalt",
@@ -566,6 +578,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancycabinet-ghostgum-*": "Fancy Cabinet Ghost Gum",
  "block-fancycabinet-ohia-*": "Fancy Cabinet Ohia",
 
+ "block-fancycabinet-redcedar-*": "Fancy Cabinet Red Cedar",
+ "block-fancycabinet-satinash-*": "Fancy Cabinet Satin Ash",
+
   "block-fancyuppercabinet-aged-*": "Fancy Upper Cabinet Aged",
   "block-fancyuppercabinet-acacia-*": "Fancy Upper Cabinet Acacia",
   "block-fancyuppercabinet-baldcypress-*": "Fancy Upper Cabinet Bald Cypress",
@@ -614,6 +629,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancyuppercabinet-ghostgum-*": "Fancy Upper Cabinet Ghost Gum",
  "block-fancyuppercabinet-ohia-*": "Fancy Upper Cabinet Ohia",
 
+ "block-fancyuppercabinet-redcedar-*": "Fancy Upper Cabinet Red Cedar",
+ "block-fancyuppercabinet-satinash-*": "Fancy Upper Cabinet Satin Ash",
+
   "block-fancycabinetisland-aged-*": "Fancy Cabinet Island Aged",
   "block-fancycabinetisland-acacia-*": "Fancy Cabinet Island Acacia",
   "block-fancycabinetisland-baldcypress-*": "Fancy Cabinet Island Bald Cypress",
@@ -661,6 +679,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancycabinetisland-kauri-*": "Fancy Cabinet Island Kauri",
  "block-fancycabinetisland-ghostgum-*": "Fancy Cabinet Island Ghost Gum",
  "block-fancycabinetisland-ohia-*": "Fancy Cabinet Island Ohia",
+
+ "block-fancycabinetisland-redcedar-*": "Fancy Cabinet Island Red Cedar",
+ "block-fancycabinetisland-satinash-*": "Fancy Cabinet Island Satin Ash",
 
   
   "block-brasscandleshelf-*": "Brass Candle Shelf",
@@ -777,6 +798,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-bismuth-*": "Double Wood Sink (Ghost Gum Bismuth)",
  "block-doublewoodsink-ohia-bismuth-*": "Double Wood Sink (Ohia Bismuth)",
 
+ "block-doublewoodsink-redcedar-bismuth-*": "Double Wood Sink (Red Cedar Bismuth)",
+ "block-doublewoodsink-satinash-bismuth-*": "Double Wood Sink (Satin Ash Bismuth)",
+
   "block-doublewoodsink-aged-bismuthbronze-*": "Double Wood Sink (Aged Bismuth Bronze)",
   "block-doublewoodsink-acacia-bismuthbronze-*": "Double Wood Sink (Acacia Bismuth Bronze)",
   "block-doublewoodsink-baldcypress-bismuthbronze-*": "Double Wood Sink (Bald Cypress Bismuth Bronze)",
@@ -824,6 +848,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-bismuthbronze-*": "Double Wood Sink (Kauri Bismuth Bronze)",
  "block-doublewoodsink-ghostgum-bismuthbronze-*": "Double Wood Sink (Ghost Gum Bismuth Bronze)",
  "block-doublewoodsink-ohia-bismuthbronze-*": "Double Wood Sink (Ohia Bismuth Bronze)",
+
+ "block-doublewoodsink-redcedar-bismuthbronze-*": "Double Wood Sink (Red Cedar Bismuth Bronze)",
+ "block-doublewoodsink-satinash-bismuthbronze-*": "Double Wood Sink (Satin Ash Bismuth Bronze)",
 
   "block-doublewoodsink-aged-blackbronze-*": "Double Wood Sink (Aged Black Bronze)",
   "block-doublewoodsink-acacia-blackbronze-*": "Double Wood Sink (Acacia Black Bronze)",
@@ -873,6 +900,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-blackbronze-*": "Double Wood Sink (Ghost Gum Black Bronze)",
  "block-doublewoodsink-ohia-blackbronze-*": "Double Wood Sink (Ohia Black Bronze)",
 
+ "block-doublewoodsink-redcedar-blackbronze-*": "Double Wood Sink (Red Cedar Black Bronze)",
+ "block-doublewoodsink-satinash-blackbronze-*": "Double Wood Sink (Satin Ash Black Bronze)",
+
   "block-doublewoodsink-aged-brass-*": "Double Wood Sink (Aged Brass)",
   "block-doublewoodsink-acacia-brass-*": "Double Wood Sink (Acacia Brass)",
   "block-doublewoodsink-baldcypress-brass-*": "Double Wood Sink (Bald Cypress Brass)",
@@ -920,6 +950,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-brass-*": "Double Wood Sink (Kauri Brass)",
  "block-doublewoodsink-ghostgum-brass-*": "Double Wood Sink (Ghost Gum Brass)",
  "block-doublewoodsink-ohia-brass-*": "Double Wood Sink (Ohia Brass)",
+
+ "block-doublewoodsink-redcedar-brass-*": "Double Wood Sink (Red Cedar Brass)",
+ "block-doublewoodsink-satinash-brass-*": "Double Wood Sink (Satin Ash Brass)",
 
   "block-doublewoodsink-aged-copper-*": "Double Wood Sink (Aged Copper)",
   "block-doublewoodsink-acacia-copper-*": "Double Wood Sink (Acacia Copper)",
@@ -969,6 +1002,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-copper-*": "Double Wood Sink (Ghost Gum Copper)",
  "block-doublewoodsink-ohia-copper-*": "Double Wood Sink (Ohia Copper)",
 
+ "block-doublewoodsink-redcedar-copper-*": "Double Wood Sink (Red Cedar Copper)",
+ "block-doublewoodsink-satinash-copper-*": "Double Wood Sink (Satin Ash Copper)",
+
   "block-doublewoodsink-aged-gold-*": "Double Wood Sink (Aged Gold)",
   "block-doublewoodsink-acacia-gold-*": "Double Wood Sink (Acacia Gold)",
   "block-doublewoodsink-baldcypress-gold-*": "Double Wood Sink (Bald Cypress Gold)",
@@ -1016,6 +1052,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-gold-*": "Double Wood Sink (Kauri Gold)",
  "block-doublewoodsink-ghostgum-gold-*": "Double Wood Sink (Ghost Gum Gold)",
  "block-doublewoodsink-ohia-gold-*": "Double Wood Sink (Ohia Gold)",
+
+ "block-doublewoodsink-redcedar-gold-*": "Double Wood Sink (Red Cedar Gold)",
+ "block-doublewoodsink-satinash-gold-*": "Double Wood Sink (Satin Ash Gold)",
 
   "block-doublewoodsink-aged-iron-*": "Double Wood Sink (Aged Iron)",
   "block-doublewoodsink-acacia-iron-*": "Double Wood Sink (Acacia Iron)",
@@ -1065,6 +1104,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-iron-*": "Double Wood Sink (Ghost Gum Iron)",
  "block-doublewoodsink-ohia-iron-*": "Double Wood Sink (Ohia Iron)",
 
+ "block-doublewoodsink-redcedar-iron-*": "Double Wood Sink (Red Cedar Iron)",
+ "block-doublewoodsink-satinash-iron-*": "Double Wood Sink (Satin Ash Iron)",
+
   "block-doublewoodsink-aged-lead-*": "Double Wood Sink (Aged Lead)",
   "block-doublewoodsink-acacia-lead-*": "Double Wood Sink (Acacia Lead)",
   "block-doublewoodsink-baldcypress-lead-*": "Double Wood Sink (Bald Cypress Lead)",
@@ -1095,23 +1137,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-beech-lead-*": "Double Wood Sink (Beech Lead)",
  "block-doublewoodsink-eucalyptus-lead-*": "Double Wood Sink (Eucalyptus Lead)",
  "block-doublewoodsink-cedar-lead-*": "Double Wood Sink (Cedar Lead)",
-
- "block-doublewoodsink-bluemahoe-lead-*": "Double Wood Sink (Blue Mahoe Lead)",
- "block-doublewoodsink-jacaranda-lead-*": "Double Wood Sink (Jacaranda Lead)",
- "block-doublewoodsink-dalbergia-lead-*": "Double Wood Sink (Dalbergia Lead)",
- "block-doublewoodsink-poplar-lead-*": "Double Wood Sink (Poplar Lead)",
- "block-doublewoodsink-yew-lead-*": "Double Wood Sink (Yew Lead)",
- "block-doublewoodsink-chlorociboria-lead-*": "Double Wood Sink (Chlorociboria Lead)",
- "block-doublewoodsink-petrified-lead-*": "Double Wood Sink (Petrified Lead)",
- "block-doublewoodsink-empresstree-lead-*": "Double Wood Sink (Empress Tree Lead)",
- "block-doublewoodsink-guajacum-lead-*": "Double Wood Sink (Guajacum Lead)",
- "block-doublewoodsink-umnini-lead-*": "Double Wood Sink (Umnini Lead)",
- "block-doublewoodsink-banyan-lead-*": "Double Wood Sink (Banyan Lead)",
- "block-doublewoodsink-ginkgo-lead-*": "Double Wood Sink (Ginkgo Lead)",
- "block-doublewoodsink-tuja-lead-*": "Double Wood Sink (Tuja Lead)",
- "block-doublewoodsink-kauri-lead-*": "Double Wood Sink (Kauri Lead)",
- "block-doublewoodsink-ghostgum-lead-*": "Double Wood Sink (Ghost Gum Lead)",
- "block-doublewoodsink-ohia-lead-*": "Double Wood Sink (Ohia Lead)",
 
   "block-doublewoodsink-aged-meteoriciron-*": "Double Wood Sink (Aged Meteoriciron)",
   "block-doublewoodsink-acacia-meteoriciron-*": "Double Wood Sink (Acacia Meteoriciron)",
@@ -1161,6 +1186,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-meteoriciron-*": "Double Wood Sink (Ghost Gum Meteoriciron)",
  "block-doublewoodsink-ohia-meteoriciron-*": "Double Wood Sink (Ohia Meteoriciron)",
 
+ "block-doublewoodsink-redcedar-meteoriciron-*": "Double Wood Sink (Red Cedar Meteoriciron)",
+ "block-doublewoodsink-satinash-meteoriciron-*": "Double Wood Sink (Satin Ash Meteoriciron)",
+
   "block-doublewoodsink-aged-nickel-*": "Double Wood Sink (Aged Nickel)",
   "block-doublewoodsink-acacia-nickel-*": "Double Wood Sink (Acacia Nickel)",
   "block-doublewoodsink-baldcypress-nickel-*": "Double Wood Sink (Bald Cypress Nickel)",
@@ -1208,6 +1236,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-nickel-*": "Double Wood Sink (Kauri Nickel)",
  "block-doublewoodsink-ghostgum-nickel-*": "Double Wood Sink (Ghost Gum Nickel)",
  "block-doublewoodsink-ohia-nickel-*": "Double Wood Sink (Ohia Nickel)",
+
+ "block-doublewoodsink-redcedar-nickel-*": "Double Wood Sink (Red Cedar Nickel)",
+ "block-doublewoodsink-satinash-nickel-*": "Double Wood Sink (Satin Ash Nickel)",
 
   "block-doublewoodsink-aged-silver-*": "Double Wood Sink (Aged Silver)",
   "block-doublewoodsink-acacia-silver-*": "Double Wood Sink (Acacia Silver)",
@@ -1257,6 +1288,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-silver-*": "Double Wood Sink (Ghost Gum Silver)",
  "block-doublewoodsink-ohia-silver-*": "Double Wood Sink (Ohia Silver)",
 
+ "block-doublewoodsink-redcedar-silver-*": "Double Wood Sink (Red Cedar Silver)",
+ "block-doublewoodsink-satinash-silver-*": "Double Wood Sink (Satin Ash Silver)",
+
   "block-doublewoodsink-aged-steel-*": "Double Wood Sink (Aged Steel)",
   "block-doublewoodsink-acacia-steel-*": "Double Wood Sink (Acacia Steel)",
   "block-doublewoodsink-baldcypress-steel-*": "Double Wood Sink (Bald Cypress Steel)",
@@ -1304,6 +1338,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-steel-*": "Double Wood Sink (Kauri Steel)",
  "block-doublewoodsink-ghostgum-steel-*": "Double Wood Sink (Ghost Gum Steel)",
  "block-doublewoodsink-ohia-steel-*": "Double Wood Sink (Ohia Steel)",
+
+ "block-doublewoodsink-redcedar-steel-*": "Double Wood Sink (Red Cedar Steel)",
+ "block-doublewoodsink-satinash-steel-*": "Double Wood Sink (Satin Ash Steel)",
 
   "block-doublewoodsink-aged-tin-*": "Double Wood Sink (Aged Tin)",
   "block-doublewoodsink-acacia-tin-*": "Double Wood Sink (Acacia Tin)",
@@ -1353,6 +1390,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-ghostgum-tin-*": "Double Wood Sink (Ghost Gum Tin)",
  "block-doublewoodsink-ohia-tin-*": "Double Wood Sink (Ohia Tin)",
 
+ "block-doublewoodsink-redcedar-tin-*": "Double Wood Sink (Red Cedar Tin)",
+ "block-doublewoodsink-satinash-tin-*": "Double Wood Sink (Satin Ash Tin)",
+
   "block-doublewoodsink-aged-tinbronze-*": "Double Wood Sink (Aged Tin Bronze)",
   "block-doublewoodsink-acacia-tinbronze-*": "Double Wood Sink (Acacia Tin Bronze)",
   "block-doublewoodsink-baldcypress-tinbronze-*": "Double Wood Sink (Bald Cypress Tin Bronze)",
@@ -1400,6 +1440,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-doublewoodsink-kauri-tinbronze-*": "Double Wood Sink (Kauri Tin Bronze)",
  "block-doublewoodsink-ghostgum-tinbronze-*": "Double Wood Sink (Ghost Gum Tin Bronze)",
  "block-doublewoodsink-ohia-tinbronze-*": "Double Wood Sink (Ohia Tin Bronze)",
+
+ "block-doublewoodsink-redcedar-tinbronze-*": "Double Wood Sink (Red Cedar Tin Bronze)",
+ "block-doublewoodsink-satinash-tinbronze-*": "Double Wood Sink (Satin Ash Tin Bronze)",
 
 // stone sink variants //
 
@@ -1521,23 +1564,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-doublestonesink-shale-iron-*": "Double Stone Sink (Shale Iron)",
   "block-doublestonesink-slate-iron-*": "Double Stone Sink (Slate Iron)",
   "block-doublestonesink-suevite-iron-*": "Double Stone Sink (Suevite Iron)",
-
-  "block-doublestonesink-andesite-lead-*": "Double Stone Sink (Andesite Lead)",
-  "block-doublestonesink-basalt-lead-*": "Double Stone Sink (Basalt Lead)",
-  "block-doublestonesink-bauxite-lead-*": "Double Stone Sink (Bauxite Lead)",
-  "block-doublestonesink-chalk-lead-*": "Double Stone Sink (Chalk Lead)",
-  "block-doublestonesink-chert-lead-*": "Double Stone Sink (Chert Lead)",
-  "block-doublestonesink-claystone-lead-*": "Double Stone Sink (Claystone Lead)",
-  "block-doublestonesink-conglomerate-lead-*": "Double Stone Sink (Conglomerate Lead)",
-  "block-doublestonesink-granite-lead-*": "Double Stone Sink (Granite Lead)",
-  "block-doublestonesink-kimberlite-lead-*": "Double Stone Sink (Kimberlite Lead)",
-  "block-doublestonesink-limestone-lead-*": "Double Stone Sink (Limestone Lead)",
-  "block-doublestonesink-peridotite-lead-*": "Double Stone Sink (Peridotite Lead)",
-  "block-doublestonesink-phyllite-lead-*": "Double Stone Sink (Phyllite Lead)",
-  "block-doublestonesink-sandstone-lead-*": "Double Stone Sink (Sandstone Lead)",
-  "block-doublestonesink-shale-lead-*": "Double Stone Sink (Shale Lead)",
-  "block-doublestonesink-slate-lead-*": "Double Stone Sink (Slate Lead)",
-  "block-doublestonesink-suevite-lead-*": "Double Stone Sink (Suevite Lead)",
 
   "block-doublestonesink-andesite-meteoriciron-*": "Double Stone Sink (Andesite Meteoric Iron)",
   "block-doublestonesink-basalt-meteoriciron-*": "Double Stone Sink (Basalt Meteoric Iron)",
@@ -1737,6 +1763,10 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-woodenshelf-ohia-1-*": "Wooden Shelf Ohia",
  "block-woodenshelf-ohia-2-*": "Wooden Shelf Ohia",
 
+ "block-woodenshelf-redcedar-1-*": "Wooden Shelf Red Cedar",
+ "block-woodenshelf-redcedar-2-*": "Wooden Shelf Red Cedar",
+ "block-woodenshelf-satinash-1-*": "Wooden Shelf Satin Ash",
+ "block-woodenshelf-satinash-2-*": "Wooden Shelf Satin Ash",
 
 
 // wardrobe variants //
@@ -1789,6 +1819,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-wardrobe-ghostgum-*": "Wardrobe Ghost Gum",
  "block-wardrobe-ohia-*": "Wardrobe Ohia",
 
+ "block-wardrobe-redcedar-*": "Wardrobe Red Cedar",
+ "block-wardrobe-satinash-*": "Wardrobe Satin Ash",
 
 
 // decoshelf variants //
@@ -1842,6 +1874,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-decoshelf-ghostgum-*": "Deco Shelf Ghost Gum",
  "block-decoshelf-ohia-*": "Deco Shelf Ohia",
 
+ "block-decoshelf-redcedar-*": "Deco Shelf Red Cedar",
+ "block-decoshelf-satinash-*": "Deco Shelf Satin Ash",
+
 // spice rack variants //
 
   "block-spicerack-aged-*": "Spice Rack Aged",
@@ -1891,6 +1926,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-spicerack-kauri-*": "Spice Rack Kauri",
  "block-spicerack-ghostgum-*": "Spice Rack Ghost Gum",
  "block-spicerack-ohia-*": "Spice Rack Ohia",
+
+ "block-spicerack-redcedar-*": "Spice Rack Red Cedar",
+ "block-spicerack-satinash-*": "Spice Rack Satin Ash",
 
 
 // side table variants //
@@ -2033,6 +2071,13 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-sidetable-ohia-2-*": "Side Table Ohia",
  "block-sidetable-ohia-3-*": "Side Table Ohia",
 
+ "block-sidetable-redcedar-1-*": "Side Table Red Cedar",
+ "block-sidetable-redcedar-2-*": "Side Table Red Cedar",
+ "block-sidetable-redcedar-3-*": "Side Table Red Cedar",
+ "block-sidetable-satinash-1-*": "Side Table Satin Ash",
+ "block-sidetable-satinash-2-*": "Side Table Satin Ash",
+ "block-sidetable-satinash-3-*": "Side Table Satin Ash",
+
 // stool variants //
 
   "block-stool-aged-*": "Aged Stool",
@@ -2082,6 +2127,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-stool-kauri-*": "Stool Kauri",
  "block-stool-ghostgum-*": "Stool Ghost Gum",
  "block-stool-ohia-*": "Stool Ohia",
+
+ "block-stool-redcedar-*": "Stool Red Cedar",
+ "block-stool-satinash-*": "Stool Satin Ash",
 
 // kitchen shelf variants //
 
@@ -2133,6 +2181,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-kitchenshelf-ghostgum-*": "Kitchen Shelf Ghost Gum",
  "block-kitchenshelf-ohia-*": "Kitchen Shelf Ohia",
 
+ "block-kitchenshelf-redcedar-*": "Kitchen Shelf Red Cedar",
+ "block-kitchenshelf-satinash-*": "Kitchen Shelf Satin Ash",
+
 // mug rack variants //
   "block-mugrack-aged-*": "Aged Mug Rack",
   "block-mugrack-acacia-*": "Acacia Mug Rack",
@@ -2181,6 +2232,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-mugrack-kauri-*": "Mug Rack Kauri",
  "block-mugrack-ghostgum-*": "Mug Rack Ghost Gum",
  "block-mugrack-ohia-*": "Mug Rack Ohia",
+
+ "block-mugrack-redcedar-*": "Mug Rack Red Cedar",
+ "block-mugrack-satinash-*": "Mug Rack Satin Ash",
 
 
 // fancy cabinet variants //
@@ -2232,6 +2286,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-cabinetkauri-cabinetfancy-*": "Fancy Cabinet Kauri",
  "block-cabinetghostgum-cabinetfancy-*": "Fancy Cabinet Ghost Gum",
  "block-cabinetohia-cabinetfancy-*": "Fancy Cabinet Ohia",
+
+ "block-cabinetredcedar-cabinetfancy-*": "Fancy Cabinet Red Cedar",
+ "block-cabinetsatinash-cabinetfancy-*": "Fancy Cabinet Satin Ash",
 
 
 // coffee table variants //
@@ -2362,50 +2419,87 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-coffeetable-jacaranda-2-*": "Coffee Table Jacaranda",
  "block-coffeetable-jacaranda-3-*": "Coffee Table Jacaranda",
  "block-coffeetable-jacaranda-4-*": "Coffee Table Jacaranda",
+
  "block-coffeetable-dalbergia-1-*": "Coffee Table Dalbergia",
  "block-coffeetable-dalbergia-2-*": "Coffee Table Dalbergia",
  "block-coffeetable-dalbergia-3-*": "Coffee Table Dalbergia",
+ "block-coffeetable-dalbergia-4-*": "Coffee Table Dalbergia",
+
  "block-coffeetable-poplar-1-*": "Coffee Table Poplar",
  "block-coffeetable-poplar-2-*": "Coffee Table Poplar",
  "block-coffeetable-poplar-3-*": "Coffee Table Poplar",
+ "block-coffeetable-poplar-4-*": "Coffee Table Poplar",
+
  "block-coffeetable-yew-1-*": "Coffee Table Yew",
  "block-coffeetable-yew-2-*": "Coffee Table Yew",
  "block-coffeetable-yew-3-*": "Coffee Table Yew",
+ "block-coffeetable-yew-4-*": "Coffee Table Yew",
+
  "block-coffeetable-chlorociboria-1-*": "Coffee Table Chlorociboria",
  "block-coffeetable-chlorociboria-2-*": "Coffee Table Chlorociboria",
  "block-coffeetable-chlorociboria-3-*": "Coffee Table Chlorociboria",
+ "block-coffeetable-chlorociboria-4-*": "Coffee Table Chlorociboria",
+
+
  "block-coffeetable-petrified-1-*": "Coffee Table Petrified",
  "block-coffeetable-petrified-2-*": "Coffee Table Petrified",
  "block-coffeetable-petrified-3-*": "Coffee Table Petrified",
+ "block-coffeetable-petrified-4-*": "Coffee Table Petrified",
+
  "block-coffeetable-empresstree-1-*": "Coffee Table Empress Tree",
  "block-coffeetable-empresstree-2-*": "Coffee Table Empress Tree",
  "block-coffeetable-empresstree-3-*": "Coffee Table Empress Tree",
+ "block-coffeetable-empresstree-4-*": "Coffee Table Empress Tree",
+
  "block-coffeetable-guajacum-1-*": "Coffee Table Guajacum",
  "block-coffeetable-guajacum-2-*": "Coffee Table Guajacum",
  "block-coffeetable-guajacum-3-*": "Coffee Table Guajacum",
+ "block-coffeetable-guajacum-4-*": "Coffee Table Guajacum",
+
  "block-coffeetable-umnini-1-*": "Coffee Table Umnini",
  "block-coffeetable-umnini-2-*": "Coffee Table Umnini",
  "block-coffeetable-umnini-3-*": "Coffee Table Umnini",
+ "block-coffeetable-umnini-4-*": "Coffee Table Umnini",
+
  "block-coffeetable-banyan-1-*": "Coffee Table Banyan",
  "block-coffeetable-banyan-2-*": "Coffee Table Banyan",
  "block-coffeetable-banyan-3-*": "Coffee Table Banyan",
+ "block-coffeetable-banyan-4-*": "Coffee Table Banyan",
+
  "block-coffeetable-ginkgo-1-*": "Coffee Table Ginkgo",
  "block-coffeetable-ginkgo-2-*": "Coffee Table Ginkgo",
  "block-coffeetable-ginkgo-3-*": "Coffee Table Ginkgo",
+ "block-coffeetable-ginkgo-4-*": "Coffee Table Ginkgo",
+
  "block-coffeetable-tuja-1-*": "Coffee Table Tuja",
  "block-coffeetable-tuja-2-*": "Coffee Table Tuja",
  "block-coffeetable-tuja-3-*": "Coffee Table Tuja",
+ "block-coffeetable-tuja-4-*": "Coffee Table Tuja",
+
  "block-coffeetable-kauri-1-*": "Coffee Table Kauri",
  "block-coffeetable-kauri-2-*": "Coffee Table Kauri",
  "block-coffeetable-kauri-3-*": "Coffee Table Kauri",
+ "block-coffeetable-kauri-4-*": "Coffee Table Kauri",
+
  "block-coffeetable-ghostgum-1-*": "Coffee Table Ghost Gum",
  "block-coffeetable-ghostgum-2-*": "Coffee Table Ghost Gum",
  "block-coffeetable-ghostgum-3-*": "Coffee Table Ghost Gum",
+ "block-coffeetable-ghostgum-4-*": "Coffee Table Ghost Gum",
+
  "block-coffeetable-ohia-1-*": "Coffee Table Ohia",
  "block-coffeetable-ohia-2-*": "Coffee Table Ohia",
  "block-coffeetable-ohia-3-*": "Coffee Table Ohia",
+ "block-coffeetable-ohia-4-*": "Coffee Table Ohia",
 
+ "block-coffeetable-redcedar-1-*": "Coffee Table Red Cedar",
+ "block-coffeetable-redcedar-2-*": "Coffee Table Red Cedar",
+ "block-coffeetable-redcedar-3-*": "Coffee Table Red Cedar",
+ "block-coffeetable-redcedar-4-*": "Coffee Table Red Cedar",
 
+ "block-coffeetable-satinash-1-*": "Coffee Table Satin Ash",
+ "block-coffeetable-satinash-2-*": "Coffee Table Satin Ash",
+ "block-coffeetable-satinash-3-*": "Coffee Table Satin Ash",
+ "block-coffeetable-satinash-4-*": "Coffee Table Satin Ash",
 
 // table setting variants //
 
@@ -2464,6 +2558,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-woodtable-kauri-*": "Wood Table Kauri",
  "block-woodtable-ghostgum-*": "Wood Table Ghost Gum",
  "block-woodtable-ohia-*": "Wood Table Ohia",
+
+ "block-woodtable-redcedar-*": "Wood Table Red Cedar",
+ "block-woodtable-satinash-*": "Wood Table Satin Ash",
 
 // curtain variants //
 
@@ -2630,6 +2727,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancygothicchairred-ghostgum-*": "Red Fancy Gothic Chair Ghost Gum",
  "block-fancygothicchairred-ohia-*": "Red Fancy Gothic Chair Ohia",
 
+ "block-fancygothicchairred-redcedar-*": "Red Fancy Gothic Chair Red Cedar",
+ "block-fancygothicchairred-satinash-*": "Red Fancy Gothic Chair Satin Ash",
+
 // inner cabinet variant //
 
   "block-innercabinet-aged-*": "Inner Cabinet Aged",
@@ -2679,6 +2779,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-innercabinet-kauri-*": "Inner Cabinet Kauri",
  "block-innercabinet-ghostgum-*": "Inner Cabinet Ghost Gum",
  "block-innercabinet-ohia-*": "Inner Cabinet Ohia",
+
+ "block-innercabinet-redcedar-*": "Inner Cabinet Red Cedar",
+ "block-innercabinet-satinash-*": "Inner Cabinet Satin Ash",
 
 // upper inner cabinet variant //
 
@@ -2730,6 +2833,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-upperinnercabinet-ghostgum-*": "Upper Inner Cabinet Ghost Gum",
  "block-upperinnercabinet-ohia-*": "Upper Inner Cabinet Ohia",
 
+ "block-upperinnercabinet-redcedar-*": "Upper Inner Cabinet Red Cedar",
+ "block-upperinnercabinet-satinash-*": "Upper Inner Cabinet Satin Ash",
+
 // fancy inner cabinet variants // 
 
   "block-fancyinnercabinet-aged-*": "Fancy Inner Cabinet Aged",
@@ -2780,6 +2886,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancyinnercabinet-ghostgum-*": "Fancy Inner Cabinet Ghost Gum",
  "block-fancyinnercabinet-ohia-*": "Fancy Inner Cabinet Ohia",
 
+ "block-fancyinnercabinet-redcedar-*": "Fancy Inner Cabinet Red Cedar",
+ "block-fancyinnercabinet-satinash-*": "Fancy Inner Cabinet Satin Ash",
+
 // fancy upper corner cabinet variants //
 
   "block-fancyuppercornercabinet-aged-*": "Fancy Upper Corner Cabinet Aged",
@@ -2829,6 +2938,9 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
  "block-fancyuppercornercabinet-kauri-*": "Fancy Upper Corner Cabinet Kauri",
  "block-fancyuppercornercabinet-ghostgum-*": "Fancy Upper Corner Cabinet Ghost Gum",
  "block-fancyuppercornercabinet-ohia-*": "Fancy Upper Corner Cabinet Ohia",
+
+ "block-fancyuppercornercabinet-redcedar-*": "Fancy Upper Corner Cabinet Red Cedar",
+ "block-fancyuppercornercabinet-satinash-*": "Fancy Upper Corner Cabinet Satin Ash",
 
 // stone inner cabinet //
 
@@ -2955,5 +3067,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-metalglasslamp-steel-*": "Steel Glass Lamp",
   "block-metalglasslamp-tin-*": "Tin Glass Lamp",
   "block-metalglasslamp-tinbronze-*": "Tin Bronze Glass Lamp",
+
+  "block-meatstorage-*": "Meat Storage",
+  "block-linenstorage-*": "Linen Storage",
 
 }

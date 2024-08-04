@@ -5,14 +5,31 @@
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
 	attributes: {
 		inventoryClassName: "chest",
-		dialogTitleLangCode: "vesselcontents",
-		"quantitySlots": "12",
-		spoilSpeedMulByFoodCat: 
-			{
+		dialogTitleLangCode: "Wall Vegetable Storage",
+		defaultType: "normal",
+		types: ["normal"],
+		dialogTitleLangCode: {
+			"normal": "vesselcontents",
+		},
+		"quantitySlots": {
+			"normal": true,
+			},
+		storageType: {
+			"normal": 32
+		},
+		retrieveOnly: {
+			"normal": false
+		},
+		drop: {
+			"normal": true
+			},
+		spoilSpeedMulByFoodCat: {
+			"normal": {
 				"vegetable": 0.1,
-				"grain": 0.1
+				"grain": 0.75
 			}
 		},
+},
     "variantgroups": [
 		{ code:"type", states: ["normal"] },
 		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }

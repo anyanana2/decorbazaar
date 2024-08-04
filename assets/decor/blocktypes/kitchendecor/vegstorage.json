@@ -27,17 +27,34 @@
             "loadFromProperties": "abstract/horizontalorientation"
         }
     ],
-	attributes: {
-		inventoryClassName: "chest",
-		"handbook": { groupBy: ["vegstorage-*"] },
-		dialogTitleLangCode: "Vegetable Storage",
-		"quantitySlots": "12",
-		spoilSpeedMulByFoodCat: 
-			{
+	"attributes": {
+		"inventoryClassName": "chest",
+		"dialogTitleLangCode": "Vegetable Storage",
+		"defaultType": "normal",
+		"types": ["normal"],
+		"handbook": { "groupBy": ["vegstorage-*"] },
+		"dialogTitleLangCode": {
+			"normal": "vesselcontents",
+		},
+		"quantitySlots": {
+			"normal": true,
+			},
+		"storageType": {
+			"normal": 32
+		},
+		"retrieveOnly": {
+			"normal": false
+		},
+		"drop": {
+			"normal": true
+			},
+		"spoilSpeedMulByFoodCat": {
+			"normal": {
 				"vegetable": 0.1,
-				"grain": 0.5
+				"grain": 0.75
 			}
 		},
+	},
 shapeByType: {
 
          "*-north": { base: "block/kitchendecor/vegstorage", rotateY: 0 },

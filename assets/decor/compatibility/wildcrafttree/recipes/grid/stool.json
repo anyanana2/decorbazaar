@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "S,P",
+	   	ingredients: {
+	   	"S": { type: "item", code: "game:stick", quantity: 4 },
+	   	"P": { type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:stool-{wood}-north", quantity: 4 }
+	}
+]

@@ -136,7 +136,7 @@
     "op": "add",
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
-	"code": "decor:fieldsofgrain",
+	"code": "decor:fieldsofgrain-north",
 	"type": "block",
 	    "stacksize": 1,
 	    "stock": {
@@ -155,7 +155,7 @@
     "op": "add",
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
-	"code": "decor:houseonthehill",
+	"code": "decor:houseonthehill-north",
 	"type": "block",
 	    "stacksize": 1,
 	    "stock": {
@@ -174,7 +174,7 @@
     "op": "add",
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
-	"code": "decor:whiteflower",
+	"code": "decor:whiteflower-north",
 	"type": "block",
 	    "stacksize": 1,
 	    "stock": {
@@ -193,7 +193,7 @@
     "op": "add",
     "path": "/attributes/tradeProps/selling/list/-",
     "value": {
-	"code": "decor:lonegrave",
+	"code": "decor:lonegrave-north",
 	"type": "block",
 	    "stacksize": 1,
 	    "stock": {

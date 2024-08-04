@@ -32,9 +32,8 @@
         "place": "game:block/stone",
         "walk": "game:walk/stone"
     },
-
-	selectionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.8125, y2: 0.5, z2: 0.875 },
-	collisionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.8125, y2: 0.5, z2: 0.875 },
+	selectionBox: { x1: 0, y1: 0.1875, z1: 0, x2: 1, y2: 0.875, z2: 0.5625 },
+	collisionBox: { x1: 0, y1: 0.1875, z1: 0, x2: 1, y2: 0.875, z2: 0.5625 },
 	guiTransform: {
 		rotation: { x: -22.6, y: 147, z: 0 }
 	},

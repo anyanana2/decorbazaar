@@ -1,6 +1,6 @@
 [
 	{
-		ingredientPattern: "_G_,_I_,SS_",
+		ingredientPattern: "_G_,II_,SS_",
 	   	ingredients: {
 		"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
 	   	"I": { type: "item", code: "game:nugget-*", quantity: 2 },

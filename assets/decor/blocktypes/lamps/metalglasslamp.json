@@ -37,7 +37,7 @@
 	"replaceable": 900,
 	"resistance": 1.5,
 	"lightAbsorption": 0,
-	"emitSideAo": {"all": false },
+    "lightHsv": [7, 3, 18],
 	"sidesolid": {
 		"all": false
 	},	

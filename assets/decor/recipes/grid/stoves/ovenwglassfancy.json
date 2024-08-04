@@ -10,7 +10,7 @@
 	   	width: 3,
 	   	height: 3,
 	   	output: { type: "block", code: "ovenwglassfancy-north" }
-	}
+	},
 	{
 		ingredientPattern: "_C_,_W_,GS_",
 	   	ingredients: {
