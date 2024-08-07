@@ -1,7 +1,7 @@
 {
   "code": "castironfireplace",
-  "class": "BlockClayOven",
-  "entityClass": "Oven",
+  "class": "BlockFirepit",
+  "entityClass": "DecorBazaarStove",
   "attributes": {
     "handbook": {
       "extraSections": [
@@ -14,15 +14,20 @@
     },
     "ovenFuelShape": "block/stoves/ovenfuelhigh"
   },
-  "behaviors": [
-    { "name": "HorizontalOrientable" },
-    { "name": "Ignitable" }
-  ],
+  "behaviorsByType": {
+    "*-construct*": [ { "name": "HorizontalOrientable" } ],
+    "*": [
+      { "name": "HorizontalOrientable" },
+      { "name": "Container" },
+      { "name": "Ignitable" },
+      { "name": "HeatSource" }
+    ]
+  },
   "blockmaterial": "stone",
   "creativeinventory": {
-    "decorative": [ "*-north" ],
-    "decorbazaar": [ "*-north" ],
-    "general": [ "*-north" ]
+    "general": [ "*-north-extinct" ],
+    "decorative": [ "*-north-extinct" ],
+    "decorbazaar": [ "*-north-extinct" ]
   },
   "drawtype": "json",
   "guiTransform": {
@@ -37,10 +42,10 @@
   "shape": {
     "base": "block/castironfireplace",
     "rotateYByType": {
-      "*-east": 270,
-      "*-north": 0,
-      "*-south": 180,
-      "*-west": 90
+      "*-east-*": 270,
+      "*-north-*": 0,
+      "*-south-*": 180,
+      "*-west-*": 90
     }
   },
   "sideopaque": { "all": "false" },
@@ -62,6 +67,10 @@
     {
       "code": "side",
       "loadFromProperties": "abstract/horizontalorientation"
+    },
+    {
+      "code": "burnstate",
+      "states": [ "construct1", "construct2", "construct3", "construct4", "extinct", "lit", "cold" ]
     }
   ],
   "particleProperties": [

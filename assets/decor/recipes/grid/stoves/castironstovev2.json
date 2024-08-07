@@ -10,7 +10,10 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstovev2-north" }
+		output: {
+			"type": "block",
+			"code": "castironstovev2-north-cold"
+		}
 	},
 	{
 		ingredientPattern: "_W_,CG_,FS_",
@@ -23,6 +26,9 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstovev2-north" }
+		output: {
+			"type": "block",
+			"code": "castironstovev2-north-cold"
+		}
 	}
 ]	

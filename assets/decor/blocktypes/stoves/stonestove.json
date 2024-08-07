@@ -1,38 +1,49 @@
 {
   "code": "stonestove",
-  "class": "BlockClayOven",
-  "entityClass": "Oven",
+  "class": "BlockFirepit",
+  "entityClass": "DecorBazaarStove",
   "attributes": {
     "handbook": {
       "extraSections": [
         {
-          "text": "clayoven-handbook-help-text",
-          "title": "clayoven-handbook-help-title"
+          "title": "clayoven-handbook-help-title",
+          "text": "clayoven-handbook-help-text"
         }
       ],
       "groupBy": [ "clayoven-*" ]
-    },
-    "ovenFuelShape": "none"
+    }
   },
   "creativeinventory": {
-    "general": [ "*-north" ],
-    "decorative": [ "*-north" ],
-    "decorbazaar": [ "*-north" ]
+    "general": [ "*-north-extinct" ],
+    "decorative": [ "*-north-extinct" ],
+    "decorbazaar": [ "*-north-extinct" ]
   },
-  "behaviors": [ { "name": "HorizontalOrientable" } ],
+  "behaviorsByType": {
+    "*-construct*": [ { "name": "HorizontalOrientable" } ],
+    "*": [
+      { "name": "HorizontalOrientable" },
+      { "name": "Container" },
+      { "name": "Ignitable" },
+      { "name": "HeatSource" }
+    ]
+  },
   "variantgroups": [
     {
       "code": "side",
       "loadFromProperties": "abstract/horizontalorientation"
+    },
+    {
+      "code": "burnstate",
+      "states": [ "construct1", "construct2", "construct3", "construct4", "extinct", "lit", "cold" ]
     }
   ],
   "shape": {
     "base": "block/stoves/stonestove",
     "rotateYByType": {
-      "*-north": 90,
-      "*-east": 0,
-      "*-south": 270,
-      "*-west": 180
+      "*-north-*": 90,
+      "*-east-*": 0,
+      "*-south-*": 270,
+      "*-west-*": 180
     }
   },
   "blockmaterial": "stone",
@@ -62,9 +73,13 @@
     "place": "game:block/planks",
     "walk": "game:walk/stone"
   },
-    "guiTransform": {
-		rotation: { x: -22.6, y: 150, z: 0 }
-	},
+  "guiTransform": {
+    "rotation": {
+      "x": -22.6,
+      "y": 150,
+      "z": 0
+    }
+  },
   "particleProperties": [
     {
       "gravityEffect": {
