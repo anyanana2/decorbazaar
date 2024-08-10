@@ -1,38 +1,49 @@
 {
-  "code": "castironstovev2",
-  "class": "BlockClayOven",
-  "entityClass": "Oven",
+  "code": "stonestove",
+  "class": "BlockFirepit",
+  "entityClass": "DecorBazaarStove",
   "attributes": {
     "handbook": {
       "extraSections": [
         {
-          "text": "clayoven-handbook-help-text",
-          "title": "clayoven-handbook-help-title"
+          "title": "clayoven-handbook-help-title",
+          "text": "clayoven-handbook-help-text"
         }
       ],
       "groupBy": [ "clayoven-*" ]
-    },
-    "ovenFuelShape": "none"
+    }
   },
   "creativeinventory": {
-    "general": [ "*-north" ],
-    "decorative": [ "*-north" ],
-    "decorbazaar": [ "*-north" ]
+    "general": [ "*-north-extinct" ],
+    "decorative": [ "*-north-extinct" ],
+    "decorbazaar": [ "*-north-extinct" ]
   },
-  "behaviors": [ { "name": "HorizontalOrientable" } ],
+  "behaviorsByType": {
+    "*-construct*": [ { "name": "HorizontalOrientable" } ],
+    "*": [
+      { "name": "HorizontalOrientable" },
+      { "name": "Container" },
+      { "name": "Ignitable" },
+      { "name": "HeatSource" }
+    ]
+  },
   "variantgroups": [
     {
       "code": "side",
       "loadFromProperties": "abstract/horizontalorientation"
+    },
+    {
+      "code": "burnstate",
+      "states": [ "construct1", "construct2", "construct3", "construct4", "extinct", "lit", "cold" ]
     }
   ],
   "shape": {
-    "base": "block/stoves/castironstovev2",
+    "base": "block/stoves/stonestove",
     "rotateYByType": {
-      "*-north": 0,
-      "*-east": 270,
-      "*-south": 180,
-      "*-west": 90
+      "*-north-*": 90,
+      "*-east-*": 0,
+      "*-south-*": 270,
+      "*-west-*": 180
     }
   },
   "blockmaterial": "stone",
@@ -46,17 +57,16 @@
   "drawtype": "json",
   "textures": {
     "burned": { "base": "game:block/clay/vessel/sides/burned" },
-    "copper": { "base": "game:block/clay/vessel/sides/copper" },
-    "undergrowth": { "base": "game:block/clay/vessel/sides/undergrowth" },
-    "group2-soup-flyagaric-cactifruit-redmeat": { "base": "game:block/food/meal/group2-soup-flyagaric-cactifruit-redmeat" },
-    "smoky": { "base": "game:block/glass/smoky" },
-    "normal1": { "base": "game:block/metal/corroded/normal1" },
+    "harvest": { "base": "game:block/clay/vessel/sides/harvest" },
+    "oxblood": { "base": "game:block/clay/vessel/sides/oxblood" },
+    "rutile": { "base": "game:block/clay/vessel/sides/rutile" },
+    "brown": { "base": "game:block/glass/brown" },
     "normal2": { "base": "game:block/metal/corroded/normal2" },
-    "normal3": { "base": "game:block/metal/corroded/normal3" },
-    "bismuthbronze1": { "base": "game:block/metal/sheet/bismuthbronze1" },
-    "molybdochalkos1": { "base": "game:block/metal/sheet/molybdochalkos1" },
-    "north": { "base": "game:block/wood/firewood/north" },
-    "side": { "base": "game:block/wood/firewood/side" }
+    "iron1": { "base": "game:block/metal/sheet/iron1" },
+    "basalt1": { "base": "game:block/stone/rock/basalt1" },
+    "claystone2": { "base": "game:block/stone/rock/claystone2" },
+    "side": { "base": "game:block/wood/firewood/side" },
+    "south": { "base": "game:block/wood/firewood/south" }
   },
   "resistance": 3.5,
   "sounds": {
@@ -66,7 +76,7 @@
   "guiTransform": {
     "rotation": {
       "x": -22.6,
-      "y": 141,
+      "y": 150,
       "z": 0
     }
   },

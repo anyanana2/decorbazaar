@@ -8,7 +8,7 @@
 	   	},
 	   	width: 1,
 	   	height: 3,
-	   	output: { type: "block", code: "castironfireplace-north" }
+	   	output: { type: "block", code: "castironfireplace-north-cold" }
 	},
 	{
 		ingredientPattern: "_C_,WFW,_C_",
@@ -19,6 +19,6 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironfireplace-north" }
+	   	output: { type: "block", code: "castironfireplace-north-cold" }
 	}
 ]	

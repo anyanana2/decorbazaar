@@ -1,7 +1,7 @@
 {
-  "code": "castironstove",
-  "class": "BlockClayOven",
-  "entityClass": "Oven",
+  "code": "castironfireplace",
+  "class": "BlockFirepit",
+  "entityClass": "DecorBazaarStove",
   "attributes": {
     "handbook": {
       "extraSections": [
@@ -12,56 +12,67 @@
       ],
       "groupBy": [ "clayoven-*" ]
     },
-    "ovenFuelShape": "none"
+    "ovenFuelShape": "block/stoves/ovenfuelhigh"
   },
-  "creativeinventory": {
-    "general": [ "*-north" ],
-    "decorative": [ "*-north" ],
-    "decorbazaar": [ "*-north" ]
-  },
-  "behaviors": [ { "name": "HorizontalOrientable" } ],
-  "variantgroups": [
-    {
-      "code": "side",
-      "loadFromProperties": "abstract/horizontalorientation"
-    }
-  ],
-  "shape": {
-    "base": "block/stoves/castironstove",
-    "rotateYByType": {
-      "*-north": 0,
-      "*-east": 270,
-      "*-south": 180,
-      "*-west": 90
-    }
+  "behaviorsByType": {
+    "*-construct*": [ { "name": "HorizontalOrientable" } ],
+    "*": [
+      { "name": "HorizontalOrientable" },
+      { "name": "Container" },
+      { "name": "Ignitable" },
+      { "name": "HeatSource" }
+    ]
   },
   "blockmaterial": "stone",
-  "lightAbsorption": 0,
-  "sidesolid": {
-    "all": "false"
-  },
-  "sideopaque": {
-    "all": "false"
+  "creativeinventory": {
+    "general": [ "*-north-extinct" ],
+    "decorative": [ "*-north-extinct" ],
+    "decorbazaar": [ "*-north-extinct" ]
   },
   "drawtype": "json",
-  "textures": {
-    "normal1": { "base": "game:block/metal/corroded/normal1" },
-    "normal2": { "base": "game:block/metal/corroded/normal2" },
-    "normal3": { "base": "game:block/metal/corroded/normal3" },
-    "bismuthbronze": { "base": "game:block/metal/plate/bismuthbronze" }
+  "guiTransform": {
+    "rotation": {
+      "x": -22.6,
+      "y": 139,
+      "z": 0
+    }
   },
   "resistance": 3.5,
+  "lightAbsorption": 0,
+  "shape": {
+    "base": "block/castironfireplace",
+    "rotateYByType": {
+      "*-east-*": 270,
+      "*-north-*": 0,
+      "*-south-*": 180,
+      "*-west-*": 90
+    }
+  },
+  "sideopaque": { "all": "false" },
+  "sidesolid": { "all": "false" },
   "sounds": {
     "place": "game:block/planks",
     "walk": "game:walk/stone"
   },
-  "guiTransform": {
-    "rotation": {
-      "x": -22.6,
-      "y": 143,
-      "z": 0
-    }
+  "textures": {
+    "brass": { "base": "game:block/metal/tarnished/brass" },
+    "iron": { "base": "game:block/metal/tarnished/iron" },
+    "north": { "base": "game:block/wood/firewood/north" },
+    "rust2": { "base": "game:block/metal/tarnished/rust2" },
+    "rusty-iron": { "base": "game:block/metal/tarnished/rusty-iron" },
+    "rusty-iron2": { "base": "game:block/metal/tarnished/rusty-iron2" },
+    "side": { "base": "game:block/wood/firewood/side" }
   },
+  "variantgroups": [
+    {
+      "code": "side",
+      "loadFromProperties": "abstract/horizontalorientation"
+    },
+    {
+      "code": "burnstate",
+      "states": [ "construct1", "construct2", "construct3", "construct4", "extinct", "lit", "cold" ]
+    }
+  ],
   "particleProperties": [
     {
       "gravityEffect": {
