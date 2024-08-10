@@ -1,7 +1,7 @@
 {
-  "code": "stonestove",
-  "class": "BlockClayOven",
-  "entityClass": "Oven",
+  "code": "castironstove",
+  "class": "BlockFirepit",
+  "entityClass": "DecorBazaarStove",
   "attributes": {
     "handbook": {
       "extraSections": [
@@ -15,24 +15,36 @@
     "ovenFuelShape": "none"
   },
   "creativeinventory": {
-    "general": [ "*-north" ],
-    "decorative": [ "*-north" ],
-    "decorbazaar": [ "*-north" ]
+    "general": [ "*-north-extinct" ],
+    "decorative": [ "*-north-extinct" ],
+    "decorbazaar": [ "*-north-extinct" ]
   },
-  "behaviors": [ { "name": "HorizontalOrientable" } ],
+  "behaviorsByType": {
+    "*-construct*": [ { "name": "HorizontalOrientable" } ],
+    "*": [
+      { "name": "HorizontalOrientable" },
+      { "name": "Container" },
+      { "name": "Ignitable" },
+      { "name": "HeatSource" }
+    ]
+  },
   "variantgroups": [
     {
       "code": "side",
       "loadFromProperties": "abstract/horizontalorientation"
+    },
+    {
+      "code": "burnstate",
+      "states": [ "construct1", "construct2", "construct3", "construct4", "extinct", "lit", "cold" ]
     }
   ],
   "shape": {
-    "base": "block/stoves/stonestove",
+    "base": "block/stoves/castironstove",
     "rotateYByType": {
-      "*-north": 90,
-      "*-east": 0,
-      "*-south": 270,
-      "*-west": 180
+      "*-north-*": 0,
+      "*-east-*": 270,
+      "*-south-*": 180,
+      "*-west-*": 90
     }
   },
   "blockmaterial": "stone",
@@ -45,26 +57,23 @@
   },
   "drawtype": "json",
   "textures": {
-    "burned": { "base": "game:block/clay/vessel/sides/burned" },
-    "harvest": { "base": "game:block/clay/vessel/sides/harvest" },
-    "oxblood": { "base": "game:block/clay/vessel/sides/oxblood" },
-    "rutile": { "base": "game:block/clay/vessel/sides/rutile" },
-    "brown": { "base": "game:block/glass/brown" },
+    "normal1": { "base": "game:block/metal/corroded/normal1" },
     "normal2": { "base": "game:block/metal/corroded/normal2" },
-    "iron1": { "base": "game:block/metal/sheet/iron1" },
-    "basalt1": { "base": "game:block/stone/rock/basalt1" },
-    "claystone2": { "base": "game:block/stone/rock/claystone2" },
-    "side": { "base": "game:block/wood/firewood/side" },
-    "south": { "base": "game:block/wood/firewood/south" }
+    "normal3": { "base": "game:block/metal/corroded/normal3" },
+    "bismuthbronze": { "base": "game:block/metal/plate/bismuthbronze" }
   },
   "resistance": 3.5,
   "sounds": {
     "place": "game:block/planks",
     "walk": "game:walk/stone"
   },
-    "guiTransform": {
-		rotation: { x: -22.6, y: 150, z: 0 }
-	},
+  "guiTransform": {
+    "rotation": {
+      "x": -22.6,
+      "y": 143,
+      "z": 0
+    }
+  },
   "particleProperties": [
     {
       "gravityEffect": {

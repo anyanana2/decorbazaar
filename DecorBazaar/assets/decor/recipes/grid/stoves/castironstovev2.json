@@ -1,24 +1,34 @@
 [
 	{
-		ingredientPattern: "W,C,G",
+		ingredientPattern: "_W_,CG_,FS_",
 	   	ingredients: {
 	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 	   	"C": { type: "block", code: "game:metal-scraps", quantity: 1 },
 	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
+		"F": { type: "item", code: "game:firewood", quantity: 4 },
+		"S": { type: "item", code: "game:clay-fire", quantity: 4 },
 	   	},
-	   	width: 1,
+	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstove-north" }
+		output: {
+			"type": "block",
+			"code": "castironstovev2-north-cold"
+		}
 	},
 	{
-		ingredientPattern: "W,C,G",
+		ingredientPattern: "_W_,CG_,FS_",
 	   	ingredients: {
 	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 	   	"C": { type: "item", code: "game:metalplate-*", quantity: 1 },
 	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
+		"F": { type: "item", code: "game:firewood", quantity: 4 },
+		"S": { type: "item", code: "game:clay-fire", quantity: 4 },
 	   	},
-	   	width: 1,
+	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstove-north" }
+		output: {
+			"type": "block",
+			"code": "castironstovev2-north-cold"
+		}
 	}
 ]	
