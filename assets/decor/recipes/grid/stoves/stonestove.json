@@ -9,7 +9,10 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "stonestove-north-cold" }
+		output: {
+			"type": "block",
+			"code": "stonestove-north-extinct"
+		}
 	},
 	{
 		ingredientPattern: "_C_,SM_,_F_",
@@ -21,6 +24,9 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "stonestove-north-cold" }
+		output: {
+			"type": "block",
+			"code": "stonestove-north-extinct"
+		}
 	}
 ]

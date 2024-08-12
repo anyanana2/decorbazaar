@@ -12,7 +12,7 @@
 	   	height: 3,
 		output: {
 			"type": "block",
-			"code": "castironstovev2-north-cold"
+			"code": "castironstovev2-north-extinct"
 		}
 	},
 	{
@@ -28,7 +28,7 @@
 	   	height: 3,
 		output: {
 			"type": "block",
-			"code": "castironstovev2-north-cold"
+			"code": "castironstovev2-north-extinct"
 		}
 	}
 ]	

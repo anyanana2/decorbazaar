@@ -9,7 +9,10 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstovefirewood-north-cold" }
+		output: {
+			"type": "block",
+			"code": "castironstovefirewood-north-extinct"
+		}
 	},
 	{
 		ingredientPattern: "_W_,CG_,_F_",
@@ -21,6 +24,9 @@
 	   	},
 	   	width: 3,
 	   	height: 3,
-	   	output: { type: "block", code: "castironstovefirewood-north-cold" }
+		output: {
+			"type": "block",
+			"code": "castironstovefirewood-north-extinct"
+		}
 	}
 ]
