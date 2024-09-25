@@ -30,7 +30,7 @@
 	attributes: {
 		"inventoryClassName": "Cabinet",
 "handbook": { groupBy: ["wardrobe-*"] },
-		"quantitySlots": "24",
+		"quantitySlots": 24,
 		"dialogTitleLangCode": "Closet Storage"
 	},
 shapeByType: {

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "CCC,PPP",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:fancydrapesbed-fancydrapes-head-north", quantity: 1 }
+	}
+]

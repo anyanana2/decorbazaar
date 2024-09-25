@@ -4,7 +4,7 @@
 		"handbook": { groupBy: ["fancyinnercabinet-*"] },
         "inventoryClassName": "Cabinet",
         "pieFormingSurface": true,
-        "quantitySlots": "8"
+        "quantitySlots": 8
     },
     "behaviors": [
         {

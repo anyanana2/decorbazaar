@@ -6,7 +6,7 @@
     "attributes": {
 		"inventoryClassName": "Cabinet",
 		"handbook": { groupBy: ["spicerack-*"] },
-		"quantitySlots": "8",
+		"quantitySlots": 8,
 		"dialogTitleLangCode": "Cabinet Storage"
 	},
     "variantgroups": [

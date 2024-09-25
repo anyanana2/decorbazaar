@@ -37,10 +37,10 @@
 			"normal": "vesselcontents",
 		},
 		"quantitySlots": {
-			"normal": true,
+			"normal": 32,
 			},
 		"storageType": {
-			"normal": 32
+			"normal": true
 		},
 		"retrieveOnly": {
 			"normal": false
@@ -50,7 +50,7 @@
 			},
 		"spoilSpeedMulByFoodCat": {
 			"normal": {
-				"vegetable": 0.1,
+				"vegetable": 0.5,
 				"grain": 0.75
 			}
 		},

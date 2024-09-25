@@ -9,7 +9,7 @@
 		dialogTitleLangCode: "Mushroom Storage",
 		defaultType: "normal",
 		types: ["normal"],
-		"quantitySlots": "20",
+		"quantitySlots": 20,
 		drop: {
 			"normal": true
 		},
@@ -27,8 +27,8 @@
 		},
 		spoilSpeedMulByFoodCat: {
 			"normal": {
-				"vegetable": 0.2,
-				"grain": 0.1
+				"vegetable": 0.5,
+				"grain": 0.5
 			}
 		},
 },

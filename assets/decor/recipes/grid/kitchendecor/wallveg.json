@@ -3,8 +3,8 @@
 		ingredientPattern: "PCP,PTP,PPP",
 	   	ingredients: {
 	   	"P": { type: "item", code: "game:plank-*", quantity: 2 },
-	   	"T": { type: "item", code: "game:vegetable-turnip", quantity: 4 },
-	   	"C": { type: "item", code: "game:vegetable-carrot", quantity: 4 },
+	   	"T": { type: "item", code: "game:vegetable-turnip", quantity: 8 },
+	   	"C": { type: "item", code: "game:vegetable-carrot", quantity: 8 },
 	   	},
 	   	width: 3,
 	   	height: 3,

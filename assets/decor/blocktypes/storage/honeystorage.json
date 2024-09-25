@@ -6,7 +6,7 @@
 	attributes: {
 		inventoryClassName: "Cabinet",
 		dialogTitleLangCode: "Honey Storage",
-		"quantitySlots": "12",
+		"quantitySlots": 12,
 		},
     "variantgroups": [
 		{ code:"type", states: ["normal"] },

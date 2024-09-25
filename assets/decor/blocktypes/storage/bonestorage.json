@@ -6,7 +6,7 @@
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }, {"name": "Container"}],
     "attributes": {
 		"inventoryClassName": "Cabinet",
-		"quantitySlots": "20",
+		"quantitySlots": 20,
 		"dialogTitleLangCode": "Bone Storage"
 	},
     "shape": {

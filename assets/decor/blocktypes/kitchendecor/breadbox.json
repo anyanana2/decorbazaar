@@ -9,7 +9,7 @@
 		dialogTitleLangCode: "Bread Box",
 		defaultType: "normal",
 		types: ["normal"],
-		"quantitySlots": "12",
+		"quantitySlots": 12,
 		drop: {
 			"normal": true
 		},
@@ -28,7 +28,7 @@
 		spoilSpeedMulByFoodCat: {
 			"normal": {
 				"vegetable": 0.75,
-				"grain": 0.1
+				"grain": 0.5
 			}
 		},
 },

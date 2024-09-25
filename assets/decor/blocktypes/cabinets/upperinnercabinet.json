@@ -3,7 +3,7 @@
         "dialogTitleLangCode": "Cabinet Storage",
 		"handbook": { groupBy: ["upperinnercabinet-*"] },
         "inventoryClassName": "Cabinet",
-        "quantitySlots": "8"
+        "quantitySlots": 8
     },
     "behaviors": [
         {

@@ -9,7 +9,7 @@
 		"dialogTitleLangCode": "Meat Storage",
 		"defaultType": "normal",
 		"types": ["normal"],
-		"quantitySlots": "20",
+		"quantitySlots": 20,
 		"drop": {
 			"normal": true
 		},
@@ -27,7 +27,7 @@
 		},
 		"spoilSpeedMulByFoodCat": {
 			"normal": {
-				"Protein": 0.1
+				"Protein": 0.5
 			}
 		},
 	},

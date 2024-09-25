@@ -6,7 +6,7 @@
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
 	"attributes": {
 		"inventoryClassName": "Cabinet",
-		"quantitySlots": "12",
+		"quantitySlots": 12,
 		"dialogTitleLangCode": "Button Storage"
 	},
     "shape": {

@@ -1,11 +1,11 @@
 {
   "game:tabname-decorbazaar": "Decor Bazaar",
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
-  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for getting the stoves to function as well as the bath! Thank you to RikeiR for translating to Japanese! Enjoy!
+  "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for the bath functionality and thank you @Feidry for the stove/firepit functionality! Thank you to RikeiR for translating to Japanese! Enjoy!
 
 List of Items:
 
-New Ovens!
+Ovens:
 These function as ovens, naturally. There are 7 types, 3 free-standing, 3 table top, and one meant to be put in the wall.
 
 To place the free standing ovens, you MUST place a temporary block where you would like to put the oven first. It can be a dirt block. Then you will place the free-standing oven on top of the temporary block, and then destroy the temporary block. Viola! An oven with fancy stuff underneath.
@@ -19,7 +19,7 @@ To place the free standing ovens, you MUST place a temporary block where you wou
 <a href=\"handbooksearch://fancy table oven with glass\">Fancy Table Oven with Glass</a>
 
 
-Stoves: These stoves currently function as ovens, though not visually. You can still see what is cooking by looking at the UI. 
+Stoves: These stoves now function as firepits! Thanks @Feidry! 
 <a href=\"handbooksearch://stone stove\">Stone Stove</a>
 <a href=\"handbooksearch://cast iron stove\">Cast Iron Stove</a>
 <a href=\"handbooksearch://cast iron stove with firewood\">Cast Iron Stove with Firewood</a>
@@ -28,7 +28,6 @@ Stoves: These stoves currently function as ovens, though not visually. You can s
 
 
 Bathroom Decor:
-<a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
 <a href=\"handbooksearch://Victorian Toilet\">Victorian Toilet</a>
 <a href=\"handbooksearch://Victorian Sink\">Victorian Sink</a>
 <a href=\"handbooksearch://Claw Foot Tub\">Claw Foot Tub</a> allows for 100 buckets of water to fill up. 
@@ -57,6 +56,25 @@ Tables:
 <a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
 <a href=\"handbooksearch://Gothic Table\">Gothic Table</a>
 
+Storage: some have food storage times.
+<a href=\"handbooksearch://Meat Storage\">Meat Storage</a>. Model and textures by BORGAR on Discord. Thank you!
+<a href=\"handbooksearch://Linen Storage\">Linen Storage</a>
+<a href=\"handbooksearch://Bone Storage\">Bone Storage</a>
+<a href=\"handbooksearch://Fat Storage\">Fat Storage</a>
+<a href=\"handbooksearch://Honey Storage\">Honey Storage</a>
+<a href=\"handbooksearch://Sewing Shelf\">Sewing Shelf</a>
+<a href=\"handbooksearch://Twine Storage\">Twine Storage</a>
+<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
+<a href=\"handbooksearch://Vegetable Storage\">Veggie Storage</a>
+<a href=\"handbooksearch://Bread Box\">Bread Box</a> 
+<a href=\"handbooksearch://compost bin\">Compost Bin</a> will accelerate rot depending on outside temp.
+<a href=\"handbooksearch://Wardrobe\">Wardrobe</a> 
+
+Clutter:
+<a href=\"handbooksearch://Cooking Clutter\">Cooking Clutter</a>
+<a href=\"handbooksearch://Forraging Clutter\">Forraging Clutter</a>
+<a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
+<a href=\"handbooksearch://Bathroom Clutter\">Bathroom Clutter</a>
 
 Kitchen:
 All of the cabinet variants now have inner or corner types for those of you who want L shaped kitchens!
@@ -69,7 +87,7 @@ All of the cabinet variants now have inner or corner types for those of you who 
 <a href=\"handbooksearch://stone Sink\">Stone Sinks</a>
 <a href=\"handbooksearch://wood Sink\">Wood Sinks</a>
 
-Double Wood & Stone sinks as well as the bald cypress sink now are able to contain water! To do this, you must place the water block, or empty a bucket, in the place you want to put the sink. The, you place the sink on top of where the water is flowing. If done correctly, it should stop overflowing and be completely contained within the sink. Infinite sink water!
+Double Wood & Stone sinks as well as the bald cypress sink now are able to contain water! To do this, you must place the water block, or empty a bucket, in the place you want to put the sink. The, you place the sink on top of where the water is flowing. If done correctly, it should stop overflowing and be completely contained within the sink. Infinite water!
 
 <a href=\"handbooksearch://Stone Cabinet\">Stone Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Stone Drawer\">Stone Drawer & Island</a> has storage slots.
@@ -79,7 +97,7 @@ Double Wood & Stone sinks as well as the bald cypress sink now are able to conta
 <a href=\"handbooksearch://Fancy Cabinet\">Fancy Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Fancy Upper Cabinet\">Fancy Upper Cabinet</a> has storage slots.
 
-<a href=\"handbooksearch://Kitchen Clutter\">Kitchen Clutter</a>
+Kitchen Decor:
 <a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
 <a href=\"handbooksearch://Jug\">Jug</a>
 <a href=\"handbooksearch://glass tray\">Glass Tray</a>
@@ -89,16 +107,11 @@ Double Wood & Stone sinks as well as the bald cypress sink now are able to conta
 <a href=\"handbooksearch://Pots and Pans\">Pots and Pans</a>
 <a href=\"handbooksearch://mug rack\">Mug Rack</a>
 <a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
-<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a> is functional.
-<a href=\"handbooksearch://Vegetable Storage\">Veggie Storage</a> is functional. 
 <a href=\"handbooksearch://Tea Set\">Tea Sets</a>
 <a href=\"handbooksearch://Spice Rack\">Spice Rack</a> has storage.
 <a href=\"handbooksearch://Kitchen Shelf\">Kitchen Shelf</a>
-<a href=\"handbooksearch://Bread Box\">Bread Box</a> has storage slots and can preserve food.
-<a href=\"handbooksearch://compost bin\">Compost Bin</a> should accelerate rot.
 <a href=\"handbooksearch://Herb Rack\">Herb Rack</a>
-<a href=\"handbooksearch://cooking clutter\">Cooking Clutter</a> : right click to change variant.
-<a href=\"handbooksearch://forraging clutter\">Forraging Clutter</a> : right click to change variant (more variants coming soon).
+
 
 Lamps:
 All Lamps are functional. Candelabras now have aged variant as well as most metal variants. 
@@ -132,22 +145,17 @@ Garden Decor:
 Curtains:
 <a href=\"handbooksearch://curtain\">Curtains</a> work where you right click to change whether you want the top (with the rod), middle, or bottom variant to be expressed for each block. There are currently a plain type and a fancy type. The color variants are: black, blue, brown, gray, green, orange, pink, plain, purple, red, white, and yellow. 
 
-Mail Boxes: <a href=\"handbooksearch://garden sign\">Mail Boxes</a> are just decorative. 
+Mail Boxes: <a href=\"handbooksearch://mail box\">Mail Boxes</a> are just decorative. 
 
 Random Stuff:
 <a href=\"handbooksearch://Butter Churn\">Butter Churn</a>
 <a href=\"handbooksearch://wooden shelf\">Wooden Shelf</a> : right click to change variant.
 <a href=\"handbooksearch://Witchy Items\">Witchy Items</a>
 <a href=\"handbooksearch://cartographer map\">Cartographer Map</a>
-<a href=\"handbooksearch://Sewing Shelf\">Sewing Shelf</a>
-<a href=\"handbooksearch://Twine Storage\">Twine Storage</a>
-<a href=\"handbooksearch://Wardrobe\">Wardrobe</a> has slots for clothes.
 <a href=\"handbooksearch://Brass Mirror\">Brass Mirror</a>
 <a href=\"handbooksearch://Brass Candle Shelf\">Brass Candle Shelf</a>
 <a href=\"handbooksearch://Mushroom Cloche\">Brass Mushroom Cloche</a>
 <a href=\"handbooksearch://Pile of Letters\">Pile of Letters</a>
-<a href=\"handbooksearch://sewing shelf\">Sewing Shelf</a> has storage.
-<a href=\"handbooksearch://twine storage\">Twine Storage</a> has storage.
 <a href=\"handbooksearch://grave\">Graves</a> : right click to change variant. 
 
 
@@ -176,6 +184,7 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
 <a href=\"handbooksearch://Beatle Wallpaper\">Beatle Wallpaper</a>
 <a href=\"handbooksearch://Dark Floral Wallpaper\">Dark Floral Wallpaper</a>
 <a href=\"handbooksearch://Bat Wallpaper\">Bat Wallpaper</a>
+
 
 ",
 
@@ -3071,5 +3080,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-meatstorage-*": "Meat Storage",
   "block-linenstorage-*": "Linen Storage",
   "block-buttonstorage-*": "Button Storage",
+
 
 }
