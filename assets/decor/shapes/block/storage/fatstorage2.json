@@ -16,12 +16,12 @@
 		"8": [16,16]
 	},
 	"textures": {
-		"8": "C:/Games/Vintagestory/Mods/decorbazaar/assets/decor/textures/block/bazaar/food/dumplingraw",
-		"4": "C:/Games/Vintagestory/Mods/decorbazaar/assets/decor/textures/block/bazaar/glass/honeyjar",
-		"7": "C:/Games/Vintagestory/Mods/decorbazaar/assets/decor/textures/block/bazaar/signs/jars",
-		"3": "block/cloth/burlap/string",
-		"2": "block/reed/basket/normal-westeast",
-		"0": "block/wood/debarked/aged"
+		"8": "block/bazaar/food/dumplingraw",
+		"4": "block/bazaar/glass/honeyjar",
+		"7": "block/bazaar/signs/jars",
+		"3": "game:block/cloth/burlap/string",
+		"2": "game:block/reed/basket/normal-westeast",
+		"0": "game:block/wood/debarked/aged"
 	},
 	"elements": [
 		{
@@ -42,7 +42,7 @@
 		{
 			"name": "cube",
 			"from": [ 0.0, 2.0, 0.0 ],
-			"to": [ 16.0, 3.0, 10.0 ],
+			"to": [ 16.0, 3.0, 9.0 ],
 			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
 			"faces": {
 				"north": { "texture": "#0", "uv": [ 0.0, 0.0, 20.0, 2.0 ], "autoUv": false },
