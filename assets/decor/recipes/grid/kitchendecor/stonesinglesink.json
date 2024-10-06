@@ -1,6 +1,6 @@
 [
 	{
-		ingredientPattern: "WIW,BWB.BBB",
+		ingredientPattern: "WIW,BWB,BBB",
 	   	ingredients: {
 	   	"B": { type: "item", "name": "stone", code: "game:stone-*", quantity: 4 },
 	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 2 },

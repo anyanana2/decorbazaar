@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "P__,GGG,__P",
 	   	ingredients: {
-	   	"G": { type: "item", code: "game:glass-plain", quantity: 1 },
+	   	"G": { type: "Block", code: "game:glass-plain", quantity: 1 },
 	   	"P": { type: "item", code: "game:"plank-*", quantity: 1 },
 	   	},
 	   	width: 3,
