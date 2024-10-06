@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "P__,GGG,__P",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:glass-plain", quantity: 1 },
+	   	"P": { type: "item", code: "game:"plank-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:buttonstorage", quantity: 1 }
+	}
+]

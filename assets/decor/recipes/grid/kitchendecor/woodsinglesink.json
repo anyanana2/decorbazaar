@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "WIW,BWB.BBB",
+	   	ingredients: {
+	   	"B": { type: "item", "name": "wood", code: "game:plank-*", quantity: 4 },
+	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 2 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:woodsinglesink-{wood}-north", "quantity": 1 }
+	}
+]

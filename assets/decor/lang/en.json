@@ -3,6 +3,8 @@
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
   "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for the bath functionality and thank you @Feidry for the stove/firepit functionality! Thank you to RikeiR for translating to Japanese! Enjoy!
 
+New blocks with 1.1.6: new metal sconces, new wood sconces, single bald cypress sink is now liberated and has all wood types and stone types to match basic wood kitchen set and stone kitchen set. Single sinks can hold water like double sinks. I have also liberated the cottage core table and stool, inproving the models and allowing for all types of wood variants. The cottage core tables now have a double table (with candles) and a single version (with no candles). The cottage core stool now has the original version + a stool with a back. 
+
 List of Items:
 
 Ovens:
@@ -84,10 +86,15 @@ All of the cabinet variants now have inner or corner types for those of you who 
 <a href=\"handbooksearch://Left Upper Cabinet\">Left Upper Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Right Upper Cabinet\">Right Upper Cabinet</a> has storage slots.
 <a href=\"handbooksearch://Open Cabinet\">Open Cabinet</a>
-<a href=\"handbooksearch://stone Sink\">Stone Sinks</a>
-<a href=\"handbooksearch://wood Sink\">Wood Sinks</a>
 
-Double Wood & Stone sinks as well as the bald cypress sink now are able to contain water! To do this, you must place the water block, or empty a bucket, in the place you want to put the sink. The, you place the sink on top of where the water is flowing. If done correctly, it should stop overflowing and be completely contained within the sink. Infinite water!
+Sinks: 
+All sinks are able to contain water! To do this, you must place the water block (creative), or empty a bucket onto the block you want to place the sink/water source. The, you place the sink on top of where the water is flowing. If done correctly, it should stop overflowing and be completely contained within the sink. Infinite water!
+
+<a href=\"handbooksearch://single stone Sink\">Single Stone Sinks</a> are designed to match the stone kitchen set.
+<a href=\"handbooksearch://single wood Sink\">Wood Sinks</a> are designed to match the basic wood kitchen set.
+<a href=\"handbooksearch://double wood Sink\">Wood Sink</a> the left side of the sink is what contains the water.
+<a href=\"handbooksearch://double stone Sink\">Double Stone Sink</a> the left side of the sink is what contains the water.
+
 
 <a href=\"handbooksearch://Stone Cabinet\">Stone Cabinet & Island</a> has storage slots.
 <a href=\"handbooksearch://Stone Drawer\">Stone Drawer & Island</a> has storage slots.
@@ -100,12 +107,12 @@ Double Wood & Stone sinks as well as the bald cypress sink now are able to conta
 Kitchen Decor:
 <a href=\"handbooksearch://Ceramic Yellow Pot\">Ceramic Yellow Pot</a>
 <a href=\"handbooksearch://Jug\">Jug</a>
-<a href=\"handbooksearch://glass tray\">Glass Tray</a>
-<a href=\"handbooksearch://table setting\">Table Setting</a> :right click to change variant.
-<a href=\"handbooksearch://deco shelf\">Deco Shelf</a>
+<a href=\"handbooksearch://Glass Tray\">Glass Tray</a>
+<a href=\"handbooksearch://Table Setting\">Table Setting</a> :right click to change variant.
+<a href=\"handbooksearch://Deco Shelf\">Deco Shelf</a>
 <a href=\"handbooksearch://Dish Rack\">Dish Rack</a>
 <a href=\"handbooksearch://Pots and Pans\">Pots and Pans</a>
-<a href=\"handbooksearch://mug rack\">Mug Rack</a>
+<a href=\"handbooksearch://Mug Rack\">Mug Rack</a>
 <a href=\"handbooksearch://Bread Basket\">Bread Basket</a>
 <a href=\"handbooksearch://Tea Set\">Tea Sets</a>
 <a href=\"handbooksearch://Spice Rack\">Spice Rack</a> has storage.
@@ -115,11 +122,13 @@ Kitchen Decor:
 
 Lamps:
 All Lamps are functional. Candelabras now have aged variant as well as most metal variants. 
-<a href=\"handbooksearch://Brass Lamp\">Brass Lamps</a> Right click to change type.
-<a href=\"handbooksearch://Brass Sconce\">Brass Sconce</a> 
+<a href=\"handbooksearch://metal lamp\">Metal Lamps</a> Right click to change type.
+<a href=\"handbooksearch://Metal Sconce\">Metal Sconces</a> 
+<a href=\"handbooksearch://Wood Sconce\">Wood Sconces</a>
 <a href=\"handbooksearch://Goth Lamp\">Goth Lamp</a> 
 <a href=\"handbooksearch://Tall Candelabra\">Tall Candelabra</a> 
 <a href=\"handbooksearch://Table Candelabra\">Table Candelabra</a> 
+
 
 Seating:
 <a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
@@ -227,7 +236,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-opencabinet-*": "Open Cabinet",
   "block-sink-*": "Sink (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
-  "block-brasssconce-*": "Brass Sconce",
   "block-brassbed-*": "Brass Bed",
   "block-flowerbed-*": "Flower Bed",
   "block-brasstable-*": "Brass Table",
@@ -710,9 +718,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-wallpaper-darkfloral": "Dark Floral Wallpaper",
   "block-wallpaper-bat": "Bat Wallpaper",
 
-
-  "block-cottagecoretable-*": "Cottage Core Table (Bald Cypress)",
-  "block-cottagecorestool-*": "Cottage Core Stool (Bald Cypress)",
   "block-counterclutter-*": "Kitchen Clutter",
   "block-pot-*": "Ceramic Yellow Pot",
   "block-potsandpans-*": "Pots and Pans",
@@ -3080,6 +3085,118 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-meatstorage-*": "Meat Storage",
   "block-linenstorage-*": "Linen Storage",
   "block-buttonstorage-*": "Button Storage",
+
+  "block-metalsconce-bismuth-*": "Bismuth Sconce",
+  "block-metalsconce-bismuthbronze-*": "Bismuth Bronze Sconce",
+  "block-metalsconce-blackbronze-*": "Black Bronze Sconce",
+  "block-metalsconce-brass-*": "Brass Sconce",
+  "block-metalsconce-copper-*": "Copper Sconce",
+  "block-metalsconce-gold-*": "Gold Sconce",
+  "block-metalsconce-iron-*": "Iron Sconce",
+  "block-metalsconce-lead-*": "Lead Sconce",
+  "block-metalsconce-meteoriciron-*": "Meteoric Iron Sconce",
+  "block-metalsconce-nickel-*": "Nickel Sconce",
+  "block-metalsconce-silver-*": "Silver Sconce",
+  "block-metalsconce-steel-*": "Steel Sconce",
+  "block-metalsconce-tin-*": "Tin Sconce",
+  "block-metalsconce-tinbronze-*": "Tin Bronze Sconce",
+
+  "block-woodroundsconce-aged-*": "Aged Round Sconce",
+  "block-woodroundsconce-acacia-*": "Acacia Round Sconce",
+  "block-woodroundsconce-baldcypress-*": "Bald Cypress Round Sconce",
+  "block-woodroundsconce-birch-*": "Birch Round Sconce",
+  "block-woodroundsconce-ebony-*": "Ebony Round Sconce",
+  "block-woodroundsconce-kapok-*": "Kapok Round Sconce",
+  "block-woodroundsconce-larch-*": "Larch Round Sconce",
+  "block-woodroundsconce-maple-*": "Maple Round Sconce",
+  "block-woodroundsconce-oak-*": "Oak Round Sconce",
+  "block-woodroundsconce-pine-*": "Pine Round Sconce",
+  "block-woodroundsconce-purpleheart-*": "Purple Heart Round Sconce",
+  "block-woodroundsconce-redwood-*": "Redwood Round Sconce",
+  "block-woodroundsconce-walnut-*": "Walnut Round Sconce",
+
+  "block-doublestonesink-andesite-*": "Andesite Single Stone Sink",
+  "block-doublestonesink-basalt-*": "Basalt Single Stone Sink",
+  "block-doublestonesink-bauxite-*": "Bauxite Single Stone Sink",
+  "block-doublestonesink-chalk-*": "Chalk Single Stone Sink",
+  "block-doublestonesink-chert-*": "Chert Single Stone Sink",
+  "block-doublestonesink-claystone-*": "Claystone Single Stone Sink",
+  "block-doublestonesink-conglomerate-*": "Conglomerate Single Stone Sink",
+  "block-doublestonesink-granite-*": "Granite Single Stone Sink",
+  "block-doublestonesink-kimberlite-*": "Kimberlite Single Stone Sink",
+  "block-doublestonesink-limestone-*": "Limestone Single Stone Sink",
+  "block-doublestonesink-peridotite-*": "Peridotite Single Stone Sink",
+  "block-doublestonesink-phyllite-*": "Phyllite Single Stone Sink",
+  "block-doublestonesink-sandstone-*": "Sandstone Single Stone Sink",
+  "block-doublestonesink-shale-*": "Shale Single Stone Sink",
+  "block-doublestonesink-slate-*": "Slate Single Stone Sink",
+  "block-doublestonesink-suevite-*": "Suevite Single Stone Sink",
+
+  "block-doublewoodsink-aged-*": "Aged Single Wood Sink",
+  "block-doublewoodsink-acacia-*": "Acacia Single Wood Sink",
+  "block-doublewoodsink-baldcypress-*": "Bald Cypress Single Wood Sink",
+  "block-doublewoodsink-birch-*": "Birch Single Wood Sink",
+  "block-doublewoodsink-ebony-*": "Ebony Single Wood Sink",
+  "block-doublewoodsink-kapok-*": "Kapok Single Wood Sink",
+  "block-doublewoodsink-larch-*": "Larch Single Wood Sink",
+  "block-doublewoodsink-maple-*": "Maple Single Wood Sink",
+  "block-doublewoodsink-oak-*": "Oak Single Wood Sink",
+  "block-doublewoodsink-pine-*": "Pine Single Wood Sink",
+  "block-doublewoodsink-purpleheart-*": "Purple Heart Single Wood Sink",
+  "block-doublewoodsink-redwood-*": "Redwood Single Wood Sink",
+  "block-doublewoodsink-walnut-*": "Walnut Single Wood Sink",
+
+  "block-cottagecoretablesingle-aged-*": "Single Cottage Core Table (Aged)",
+  "block-cottagecoretablesingle-acacia-*": "Single Cottage Core Table (Acacia)",
+  "block-cottagecoretablesingle-baldcypress-*": "Single Cottage Core Table (Bald Cypress)",
+  "block-cottagecoretablesingle-birch-*": "Single Cottage Core Table (Birch)",
+  "block-cottagecoretablesingle-ebony-*": "Single Cottage Core Table (Ebony)",
+  "block-cottagecoretablesingle-kapok-*": "Single Cottage Core Table (Kapok)",
+  "block-cottagecoretablesingle-larch-*": "Single Cottage Core Table (Larch)",
+  "block-cottagecoretablesingle-maple-*": "Single Cottage Core Table (Maple)",
+  "block-cottagecoretablesingle-oak-*": "Single Cottage Core Table (Pine)",
+  "block-cottagecoretablesingle-purpleheart-*": "Single Cottage Core Table (Purple Heart)",
+  "block-cottagecoretablesingle-redwood-*": "Single Cottage Core Table (Redwood)",
+  "block-cottagecoretablesingle-walnut-*": "Single Cottage Core Table (Walnut)",
+
+  "block-cottagecoretabledouble-aged-*": "Double Cottage Core Table (Aged)",
+  "block-cottagecoretabledouble-acacia-*": "Double Cottage Core Table (Acacia)",
+  "block-cottagecoretabledouble-baldcypress-*": "Double Cottage Core Table (Bald Cypress)",
+  "block-cottagecoretabledouble-birch-*": "Double Cottage Core Table (Birch)",
+  "block-cottagecoretabledouble-ebony-*": "Double Cottage Core Table (Ebony)",
+  "block-cottagecoretabledouble-kapok-*": "Double Cottage Core Table (Kapok)",
+  "block-cottagecoretabledouble-larch-*": "Double Cottage Core Table (Larch)",
+  "block-cottagecoretabledouble-maple-*": "Double Cottage Core Table (Maple)",
+  "block-cottagecoretabledouble-oak-*": "Double Cottage Core Table (Pine)",
+  "block-cottagecoretabledouble-purpleheart-*": "Double Cottage Core Table (Purple Heart)",
+  "block-cottagecoretabledouble-redwood-*": "Double Cottage Core Table (Redwood)",
+  "block-cottagecoretabledouble-walnut-*": "Double Cottage Core Table (Walnut)",
+
+  "block-cottagecorestool-aged-*": "Cottage Core Stool (Aged)",
+  "block-cottagecorestool-acacia-*": "Cottage Core Stool (Acacia)",
+  "block-cottagecorestool-baldcypress-*": "Cottage Core Stool (Bald Cypress)",
+  "block-cottagecorestool-birch-*": "Cottage Core Stool (Birch)",
+  "block-cottagecorestool-ebony-*": "Cottage Core Stool (Ebony)",
+  "block-cottagecorestool-kapok-*": "Cottage Core Stool (Kapok)",
+  "block-cottagecorestool-larch-*": "Cottage Core Stool (Larch)",
+  "block-cottagecorestool-maple-*": "Cottage Core Stool (Maple)",
+  "block-cottagecorestool-oak-*": "Cottage Core Stool (Pine)",
+  "block-cottagecorestool-purpleheart-*": "Cottage Core Stool (Purple Heart)",
+  "block-cottagecorestool-redwood-*": "Cottage Core Stool (Redwood)",
+  "block-cottagecorestool-walnut-*": "Cottage Core Stool (Walnut)",
+
+  "block-cottagecorestoolwback-aged-*": "Cottage Core Chair (Aged)",
+  "block-cottagecorestoolwback-acacia-*": "Cottage Core Chair (Acacia)",
+  "block-cottagecorestoolwback-baldcypress-*": "Cottage Core Chair (Bald Cypress)",
+  "block-cottagecorestoolwback-birch-*": "Cottage Core Chair (Birch)",
+  "block-cottagecorestoolwback-ebony-*": "Cottage Core Chair (Ebony)",
+  "block-cottagecorestoolwback-kapok-*": "Cottage Core Chair (Kapok)",
+  "block-cottagecorestoolwback-larch-*": "Cottage Core Chair (Larch)",
+  "block-cottagecorestoolwback-maple-*": "Cottage Core Chair (Maple)",
+  "block-cottagecorestoolwback-oak-*": "Cottage Core Chair (Pine)",
+  "block-cottagecorestoolwback-purpleheart-*": "Cottage Core Chair (Purple Heart)",
+  "block-cottagecorestoolwback-redwood-*": "Cottage Core Chair (Redwood)",
+  "block-cottagecorestoolwback-walnut-*": "Cottage Core Chair (Walnut)",
 
 
 }

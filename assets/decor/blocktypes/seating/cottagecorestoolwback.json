@@ -1,9 +1,9 @@
 {
-    "code": "cottagecorestool",
+    "code": "cottagecorestoolwback",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }],
 "attributes": {
-		"handbook": { groupBy: ["cottagecorestool-*"] }
+		"handbook": { groupBy: ["cottagecorestoolwback-*"] }
 },
     "variantgroups": [
         {
@@ -31,10 +31,10 @@
     ],
 shapeByType: {
 
-         "*-north": { base: "block/seating/cottagecorestool", rotateY: 0 },
-         "*-east": { base: "block/seating/cottagecorestool", rotateY: 270 },
-         "*-south": { base: "block/seating/cottagecorestool", rotateY: 180 },
-         "*-west": { base: "block/seating/cottagecorestool", rotateY: 90 }
+         "*-north": { base: "block/seating/cottagecorestoolwback", rotateY: 0 },
+         "*-east": { base: "block/seating/cottagecorestoolwback", rotateY: 270 },
+         "*-south": { base: "block/seating/cottagecorestoolwback", rotateY: 180 },
+         "*-west": { base: "block/seating/cottagecorestoolwback", rotateY: 90 }
      },
     "blockmaterial": "wood",
   "lightAbsorption": 0,

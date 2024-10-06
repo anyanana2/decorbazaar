@@ -1,5 +1,5 @@
 {
-    "code": "cottagecoretable",
+    "code": "cottagecoretabledouble",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [{ "name": "HorizontalOrientable" }, {name: "UnstableFalling"}],
     "attributes": {
@@ -7,7 +7,7 @@
      },
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
     "shape": {
-        "base": "block/tables/cottagecoretable",
+        "base": "block/tables/cottagecoretabledouble",
         "rotateYByType": {
             "*-north": 0,
             "*-east": 270,

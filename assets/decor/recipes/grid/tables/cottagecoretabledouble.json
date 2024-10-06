@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "CGC,PPP,P_P",
+	   	ingredients: {
+	   	"P": { type: "item", "name": "wood", code: "game:plank-*", quantity: 1 },
+	   	"G": { type: "item", code: "game:cloth-green", quantity: 1 },
+	   	"C": { type: "item", code: "game:candle", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:cottagecoretabledouble-{wood}-north" }
+	}
+]

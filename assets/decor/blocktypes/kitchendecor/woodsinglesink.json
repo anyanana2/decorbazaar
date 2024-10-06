@@ -1,0 +1,95 @@
+{
+    "code": "woodsinglesink",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+	attributes: {
+		canChisel: false,
+		"handbook": { groupBy: ["woodsinglesink-*"] },
+		chiselShapeFromCollisionBox: true,
+		liquidBarrierOnSides: { "woodsinglesink-*": [ 1.0, 1.0, 1.0, 1.0 ]
+		}
+	},
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+		{
+			"code": "metal",
+			"states": [
+				"bismuth",
+				"bismuthbronze",
+				"blackbronze",
+				"brass",
+				"copper",
+				"gold",
+				"iron",
+				"meteoriciron",
+				"nickel",
+				"silver",
+				"steel",
+				"tin",
+				"tinbronze"
+				]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+"shapeByType": {
+
+         "*-north": { "base": "block/kitchendecor/woodsinglesink", rotateY: 0 },
+         "*-east": { "base": "block/kitchendecor/woodsinglesink", rotateY: 270 },
+         "*-south": { "base": "block/kitchendecor/woodsinglesink", rotateY: 180 },
+         "*-west": { "base": "block/kitchendecor/woodsinglesink", rotateY: 90 }
+     },
+	blockmaterial: "wood",
+	"replaceable": 300,
+	drawtype: "json",
+	resistance: 2,
+	faceCullMode: "NeverCull",
+	lightAbsorption: 0,
+	emitSideAo: {all: false },
+	sideAo: { all: false },
+	sideopaque: {
+		all: false
+	},
+	sidesolid: {
+		up: false,
+		down: false,
+		north: true,
+		south: true,
+		east: true,
+		west: true
+	},
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	"guiTransform": {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

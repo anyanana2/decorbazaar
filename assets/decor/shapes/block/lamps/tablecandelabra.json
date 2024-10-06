@@ -12,7 +12,7 @@
 	},
 	"textures": {
 		"1": "game:block/candle",
-		"metal": "game:block/metal/ingot/gold"
+		"metal": "game:block/#metal/ingot/gold"
 	},
 	"elements": [
 		{
