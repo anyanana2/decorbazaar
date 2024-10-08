@@ -11,8 +11,6 @@ namespace DecorBazaar
 {
     internal class DecorBazaarConfig
     {
-        //public static DecorBazaarConfig Current { get; set; }
-        //ICoreAPI api;
 
         public DecorBazaarConfig() { }
         public DecorBazaarConfig(Dictionary<string, dynamic> config)
@@ -47,7 +45,6 @@ namespace DecorBazaar
             DecorBazaarConfig DecorBazaarConfig = null;
             try
             {
-                //Dictionary<string, dynamic> configs = api.LoadModConfig<Dictionary<string, dynamic>>("DecorBazaar.json");
                 DecorBazaarConfig = new DecorBazaarConfig(api.LoadModConfig<Dictionary<string, dynamic>>("DecorBazaar.json"));
                 if (DecorBazaarConfig != null)
                 {
