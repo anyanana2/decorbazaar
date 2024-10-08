@@ -3,7 +3,7 @@
   "name": "Decor Bazaar",
   "modid": "decor",
   "description": "Adds various decor blocks",
-  "authors": [ "anyanana", "Feidry"],
+  "authors": [ "anyanana", "Feidry", "Arkhael"],  
   "version": "1.1.5",
   "gameversions": [ "1.5.0.3+" ],
 }
