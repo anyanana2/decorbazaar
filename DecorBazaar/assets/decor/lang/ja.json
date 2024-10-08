@@ -798,7 +798,7 @@
  "block-doublewoodsink-ghostgum-bismuth-*": "ダブル木のシンク（ゴーストガムビスマス）",
  "block-doublewoodsink-ohia-bismuth-*": "ダブル木のシンク（オヒアビスマス）",
 
- "block-doublewoodsink-redcedar-bismuth-*": ダブル木のシンク（ベイスギビスマス）",
+ "block-doublewoodsink-redcedar-bismuth-*": "ダブル木のシンク（ベイスギビスマス）",
  "block-doublewoodsink-satinash-bismuth-*": "ダブル木のシンク（サテンアッシュビスマス）",
 
   "block-doublewoodsink-aged-bismuthbronze-*": "ダブル木のシンク（古びたビスマス青銅）",
@@ -3030,12 +3030,12 @@
 
 // 散乱物のバリエーション //
 
-  "block-cookingclutter-1-*": "料理の散乱物\",
-  "block-cookingclutter-2-*": "料理の散乱物\",
-  "block-cookingclutter-3-*": "料理の散乱物\",
-  "block-cookingclutter-4-*": "料理の散乱物\",
-  "block-cookingclutter-5-*": "料理の散乱物\",
-  "block-cookingclutter-6-*": "料理の散乱物\",
+  "block-cookingclutter-1-*": "料理の散乱物",
+  "block-cookingclutter-2-*": "料理の散乱物",
+  "block-cookingclutter-3-*": "料理の散乱物",
+  "block-cookingclutter-4-*": "料理の散乱物",
+  "block-cookingclutter-5-*": "料理の散乱物",
+  "block-cookingclutter-6-*": "料理の散乱物",
 
   "block-forragingclutter-1-*": "狩猟採集の散乱物",
   "block-forragingclutter-2-*": "狩猟採集の散乱物",
