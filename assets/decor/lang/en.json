@@ -3,7 +3,7 @@
   "game:decorbazaar-quickstart-title": "Decor Bazaar",
   "game:decorbazaar-quickstart-text": "Thank you for using my mod! This mod adds decorative items to the game. If anyone would love to help develop the mod, please contact me on discord @anyanana. Thank you to @EightTonnesOfCrab on discord for the bath functionality and thank you @Feidry for the stove/firepit functionality! Thank you to RikeiR for translating to Japanese! Enjoy!
 
-New blocks with 1.1.6: new metal sconces, new wood sconces, single bald cypress sink is now liberated and has all wood types and stone types to match basic wood kitchen set and stone kitchen set. Single sinks can hold water like double sinks. I have also liberated the cottage core table and stool, inproving the models and allowing for all types of wood variants. The cottage core tables now have a double table (with candles) and a single version (with no candles). The cottage core stool now has the original version + a stool with a back. 
+New blocks with 1.1.6: new metal sconces, new wood sconces, single bald cypress sink is now liberated and has all wood types and stone types to match basic wood kitchen set and stone kitchen set. Single sinks can hold water like double sinks. I have also liberated the cottage core table and stool, improving the models and allowing for all types of wood variants. The cottage core tables now have a double table (with candles) and a single version (with no candles). The cottage core stool now has the original version + a stool with a back. 
 
 List of Items:
 
@@ -52,23 +52,23 @@ All beds are functional :)
 
 
 Tables:
-<a href=\"handbooksearch://Side Table\">Side Tables</a> right click to change type!
+<a href=\"handbooksearch://Side Table\">Side Tables</a> right click to change variant.
 <a href=\"handbooksearch://Brass Table\">Brass Table</a>
 <a href=\"handbooksearch://coffee table\">Coffee Table</a> :right click to change variant.
-<a href=\"handbooksearch://Cottage Core Table (Bald Cypress)\">Cottage Core Table (Bald Cypress)</a>
+<a href=\"handbooksearch://Cottage Core Table\">Cottage Core Tables</a> have all wood variants and have a single and double version
 <a href=\"handbooksearch://Gothic Table\">Gothic Table</a>
 
 Storage: some have food storage times.
-<a href=\"handbooksearch://Meat Storage\">Meat Storage</a>. Model and textures by BORGAR on Discord. Thank you!
+<a href=\"handbooksearch://Meat Storage\">Meat Storage</a>. Model and textures by BORGAR on Discord. Thank you! Has spoilage rate.
 <a href=\"handbooksearch://Linen Storage\">Linen Storage</a>
 <a href=\"handbooksearch://Bone Storage\">Bone Storage</a>
 <a href=\"handbooksearch://Fat Storage\">Fat Storage</a>
 <a href=\"handbooksearch://Honey Storage\">Honey Storage</a>
 <a href=\"handbooksearch://Sewing Shelf\">Sewing Shelf</a>
 <a href=\"handbooksearch://Twine Storage\">Twine Storage</a>
-<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a>
-<a href=\"handbooksearch://Vegetable Storage\">Veggie Storage</a>
-<a href=\"handbooksearch://Bread Box\">Bread Box</a> 
+<a href=\"handbooksearch://Wall Veggie Storage\">Wall Veggie Storage</a> has spoilage rate. 
+<a href=\"handbooksearch://Vegetable Storage\">Veggie Storage</a> has spoilage rate.
+<a href=\"handbooksearch://Bread Box\">Bread Box</a> has spoilage rate.
 <a href=\"handbooksearch://compost bin\">Compost Bin</a> will accelerate rot depending on outside temp.
 <a href=\"handbooksearch://Wardrobe\">Wardrobe</a> 
 
@@ -131,9 +131,10 @@ All Lamps are functional. Candelabras now have aged variant as well as most meta
 
 
 Seating:
-<a href=\"handbooksearch://Cottage Core Stool (Bald Cypress)\">Cottage Core Stool (Bald Cypress)</a>
+<a href=\"handbooksearch://Cottage Core Stool\">Cottage Core Stool</a>
+<a href=\"handbooksearch://Cottage Core chair\">Cottage Core Chair</a>
 <a href=\"handbooksearch://fabric chair\">Fabric Chair</a>
-<a href=\"handbooksearch://Stool\">Stool</a>
+<a href=\"handbooksearch://Stool\">Wood Stool</a>
 <a href=\"handbooksearch://Sofa\">Sofas</a> 
 <a href=\"handbooksearch://victorian lounge chair\">Victorian Lounge Chair</a>
 <a href=\"handbooksearch://gothic love seat\">Gothic Love Seat</a>
@@ -234,7 +235,6 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-sidetablev3-*": "Side Table V3",
   "block-warmwoodsidetable-*": "Warm Wood Side Table",
   "block-opencabinet-*": "Open Cabinet",
-  "block-sink-*": "Sink (Bald Cypress)",
   "block-brassmirror-*": "Brass Mirror",
   "block-brassbed-*": "Brass Bed",
   "block-flowerbed-*": "Flower Bed",
@@ -3115,36 +3115,36 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-woodroundsconce-redwood-*": "Redwood Round Sconce",
   "block-woodroundsconce-walnut-*": "Walnut Round Sconce",
 
-  "block-doublestonesink-andesite-*": "Andesite Single Stone Sink",
-  "block-doublestonesink-basalt-*": "Basalt Single Stone Sink",
-  "block-doublestonesink-bauxite-*": "Bauxite Single Stone Sink",
-  "block-doublestonesink-chalk-*": "Chalk Single Stone Sink",
-  "block-doublestonesink-chert-*": "Chert Single Stone Sink",
-  "block-doublestonesink-claystone-*": "Claystone Single Stone Sink",
-  "block-doublestonesink-conglomerate-*": "Conglomerate Single Stone Sink",
-  "block-doublestonesink-granite-*": "Granite Single Stone Sink",
-  "block-doublestonesink-kimberlite-*": "Kimberlite Single Stone Sink",
-  "block-doublestonesink-limestone-*": "Limestone Single Stone Sink",
-  "block-doublestonesink-peridotite-*": "Peridotite Single Stone Sink",
-  "block-doublestonesink-phyllite-*": "Phyllite Single Stone Sink",
-  "block-doublestonesink-sandstone-*": "Sandstone Single Stone Sink",
-  "block-doublestonesink-shale-*": "Shale Single Stone Sink",
-  "block-doublestonesink-slate-*": "Slate Single Stone Sink",
-  "block-doublestonesink-suevite-*": "Suevite Single Stone Sink",
+  "block-stonesinglesink-andesite-*": "Andesite Single Stone Sink",
+  "block-stonesinglesink-basalt-*": "Basalt Single Stone Sink",
+  "block-stonesinglesink-bauxite-*": "Bauxite Single Stone Sink",
+  "block-stonesinglesink-chalk-*": "Chalk Single Stone Sink",
+  "block-stonesinglesink-chert-*": "Chert Single Stone Sink",
+  "block-stonesinglesink-claystone-*": "Claystone Single Stone Sink",
+  "block-stonesinglesink-conglomerate-*": "Conglomerate Single Stone Sink",
+  "block-stonesinglesink-granite-*": "Granite Single Stone Sink",
+  "block-stonesinglesink-kimberlite-*": "Kimberlite Single Stone Sink",
+  "block-stonesinglesink-limestone-*": "Limestone Single Stone Sink",
+  "block-stonesinglesink-peridotite-*": "Peridotite Single Stone Sink",
+  "block-stonesinglesink-phyllite-*": "Phyllite Single Stone Sink",
+  "block-stonesinglesink-sandstone-*": "Sandstone Single Stone Sink",
+  "block-stonesinglesink-shale-*": "Shale Single Stone Sink",
+  "block-stonesinglesink-slate-*": "Slate Single Stone Sink",
+  "block-stonesinglesink-suevite-*": "Suevite Single Stone Sink",
 
-  "block-doublewoodsink-aged-*": "Aged Single Wood Sink",
-  "block-doublewoodsink-acacia-*": "Acacia Single Wood Sink",
-  "block-doublewoodsink-baldcypress-*": "Bald Cypress Single Wood Sink",
-  "block-doublewoodsink-birch-*": "Birch Single Wood Sink",
-  "block-doublewoodsink-ebony-*": "Ebony Single Wood Sink",
-  "block-doublewoodsink-kapok-*": "Kapok Single Wood Sink",
-  "block-doublewoodsink-larch-*": "Larch Single Wood Sink",
-  "block-doublewoodsink-maple-*": "Maple Single Wood Sink",
-  "block-doublewoodsink-oak-*": "Oak Single Wood Sink",
-  "block-doublewoodsink-pine-*": "Pine Single Wood Sink",
-  "block-doublewoodsink-purpleheart-*": "Purple Heart Single Wood Sink",
-  "block-doublewoodsink-redwood-*": "Redwood Single Wood Sink",
-  "block-doublewoodsink-walnut-*": "Walnut Single Wood Sink",
+  "block-woodsinglesink-aged-*": "Aged Single Wood Sink",
+  "block-woodsinglesink-acacia-*": "Acacia Single Wood Sink",
+  "block-woodsinglesink-baldcypress-*": "Bald Cypress Single Wood Sink",
+  "block-woodsinglesink-birch-*": "Birch Single Wood Sink",
+  "block-woodsinglesink-ebony-*": "Ebony Single Wood Sink",
+  "block-woodsinglesink-kapok-*": "Kapok Single Wood Sink",
+  "block-woodsinglesink-larch-*": "Larch Single Wood Sink",
+  "block-woodsinglesink-maple-*": "Maple Single Wood Sink",
+  "block-woodsinglesink-oak-*": "Oak Single Wood Sink",
+  "block-woodsinglesink-pine-*": "Pine Single Wood Sink",
+  "block-woodsinglesink-purpleheart-*": "Purple Heart Single Wood Sink",
+  "block-woodsinglesink-redwood-*": "Redwood Single Wood Sink",
+  "block-woodsinglesink-walnut-*": "Walnut Single Wood Sink",
 
   "block-cottagecoretablesingle-aged-*": "Single Cottage Core Table (Aged)",
   "block-cottagecoretablesingle-acacia-*": "Single Cottage Core Table (Acacia)",
@@ -3154,7 +3154,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-cottagecoretablesingle-kapok-*": "Single Cottage Core Table (Kapok)",
   "block-cottagecoretablesingle-larch-*": "Single Cottage Core Table (Larch)",
   "block-cottagecoretablesingle-maple-*": "Single Cottage Core Table (Maple)",
-  "block-cottagecoretablesingle-oak-*": "Single Cottage Core Table (Pine)",
+  "block-cottagecoretablesingle-oak-*": "Single Cottage Core Table (Oak)",
+  "block-cottagecoretablesingle-pine-*": "Single Cottage Core Table (Pine)",
   "block-cottagecoretablesingle-purpleheart-*": "Single Cottage Core Table (Purple Heart)",
   "block-cottagecoretablesingle-redwood-*": "Single Cottage Core Table (Redwood)",
   "block-cottagecoretablesingle-walnut-*": "Single Cottage Core Table (Walnut)",
@@ -3167,7 +3168,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-cottagecoretabledouble-kapok-*": "Double Cottage Core Table (Kapok)",
   "block-cottagecoretabledouble-larch-*": "Double Cottage Core Table (Larch)",
   "block-cottagecoretabledouble-maple-*": "Double Cottage Core Table (Maple)",
-  "block-cottagecoretabledouble-oak-*": "Double Cottage Core Table (Pine)",
+  "block-cottagecoretabledouble-pine-*": "Double Cottage Core Table (Pine)",
+  "block-cottagecoretabledouble-oak-*": "Double Cottage Core Table (Oak)",
   "block-cottagecoretabledouble-purpleheart-*": "Double Cottage Core Table (Purple Heart)",
   "block-cottagecoretabledouble-redwood-*": "Double Cottage Core Table (Redwood)",
   "block-cottagecoretabledouble-walnut-*": "Double Cottage Core Table (Walnut)",
@@ -3180,7 +3182,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-cottagecorestool-kapok-*": "Cottage Core Stool (Kapok)",
   "block-cottagecorestool-larch-*": "Cottage Core Stool (Larch)",
   "block-cottagecorestool-maple-*": "Cottage Core Stool (Maple)",
-  "block-cottagecorestool-oak-*": "Cottage Core Stool (Pine)",
+  "block-cottagecorestool-pine-*": "Cottage Core Stool (Pine)",
+  "block-cottagecorestool-oak-*": "Cottage Core Stool (Oak)",
   "block-cottagecorestool-purpleheart-*": "Cottage Core Stool (Purple Heart)",
   "block-cottagecorestool-redwood-*": "Cottage Core Stool (Redwood)",
   "block-cottagecorestool-walnut-*": "Cottage Core Stool (Walnut)",
@@ -3193,7 +3196,8 @@ Wallpapers available at Luxury, Furniture, and Artisan Traders!
   "block-cottagecorestoolwback-kapok-*": "Cottage Core Chair (Kapok)",
   "block-cottagecorestoolwback-larch-*": "Cottage Core Chair (Larch)",
   "block-cottagecorestoolwback-maple-*": "Cottage Core Chair (Maple)",
-  "block-cottagecorestoolwback-oak-*": "Cottage Core Chair (Pine)",
+  "block-cottagecorestoolwback-oak-*": "Cottage Core Chair (Oak)",
+  "block-cottagecorestoolwback-pine-*": "Cottage Core Chair (Pine)",
   "block-cottagecorestoolwback-purpleheart-*": "Cottage Core Chair (Purple Heart)",
   "block-cottagecorestoolwback-redwood-*": "Cottage Core Chair (Redwood)",
   "block-cottagecorestoolwback-walnut-*": "Cottage Core Chair (Walnut)",

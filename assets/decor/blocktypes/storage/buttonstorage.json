@@ -18,7 +18,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "stone",
+    "blockmaterial": "wood",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"

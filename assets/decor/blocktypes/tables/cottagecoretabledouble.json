@@ -1,39 +1,72 @@
 {
-    "code": "cottagecoretabledouble",
-    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "UnstableFalling"}],
-    "attributes": {
-		"pieFormingSurface": true
-     },
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-    "shape": {
-        "base": "block/tables/cottagecoretabledouble",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
-        }
-    },
-    "blockmaterial": "stone",
-  "lightAbsorption": 0,
-    "sidesolid": {
-        "all": "false",
-	"up": "true"
-    },
-    "sideopaque": {
-        "all": "false",
-	"up": "true"
-    },
-	"textures": {
-		"ginghamgreen": { base: "block/bazaar/fabric/ginghamgreen" },
-		"candle": { base: "game:block/candle" },
-		"baldcypress1": { base: "game:block/wood/planks/baldcypress1" }
+	code: "cottagecoretabledouble",
+	variantgroups: [
+		{ code: "wood", states: ["acacia", "aged", "baldcypress", "birch", "ebony", "kapok", "larch", "maple", "oak", "pine", "purpleheart", "redwood", "walnut"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+
+		 ],
+	attributes: {
+		"pieFormingSurface": true,
+		"handbook": { groupBy: ["cottagecoretabledouble-*"] }
 	},
-    "resistance": 3.5,
-    "materialDensity": 400,
-    "sounds": {
-        "place": "game:block/planks",
-        "walk": "game:walk/stone"
-    }
+	behaviors: [
+		{ name: "CanAttach", properties: { sides: ["up"] } },
+		{ name: "HorizontalOrientable"}
+	],
+	creativeinventory: { "general": ["cottagecoretabledouble-{wood}-north"], "decorative": ["cottagecoretabledouble-{wood}-north"], "decorbazaar": ["cottagecoretabledouble-{wood}-north"] },
+	
+	heldTpIdleAnimation: "holdunderarm",
+	shapeInventory: { base: "block/tables/cottagecoretabledouble", rotateY: 270 },
+	shapeByType: {
+		"*-north": { base: "block/tables/cottagecoretabledouble", rotateY: 0 },
+		"*-east": { base: "block/tables/cottagecoretabledouble", rotateY: 270 },
+		"*-west": { base: "block/tables/cottagecoretabledouble", rotateY: 90 },
+		"*-south": { base: "block/tables/cottagecoretabledouble", rotateY: 180 },
+	},
+	texturesByType: {
+
+		"*": { 
+			"wood": { base: "game:block/wood/planks/{wood}1" }
+		}
+	},
+	blockmaterial: "Wood",
+	drawtype: "json",
+	replaceable: 900,
+	resistance: 3,
+	lightAbsorption: 0,
+	emitSideAo: {all: false },
+	sideAo: { all: false },
+	faceCullMode: "NeverCull",
+	sidesolid: { up: true, all: false },
+	sideopaque: {
+		all: false
+	},
+	sideao: { 
+		all: false
+	},
+	drops: [
+		{ type: "block", code: "cottagecoretabledouble-{wood}-north" }],
+	selectionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 1, z2: 1 },
+	colissionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 1, z2: 1 },
+	combustibleProps: {
+		burnTemperature: 600,
+		burnDuration: 35,
+	},
+	sounds: {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+	materialDensity: 600,
+		guiTransform: {
+		rotation: { x: -22.6, y: 135, z: 0 },
+		origin: { x: 0.5, y: 0.5, z: 0.97 },
+		scale: 0.95
+	},	
+		tpHandTransform: {
+		translation: { x: -0.3, y: -0.5, z: -0.8 },
+		rotation: { x: 0, y: 90, z: -102 },
+		scale: 0.56
+	}
 }

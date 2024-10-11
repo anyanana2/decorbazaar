@@ -2,7 +2,23 @@
 	{
 		ingredientPattern: "WIW,BWB,BBB",
 	   	ingredients: {
-	   	"B": { type: "item", "name": "wood", code: "game:plank-*", quantity: 4 },
+	   	"B": { "allowedVariants": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+			],
+
+		"type": "item", "name": "wood", code: "game:plank-*", quantity: 4 },
 	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 2 },
 	   	"I": { type: "item", code: "game:ingot-*", quantity: 2 },
 	   	},

@@ -2,7 +2,25 @@
 	{
 		ingredientPattern: "WIW,BWB,BBB",
 	   	ingredients: {
-	   	"B": { type: "item", "name": "stone", code: "game:stone-*", quantity: 4 },
+	   	"B": { "allowedVariants": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+				],
+		"type": "item", "name": "stone", code: "game:stone-*", quantity: 4 },
 	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 2 },
 	   	"I": { type: "item", code: "game:ingot-*", quantity: 2 },
 	   	},

@@ -28,24 +28,6 @@
                 "walnut"
             ]
         },
-		{
-			"code": "metal",
-			"states": [
-				"bismuth",
-				"bismuthbronze",
-				"blackbronze",
-				"brass",
-				"copper",
-				"gold",
-				"iron",
-				"meteoriciron",
-				"nickel",
-				"silver",
-				"steel",
-				"tin",
-				"tinbronze"
-				]
-		},
         {
             "code": "side",
             "loadFromProperties": "abstract/horizontalorientation"

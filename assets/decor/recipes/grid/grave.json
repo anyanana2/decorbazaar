@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "_C_,SS_,_C_",
 	   	ingredients: {
-	   	"C": { type: "block", code: "game:stone-*" },
+	   	"C": { type: "item", code: "game:stone-*" },
 	   	"S": { type: "item", code: "game:clay-fire", quantity: 1 },
 	   	},
 	   	width: 3,
