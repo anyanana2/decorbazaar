@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "_S_,_C_,WG_",
 	   	ingredients: {
-	   	"S": { type: "item", code: "game:clay-fire", quantity: 6 },
+	   	"S": { type: "item", code: "game:clay-*", quantity: 6 },
 	   	"C": { type: "block", code: "game:metal-scraps", quantity: 1 },
 	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
@@ -14,7 +14,7 @@
 	{
 		ingredientPattern: "_S_,_C_,WG_",
 	   	ingredients: {
-	   	"S": { type: "item", code: "game:clay-fire", quantity: 6 },
+	   	"S": { type: "item", code: "game:clay-*", quantity: 6 },
 	   	"C": { type: "item", code: "game:metalplate-*", quantity: 1 },
 	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },

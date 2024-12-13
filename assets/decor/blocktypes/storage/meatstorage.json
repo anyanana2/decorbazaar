@@ -41,7 +41,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "Stone",
+    "blockmaterial": "cloth",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"

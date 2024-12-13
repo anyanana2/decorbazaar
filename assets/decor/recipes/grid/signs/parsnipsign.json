@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "P,W",
 	   	ingredients: {
-	   	"P": { type: "item", code: "game:vegetable-parsnip", quantity: 1 },
+	   	"P": { type: "item", code: "game:seeds-parsnip", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

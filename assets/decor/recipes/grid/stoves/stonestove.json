@@ -3,7 +3,7 @@
 		ingredientPattern: "_C_,SM_,_F_",
 	   	ingredients: {
 	   	"C": { type: "block", code: "game:rock-*" },
-	   	"S": { type: "item", code: "game:clay-fire", quantity: 6 },
+	   	"S": { type: "item", code: "game:clay-*", quantity: 6 },
 	   	"M": { type: "block", code: "game:metal-scraps", quantity: 1 },
 		"F": { type: "item", code: "game:firewood", quantity: 4 },
 	   	},
@@ -18,7 +18,7 @@
 		ingredientPattern: "_C_,SM_,_F_",
 	   	ingredients: {
 	   	"C": { type: "block", code: "game:rock-*" },
-	   	"S": { type: "item", code: "game:clay-fire", quantity: 6 },
+	   	"S": { type: "item", code: "game:clay-*", quantity: 6 },
 	   	"M": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
 		"F": { type: "item", code: "game:firewood", quantity: 4 },
 	   	},

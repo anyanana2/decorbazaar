@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "P,W",
 	   	ingredients: {
-	   	"P": { type: "block", code: "game:pumpkin-fruit-4", quantity: 1 },
+	   	"P": { type: "item", code: "game:seeds-pumpkin", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

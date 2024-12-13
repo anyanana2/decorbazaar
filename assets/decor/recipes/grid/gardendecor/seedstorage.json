@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "PPP,PCP,P_P",
 	   	ingredients: {
-	   	"C": { type: "item", code: "game:grain-*", quantity: 4 },
+	   	"C": { type: "item", code: "game:seeds-*", quantity: 4 },
 	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
 	   	},
 	   	width: 3,

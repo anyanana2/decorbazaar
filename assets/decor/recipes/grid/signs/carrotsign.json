@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "C,W",
 	   	ingredients: {
-	   	"C": { type: "item", code: "game:vegetable-carrot", quantity: 1 },
+	   	"C": { type: "item", code: "game:seeds-carrot", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

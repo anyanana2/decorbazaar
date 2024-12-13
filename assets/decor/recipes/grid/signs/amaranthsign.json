@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "A,W",
 	   	ingredients: {
-	   	"A": { type: "item", code: "game:grain-amaranth", quantity: 1 },
+	   	"A": { type: "item", code: "game:seeds-amaranth", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

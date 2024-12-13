@@ -4,7 +4,7 @@
 	   	ingredients: {
 	   	"G": { type: "block", code: "game:glass-plain", quantity: 1 },
 	   	"I": { type: "item", code: "game:nugget-*", quantity: 1 },
-	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
 	   	},
 	   	width: 3,
 	   	height: 3,

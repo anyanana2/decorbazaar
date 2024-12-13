@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "S,W",
 	   	ingredients: {
-	   	"S": { type: "item", code: "game:grain-sunflower", quantity: 1 },
+	   	"S": { type: "item", code: "game:seeds-sunflower", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

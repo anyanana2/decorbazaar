@@ -11,30 +11,10 @@
   },
   {
     "op": "replace",
-    "path": "/attributes/spoilSpeedMulByFoodCat/normal/grain",
-    "value": 0.75,
-    "condition": {
-      "when": "vegstorageGrainDecay",
-      "useValue": true
-    },
-    "file": "decor:blocktypes/kitchendecor/vegstorage.json"
-  },
-  {
-    "op": "replace",
     "path": "/attributes/spoilSpeedMulByFoodCat/normal/vegetable",
     "value": 0.5,
     "condition": {
       "when": "vegstorageVegetableDecay",
-      "useValue": true
-    },
-    "file": "decor:blocktypes/kitchendecor/wallveg.json"
-  },
-  {
-    "op": "replace",
-    "path": "/attributes/spoilSpeedMulByFoodCat/normal/grain",
-    "value": 0.75,
-    "condition": {
-      "when": "vegstorageGrainDecay",
       "useValue": true
     },
     "file": "decor:blocktypes/kitchendecor/wallveg.json"
@@ -48,26 +28,6 @@
       "useValue": true
     },
     "file": "decor:compatability/wildcrafttree/blocktypes/wood/vegstorage.json"
-  },
-  {
-    "op": "replace",
-    "path": "/attributes/spoilSpeedMulByFoodCat/normal/grain",
-    "value": 0.75,
-    "condition": {
-      "when": "vegstorageGrainDecay",
-      "useValue": true
-    },
-    "file": "decor:compatability/wildcrafttree/blocktypes/wood/vegstorage.json"
-  },
-  {
-    "op": "replace",
-    "path": "/attributes/spoilSpeedMulByFoodCat/normal/vegetable",
-    "value": 0.75,
-    "condition": {
-      "when": "breadboxVegetableDecay",
-      "useValue": true
-    },
-    "file": "decor:blocktypes/kitchendecor/breadbox.json"
   },
   {
     "op": "replace",
@@ -85,16 +45,6 @@
     "value": 0.5,
     "condition": {
       "when": "mushroomstorageVegetableDecay",
-      "useValue": true
-    },
-    "file": "decor:blocktypes/storage/mushroomstorage.json"
-  },
-  {
-    "op": "replace",
-    "path": "/attributes/spoilSpeedMulByFoodCat/normal/grain",
-    "value": 0.5,
-    "condition": {
-      "when": "mushroomstorageGrainDecay",
       "useValue": true
     },
     "file": "decor:blocktypes/storage/mushroomstorage.json"

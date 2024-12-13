@@ -1,41 +1,53 @@
 {
-    "code": "witchyitems",
-    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
-    "behaviors": [{ "name": "HorizontalOrientable" }],
-    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
-    "shape": {
-        "base": "block/witchyitems",
-        "rotateYByType": {
-            "*-north": 0,
-            "*-east": 270,
-            "*-south": 180,
-            "*-west": 90
-        }
-    },
-    "blockmaterial": "stone",
-  "lightAbsorption": 0,
-    "sidesolid": {
-        "all": "false"
-    },
-    "sideopaque": {
-        "all": "false"
-    },
-    "drawtype": "json",
-	"textures": {
-		"burned": { "base": "game:block/clay/vessel/sides/burned" },
-		"volcanic": { "base": "game:block/clay/vessel/sides/volcanic" },
-		"spelt": { "base": "game:block/food/grain/spelt" },
-		"group5-rye-turnip-blackcurrant-cheddarcheese-poultrystew": { "base": "game:block/food/meal/group5-rye-turnip-blackcurrant-cheddarcheese-poultrystew" },
-		"goldenpoppy": { "base": "game:block/plant/potted/goldenpoppy" },
-		"horsetail": { "base": "game:block/plant/potted/horsetail" },
-		"wilddaisy": { "base": "game:block/plant/potted/wilddaisy" },
-		"emerald": { "base": "game:block/stone/gem/emerald" },
-		"lapislazuli": { "base": "game:block/stone/gem/lapislazuli" },
-		"olivine": { "base": "game:block/stone/gem/olivine" },
-		"book-held": { "base": "game:item/lore/book-held" },
-		"book1": { "base": "game:item/lore/book1" },
-		"ore": { "base": "game:item/resource/nugget/uranium" }
+	code: "witchyitems",
+"attributes": {
+		"handbook": { groupBy: ["witchyitems-*"] },
+},
+	behaviors: [ {name: "HorizontalOrientable"},
+		{
+			name: "ExchangeOnInteract",
+			properties: {
+				exchangeStates: ["*-1-*", "*-2-*" ],
+				sound: "block/special/click",
+				actionLangCode: "decor:blockhelp-creative-switch"
+			}
+		} ],
+	variantgroups: [
+		{ code:"state", states: ["1", "2"] },
+		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+	shapeByType: {
+		"*-north": { base: "block/witchyitems-{state}", rotateY: 0 },
+		"*-west": { base: "block/witchyitems-{state}", rotateY: 90 },
+		"*-south": { base: "block/witchyitems-{state}", rotateY: 180 },
+		"*-east": { base: "block/witchyitems-{state}", rotateY: 270 }
 	},
+	creativeinventoryByType: {
+		"*": { "general": ["*-{state}-north"], "decorative": ["*-{state}-north"], "decorbazaar": ["*-{state}-north"] }	
+	},
+	blockmaterial: "Wood",
+	replaceable: 900,
+	resistance: 1.5,
+	lightAbsorption: 1,
+	emitSideAo: {all: false },
+	sidesolid: {
+		all: false,
+		up: true
+	},	
+	sideopaque: {
+		all: false
+	},
+	combustibleProps: {
+		burnTemperature: 600,
+		burnDuration: 30,
+	},
+	sounds: {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+    "drawtype": "json",
     "resistance": 3.5,
 	collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.125, z2: 1 },
 	selectionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.125, z2: 1 },

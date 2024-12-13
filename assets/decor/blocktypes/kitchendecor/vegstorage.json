@@ -51,8 +51,7 @@
 			},
 		"spoilSpeedMulByFoodCat": {
 			"normal": {
-				"vegetable": 0.5,
-				"grain": 0.75
+				"vegetable": 0.5
 			}
 		},
 	},

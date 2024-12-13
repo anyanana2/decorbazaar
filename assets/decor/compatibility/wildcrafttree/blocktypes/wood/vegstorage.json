@@ -54,8 +54,7 @@
 		"quantitySlots": "12",
 		spoilSpeedMulByFoodCat: 
 			{
-				"vegetable": 0.1,
-				"grain": 0.5
+				"vegetable": 0.1
 			}
 		},
 shapeByType: {

@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "C,W",
 	   	ingredients: {
-	   	"C": { type: "item", code: "game:rawcassava-raw", quantity: 1 },
+	   	"C": { type: "item", code: "game:seeds-cassava", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,

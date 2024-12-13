@@ -28,7 +28,6 @@
 		},
 		spoilSpeedMulByFoodCat: {
 			"normal": {
-				"vegetable": 0.75,
 				"grain": 0.5
 			}
 		},
@@ -42,7 +41,7 @@
             "*-west": 90
         }
     },
-    "blockmaterial": "Wood",
+    "blockmaterial": "cloth",
   "lightAbsorption": 0,
     "sidesolid": {
         "all": "false"

@@ -3,7 +3,7 @@
 		ingredientPattern: "_G_,CCC",
 	   	ingredients: {
 	   	"G": { type: "item", code: "game:drygrass", quantity: 4 },
-	   	"C": { type: "item", code: "game:clay-blue", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 1 },
 	   	},
 	   	width: 3,
 	   	height: 2,

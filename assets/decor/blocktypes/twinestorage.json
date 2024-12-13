@@ -5,7 +5,7 @@
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
     "attributes": {
 		"inventoryClassName": "Cabinet",
-		"quantitySlots": 8,
+		"quantitySlots": 16,
 		"dialogTitleLangCode": "Twine Storage"
 	},
     "variantgroups": [

@@ -3,7 +3,7 @@
 		ingredientPattern: "B,A,G",
 	   	ingredients: {
 		"B": { "type": "Block", "code": "game:glass-plain", "quantity": 1 },
-	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"A": { type: "item", code: "game:clay-*", quantity: 4 },
 	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
 	   	},
 	   	width: 3,

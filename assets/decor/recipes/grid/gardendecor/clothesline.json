@@ -1,12 +1,12 @@
 [
 	{
-		ingredientPattern: "P,B,C",
+		ingredientPattern: "PPP,PBP,PCP",
 	   	ingredients: {
-	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
 	   	"B": { type: "item", code: "game:cloth-blue", quantity: 1 },
 	   	"C": { type: "item", code: "game:cloth-purple", quantity: 1 },
 	   	},
-	   	width: 1,
+	   	width: 3,
 	   	height: 3,
 	   	output: { type: "block", code: "clothesline-north" }
 	}

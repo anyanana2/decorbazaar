@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "_A_,GGG",
 	   	ingredients: {
-	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"A": { type: "item", code: "game:clay-*", quantity: 4 },
 	   	"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 1 },
 	   	},
 	   	width: 3,

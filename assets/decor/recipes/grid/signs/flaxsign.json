@@ -2,7 +2,7 @@
 	{
 		ingredientPattern: "F,W",
 	   	ingredients: {
-	   	"F": { type: "item", code: "game:grain-flax", quantity: 1 },
+	   	"F": { type: "item", code: "game:seeds-flax", quantity: 1 },
 	   	"W": { type: "item", code: "game:stick", quantity: 1 },
 	   	},
 	   	width: 1,
