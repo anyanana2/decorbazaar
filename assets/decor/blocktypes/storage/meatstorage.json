@@ -3,6 +3,7 @@
     "entityClass": "GenericTypedContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
 	"behaviors": [ {"name": "HorizontalOrientable"}, {"name": "Container"}],
+	"entityBehaviors": [{"name": "Animatable" }],
     "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }, {"name": "Container"}],
 	"attributes": {
 		"inventoryClassName": "chest",

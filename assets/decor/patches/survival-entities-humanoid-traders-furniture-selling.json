@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-fish",
 	"type": "block",
@@ -15,12 +15,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-midnight",
 	"type": "block",
@@ -34,12 +34,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-bat",
 	"type": "block",
@@ -53,12 +53,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-greenpannels",
 	"type": "block",
@@ -72,12 +72,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-mushrooms",
 	"type": "block",
@@ -91,12 +91,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-darkfloral",
 	"type": "block",
@@ -110,12 +110,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:wallpaper-beatle",
 	"type": "block",
@@ -129,12 +129,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
    {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:fieldsofgrain-north",
 	"type": "block",
@@ -148,12 +148,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:houseonthehill-north",
 	"type": "block",
@@ -167,12 +167,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:whiteflower-north",
 	"type": "block",
@@ -186,12 +186,12 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributes/tradeProps/selling/list/-",
+    "path": "/selling/list/-",
     "value": {
 	"code": "decor:lonegrave-north",
 	"type": "block",
@@ -205,7 +205,7 @@
 		"var": 0.5
 	    }
     },
-    "file": "game:entities/humanoid/trader-furniture.json",
+    "file": "game:config/tradelists/trader-furniture.json",
     "side": "Server"
   }
 ]
