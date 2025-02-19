@@ -3,7 +3,6 @@
     "entityClass": "GenericTypedContainer",
     "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
     "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
-	"entityBehaviors": [{"name": "Animatable" }],
 	attributes: {
 		inventoryClassName: "chest",
 		dialogTitleLangCode: "Wall Vegetable Storage",

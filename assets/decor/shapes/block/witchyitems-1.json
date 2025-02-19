@@ -32,6 +32,7 @@
 		"book1": "game:item/lore/book1",
 		"schematic2": "game:item/lore/schematic2",
 		"schematic5": "game:item/lore/schematic5",
+		"spelt": "game:block/food/grain/spelt",
 		"ore": "game:item/resource/nugget/uranium"
 	},
 	"elements": [
@@ -684,12 +685,12 @@
 							"rotationOrigin": [ 6.5, 0.3, -4.0 ],
 							"rotationY": -45.0,
 							"faces": {
-								"north": { "texture": "#spelt2", "uv": [ 0.0, 0.0, 2.0, 3.0 ] },
-								"east": { "texture": "#spelt2", "uv": [ 1.0, 9.0, 3.0, 12.0 ] },
-								"south": { "texture": "#spelt2", "uv": [ 2.0, 3.0, 4.0, 6.0 ] },
-								"west": { "texture": "#spelt2", "uv": [ 3.0, 11.0, 5.0, 14.0 ] },
-								"up": { "texture": "#spelt2", "uv": [ 13.0, 4.0, 15.0, 6.0 ] },
-								"down": { "texture": "#spelt2", "uv": [ 4.0, 14.0, 6.0, 16.0 ] }
+								"north": { "texture": "#spelt", "uv": [ 0.0, 0.0, 2.0, 3.0 ] },
+								"east": { "texture": "#spelt", "uv": [ 1.0, 9.0, 3.0, 12.0 ] },
+								"south": { "texture": "#spelt", "uv": [ 2.0, 3.0, 4.0, 6.0 ] },
+								"west": { "texture": "#spelt", "uv": [ 3.0, 11.0, 5.0, 14.0 ] },
+								"up": { "texture": "#spelt", "uv": [ 13.0, 4.0, 15.0, 6.0 ] },
+								"down": { "texture": "#spelt", "uv": [ 4.0, 14.0, 6.0, 16.0 ] }
 							},
 							"children": [
 								{

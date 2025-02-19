@@ -12,8 +12,8 @@
 		"3": [32,32]
 	},
 	"textures": {
-		"horn-dark": "textures/item/resource/tailorsdelight/horn-dark",
-		"horn-light": "textures/item/resource/tailorsdelight/horn-light",
+		"horn-dark": "game:block/cloth/basic/brown",
+		"horn-light": "game:block/cloth/basic/gray",
 		"2": "game:block/cloth/basic/normal",
 		"0": "game:block/glass/plain",
 		"3": "game:block/metal/ingot/brass",
