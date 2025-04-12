@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B,I",
+	   	ingredients: {
+		"B": { type: "item", name: "wood", code: "game:plank-*", quantity: 5 },
+	   	"I": { type: "item", code: "game:nugget-nativecopper", quantity: 1 },
+	   	},
+	   	width: 2,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:rightuppercabinet-{wood}-normal-north", quantity: 2 }
+	}
+]	

@@ -1,0 +1,52 @@
+{
+    "code": "ryesign",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/gardensigns/ryesign",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"rye": { base: "block/bazaar/signs/rye" },
+		"bazaarbaldcypress": { base: "block/bazaar/wood/planks/bazaarbaldcypress" }
+	},
+    "resistance": 3.5,
+    "collisionBox": { 
+			x1: 0.125, y1: 0, z1: 0.5, x2: 0.875, y2: 0.875, z2: 0.625,
+			rotateYByType: {
+			"*-east": 90,
+			"*-west": 90,
+			"*-south": 0
+			}
+},
+    "selectionBox": { 
+			x1: 0.125, y1: 0, z1: 0.5, x2: 0.875, y2: 0.875, z2: 0.625,
+			rotateYByType: {
+			"*-east": 90,
+			"*-west": 90,
+			"*-south": 0
+			}
+},
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: -116, z: 0 }
+	}
+}

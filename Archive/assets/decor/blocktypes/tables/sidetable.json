@@ -1,0 +1,87 @@
+{
+	code: "sidetable",
+"attributes": {
+		"handbook": { groupBy: ["sidetable-*"] }
+},
+	behaviors: [ {name: "HorizontalOrientable"},
+		{
+			name: "ExchangeOnInteract",
+			properties: {
+				exchangeStates: ["*-1-*", "*-2-*", "*-3-*" ],
+				sound: "block/special/click",
+				actionLangCode: "decor:blockhelp-creative-switch"
+			}
+		} ],
+	variantgroups: [
+	{	
+	            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+				]
+	},
+		{ code:"state", states: ["1", "2", "3"] },
+		{ code: "side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+	shapeByType: {
+		"*-north": { base: "block/tables/sidetable-{state}", rotateY: 0 },
+		"*-west": { base: "block/tables/sidetable-{state}", rotateY: 90 },
+		"*-south": { base: "block/tables/sidetable-{state}", rotateY: 180 },
+		"*-east": { base: "block/tables/sidetable-{state}", rotateY: 270 }
+	},
+	creativeinventoryByType: {
+		"*": { "general": ["*-{state}-north"], "decorative": ["*-{state}-north"], "decorbazaar": ["*-{state}-north"] }	
+	},
+	blockmaterial: "Wood",
+	replaceable: 900,
+	resistance: 1.5,
+	lightAbsorption: 1,
+	emitSideAo: {all: false },
+	sidesolid: {
+		all: false,
+		up: true
+	},	
+	sideopaque: {
+		all: false
+	},
+	combustibleProps: {
+		burnTemperature: 600,
+		burnDuration: 30,
+	},
+	sounds: {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+	collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.4375, z2: 1 },
+	selectionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.4375, z2: 1 },
+	materialDensity: 400,
+	heldTpIdleAnimation: "holdunderarm",		
+		guiTransform: {
+		rotation: { x: -22.6, y: 135, z: 0 }
+	},
+		tpHandTransform: {
+		translation: { x: -0.9, y: -0.7, z: -1 },
+		rotation: { x: 0, y: 0, z: -100 },
+		scale: 0.4
+	}
+}

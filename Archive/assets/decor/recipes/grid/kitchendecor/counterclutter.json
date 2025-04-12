@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "P__,P_C,P_C",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"C": { type: "Block", code: "game:crock-burned-east", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "counterclutter-north" }
+	}
+]

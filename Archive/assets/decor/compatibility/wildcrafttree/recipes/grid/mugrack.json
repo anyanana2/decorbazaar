@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "SSS,C_C",
+	   	ingredients: {
+		"S": { type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:mugrack-{wood}-north", quantity: 1 }
+	}
+]

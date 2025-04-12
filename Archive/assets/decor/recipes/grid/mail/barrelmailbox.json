@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "LLL,L_L,_B_",
+	   	ingredients: {
+		"L": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"B": { type: "item", code: "game:ingot-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "barrelmailbox-north" }
+	}
+]

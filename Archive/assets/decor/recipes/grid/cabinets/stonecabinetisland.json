@@ -1,0 +1,20 @@
+[
+	{
+		ingredientPattern: "F,S,T",
+	   	ingredients: {
+	   	"F": { type: "Block", code: "game:cobblestone-*", quantity: 2 },
+		   	"S": {
+				type: "item",
+				name: "stone",
+				code: "game:stone-*",
+				quantity: 2,
+				allowedVariants: ["andesite", "basalt", "bauxite", "chalk", "chert", "claystone", "conglomerate", "granite", "kimberlite", "limestone", "peridotite", "phyllite", "sandstone", "shale", "slate", "suevite"] },
+	   	
+	   	"T": { type: "item", code: "game:nugget-*", quantity: 1 },
+},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:stonecabinetisland-{stone}-north", quantity: 2 }
+	}
+]
+

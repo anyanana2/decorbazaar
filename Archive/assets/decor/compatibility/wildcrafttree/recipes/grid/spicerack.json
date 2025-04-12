@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "PPP,FGF,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 1 },
+	   	"G": { type: "item", code: "game:grain-*", quantity: 4 },
+	   	"F": { type: "Block", code: "game:glass-plain", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:spicerack-{wood}-north", quantity: 1 }
+	}
+]

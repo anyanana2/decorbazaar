@@ -1,0 +1,25 @@
+[
+	{
+		ingredientPattern: "CGC,BCB",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:nugget-nativegold", quantity: 2 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
+	   	"B": { type: "item", code: "game:fruit-blueberry", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:purplepot-purplewgold", quantity: 2  }
+	},
+	{
+		ingredientPattern: "CGC,KCK",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:nugget-nativegold", quantity: 2 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
+	   	"K": { type: "item", code: "game:fruit-blackcurrant", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:purplepot-purplewgold", quantity: 2  }
+	}
+]
+

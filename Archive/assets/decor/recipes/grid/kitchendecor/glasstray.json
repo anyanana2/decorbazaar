@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C__,I_I,GGG",
+	   	ingredients: {
+	   	"G": { type: "block", code: "game:glass-plain", quantity: 1 },
+	   	"I": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:glasstray-north", quantity: 1 }
+	}
+]

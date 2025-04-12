@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "L,I,S",
+	   	ingredients: {
+		"L": { type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 4 },
+	   	"I": { type: "item", code: "game:nugget-*", quantity: 1 },
+		"S": { type: "item", code: "game:stick", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:woodenshelf-{wood}-1-north", quantity: 1 }
+	}
+]

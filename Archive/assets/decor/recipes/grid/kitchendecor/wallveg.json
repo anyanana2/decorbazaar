@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "PCP,PTP,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 2 },
+	   	"T": { type: "item", code: "game:vegetable-*", quantity: 8 },
+	   	"C": { type: "item", code: "game:vegetable-*", quantity: 8 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "wallveg-normal-north" }
+	}
+]

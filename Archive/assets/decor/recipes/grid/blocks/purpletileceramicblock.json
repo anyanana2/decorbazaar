@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "S,N,G",
+	   	ingredients: {
+	   	"S": { type: "block", code: "game:sand-*", quantity: 4 },
+	   	"N": { type: "item", code: "game:drygrass", quantity: 4 },
+		"G": { type: "item", code: "game:fruit-cranberry", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:bazaarceramicblock-purpletile", quantity: 16 }
+	}
+]

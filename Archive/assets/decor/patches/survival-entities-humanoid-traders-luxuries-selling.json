@@ -1,0 +1,211 @@
+[
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-fish",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-midnight",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-bat",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-darkfloral",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 4,
+		"var": 2
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-greenpannels",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-mushrooms",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:wallpaper-beatle",
+	"type": "block",
+	    "stacksize": 64,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+   {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:fieldsofgrain-north",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:houseonthehill-north",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:whiteflower-north",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/selling/list/-",
+    "value": {
+	"code": "decor:lonegrave-north",
+	"type": "block",
+	    "stacksize": 1,
+	    "stock": {
+		"avg": 2,
+		"var": 1
+	    },
+	    "price": {
+		"avg": 4,
+		"var": 0.5
+	    }
+    },
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "side": "Server"
+  }
+]

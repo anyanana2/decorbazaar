@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "PGP,P_P",
+	   	ingredients: {
+	   	"P": { type: "item", "name": "wood", code: "game:plank-*", quantity: 2 },
+	   	"G": { type: "item", code: "game:cloth-green", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:cottagecorestool-{wood}-north" }
+	}
+]

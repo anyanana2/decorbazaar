@@ -1,0 +1,22 @@
+[
+	{
+		ingredientPattern: "_W_,_C_,GG_",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	"C": { type: "block", code: "game:metal-scraps", quantity: 1 },
+	   	"G": { type: "item", code: "game:gear-rusty", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "ironoven-north" }
+	},
+	{
+		ingredientPattern: "_W_,W_W,_W_",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "ironoven-north" }
+	}
+]	

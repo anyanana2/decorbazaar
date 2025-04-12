@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "G,K,F",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:flaxtwine", quantity: 1 },
+	   	"K": { type: "item", code: "game:flaxfibers", quantity: 1 },
+	   	"F": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:twinestorage-normal-north", quantity: 1 }
+	}
+]

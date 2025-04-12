@@ -1,0 +1,31 @@
+[
+	{
+		ingredientPattern: "WIW,BWB,BBB",
+	   	ingredients: {
+	   	"B": { "allowedVariants": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+				],
+		"type": "item", "name": "stone", code: "game:stone-*", quantity: 4 },
+	   	"W": { type: "block", code: "game:rockpolished-*", quantity: 2 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:stonesinglesink-{stone}-north", "quantity": 1 }
+	}
+]

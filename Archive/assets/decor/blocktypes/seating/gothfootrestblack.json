@@ -1,0 +1,34 @@
+{
+    "code": "gothfootrestblack",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/seating/gothfootrestblack",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+	collisionBox: { x1: 0.09, y1: 0, z1: 0.125, x2: 0.9375, y2: 0.5, z2: 0.9375 },
+	selectionBox: { x1: 0.09, y1: 0, z1: 0.125, x2: 0.9375, y2: 0.5, z2: 0.9375 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}
