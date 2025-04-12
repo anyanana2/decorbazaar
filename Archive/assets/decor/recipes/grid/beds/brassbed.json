@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B_B,C__,C__",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:ingot-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:brassbed-brass-head-north", quantity: 1 }
+	}
+]

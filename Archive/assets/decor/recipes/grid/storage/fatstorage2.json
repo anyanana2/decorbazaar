@@ -1,0 +1,13 @@
+[	
+	{
+		ingredientPattern: "TW_,TW_,BBB",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"T": { type: "item", code: "game:fat", quantity: 1 },
+	   	"W": { type: "item", code: "game:beeswax", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:fatstorage2-north" }
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "G,Q",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:charcoal", quantity: 4 },
+	   	"Q": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	},
+	   	width: 2,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:gothicloveseatblack-north", quantity: 1 }
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "W_W,WWW,NPN",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"P": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	"N": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "washingtub-north" }
+	}
+]

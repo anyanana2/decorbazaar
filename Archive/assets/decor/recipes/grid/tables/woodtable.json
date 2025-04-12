@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "LLL,_I_,SLS",
+	   	ingredients: {
+		"L": { type: "item", name: "wood", code: "game:plank-*", quantity: 1 },
+		"S": { type: "item", code: "game:stick", quantity: 1 },
+	   	"I": { type: "item", code: "game:ingot-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:woodtable-{wood}-north", quantity: 2 }
+	}
+]

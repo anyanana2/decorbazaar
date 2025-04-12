@@ -1,0 +1,39 @@
+{
+    "code": "warmwoodsidetable",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/tables/warmwoodsidetable",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+   "textures": {
+		"candle": { "base": "game:block/candle" },
+		"2": { "base": "block/bazaar/wood/planks/warmwoodtexture" },
+		"5": { "base": "game:block/clay/vessel/sides/seasalt" },
+		"1": { "base": "game:block/glass/quartz" },
+		"0": { "base": "game:block/metal/ingot/brass" },
+		"3": { "base": "game:block/plant/flower/petal/lupine/blue1-b" },
+		"4": { "base": "game:block/stone/dirtygravel/dry/cracked1" }
+	},
+    "resistance": 3.5,
+	selectionBox: { x1: 0.125, y1: 0, z1: 0.125, x2: 0.875, y2: 0.4375, z2: 0.875 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

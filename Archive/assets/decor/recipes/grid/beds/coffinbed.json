@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "FCF,F_F,FCF",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:charcoal", quantity: 12 },
+	   	"F": { type: "item", code: "game:plank-*", quantity: 6 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:coffinbed-coffin-head-north", quantity: 1 }
+	}
+]

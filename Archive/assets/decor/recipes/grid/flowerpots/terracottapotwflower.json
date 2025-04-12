@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "CQC,CBC",
+	   	ingredients: {
+	   	"Q": { type: "item", code: "game:ore-quartz", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 2 },
+		"B": { type: "item", code: "game:stone-bauxite", quantity: 8 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:bazaarflowerpotwflower-terracottawflower", quantity: 2 }
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "_C_,SS_,_C_",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:stone-*" },
+	   	"S": { type: "item", code: "game:clay-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "grave-1-north" }
+	}
+]

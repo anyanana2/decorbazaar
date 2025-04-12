@@ -1,0 +1,29 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+		"0": [32,32]
+	},
+	"textures": {
+		"lead": "game:block/metal/ingot/lead"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [ 0.0, 15.0, 0.0 ],
+			"to": [ 4.0, 16.0, 1.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 7.0 ],
+			"faces": {
+				"north": { "texture": "#lead", "uv": [ 0.0, 0.0, 10.0, 2.0 ], "autoUv": false },
+				"east": { "texture": "#lead", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
+				"south": { "texture": "#lead", "uv": [ 0.0, 0.0, 10.0, 2.0 ], "autoUv": false },
+				"west": { "texture": "#lead", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "autoUv": false },
+				"up": { "texture": "#lead", "uv": [ 0.0, 0.0, 10.0, 2.0 ], "autoUv": false },
+				"down": { "texture": "#lead", "uv": [ 0.0, 0.0, 10.0, 2.0 ], "autoUv": false }
+			}
+		}
+	]}

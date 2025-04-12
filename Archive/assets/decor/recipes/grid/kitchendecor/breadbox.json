@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "P_P,PGP,PGP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"G": { type: "item", code: "game:grain-*", quantity: 15 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "breadbox-north" }
+	}
+]
+

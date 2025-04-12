@@ -1,0 +1,39 @@
+{
+    "code": "linenstorage",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {"name": "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	"attributes": {
+		"inventoryClassName": "Cabinet",
+		"quantitySlots": 12,
+		"dialogTitleLangCode": "Linen Storage"
+	},
+    "shape": {
+        "base": "block/storage/linenstorage",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+	guiTransform: {
+		rotation: { x: -13, y: 163, z: -2 },
+		scale: 1.08
+	},
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

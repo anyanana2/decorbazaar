@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "F,L",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:flaxfibers", quantity: 2 },
+	   	"L": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:carpet-neutral-down", quantity: 12 }
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "Q,G,D",
+	   	ingredients: {
+	   	"Q": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"G": { type: "item", code: "game:charcoal", quantity: 4 },
+	   	"D": { type: "item", code: "game:gear-rusty", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:victorianloungechair-north", quantity: 1 }
+	}
+]

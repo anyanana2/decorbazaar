@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "LLL,NLN,L_L",
+	   	ingredients: {
+		"L": { type: "item", name: "wood", code: "game:plank-*", quantity: 2 },
+	   	"N": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:woodenshelf-{wood}-1-north", quantity: 1 }
+	}
+]

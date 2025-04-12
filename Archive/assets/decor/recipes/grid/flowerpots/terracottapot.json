@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "CBC,CBC",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:stone-bauxite", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:bazaarflowerpot-terracotta", quantity: 2 }
+	}
+]

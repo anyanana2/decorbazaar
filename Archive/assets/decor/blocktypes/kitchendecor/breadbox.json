@@ -1,0 +1,66 @@
+{
+    "code": "breadbox",
+    "entityClass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+	attributes: {
+		inventoryClassName: "chest",
+		dialogTitleLangCode: "Bread Box",
+		defaultType: "normal",
+		types: ["normal"],
+		"quantitySlots": 12,
+		drop: {
+			"normal": true
+		},
+		quantitySlots: {
+			"normal": 12
+		},
+		dialogTitleLangCode: {
+			"normal": "vesselcontents"
+		},
+		storageType: {
+			"normal": 32
+		},
+		retrieveOnly: {
+			"normal": false
+		},
+		spoilSpeedMulByFoodCat: {
+			"normal": {
+				"grain": 0.5
+			}
+		},
+},
+    "shape": {
+        "base": "block/kitchendecor/breadbox",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "cloth",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+"textures": {
+		"flourwdirt": { "base": "block/bazaar/fabric/kitchen/flourwdirt" },
+		"baldcypressv2": { "base": "block/bazaar/wood/planks/baldcypressv2" },
+		"bread": { "base": "block/bazaar/signs/bread" }
+	},
+    "resistance": 1.0,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	selectionBox: { x1: 0.0625, y1: 0, z1: 0.125, x2: 0.9375, y2: 0.6875, z2: 0.875 },
+	guiTransform: {
+		rotation: { x: -22.6, y: 148, z: 0 }
+	}
+}

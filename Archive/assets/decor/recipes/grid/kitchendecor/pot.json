@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "_G_,CCC",
+	   	ingredients: {
+	   	"G": { type: "item", code: "game:drygrass", quantity: 4 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "pot-north" }
+	}
+]

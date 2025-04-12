@@ -1,0 +1,65 @@
+{
+    "code": "cottagecorestoolwback",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+"attributes": {
+		"handbook": { groupBy: ["cottagecorestoolwback-*"] }
+},
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/seating/cottagecorestoolwback", rotateY: 0 },
+         "*-east": { base: "block/seating/cottagecorestoolwback", rotateY: 270 },
+         "*-south": { base: "block/seating/cottagecorestoolwback", rotateY: 180 },
+         "*-west": { base: "block/seating/cottagecorestoolwback", rotateY: 90 }
+     },
+    "blockmaterial": "wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 133, z: 0 }
+	},
+    "resistance": 3.5,
+    "collisionBox": { x1: 0.0625, y1: 0, z1: 0.0625, x2: 0.9375, y2: 0.5, z2: 0.9375 },
+    "selectionBox": { x1: 0.0625, y1: 0, z1: 0.0625, x2: 0.9375, y2: 0.5, z2: 0.9375 },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+}

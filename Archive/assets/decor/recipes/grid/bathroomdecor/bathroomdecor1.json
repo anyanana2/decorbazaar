@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "FFF,BB_",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:stick", quantity: 1 },
+	   	"B": { type: "Block", code: "game:bowl-fired", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:bathroomdecor1-north", quantity: 1 }
+	}
+]
+

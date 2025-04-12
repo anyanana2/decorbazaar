@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "CRC,CRC",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
+		"R": { type: "Block", code: "game:flower-woad-free", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:bazaarflowerpot-blueclay", quantity: 2  }
+	}
+]

@@ -1,0 +1,39 @@
+{
+    "code": "linenbasket",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }],
+    "shape": {
+        "base": "block/linenbasket",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+	"textures": {
+		"aged-northsouth": { base: "game:block/reed/basket/aged-northsouth" },
+		"plain": { base: "game:block/cloth/linen/plain" },
+		"themorning3": { base: "game:block/cloth/tapestry/themorning3" },
+		"orange": { base: "game:block/cloth/linen/orange" }
+	},
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	selectionBox: { x1: 0.0625, y1: 0, z1: 0.0625, x2: 0.9375, y2: 0.75, z2: 0.9375 },
+	guiTransform: {
+		rotation: { x: -22.6, y: 144, z: 0 }
+	}
+}

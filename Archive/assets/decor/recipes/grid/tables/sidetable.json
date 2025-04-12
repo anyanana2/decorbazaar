@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "BB_,_C_,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	"C": { type: "item", code: "game:nugget-*", quantity: 2 },
+	   	"B": { type: "item", code: "game:beeswax", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:sidetable-{wood}-1-north", quantity: 1 }
+	}
+]	
