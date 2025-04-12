@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "C,G,P",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"G": { type: "block", code: "game:glass-plain", quantity: 2 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "opencabinet-north", quantity: 2 }
+	}
+]	

@@ -1,0 +1,58 @@
+{
+    "code": "meatstorage",
+    "entityClass": "GenericTypedContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+	"behaviors": [ {"name": "HorizontalOrientable"}, {"name": "Container"}],
+    "variantgroups": [{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }, {"name": "Container"}],
+	"attributes": {
+		"inventoryClassName": "chest",
+		"dialogTitleLangCode": "Meat Storage",
+		"defaultType": "normal",
+		"types": ["normal"],
+		"quantitySlots": 20,
+		"drop": {
+			"normal": true
+		},
+		"quantitySlots": {
+			"normal": 20
+		},
+		"dialogTitleLangCode": {
+			"normal": "vesselcontents"
+		},
+		"storageType": {
+			"normal": 32
+		},
+		"retrieveOnly": {
+			"normal": false
+		},
+		"spoilSpeedMulByFoodCat": {
+			"normal": {
+				"Protein": 0.5
+			}
+		},
+	},
+    "shape": {
+        "base": "block/storage/meatstorage",
+        "rotateYByType": {
+            "*-north": 0,
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "blockmaterial": "cloth",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "resistance": 3.5,
+	selectionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.5625, z2: 1 },
+    "sounds": {
+        "place": "game:block/stone",
+        "walk": "game:walk/stone"
+    }
+}

@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "B,C",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:metalnailsandstrips-*", quantity: 2 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 2 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:towelrack-north", quantity: 1 }
+	}
+]

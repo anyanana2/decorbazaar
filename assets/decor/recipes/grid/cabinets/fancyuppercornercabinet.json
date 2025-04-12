@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "_I_,_G_,SS_",
+	   	ingredients: {
+	   	"I": { type: "item", code: "game:nugget-*", quantity: 2 },
+		"G": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	"S": { type: "item", code: "game:stone-*", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:fancyuppercornercabinet-{wood}-normal-north", quantity: 2 }
+	}
+]	

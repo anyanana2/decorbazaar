@@ -1,0 +1,83 @@
+{
+    "code": "spicerack",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [ {name: "HorizontalAttachable", properties: {  dropBlockFace: "east" }}, {name: "Container"}],
+    "attributes": {
+		"inventoryClassName": "Cabinet",
+		"handbook": { groupBy: ["spicerack-*"] },
+		"quantitySlots": 8,
+		"dialogTitleLangCode": "Cabinet Storage"
+	},
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/kitchendecor/spicerack", rotateY: 0 },
+         "*-east": { base: "block/kitchendecor/spicerack", rotateY: 270 },
+         "*-south": { base: "block/kitchendecor/spicerack", rotateY: 180 },
+         "*-west": { base: "block/kitchendecor/spicerack", rotateY: 90 }
+     },
+    "blockmaterial": "Stone",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/stone",
+        "walk": "game:walk/stone"
+    },
+    "collisionBox": { 
+			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+    "selectionBox": { 
+			x1: -0.0625, y1: 0, z1: 0, x2: 1, y2: 1, z2: 0.5625,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	},
+}

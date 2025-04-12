@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "M,P",
+	   	ingredients: {
+	   	"M": { type: "item", code: "game:nugget-*", quantity: 3 },
+	   	"P": { type: "item", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 2,
+	   	height: 1,
+	   	output: { type: "block", code: "butterchurn-north" }
+	}
+]

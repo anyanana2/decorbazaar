@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "PPP,PTP,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", name: "wood", code: "game:plank-*", quantity: 1 },
+	   	"T": { type: "item", code: "game:vegetable-*", quantity: 8 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "vegstorage-{wood}-north" }
+	}
+]

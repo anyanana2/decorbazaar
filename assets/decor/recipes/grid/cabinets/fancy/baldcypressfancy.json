@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "B,G",
+	   	ingredients: {
+		"B": { type: "item", name: "wood", code: "game:plank-baldcypress", quantity: 4 },
+	   	"G": { type: "item", code: "game:gear-rusty", quantity: 1 },
+
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: {type: "Block", code: "decor:cabinetfancy-east", attributes: { "type": "cabinetbaldcypress" } }
+	}
+]	

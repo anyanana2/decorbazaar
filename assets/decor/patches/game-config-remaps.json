@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/game:v1.19.8",
+    "value": [
+      "/bir remapq decor:stonestove-*-cold decor:stonestove-* force",
+      "/iir remapq decor:stonestove-*-cold decor:stonestove-* force",
+      "/bir remapq decor:castironstovev2-*-cold decor:castironstovev2-* force",
+      "/iir remapq decor:castironstovev2-*-cold decor:castironstovev2-* force",
+      "/bir remapq decor:castironstovefirewood-*-cold decor:castironstovefirewood-* force",
+      "/iir remapq decor:castironstovefirewood-*-cold castironstovefirewood-* force",
+      "/bir remapq decor:castironstove-*-cold decor:castironstove-* force",
+      "/iir remapq decor:castironstove-*-cold decor:castironstove-* force",
+      "/bir remapq decor:castironfireplace-*-cold decor:castironfireplace-* force",
+      "/iir remapq decor:castironfireplace-*-cold decor:castironfireplace-* force"
+    ],
+    "file": "game:config/remaps.json"
+  }
+]

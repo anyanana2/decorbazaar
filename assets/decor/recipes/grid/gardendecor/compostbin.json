@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "SSS,SGS,SSS",
+	   	ingredients: {
+		"S": { type: "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	"G": { type: "item", code: "game:rot", quantity: 20 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:compostbin-{wood}-north", quantity: 1 }
+	}
+]

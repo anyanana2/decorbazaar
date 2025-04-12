@@ -1,0 +1,28 @@
+[
+	{
+		"ingredientPattern": "BG_,PPP",
+	   	"ingredients": {
+	   	"B": { "allowedVariants": [
+				"bismuth",
+				"bismuthbronze",
+				"blackbronze",
+				"brass",
+				"copper",
+				"gold",
+				"iron",
+				"meteoriciron",
+				"nickel",
+				"silver",
+				"steel",
+				"tin",
+				"tinbronze"
+			],
+		"type": "item", "name": "metal", "code": "game:ingot-*", "quantity": 1 },
+	   	"G": { "type": "Block", "code": "game:glass-plain", "quantity": 1 },
+	   	"P": { "type": "item", "name": "wood", "code": "wildcrafttree:plank-dalbergia", "quantity": 2 },
+	},
+	   	"width": 3,
+	   	"height": 2,
+	   	"output": { "type": "block", "code": "decor:doublewoodsink-dalbergia-{metal}-north", "quantity": 1 }
+	}
+]

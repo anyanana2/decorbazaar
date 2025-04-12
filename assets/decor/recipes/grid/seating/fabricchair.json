@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "P,G",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 2 },
+	   	"G": { type: "item", code: "game:cloth-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "fabricchair-north", quantity: 2  }
+	}
+]

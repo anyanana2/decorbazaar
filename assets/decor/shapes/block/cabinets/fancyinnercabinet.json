@@ -1,0 +1,122 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+		"0": [32,32],
+		"1": [32,32],
+		"2": [32,32],
+		"5": [32,32],
+		"6": [32,32]
+	},
+	"textures": {
+		"rock": "game:block/stone/polishedrock/chalk",
+		"wood": "game:block/wood/planks/purpleheart1"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 14.0, 14.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 0.0, 14.0 ],
+			"to": [ 14.0, 14.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 4.0, 30.0 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 4.0, 30.0 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 4.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 4.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 14.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#rock", "uv": [ 0.0, 0.0, 32.0, 5.0 ], "autoUv": false },
+				"east": { "texture": "#rock", "uv": [ 0.0, 0.0, 32.0, 5.0 ], "autoUv": false },
+				"south": { "texture": "#rock", "uv": [ 0.0, 0.0, 32.0, 5.0 ], "autoUv": false },
+				"west": { "texture": "#rock", "uv": [ 0.0, 0.0, 32.0, 5.0 ], "autoUv": false },
+				"up": { "texture": "#rock", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"down": { "texture": "#rock", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "octagon311",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 0.0, 0.0, 0.0 ],
+			"rotationOrigin": [ 5.0, 10.0, 16.0 ],
+			"rotationY": -90.0,
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] }
+			}
+		},
+		{
+			"name": "octagon512",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 0.0, 0.0, 0.0 ],
+			"rotationOrigin": [ 11.0, 10.0, 16.0 ],
+			"rotationY": -90.0,
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] }
+			}
+		},
+		{
+			"name": "octagon111",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 0.0, 0.0, 0.0 ],
+			"rotationOrigin": [ 5.0, 10.0, 15.0 ],
+			"rotationY": -90.0,
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] }
+			}
+		},
+		{
+			"name": "octagon222",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 0.0, 0.0, 0.0 ],
+			"rotationOrigin": [ 11.0, 10.0, 16.0 ],
+			"rotationY": -90.0,
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"east": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"south": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"west": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.0, 0.0 ] }
+			}
+		}
+	]}

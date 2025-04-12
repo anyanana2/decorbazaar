@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "B,Q,G",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 4 },
+	   	"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+	   	"G": { type: "block", code: "game:mushroom-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:mushroomcloche-north", quantity: 1 }
+	}
+]

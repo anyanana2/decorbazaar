@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "T,W",
+	   	ingredients: {
+	   	"T": { type: "item", code: "game:seeds-turnip", quantity: 1 },
+	   	"W": { type: "item", code: "game:stick", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "turnipsign-north" }
+	}
+]

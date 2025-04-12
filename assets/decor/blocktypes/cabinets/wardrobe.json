@@ -1,0 +1,67 @@
+{
+    "code": "wardrobe",
+    "entityClass": "GenericContainer",
+    "creativeinventory": { "general": ["*-north"], "decorative": ["*-north"], "decorbazaar": ["*-north"] },
+    "behaviors": [{ "name": "HorizontalOrientable" }, {name: "Container"}, {name: "UnstableFalling"}],
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+	attributes: {
+		"inventoryClassName": "Cabinet",
+"handbook": { groupBy: ["wardrobe-*"] },
+		"quantitySlots": 24,
+		"dialogTitleLangCode": "Closet Storage"
+	},
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/wardrobe", rotateY: 0 },
+         "*-east": { base: "block/cabinets/wardrobe", rotateY: 270 },
+         "*-south": { base: "block/cabinets/wardrobe", rotateY: 180 },
+         "*-west": { base: "block/cabinets/wardrobe", rotateY: 90 }
+     },
+    "blockmaterial": "Wood",
+  "lightAbsorption": 0,
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+    "drawtype": "json",
+    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/planks/{wood}1"
+            }
+        }
+    },
+    "resistance": 3.5,
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	}
+}

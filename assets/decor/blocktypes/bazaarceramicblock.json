@@ -1,0 +1,20 @@
+{
+	"code": "bazaarceramicblock",
+	"creativeinventory": { "general": ["*"], "decorbazaar": ["*"] },
+	"variantgroups": [
+		{ "code": "type", "states": ["beige", "gray", "purpletile", "anthro", "mossypink", "goldsquare", "goldmeteor"] }
+	],
+	"blockmaterial": "Stone",
+	"drawtype": "cube",
+	"textures": {
+		"all": { 
+			"base": "block/bazaar/ceramic/{type}texture",
+		"alternates": [{"base": "block/bazaar/ceramic/{type}texture" } ],
+		},
+	},
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/stone",
+		"walk": "game:walk/stone"
+	}
+}

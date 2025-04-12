@@ -1,0 +1,12 @@
+[	
+	{
+		ingredientPattern: "BBB,PBP,PBP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"B": { type: "item", code: "game:bone", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:bonestorage-north" }
+	}
+]

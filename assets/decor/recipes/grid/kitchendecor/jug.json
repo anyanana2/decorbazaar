@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "_C_,PPP,CCC",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:charcoal", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "jug-north" }
+	}
+]

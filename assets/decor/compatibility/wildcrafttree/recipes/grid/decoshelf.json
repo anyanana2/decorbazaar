@@ -1,0 +1,46 @@
+[
+	{
+		ingredientPattern: "_A_,GGG",
+	   	ingredients: {
+	   	"A": { type: "item", code: "game:clay-blue", quantity: 4 },
+	   	"G": { "allowedVariants": [
+	"bearnut", 
+	"beech", 
+	"bluemahoe", 
+	"catalpa", 
+	"jacaranda", 
+	"cedar",
+	"dalbergia", 
+	"douglasfir", 
+	"elm", 
+	"eucalyptus", 
+	"honeylocust", 
+	"mahogany", 
+	"poplar", 
+	"sal", 
+	"saxaul", 
+	"spruce", 
+	"sycamore", 
+	"willow", 
+	"yew", 
+	"chlorociboria", 
+	"petrified", 
+	"empresstree", 
+	"guajacum", 
+	"umnini", 
+	"banyan", 
+	"ginkgo", 
+	"tuja", 
+	"kauri", 
+	"ghostgum", 
+"redcedar",
+"satinash",
+	"ohia"
+		],
+		type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:decoshelf-{wood}-north", quantity: 1}
+	}
+]

@@ -1,0 +1,12 @@
+[	
+	{
+		ingredientPattern: "PPP,PCP,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:linenstorage-north" }
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		ingredientPattern: "S,G",
+	   	ingredients: {
+		"S": { "allowedVariants": [
+	"bearnut", 
+	"beech", 
+	"bluemahoe", 
+	"catalpa", 
+	"jacaranda", 
+	"cedar",
+	"dalbergia", 
+	"douglasfir", 
+	"elm", 
+	"eucalyptus", 
+	"honeylocust", 
+	"mahogany", 
+	"poplar", 
+	"sal", 
+	"saxaul", 
+	"spruce", 
+	"sycamore", 
+	"willow", 
+	"yew", 
+	"chlorociboria", 
+	"petrified", 
+	"empresstree", 
+	"guajacum", 
+	"umnini", 
+	"banyan", 
+	"ginkgo", 
+	"tuja", 
+	"kauri", 
+	"ghostgum", 
+"redcedar",
+"satinash",
+	"ohia"
+		],
+		type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 4 },
+	   	"G": { type: "item", code: "game:rot", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:compostbin-{wood}-north", quantity: 1 }
+	}
+]

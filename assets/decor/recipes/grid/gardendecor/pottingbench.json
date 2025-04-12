@@ -1,0 +1,24 @@
+[
+	{
+		ingredientPattern: "FFF,PPP,PSP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"S": { type: "block", code: "game:soil-compost-none", quantity: 2 },
+	   	"F": { type: "item", code: "game:clay-*", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "pottingbench-north" }
+	},
+	{
+		ingredientPattern: "F_F,PPP,PHP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"H": { type: "block", code: "game:soil-high-none", quantity: 2 },
+	   	"F": { type: "item", code: "game:flowerpot-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "pottingbench-north" }
+	}
+]	
