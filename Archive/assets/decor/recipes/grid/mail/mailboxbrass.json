@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "WBW",
+	   	ingredients: {
+	   	"W": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "mailboxbrass-north" }
+	}
+]

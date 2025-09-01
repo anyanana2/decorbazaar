@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "F,L,Q",
+	   	ingredients: {
+	   	"F": { type: "item", code: "game:flaxfibers", quantity: 2 },
+	   	"L": { type: "item", code: "game:cloth-brown", quantity: 1 },
+	   	"Q": { type: "block", code: "game:flower-horsetail-free", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:carpet-darkfloral-down", quantity: 12 }
+	}
+]

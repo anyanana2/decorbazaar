@@ -1,0 +1,66 @@
+{
+	"code": "metalglasslamp",
+"attributes": {
+		"handbook": { groupBy: ["metalglasslamp-*"] }
+},
+	"behaviors": [ {"name": "HorizontalOrientable"},
+		{
+			"name": "ExchangeOnInteract",
+			"properties": {
+				"exchangeStates": ["*-1-*", "*-2-*"],
+				"sound": "block/special/click",
+				"actionLangCode": "decor:blockhelp-creative-switch"
+			}
+		} ],
+	"variantgroups": [
+		{ "code": "metal", "states": ["bismuth", "bismuthbronze", "blackbronze", "brass", "copper", "gold", "iron", "lead", "meteoriciron", "nickel", "silver", "steel", "tin", "tinbronze"] },
+		{ "code":"model", "states": ["1", "2"] },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"shapeByType": {
+		"*-north": { "base": "block/lamps/metalglasslamp-{model}", rotateY: 0 },
+		"*-west": { "base": "block/lamps/metalglasslamp-{model}", rotateY: 90 },
+		"*-south": { "base": "block/lamps/metalglasslamp-{model}", rotateY: 180 },
+		"*-east": { "base": "block/lamps/metalglasslamp-{model}", rotateY: 270 }
+	},
+	    "texturesByType": {
+        "*": {
+            "metal": {
+                "base": "game:block/metal/ingot/{metal}"
+            },
+        }
+    },
+	"creativeinventoryByType": {
+		"*": { "general": ["*-1-north"], "decorative": ["*-1-north"], "decorbazaar": ["*-1-north"] }
+	},
+	"blockmaterial": "metal",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 0,
+    "lightHsv": [7, 3, 18],
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 30,
+	},
+	selectionBoxByType: {
+		"*-1-*": { x1: 0.0625, y1: 0.5, z1: 0.125, x2: 0.9375, y2: 0.9375, z2: 0.85 },
+		"*-2-*": { x1: 0.25, y1: 0.4375, z1: 0.25, x2: 0.75, y2: 0.875, z2: 0.75 }
+},
+	collisionBoxByType: {
+		"*-1-*": { x1: 0.0625, y1: 0.5, z1: 0.125, x2: 0.9375, y2: 0.9375, z2: 0.85 },
+		"*-2-*": { x1: 0.25, y1: 0.4375, z1: 0.25, x2: 0.75, y2: 0.875, z2: 0.75 }
+},
+
+
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    }
+	}
+

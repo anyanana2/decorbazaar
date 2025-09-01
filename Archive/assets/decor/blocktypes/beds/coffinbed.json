@@ -1,0 +1,74 @@
+{
+	code: "coffinbed",
+	class: "BlockBed",
+	entityClassByType: {
+		"*-head-*": "Bed",
+	},
+	attributes: {
+		sleepEfficiencyByType: {
+			"coffinbed-*": 0.70833333
+		},
+		handbook: {
+			groupBy: ["coffinbed-{material}-*"]
+		},
+	},
+	sidesolid: {
+		all: false
+	},
+	sideopaque: {
+		all: false
+	},
+	heldTpIdleAnimation: "holdunderarm",
+	variantgroups: [
+		{ code: "material", states: ["coffin"] },
+		{ code: "part", states: ["head", "feet"] },
+		{ code:"side", loadFromProperties: "abstract/horizontalorientation" }
+	],
+	creativeinventory: { "general": ["*-head-north"], "decorative": ["*-head-north"], "decorbazaar": ["*-head-north"] },
+	shapeinventory: { base: "block/beds/{material}/coffin-inventory" },
+	shapebytype: {
+		"*-head-north": { base: "block/beds/{material}/coffin-head", rotateY: 90 },
+		"*-head-east": { base: "block/beds/{material}/coffin-head", rotateY: 0 },
+		"*-head-south": { base: "block/beds/{material}/coffin-head", rotateY: 270 },
+		"*-head-west": { base: "block/beds/{material}/coffin-head", rotateY: 180 },
+		"*-feet-north": { base: "block/beds/{material}/coffin-feet", rotateY: 90 },
+		"*-feet-east": { base: "block/beds/{material}/coffin-feet", rotateY: 0 },
+		"*-feet-south": { base: "block/beds/{material}/coffin-feet", rotateY: 270 },
+		"*-feet-west": { base: "block/beds/{material}/coffin-feet", rotateY: 180 },
+	},
+	blockmaterial: "Wood",
+	replaceable: 550,
+	resistance: 2,
+	lightAbsorption: 0,
+	maxStackSize: 2,
+	guitransform: {
+		scale: 0.75,
+	},
+	combustibleProps: {
+		burnTemperature: 600,
+		burnDuration: 40,
+	},
+	fpHandTransform: {
+		translation: { x: 0.31, y: -0.2, z: 0 },
+		rotation: { x: -67, y: -33, z: 77 },
+		origin: { x: 0.5, y: 0.2, z: 0.5 },
+		scale: 1.35
+	},
+	groundTransform: {
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 2
+	},
+	guiTransform: {
+		rotation: { x: -22.6, y: 51, z: 0 },
+		scale: 0.75
+	},
+	selectionbox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.5  , z2: 1},
+	collisionbox: { x1: 0, y1: 0, z1: 0, x2: 1, y2:  0.5  , z2: 1},
+	sounds: {
+		"place": "block/planks",
+		"hit": "block/planks",
+		"break": "block/planks",
+		"walk": "walk/wood"
+	},
+	materialDensity: 600
+}

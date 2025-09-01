@@ -1,0 +1,103 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textureSizes": {
+		"1": [32,32],
+		"2": [32,32],
+		"4": [32,32],
+		"6": [64,64]
+	},
+	"textures": {
+		"wood": "block/bazaar/wood/planks/baldcypressv2",
+		"stone": "game:block/stone/agedbrick/conglomerate1"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [ 0.0, 1.0, 0.0 ],
+			"to": [ 17.0, 15.0, 14.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#stone", "uv": [ 0.0, 0.0, 29.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"south": { "texture": "#stone", "uv": [ 0.0, 0.0, 29.0, 29.0 ], "autoUv": false },
+				"west": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"up": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"down": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 1.0, 14.0 ],
+			"to": [ 14.0, 15.0, 17.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#stone", "uv": [ 0.0, 0.0, 29.0, 29.0 ], "autoUv": false },
+				"east": { "texture": "#stone", "uv": [ 0.0, 0.0, 8.0, 30.0 ], "autoUv": false },
+				"south": { "texture": "#stone", "uv": [ 0.0, 0.0, 29.0, 29.0 ], "autoUv": false },
+				"west": { "texture": "#stone", "uv": [ 0.0, 0.0, 8.0, 30.0 ], "autoUv": false },
+				"up": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false },
+				"down": { "texture": "#stone", "uv": [ 0.0, 0.0, 30.0, 6.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 1.0, 15.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 15.0, 0.0 ],
+			"to": [ 16.0, 16.0, 15.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 30.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 15.0, 15.0 ],
+			"to": [ 15.0, 16.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 1.5, 1.5, 3.5 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 1.5, 1.5, 3.5 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 2.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 2.0 ], "autoUv": false }
+			}
+		},
+		{
+			"name": "cube",
+			"from": [ 0.0, 0.0, 15.0 ],
+			"to": [ 15.0, 1.0, 16.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"east": { "texture": "#wood", "uv": [ 0.0, 1.5, 1.5, 3.5 ], "autoUv": false },
+				"south": { "texture": "#wood", "uv": [ 0.0, 1.5, 30.0, 3.5 ], "autoUv": false },
+				"west": { "texture": "#wood", "uv": [ 0.0, 1.5, 1.5, 3.5 ], "autoUv": false },
+				"up": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 2.0 ], "autoUv": false },
+				"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 30.0, 2.0 ], "autoUv": false }
+			}
+		}
+	]}

@@ -1,0 +1,12 @@
+[	
+	{
+		ingredientPattern: "MMM,PPP",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
+	   	"M": { type: "item", code: "game:redmeat-raw", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:meatstorage-north" }
+	}
+]

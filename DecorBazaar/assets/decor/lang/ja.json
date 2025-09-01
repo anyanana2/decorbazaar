@@ -1,11 +1,13 @@
 {
   "game:tabname-decorbazaar": "装飾バザー",
   "game:decorbazaar-quickstart-title": "装飾バザー（Decor Bazaar）",
-  "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。Discordの@EightTonnesOfCrabさん、お風呂だけでなくコンロも使えるようにしてくれてありがとうございます！日本語に翻訳してくれたRikeiRさんに感謝します！お楽しみください！
+  "game:decorbazaar-quickstart-text": "私のMODをご利用いただきありがとうございます！このMODはゲームに装飾アイテムを追加します。MODの開発を手伝ってくれる人がいらっしゃいましたら、Discordの@anyananaまでご連絡ください。お風呂機能を提供してくれた@EightTonnesofCrabに感謝します。コンロと焚き火機能を提供してくれた@Feidryに感謝します！日本語に翻訳してくれたRikeiRに感謝します！お楽しみください！
+
+1.1.6の新しいブロック：新しいメタルシンク、新しいウッドシンク、ヒノキのシングルシンクが解放され、基本的な木のキッチンセットと石のキッチンセットにマッチするよう、すべての木のタイプと石のタイプが追加されました。シングルシンクはダブルシンクのように水を溜めることができます。また、コテージコアのテーブルとスツールを解放し、モデルを改良し、すべての種類の木材を使えるようにしました。コテージコアテーブルには、ダブルテーブル（キャンドル付き）とシングルバージョン（キャンドルなし）があります。コテージコアスツールには、オリジナルバージョンと背もたれ付きスツールがあります。
 
 アイテムリスト：
 
-新しいオーブン！
+オーブン：
 これらは当然オーブンとして機能します。自立型3種、卓上型3種、壁埋め込み型1種の計7タイプあります。
 
 自立型オーブンを置くには、まずオーブンを置きたい場所に仮のブロックを置く必要があります。土のブロックでもかまいません。その後、仮ブロックの上に自立型オーブンを置き、仮ブロックを破壊します。じゃじゃーん！ 下に豪華なものが付いたオーブンです。
@@ -18,7 +20,8 @@
 <a href=\"handbooksearch://ガラス付き卓上オーブン\">ガラス付き卓上オーブン</a>
 <a href=\"handbooksearch://ガラス付きファンシー卓上オーブン\">ガラス付きファンシー卓上オーブン</a>
 
-コンロ：これらのコンロは現在オーブンとして機能していますが、視覚的には機能していません。UIを見ることで、何が調理されているかを確認できます。
+
+コンロ：これらのコンロは今では焚き火として機能します！@Feidryに感謝します！
 <a href=\"handbooksearch://石のコンロ\">石のコンロ</a>
 <a href=\"handbooksearch://鋳鉄のコンロ\">鋳鉄のコンロ</a>
 <a href=\"handbooksearch://薪付き鋳鉄のコンロ\">薪付き鋳鉄のコンロ</a>
@@ -27,7 +30,6 @@
 
 
 風呂場の装飾：
-<a href=\"handbooksearch://風呂場の散乱物\">風呂場の散乱物</a>
 <a href=\"handbooksearch://ビクトリア朝風のトイレ\">ビクトリア朝風のトイレ</a>
 <a href=\"handbooksearch://ビクトリア朝風のシンク\">ビクトリア朝風のシンク</a>
 <a href=\"handbooksearch://爪足浴槽\">爪足浴槽</a>はバケツ100杯分の水を入れることができます。 
@@ -50,24 +52,48 @@
 
 
 テーブル：
-<a href=\"handbooksearch://サイドテーブル\">サイドテーブル</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://サイドテーブル\">サイドテーブル</a>：右クリックでバリエーションが変わります！
 <a href=\"handbooksearch://真鍮のテーブル\">真鍮のテーブル</a>
 <a href=\"handbooksearch://コーヒーテーブル\">コーヒーテーブル</a>：右クリックで種類が変わります！
-<a href=\"handbooksearch://コテージコアテーブル（ヌマスギ）\">コテージコアテーブル（ヌマスギ）</a>
+<a href=\"handbooksearch://コテージコアテーブル\">コテージコアテーブル</a>：テーブルはすべての木のバリエーションがあり、シングルとダブルバージョンがあります。
+
 
 <a href=\"handbooksearch://ゴシックテーブル\">ゴシックテーブル</a>
 
+貯蔵容器：食品の保存期間が設定されているものもあります。
+<a href=\"handbooksearch://肉の貯蔵容器\">肉の貯蔵容器</a>：モデルとテクスチャはDiscordのBORGARさんによるものです。ありがとうございます! 腐敗率があります。
+<a href=\"handbooksearch://亜麻布の貯蔵容器\">亜麻布の貯蔵容器</a>
+<a href=\"handbooksearch://骨の貯蔵容器\">骨の貯蔵容器</a>
+<a href=\"handbooksearch://脂の貯蔵容器\">脂の貯蔵容器</a>
+<a href=\"handbooksearch://ハチミツの貯蔵容器\">ハチミツの貯蔵容器</a>
+<a href=\"handbooksearch://裁縫棚\">裁縫棚</a>
+<a href=\"handbooksearch://より糸収納庫\">より糸収納庫</a>
+<a href=\"handbooksearch://壁掛け野菜収納庫\">壁掛け野菜収納庫</a>は腐敗率があります。
+<a href=\"handbooksearch://野菜収納庫\">野菜収納庫</a>は腐敗率があります。
+<a href=\"handbooksearch://パンの箱\">パンの箱</a>は腐敗率があります。
+<a href=\"handbooksearch://堆肥箱\">堆肥箱</a>は外気温に応じて腐敗が加速します。
+<a href=\"handbooksearch://ワードローブ\">ワードローブ</a>
+
+散乱物：
+<a href=\"handbooksearch://料理の散乱物\">料理の散乱物</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://狩猟採集の散乱物\">狩猟採集の散乱物</a>：右クリックで種類が変わります！ (<a href=\"handbooksearch://キッチンの散乱物\">キッチンの散乱物</a>
+<a href=\"handbooksearch://風呂場の散乱物\">風呂場の散乱物</a>
 
 キッチン：
+L字型のキッチンをお探しの方のために、すべてのキャビネットバリエーションにインナータイプとコーナータイプが追加されました！
+
 <a href=\"handbooksearch://キャビネット左\">キャビネット左</a>：収納スロットがあります。
 <a href=\"handbooksearch://キャビネット右\">キャビネット右</a>：収納スロットがあります。
 <a href=\"handbooksearch://キャビネット左上\">キャビネット左上</a>：収納スロットがあります。
 <a href=\"handbooksearch://キャビネット右上\">キャビネット右上</a>：収納スロットがあります。
 <a href=\"handbooksearch://オープンキャビネット\">オープンキャビネット</a>
-<a href=\"handbooksearch://石のシンク\">石のシンク</a>
-<a href=\"handbooksearch://木のシンク\">木のシンク</a>
 
-木と石のダブルシンクもヌマスギのシンクと同様に水を入れることができるようになりました！ シンクを置きたい場所に水ブロックを置くか、バケツを空にします。そして、水が流れる場所の上にシンクを置きます。うまくいけば水は溢れなくなり、シンク内に完全に収まるはずです。 シンクの水は無限です！
+シンク：
+すべてのシンクに水を溜めることができます。そのためには、水ブロック (クリエイティブ) を配置するか、シンク/水源を配置するブロックにバケツの水を空ける必要があります。次に、水が流れている場所の上にシンクを配置します。正しく行えば、水は溢れなくなり、シンク内に完全に収まるはずです。 シンクの水は無限です！
+<a href=\"handbooksearch://シングル石のシンク\">シングル石のシンク</a>は石のキッチンセットにマッチするようにデザインされています。
+<a href=\"handbooksearch://シングル木のシンク\">シングル木のシンク</a>は木のキッチンセットにマッチするようにデザインされています。
+<a href=\"handbooksearch://ダブル木のシンク\">ダブル木のシンク</a>：シンクの左側には水が溜まります。
+<a href=\"handbooksearch://ダブル石のシンク\">ダブル石のシンク</a>：シンクの左側には水が溜まります。
 
 <a href=\"handbooksearch://石のキャビネット\">石のキャビネットとアイランド</a>：収納スロットがあります。
 <a href=\"handbooksearch://石の引き出し\">石の引き出しとアイランド</a>：収納スロットがあります。
@@ -77,7 +103,7 @@
 <a href=\"handbooksearch://ファンシーキャビネット\">ファンシーキャビネットとアイランド</a>：収納スロットがあります。
 <a href=\"handbooksearch://ファンシーキャビネット上部\">ファンシーキャビネット上部</a>：収納スロットがあります。
 
-<a href=\"handbooksearch://キッチンの散乱物\">キッチンの散乱物</a>
+キッチンの装飾：
 <a href=\"handbooksearch://陶器の黄色い鍋\">陶器の黄色い鍋</a>
 <a href=\"handbooksearch://水差し\">水差し</a>
 <a href=\"handbooksearch://グラストレー\">グラストレー</a>
@@ -87,27 +113,23 @@
 <a href=\"handbooksearch://鍋とフライパン\">鍋とフライパン</a>
 <a href=\"handbooksearch://マグカップラック\">マグカップラック</a>
 <a href=\"handbooksearch://パンかご\">パンかご</a>
-<a href=\"handbooksearch://壁掛け野菜収納庫\">壁掛け野菜収納庫</a>は機能します。
-<a href=\"handbooksearch://野菜収納庫\">野菜収納庫</a>は機能します。
 <a href=\"handbooksearch://ティーセット\">ティーセット</a>
 <a href=\"handbooksearch://スパイスラック\">スパイスラック</a>
 <a href=\"handbooksearch://キッチンの棚\">キッチンの棚</a>
-<a href=\"handbooksearch://パンの箱\">パンの箱</a>には収納スロットがあり、食品を保存できます。
-<a href=\"handbooksearch://堆肥箱\">堆肥箱</a>は腐敗を促進します。
 <a href=\"handbooksearch://ハーブラック\">ハーブラック</a>
-<a href=\"handbooksearch://料理の散乱物\">料理の散乱物</a>：右クリックで種類が変わります！
-<a href=\"handbooksearch://狩猟採集の散乱物\">狩猟採集の散乱物</a>：右クリックで種類が変わります！ (近日中にバリエーションを増やす予定です）
 
 ランプ：
 すべてのランプは機能します！ 燭台には、他の金属製と同様に、古びたバージョンも追加されました。
-<a href=\"handbooksearch://真鍮のランプ\">真鍮のランプ</a>：右クリックで種類が変わります！
-<a href=\"handbooksearch://真鍮の燭台\">真鍮の燭台</a> 
+<a href=\"handbooksearch://金属のランプ\">金属のランプ</a>：右クリックで種類が変わります！
+<a href=\"handbooksearch://金属の燭台\">金属の燭台</a> 
+<a href=\"handbooksearch://木の燭台\">木の燭台</a> 
 <a href=\"handbooksearch://ゴシックランプ\">ゴシックランプ</a> 
 <a href=\"handbooksearch://背の高い燭台\">背の高い燭台</a> 
 <a href=\"handbooksearch://卓上燭台\">卓上燭台</a> 
 
 イス：
-<a href=\"handbooksearch://コテージコアスツール（ヌマスギ）\">コテージコアスツール（ヌマスギ）</a>
+<a href=\"handbooksearch://コテージコアスツール\">コテージコアスツール</a>
+<a href=\"handbooksearch://コテージコアチェア\">コテージコアチェア</a>
 <a href=\"handbooksearch://ファブリックチェア\">ファブリックチェア</a>
 <a href=\"handbooksearch://スツール\">スツール</a>
 <a href=\"handbooksearch://ソファー\">ソファー</a> 
@@ -137,17 +159,11 @@
 <a href=\"handbooksearch://バターチャーン\">バターチャーン</a>
 <a href=\"handbooksearch://木の棚\">木の棚</a>：右クリックで種類が変わります！
 <a href=\"handbooksearch://魔法のアイテム\">魔法のアイテム</a>
-
 <a href=\"handbooksearch://地図製作者の地図\">地図製作者の地図</a>
-<a href=\"handbooksearch://裁縫棚\">裁縫棚</a>
-<a href=\"handbooksearch://より糸収納庫\">より糸収納庫</a>
-<a href=\"handbooksearch://ワードローブ\">ワードローブ</a>には衣服用のスロットがあります。
 <a href=\"handbooksearch://真鍮の鏡\">真鍮の鏡</a>
 <a href=\"handbooksearch://真鍮のロウソク棚\">真鍮のロウソク棚</a>
 <a href=\"handbooksearch://キノコのクローシュ\">キノコのクローシュ</a>
 <a href=\"handbooksearch://手紙の山\">手紙の山</a>
-<a href=\"handbooksearch://裁縫棚\">裁縫棚</a>には収納スロットがあります。
-<a href=\"handbooksearch://麻ひも収納庫\">麻ひも収納庫</a>には収納スロットがあります。
 <a href=\"handbooksearch://墓碑\">墓碑</a>：右クリックで種類が変わります！
 
 
@@ -176,6 +192,7 @@
 <a href=\"handbooksearch://カブトムシの壁紙\">カブトムシの壁紙</a>
 <a href=\"handbooksearch://ダークフローラルの壁紙\">ダークフローラルの壁紙</a>
 <a href=\"handbooksearch://コウモリの壁紙\">コウモリの壁紙</a>
+
 
 ",
 
@@ -215,10 +232,7 @@
   "block-sidetablev2-*": "サイドテーブル V2",
   "block-sidetablev3-*": "サイドテーブル V3",
   "block-opencabinet-*": "オープンキャビネット",
-  "block-stoneshelf-*": "石の棚",
-  "block-sink-*": "シンク（ヌマスギ）",
   "block-brassmirror-*": "真鍮の鏡",
-  "block-brasssconce-*": "真鍮の燭台",
   "block-brassbed-*": "真鍮のベッド",
   "block-flowerbed-*": "花のベッド",
   "block-brasstable-*": "真鍮のテーブル",
@@ -702,8 +716,6 @@
   "block-wallpaper-bat": "コウモリの壁紙",
 
 
-  "block-cottagecoretable-*": "コテージコアテーブル（ヌマスギ）",
-  "block-cottagecorestool-*": "コテージコアスツール（ヌマスギ）",
   "block-counterclutter-*": "キッチンの散乱物",
   "block-pot-*": "陶器の黄色い鍋",
   "block-potsandpans-*": "鍋とフライパン",
@@ -2632,7 +2644,7 @@
 
   "block-sofa-blue-*": "ブルーソファー",
   "block-sofa-green-*": "グリーンソファー",
-  "block-sofa-neutral-*": "ニュートラルソファー",
+  "block-sofa-plain-*": "ニュートラルソファー",
   "block-sofa-red-*": "レッドソファー",
   "block-sofa-white-*": "ホワイトソファー",
 
@@ -3041,7 +3053,7 @@
   "block-forragingclutter-2-*": "狩猟採集の散乱物",
 
   "block-bonestorage-*": "骨の貯蔵容器",
-  "block-fatstorage-*": "脂の保存容器",
+  "block-fatstorage-*": "脂の貯蔵容器",
   "block-fatstorage2-*": "脂の貯蔵棚",
   "block-mushroomstorage-*": "キノコの貯蔵容器",
   "block-honeystorage-*": "ハチミツの貯蔵容器",
@@ -3053,22 +3065,140 @@
 
 // ランプのバリエーション //
 
-  "block-metalglasslamp-bismuth-*": "ビスマスガラスランプ",
-  "block-metalglasslamp-bismuthbronze-*": "ビスマス青銅ガラスランプ",
-  "block-metalglasslamp-blackbronze-*": "黒青銅ガラスランプ",
-  "block-metalglasslamp-brass-*": "真鍮ガラスランプ",
-  "block-metalglasslamp-copper-*": "銅ガラスランプ",
-  "block-metalglasslamp-gold-*": "金ガラスランプ",
-  "block-metalglasslamp-iron-*": "鉄ガラスランプ",
-  "block-metalglasslamp-lead-*": "鉛ガラスランプ",
-  "block-metalglasslamp-meteoriciron-*": "隕鉄ガラスランプ",
-  "block-metalglasslamp-nickel-*": "ニッケルガラスランプ",
-  "block-metalglasslamp-silver-*": "銀ガラスランプ",
-  "block-metalglasslamp-steel-*": "鋼鉄ガラスランプ",
-  "block-metalglasslamp-tin-*": "スズガラスランプ",
-  "block-metalglasslamp-tinbronze-*": "スズ青銅ガラスランプ",
+  "block-metalglasslamp-bismuth-*": "ガラスランプ（ビスマス）",
+  "block-metalglasslamp-bismuthbronze-*": "ガラスランプ（ビスマス青銅）",
+  "block-metalglasslamp-blackbronze-*": "ガラスランプ（黒青銅）",
+  "block-metalglasslamp-brass-*": "ガラスランプ（真鍮）",
+  "block-metalglasslamp-copper-*": "ガラスランプ（銅）",
+  "block-metalglasslamp-gold-*": "ガラスランプ（金）",
+  "block-metalglasslamp-iron-*": "ガラスランプ（鉄）",
+  "block-metalglasslamp-lead-*": "ガラスランプ（鉛）",
+  "block-metalglasslamp-meteoriciron-*": "ガラスランプ（隕鉄）",
+  "block-metalglasslamp-nickel-*": "ガラスランプ（ニッケル）",
+  "block-metalglasslamp-silver-*": "ガラスランプ（銀）",
+  "block-metalglasslamp-steel-*": "ガラスランプ（鋼鉄）",
+  "block-metalglasslamp-tin-*": "ガラスランプ（スズ）",
+  "block-metalglasslamp-tinbronze-*": "ガラスランプ（スズ青銅）",
 
   "block-meatstorage-*": "肉の貯蔵容器",
   "block-linenstorage-*": "亜麻布の貯蔵容器",
+  "block-buttonstorage-*": "ボタンの貯蔵容器",
+
+  "block-metalsconce-bismuth-*": 燭台（ビスマス）",
+  "block-metalsconce-bismuthbronze-*": "燭台（ビスマス青銅）",
+  "block-metalsconce-blackbronze-*": "燭台（黒青銅）",
+  "block-metalsconce-brass-*": "燭台（真鍮）",
+  "block-metalsconce-copper-*": "燭台（銅）",
+  "block-metalsconce-gold-*": "燭台（金）",
+  "block-metalsconce-iron-*": "燭台（鉄）",
+  "block-metalsconce-lead-*": "燭台（鉛）",
+  "block-metalsconce-meteoriciron-*": "燭台（隕鉄）",
+  "block-metalsconce-nickel-*": "燭台（ニッケル）",
+  "block-metalsconce-silver-*": "燭台（銀）",
+  "block-metalsconce-steel-*": "燭台（鋼鉄）",
+  "block-metalsconce-tin-*": "燭台（スズ）",
+  "block-metalsconce-tinbronze-*": "燭台（スズ青銅）",
+
+  "block-woodroundsconce-aged-*": "丸型燭台（古びた）",
+  "block-woodroundsconce-acacia-*": "丸型燭台（アカシア）",
+  "block-woodroundsconce-baldcypress-*": "丸型燭台（ヌマスギ）",
+  "block-woodroundsconce-birch-*": "丸型燭台（シラカバ）",
+  "block-woodroundsconce-ebony-*": "丸型燭台（コクタン）",
+  "block-woodroundsconce-kapok-*": "丸型燭台（カポック）",
+  "block-woodroundsconce-larch-*": "丸型燭台（カラマツ）",
+  "block-woodroundsconce-maple-*": "丸型燭台（カエデ）",
+  "block-woodroundsconce-oak-*": "丸型燭台（オーク）",
+  "block-woodroundsconce-pine-*": "丸型燭台（マツ）",
+  "block-woodroundsconce-purpleheart-*": "丸型燭台（パープルハート）",
+  "block-woodroundsconce-redwood-*": "丸型燭台（レッドウッド）",
+  "block-woodroundsconce-walnut-*": "丸型燭台（クルミ）",
+
+  "block-stonesinglesink-andesite-*": "シングル石のシンク（安山岩）",
+  "block-stonesinglesink-basalt-*": "シングル石のシンク（玄武岩）",
+  "block-stonesinglesink-bauxite-*": "シングル石のシンク（ボーキサイト）",
+  "block-stonesinglesink-chalk-*": "シングル石のシンク（チョーク）",
+  "block-stonesinglesink-chert-*": "シングル石のシンク（チャート）",
+  "block-stonesinglesink-claystone-*": "シングル石のシンク（粘土岩）",
+  "block-stonesinglesink-conglomerate-*": "シングル石のシンク（礫岩）",
+  "block-stonesinglesink-granite-*": "シングル石のシンク（花崗岩）",
+  "block-stonesinglesink-kimberlite-*": "シングル石のシンク（キンバーライト）",
+  "block-stonesinglesink-limestone-*": "シングル石のシンク（石灰岩）",
+  "block-stonesinglesink-peridotite-*": "シングル石のシンク（かんらん岩）",
+  "block-stonesinglesink-phyllite-*": "シングル石のシンク（千枚岩）",
+  "block-stonesinglesink-sandstone-*": "シングル石のシンク（砂岩）",
+  "block-stonesinglesink-shale-*": "シングル石のシンク（泥板岩）",
+  "block-stonesinglesink-slate-*": "シングル石のシンク（粘板岩）",
+  "block-stonesinglesink-suevite-*": "シングル石のシンク（スエバイト）",
+
+  "block-woodsinglesink-aged-*": "シングル木のシンク（古びた）",
+  "block-woodsinglesink-acacia-*": "シングル木のシンク（アカシア）",
+  "block-woodsinglesink-baldcypress-*": "シングル木のシンク（ヌマスギ）",
+  "block-woodsinglesink-birch-*": "シングル木のシンク（シラカバ）",
+  "block-woodsinglesink-ebony-*": "シングル木のシンク（コクタン）",
+  "block-woodsinglesink-kapok-*": "シングル木のシンク（カポック）",
+  "block-woodsinglesink-larch-*": "シングル木のシンク（カラマツ）",
+  "block-woodsinglesink-maple-*": "シングル木のシンク（カエデ）",
+  "block-woodsinglesink-oak-*": "シングル木のシンク（オーク）",
+  "block-woodsinglesink-pine-*": "シングル木のシンク（マツ）",
+  "block-woodsinglesink-purpleheart-*": "シングル木のシンク（パープルハート）",
+  "block-woodsinglesink-redwood-*": "シングル木のシンク（レッドウッド）",
+  "block-woodsinglesink-walnut-*": "シングル木のシンク（クルミ）",
+
+  "block-cottagecoretablesingle-aged-*": "シングルコテージコアテーブル（古びた）",
+  "block-cottagecoretablesingle-acacia-*": "シングルコテージコアテーブル（アカシア）",
+  "block-cottagecoretablesingle-baldcypress-*": "シングルコテージコアテーブル（ヌマスギ）",
+  "block-cottagecoretablesingle-birch-*": "シングルコテージコアテーブル（シラカバ）",
+  "block-cottagecoretablesingle-ebony-*": "シングルコテージコアテーブル（コクタン）",
+  "block-cottagecoretablesingle-kapok-*": "シングルコテージコアテーブル（カポック）",
+  "block-cottagecoretablesingle-larch-*": "シングルコテージコアテーブル（カラマツ）",
+  "block-cottagecoretablesingle-maple-*": "シングルコテージコアテーブル（カエデ）",
+  "block-cottagecoretablesingle-oak-*": "シングルコテージコアテーブル（オーク）",
+  "block-cottagecoretablesingle-pine-*": "シングルコテージコアテーブル（マツ）",
+  "block-cottagecoretablesingle-purpleheart-*": "シングルコテージコアテーブル（パープルハート）",
+  "block-cottagecoretablesingle-redwood-*": "シングルコテージコアテーブル（レッドウッド）",
+  "block-cottagecoretablesingle-walnut-*": "シングルコテージコアテーブル（クルミ）",
+
+  "block-cottagecoretabledouble-aged-*": "ダブルコテージコアテーブル（古びた）",
+  "block-cottagecoretabledouble-acacia-*": "ダブルコテージコアテーブル（アカシア）",
+  "block-cottagecoretabledouble-baldcypress-*": "ダブルコテージコアテーブル（ヌマスギ）",
+  "block-cottagecoretabledouble-birch-*": "ダブルコテージコアテーブル（シラカバ）",
+  "block-cottagecoretabledouble-ebony-*": "ダブルコテージコアテーブル（コクタン）",
+  "block-cottagecoretabledouble-kapok-*": "ダブルコテージコアテーブル（カポック）",
+  "block-cottagecoretabledouble-larch-*": "ダブルコテージコアテーブル（カラマツ）",
+  "block-cottagecoretabledouble-maple-*": "ダブルコテージコアテーブル（カエデ）",
+  "block-cottagecoretabledouble-pine-*": "ダブルコテージコアテーブル（マツ）",
+  "block-cottagecoretabledouble-oak-*": "ダブルコテージコアテーブル（オーク）",
+  "block-cottagecoretabledouble-purpleheart-*": "ダブルコテージコアテーブル（パープルハート）",
+  "block-cottagecoretabledouble-redwood-*": "ダブルコテージコアテーブル（レッドウッド）",
+  "block-cottagecoretabledouble-walnut-*": "ダブルコテージコアテーブル（クルミ）",
+
+  "block-cottagecorestool-aged-*": "コテージコアスツール（古びた）",
+  "block-cottagecorestool-acacia-*": "コテージコアスツール（アカシア）",
+  "block-cottagecorestool-baldcypress-*": "コテージコアスツール（ヌマスギ）",
+  "block-cottagecorestool-birch-*": "コテージコアスツール（シラカバ）",
+  "block-cottagecorestool-ebony-*": "コテージコアスツール（コクタン）",
+  "block-cottagecorestool-kapok-*": "コテージコアスツール（カポック）",
+  "block-cottagecorestool-larch-*": "コテージコアスツール（カラマツ）",
+  "block-cottagecorestool-maple-*": "コテージコアスツール（カエデ）",
+  "block-cottagecorestool-pine-*": "コテージコアスツール（マツ）",
+  "block-cottagecorestool-oak-*": "コテージコアスツール（オーク）",
+  "block-cottagecorestool-purpleheart-*": "コテージコアスツール（パープルハート）",
+  "block-cottagecorestool-redwood-*": "コテージコアスツール（レッドウッド）",
+  "block-cottagecorestool-walnut-*": "コテージコアスツール（クルミ）",
+
+  "block-cottagecorestoolwback-aged-*": "コテージコアスチェア（古びた）",
+  "block-cottagecorestoolwback-acacia-*": "コテージコアスチェア（アカシア）",
+  "block-cottagecorestoolwback-baldcypress-*": "コテージコアスチェア（ヌマスギ）",
+  "block-cottagecorestoolwback-birch-*": "コテージコアスチェア（シラカバ）",
+  "block-cottagecorestoolwback-ebony-*": "コテージコアスチェア（コクタン）",
+  "block-cottagecorestoolwback-kapok-*": "コテージコアスチェア（カポック）",
+  "block-cottagecorestoolwback-larch-*": "コテージコアスチェア（カラマツ）",
+  "block-cottagecorestoolwback-maple-*": "コテージコアスチェア（カエデ）",
+  "block-cottagecorestoolwback-oak-*": "コテージコアスチェア（オーク）",
+  "block-cottagecorestoolwback-pine-*": "コテージコアスチェア（マツ）",
+  "block-cottagecorestoolwback-purpleheart-*": "コテージコアスチェア（パープルハート）",
+  "block-cottagecorestoolwback-redwood-*": "コテージコアスチェア（レッドウッド）",
+  "block-cottagecorestoolwback-walnut-*": "コテージコアスチェア（クルミ）",
+
 
 }

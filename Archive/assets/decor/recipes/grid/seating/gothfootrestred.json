@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "C,G",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:crushed-cinnabar", quantity: 4 },
+	   	"G": { type: "item", code: "game:stick", quantity: 4 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:gothfootrestred-north", quantity: 1 }
+	}
+]

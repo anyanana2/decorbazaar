@@ -1,0 +1,46 @@
+[
+	{
+		ingredientPattern: "B,I",
+	   	ingredients: {
+		"B": { "allowedVariants": [
+	"bearnut", 
+	"beech", 
+	"bluemahoe", 
+	"catalpa", 
+	"jacaranda", 
+	"cedar",
+	"dalbergia", 
+	"douglasfir", 
+	"elm", 
+	"eucalyptus", 
+	"honeylocust", 
+	"mahogany", 
+	"poplar", 
+	"sal", 
+	"saxaul", 
+	"spruce", 
+	"sycamore", 
+	"willow", 
+	"yew", 
+	"chlorociboria", 
+	"petrified", 
+	"empresstree", 
+	"guajacum", 
+	"umnini", 
+	"banyan", 
+	"ginkgo", 
+	"tuja", 
+	"kauri", 
+	"ghostgum", 
+"redcedar",
+"satinash",
+	"ohia"
+		],
+		type: "item", name: "wood", code: "wildcrafttree:plank-*", quantity: 5 },
+	   	"I": { type: "item", code: "game:nugget-nativecopper", quantity: 1 },
+	   	},
+	   	width: 2,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:rightuppercabinet-{wood}-normal-north", quantity: 2 }
+	}
+]	

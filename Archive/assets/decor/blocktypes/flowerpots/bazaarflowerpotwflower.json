@@ -1,0 +1,75 @@
+{
+	code: "bazaarflowerpotwflower",
+	classByType: {
+		"*": "BlockPlantContainer"
+	},
+	entityClassByType: {
+		"*": "PlantContainer",
+	},
+	behaviorsByType: {
+		"*": [{name: "UnstableFalling"}]
+	},
+	attributes: {
+		sitHeight: 0.75,
+		beeFeedByType: {
+			"*-empty": false,
+			"*": true
+		},
+		butterflyFeedByType: {
+			"*-empty": false,
+			"*": true
+		},
+		plantContainerSize: "small",
+		filledShape: { base: "block/flowerpots/terracottapotwflower" },
+		fillHeight: 0.500
+	},
+	variantgroups: [
+		{ code: "type", states: ["terracottawflower"] }
+	],
+	shape: { base: "block/flowerpots/terracottapotwflower" },
+	doNotRenderAtLod2: true,
+	creativeinventory: { "general": ["*"], "decorative": ["*"], "decorbazaar": ["*"] },
+	blockmaterial: "Ceramic",
+	replaceable: 900,
+	resistance: 1.5,
+	lightAbsorption: 1,
+	maxStackSize: 8,
+	texturesByType: {
+		"*-terracottawflower-*": { 
+			sides: {  base: "block/bazaar/ceramic/flowerpot/accents/terracottawflower" },
+			color: {  base: "block/bazaar/ceramic/flowerpot/terracotta" },
+			soil: { base: "game:block/soil/cob/normal1" }
+		},
+		"*-purplewgold-*": { 
+			sides: {  base: "block/bazaar/ceramic/flowerpot/accents/purplewgold" },
+			color: {  base: "block/bazaar/ceramic/flowerpot/purpleclay" },
+			soil: { base: "game:block/soil/cob/normal1" }
+		}
+	},
+	sidesolid: {
+		all: false
+	},
+	sideopaque: {
+		all: false
+	},
+	emitsideao: {
+		all: false
+	},
+	collisionbox: {
+		x1: 0.3125, y1: 0, z1: 0.3125,
+		x2: 0.6875, y2: 0.4375, z2: 0.6875
+	},
+	selectionbox: {
+		x1: 0.3125, y1: 0, z1: 0.3125,
+		x2: 0.6875, y2: 0.4375, z2: 0.6875
+	},
+	tpHandTransform: {
+		translation: { x: -1.5, y: -0.9, z: -1 },
+		rotation: { x: -78, y: 32, z: -95 },
+		scale: 0.45
+	},
+	guiTransform: {
+		origin: { x: 0.5, y: 0.3, z: 0.5 },
+		scale: 1.5
+	}
+}

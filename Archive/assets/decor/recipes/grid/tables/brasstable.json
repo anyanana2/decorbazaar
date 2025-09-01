@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "QQQ,_B_,_B_",
+	   	ingredients: {
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "brasstable-north" }
+	}
+]
+

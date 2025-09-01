@@ -1,0 +1,29 @@
+[
+	{
+		ingredientPattern: "GQG,CGC",
+	   	ingredients: {
+	   	"C": { type: "item", code: "game:candle", quantity: 1 },
+	   	"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+		"G": { "allowedVariants": [
+			    "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+					],
+				
+			"type": "item", name: "wood", code: "game:plank-*", quantity: 4 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "decor:woodroundsconce-{wood}-normal-north", quantity: 2 }
+	}
+]

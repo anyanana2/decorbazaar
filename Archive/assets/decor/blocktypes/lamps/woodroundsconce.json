@@ -1,0 +1,97 @@
+{
+    "code": "woodroundsconce",
+    "storageFlags": 257,
+"attributes": {
+		"handbook": { groupBy: ["woodroundsconce-*"] }
+},
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "behaviors": [{ "name": "HorizontalOrientable" }],
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [
+                "aged",
+                "acacia",
+                "baldcypress",
+                "birch",
+                "ebony",
+                "kapok",
+                "larch",
+                "maple",
+                "oak",
+                "pine",
+                "purpleheart",
+                "redwood",
+                "walnut"
+            ]
+        },
+		{
+			"code": "type",
+			"states": ["normal"]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+shapeByType: {
+
+         "*-north": { base: "block/lamps/woodroundsconce", rotateY: 0 },
+         "*-east": { base: "block/lamps/woodroundsconce", rotateY: 270 },
+         "*-south": { base: "block/lamps/woodroundsconce", rotateY: 180 },
+         "*-west": { base: "block/lamps/woodroundsconce", rotateY: 90 }
+     },
+    "blockmaterial": "Wood",
+    "sidesolid": {
+        "all": "false"
+    },
+    "sideopaque": {
+        "all": "false"
+    },
+	    "texturesByType": {
+        "*": {
+            "wood": {
+                "base": "game:block/wood/debarked/{wood}"
+            },
+        }
+    },
+    "drawtype": "json",
+    "resistance": 1.0,
+    "lightAbsorption": 0,
+    "lightHsv": [7, 3, 18],
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+	    "collisionBox": { 
+			x1: 0.3751, y1: 0, z1: 0, x2: 0.625, y2: 1, z2: 0.25,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+	    "selectionBox": { 
+			x1: 0.3751, y1: 0, z1: 0, x2: 0.625, y2: 1, z2: 0.25,
+			rotateYByType: {
+			"*-east": 270,
+			"*-west": 90,
+			"*-south": 180
+			}
+},
+	guiTransform: {
+		rotation: { x: -22.6, y: 147, z: 0 }
+	}
+}

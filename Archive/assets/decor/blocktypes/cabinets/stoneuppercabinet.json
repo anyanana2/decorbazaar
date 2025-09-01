@@ -1,0 +1,103 @@
+{
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["stoneuppercabinet-*"] },
+        "inventoryClassName": "Cabinet",
+        "quantitySlots": 8
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalAttachable", properties: {dropBlockFace: "east"}
+        },
+        {
+            "name": "Container"
+        }
+    ],
+    "blockmaterial": "stone",
+    "code": "stoneuppercabinet",
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/stoneuppercabinet", rotateY: 0 },
+         "*-east": { base: "block/cabinets/stoneuppercabinet", rotateY: 270 },
+         "*-south": { base: "block/cabinets/stoneuppercabinet", rotateY: 180 },
+         "*-west": { base: "block/cabinets/stoneuppercabinet", rotateY: 90 }
+     },
+    "sideopaque": {
+        "all": "false",
+        "up": "false"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "false"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+    "texturesByType": {
+        "*": {
+            "stone": {
+                "base": "game:block/stone/agedbrick/{stone}1"
+            },
+            "metal": {
+                "base": "game:block/metal/ingot/brass"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "stone",
+            "states": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+            ]
+        },
+		{
+			"code": "type",
+			"states": ["normal"]
+		},
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

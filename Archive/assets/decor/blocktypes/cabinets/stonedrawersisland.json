@@ -1,0 +1,109 @@
+{
+    "attributes": {
+        "dialogTitleLangCode": "Cabinet Storage",
+		"handbook": { groupBy: ["stonedrawersisland-*"] },
+        "inventoryClassName": "Cabinet",
+        "pieFormingSurface": true,
+        "quantitySlots": 8
+    },
+    "behaviors": [
+        {
+            "name": "HorizontalOrientable"
+        },
+        {
+            "name": "Container"
+        },
+        {
+            "name": "UnstableFalling"
+        }
+    ],
+    "blockmaterial": "stone",
+    "code": "stonedrawersisland",
+    "creativeinventoryByType": {
+        "*": {
+            "decorative": [
+                "*-north"
+            ],
+            "decorbazaar": [
+                "*-north"
+            ],
+            "general": [
+                "*-north"
+            ]
+        }
+    },
+    "drawtype": "json",
+    "entityClass": "GenericContainer",
+    "guiTransform": {
+        "rotation": {
+            "x": -22.6,
+            "y": 152,
+            "z": 0
+        }
+    },
+    "lightAbsorption": 0,
+    "materialDensity": 400,
+    "resistance": 3.5,
+shapeByType: {
+
+         "*-north": { base: "block/cabinets/stonedrawersisland", rotateY: 0 },
+         "*-east": { base: "block/cabinets/stonedrawersisland", rotateY: 270 },
+         "*-south": { base: "block/cabinets/stonedrawersisland", rotateY: 180 },
+         "*-west": { base: "block/cabinets/stonedrawersisland", rotateY: 90 }
+     },
+    "sideopaque": {
+        "all": "false",
+        "up": "true"
+    },
+    "sidesolid": {
+        "all": "false",
+        "up": "true"
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "walk": "game:walk/stone"
+    },
+    "texturesByType": {
+        "*": {
+            "stone": {
+                "base": "game:block/stone/agedbrick/{stone}1"
+            },
+            "metal": {
+                "base": "game:block/metal/ingot/brass"
+            },
+            "rock": {
+                "base": "game:block/stone/polishedrock/limestone"
+            },
+            "wood": {
+                "base": "block/bazaar/wood/cabinets/baldcypresscabinet"
+            }
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "stone",
+            "states": [
+				"andesite",
+				"basalt",
+				"bauxite",
+				"chalk",
+				"chert",
+				"claystone",
+				"conglomerate",
+				"granite",
+				"kimberlite",
+				"limestone",
+				"peridotite",
+				"phyllite",
+				"sandstone",
+				"shale",
+				"slate",
+				"suevite"
+            ]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ]
+}

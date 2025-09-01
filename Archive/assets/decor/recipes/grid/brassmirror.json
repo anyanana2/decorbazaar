@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "G,B",
+	   	ingredients: {
+	   	"G": { type: "Block", code: "game:glass-plain", quantity: 1 },
+	   	"B": { type: "item", code: "game:nugget-*", quantity: 1 },
+	   	},
+	   	width: 1,
+	   	height: 2,
+	   	output: { type: "block", code: "brassmirror-north" }
+	}
+]
+

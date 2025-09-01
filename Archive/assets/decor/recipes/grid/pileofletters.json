@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "P,G,F",
+	   	ingredients: {
+	   	"P": { type: "item", code: "game:paper-parchment", quantity: 1 },
+	   	"G": { type: "item", code: "game:gear-rusty", quantity: 1 },
+	   	"F": { type: "item", code: "game:charcoal", quantity: 1 },
+	   	},
+	   	width: 3,
+	   	height: 1,
+	   	output: { type: "block", code: "decor:pileofletters-north", quantity: 1 }
+	}
+]
