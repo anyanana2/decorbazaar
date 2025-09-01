@@ -3,7 +3,7 @@
 		ingredientPattern: "_G_,_G_,_B_",
 	   	ingredients: {
 	   	"G": { type: "item", code: "game:grain-*", quantity: 4 },
-	   	"B": { type: "item", code: "game:basket", quantity: 1 },
+	   	"B": { type: "block", code: "game:stationarybasket-east"}
 	   	},
 	   	width: 3,
 	   	height: 3,

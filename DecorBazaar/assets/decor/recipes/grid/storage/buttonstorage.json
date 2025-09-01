@@ -1,16 +1,9 @@
 [
 	{
-<<<<<<< HEAD:DecorBazaar/assets/decor/recipes/grid/storage/buttonstorage.json
-		ingredientPattern: "P__,GGG,__P",
-	   	ingredients: {
-	   	"G": { type: "Block", code: "game:glass-plain", quantity: 1 },
-	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
-=======
 		"ingredientPattern": "GGG,PPP",
 	   	"ingredients": {
 	   	"G": { "type": "Block", "code": "game:glass-plain", "quantity": 1 },
 	   	"P": { "type": "item", "code": "game:plank-*", "quantity": 1 },
->>>>>>> origin/main:assets/decor/recipes/grid/storage/buttonstorage.json
 	   	},
 	   	"width": 3,
 	   	"height": 2,

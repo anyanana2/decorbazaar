@@ -27,7 +27,8 @@
 		},
 		spoilSpeedMulByFoodCat: {
 			"normal": {
-				"grain": 0.5
+				"grain": 0.5,
+				"vegetable": 0.75
 			}
 		},
 },

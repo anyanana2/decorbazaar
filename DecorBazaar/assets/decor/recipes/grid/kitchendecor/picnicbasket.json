@@ -2,10 +2,10 @@
 	{
 		ingredientPattern: "_S_,CRC,_B_",
 	   	ingredients: {
-	   	"B": { type: "item", code: "game:basket", quantity: 1 },
+	   	"B": { type: "block", code: "game:stationarybasket-east"},
 	   	"S": { type: "item", code: "game:sewingkit", quantity: 1 },
 	   	"R": { type: "item", code: "game:cloth-red", quantity: 1 },
-	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+	   	"C": { type: "item", code: "game:cloth-plain", quantity: 1 }
 	   	},
 	   	width: 3,
 	   	height: 3,

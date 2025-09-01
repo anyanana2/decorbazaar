@@ -3,7 +3,7 @@
 		ingredientPattern: "P__,P_C,P_C",
 	   	ingredients: {
 	   	"P": { type: "item", code: "game:plank-*", quantity: 1 },
-	   	"C": { type: "Block", code: "game:crock-burned-east", quantity: 1 },
+	   	"C": { type: "block", code: "game:crock-*-fired", quantity: 1 },
 	   	},
 	   	width: 3,
 	   	height: 3,

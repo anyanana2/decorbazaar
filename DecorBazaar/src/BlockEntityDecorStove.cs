@@ -19,10 +19,10 @@ namespace DecorBazaar
                 Traverse field = Traverse.Create(this).Field("renderer");
 
                 //Unregister the renderer that was just registered.
-                (api as ICoreClientAPI).Event.UnregisterRenderer(field.GetValue() as FirepitContentsRenderer, EnumRenderStage.Opaque);
+                (api as ICoreClientAPI).Event.UnregisterRenderer(field.GetValue<FirepitContentsRenderer>() as FirepitContentsRenderer, EnumRenderStage.Opaque);
 
                 //Renderers need to be disposed to avoid memory leaks.
-                (field.GetValue() as FirepitContentsRenderer)?.Dispose();
+                (field.GetValue<FirepitContentsRenderer>())?.Dispose();
 
                 //And set the private renderer field to null to prevent anything from using it further. 
                 field.SetValue(null);
