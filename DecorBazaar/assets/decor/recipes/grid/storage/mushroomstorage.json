@@ -1,0 +1,12 @@
+[	
+	{
+		ingredientPattern: "TTT,TBT,TTT",
+	   	ingredients: {
+	   	"B": { type: "block", code: "game:stationarybasket-east"},
+	   	"T": { type: "block", code: "game:mushroom-*", quantity: 1 }
+	   	},
+	   	width: 3,
+	   	height: 3,
+	   	output: { type: "block", code: "decor:mushroomstorage-north" }
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		ingredientPattern: "CB_,_I_",
+	   	ingredients: {
+	   	"I": { type: "item", code: "game:metalplate-*", quantity: 1 },
+	   	"C": { type: "item", code: "game:clay-*", quantity: 4 },
+	   	"B": { type: "block", code: "game:bowl-*-fired", quantity: 2 },
+	   	},
+	   	width: 3,
+	   	height: 2,
+	   	output: { type: "block", code: "teaset-north" }
+	}
+]
